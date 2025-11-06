@@ -1,0 +1,8 @@
+[project]
+name = "sitemap-extractor"
+version = "0.1.0"
+description = "Fetch sitemap URLs and save them to CSV"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.5",
+]
