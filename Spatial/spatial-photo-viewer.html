@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spatial Photo Viewer - iPhone HEIC</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 1400px;
+            width: 100%;
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .upload-area {
+            border: 3px dashed #667eea;
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-bottom: 20px;
+        }
+
+        .upload-area:hover {
+            border-color: #764ba2;
+            background: #f8f9ff;
+        }
+
+        .upload-area.dragover {
+            background: #e8edff;
+            border-color: #764ba2;
+        }
+
+        .upload-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .controls {
+            display: none;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 10px;
+        }
+
+        .controls.active {
+            display: block;
+        }
+
+        .control-group {
+            margin-bottom: 15px;
+        }
+
+        .control-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            background: white;
+            color: #667eea;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        button.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .slider-group {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        input[type="range"] {
+            flex: 1;
+            height: 6px;
+            border-radius: 3px;
+            background: #ddd;
+            outline: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+        }
+
+        .viewer {
+            display: none;
+            position: relative;
+            width: 100%;
+            border-radius: 10px;
+            overflow: hidden;
+            background: #000;
+        }
+
+        .viewer.active {
+            display: block;
+        }
+
+        .viewer-container {
+            position: relative;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 400px;
+        }
+
+        canvas {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .image-container {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .error.active {
+            display: block;
+        }
+
+        .info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 13px;
+            color: #1565c0;
+        }
+
+        .info strong {
+            display: block;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎭 Spatial Photo Viewer</h1>
+        <p class="subtitle">View iPhone spatial photos in HEIC format</p>
+
+        <div class="upload-area" id="uploadArea">
+            <div class="upload-icon">📸</div>
+            <h3>Drop your spatial photo here or click to browse</h3>
+            <p style="margin-top: 10px; color: #666;">Supports HEIC format from iPhone</p>
+            <input type="file" id="fileInput" accept=".heic,.HEIC">
+        </div>
+
+        <div class="controls" id="controls">
+            <div class="control-group">
+                <label>Viewing Mode:</label>
+                <div class="button-group">
+                    <button class="mode-btn active" data-mode="sideBySide">Side by Side</button>
+                    <button class="mode-btn" data-mode="anaglyph">Anaglyph 3D</button>
+                    <button class="mode-btn" data-mode="wiggle">Wigglegram</button>
+                    <button class="mode-btn" data-mode="leftOnly">Left Eye Only</button>
+                    <button class="mode-btn" data-mode="rightOnly">Right Eye Only</button>
+                    <button class="mode-btn" data-mode="crossEye">Cross-Eye</button>
+                </div>
+            </div>
+
+            <div class="control-group" id="wiggleControls" style="display: none;">
+                <label>Wiggle Speed:</label>
+                <div class="slider-group">
+                    <span>Slow</span>
+                    <input type="range" id="wiggleSpeed" min="100" max="1000" value="500" step="50">
+                    <span>Fast</span>
+                    <span id="speedValue">500ms</span>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label>Actions:</label>
+                <div class="button-group">
+                    <button id="downloadBtn">💾 Download Images</button>
+                    <button id="fullscreenBtn">⛶ Fullscreen</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="viewer" id="viewer">
+            <div class="viewer-container" id="viewerContainer"></div>
+        </div>
+
+        <div class="loading" id="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>Processing spatial photo...</p>
+        </div>
+
+        <div class="error" id="error"></div>
+
+        <div class="info">
+            <strong>How to use:</strong>
+            📱 Side by Side: Use with VR headsets or parallel viewing<br>
+            🔴🔵 Anaglyph 3D: Use red-cyan 3D glasses<br>
+            🔄 Wigglegram: Animated depth effect<br>
+            👁️ Single Eye: View left or right image separately<br>
+            👀 Cross-Eye: Cross your eyes to merge the two images
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/heic2any@0.0.4/dist/heic2any.min.js"></script>
+    <script>
+        let leftImage = null;
+        let rightImage = null;
+        let currentMode = 'sideBySide';
+        let wiggleInterval = null;
+
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const controls = document.getElementById('controls');
+        const viewer = document.getElementById('viewer');
+        const viewerContainer = document.getElementById('viewerContainer');
+        const loading = document.getElementById('loading');
+        const errorDiv = document.getElementById('error');
+        const wiggleControls = document.getElementById('wiggleControls');
+        const wiggleSpeed = document.getElementById('wiggleSpeed');
+        const speedValue = document.getElementById('speedValue');
+
+        // Upload area interactions
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            const file = e.dataTransfer.files[0];
+            if (file) handleFile(file);
+        });
+
+        fileInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) handleFile(file);
+        });
+
+        // Mode switching
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentMode = btn.dataset.mode;
+                wiggleControls.style.display = currentMode === 'wiggle' ? 'block' : 'none';
+                renderView();
+            });
+        });
+
+        // Wiggle speed control
+        wiggleSpeed.addEventListener('input', (e) => {
+            speedValue.textContent = e.target.value + 'ms';
+            if (currentMode === 'wiggle') renderView();
+        });
+
+        // Download button
+        document.getElementById('downloadBtn').addEventListener('click', () => {
+            if (leftImage) {
+                downloadImage(leftImage, 'spatial-left.png');
+            }
+            if (rightImage) {
+                downloadImage(rightImage, 'spatial-right.png');
+            }
+        });
+
+        // Fullscreen button
+        document.getElementById('fullscreenBtn').addEventListener('click', () => {
+            if (viewerContainer.requestFullscreen) {
+                viewerContainer.requestFullscreen();
+            } else if (viewerContainer.webkitRequestFullscreen) {
+                viewerContainer.webkitRequestFullscreen();
+            }
+        });
+
+        async function handleFile(file) {
+            if (!file.name.toLowerCase().endsWith('.heic')) {
+                showError('Please select a HEIC file');
+                return;
+            }
+
+            hideError();
+            loading.style.display = 'block';
+            viewer.classList.remove('active');
+            controls.classList.remove('active');
+
+            try {
+                // Convert HEIC to PNG
+                // Note: iPhone spatial photos contain two images in the HEIC container
+                const blob = await heic2any({
+                    blob: file,
+                    toType: 'image/png',
+                    quality: 1,
+                    multiple: true // This will extract all images from the HEIC
+                });
+
+                // blob can be an array or single blob
+                const blobs = Array.isArray(blob) ? blob : [blob];
+
+                if (blobs.length >= 2) {
+                    // Load both images
+                    leftImage = await loadImage(blobs[0]);
+                    rightImage = await loadImage(blobs[1]);
+
+                    loading.style.display = 'none';
+                    controls.classList.add('active');
+                    viewer.classList.add('active');
+
+                    renderView();
+                } else if (blobs.length === 1) {
+                    // Single image - might not be a spatial photo
+                    leftImage = await loadImage(blobs[0]);
+                    rightImage = leftImage; // Use same image for both
+
+                    showError('This appears to be a regular photo, not a spatial photo. Showing single view.');
+                    loading.style.display = 'none';
+                    controls.classList.add('active');
+                    viewer.classList.add('active');
+
+                    renderView();
+                } else {
+                    throw new Error('No images found in HEIC file');
+                }
+
+            } catch (error) {
+                console.error('Error processing HEIC:', error);
+                loading.style.display = 'none';
+                showError('Error processing HEIC file: ' + error.message);
+            }
+        }
+
+        function loadImage(blob) {
+            return new Promise((resolve, reject) => {
+                const img = new Image();
+                img.onload = () => resolve(img);
+                img.onerror = reject;
+                img.src = URL.createObjectURL(blob);
+            });
+        }
+
+        function renderView() {
+            if (!leftImage || !rightImage) return;
+
+            // Clear previous content
+            viewerContainer.innerHTML = '';
+            if (wiggleInterval) {
+                clearInterval(wiggleInterval);
+                wiggleInterval = null;
+            }
+
+            switch (currentMode) {
+                case 'sideBySide':
+                    renderSideBySide();
+                    break;
+                case 'crossEye':
+                    renderCrossEye();
+                    break;
+                case 'anaglyph':
+                    renderAnaglyph();
+                    break;
+                case 'wiggle':
+                    renderWiggle();
+                    break;
+                case 'leftOnly':
+                    renderSingle(leftImage);
+                    break;
+                case 'rightOnly':
+                    renderSingle(rightImage);
+                    break;
+            }
+        }
+
+        function renderSideBySide() {
+            const container = document.createElement('div');
+            container.className = 'image-container';
+            container.style.gap = '2px';
+
+            const left = leftImage.cloneNode();
+            const right = rightImage.cloneNode();
+            left.style.width = '49%';
+            right.style.width = '49%';
+
+            container.appendChild(left);
+            container.appendChild(right);
+            viewerContainer.appendChild(container);
+        }
+
+        function renderCrossEye() {
+            const container = document.createElement('div');
+            container.className = 'image-container';
+            container.style.gap = '2px';
+
+            const right = rightImage.cloneNode();
+            const left = leftImage.cloneNode();
+            right.style.width = '49%';
+            left.style.width = '49%';
+
+            container.appendChild(right);
+            container.appendChild(left);
+            viewerContainer.appendChild(container);
+        }
+
+        function renderAnaglyph() {
+            const canvas = document.createElement('canvas');
+            canvas.width = leftImage.width;
+            canvas.height = leftImage.height;
+            const ctx = canvas.getContext('2d');
+
+            // Draw left image (red channel)
+            ctx.drawImage(leftImage, 0, 0);
+            const leftData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+
+            // Draw right image
+            ctx.drawImage(rightImage, 0, 0);
+            const rightData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+
+            // Create anaglyph effect
+            const anaglyphData = ctx.createImageData(canvas.width, canvas.height);
+            for (let i = 0; i < leftData.data.length; i += 4) {
+                anaglyphData.data[i] = leftData.data[i];         // Red from left
+                anaglyphData.data[i + 1] = rightData.data[i + 1]; // Green from right
+                anaglyphData.data[i + 2] = rightData.data[i + 2]; // Blue from right
+                anaglyphData.data[i + 3] = 255;                   // Alpha
+            }
+
+            ctx.putImageData(anaglyphData, 0, 0);
+            viewerContainer.appendChild(canvas);
+        }
+
+        function renderWiggle() {
+            const img = document.createElement('img');
+            img.src = leftImage.src;
+            img.style.maxWidth = '100%';
+            viewerContainer.appendChild(img);
+
+            let showLeft = true;
+            const speed = parseInt(wiggleSpeed.value);
+
+            wiggleInterval = setInterval(() => {
+                img.src = showLeft ? leftImage.src : rightImage.src;
+                showLeft = !showLeft;
+            }, speed);
+        }
+
+        function renderSingle(image) {
+            const img = image.cloneNode();
+            img.style.maxWidth = '100%';
+            viewerContainer.appendChild(img);
+        }
+
+        function downloadImage(image, filename) {
+            const canvas = document.createElement('canvas');
+            canvas.width = image.width;
+            canvas.height = image.height;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(image, 0, 0);
+
+            canvas.toBlob((blob) => {
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                a.click();
+                URL.revokeObjectURL(url);
+            });
+        }
+
+        function showError(message) {
+            errorDiv.textContent = message;
+            errorDiv.classList.add('active');
+        }
+
+        function hideError() {
+            errorDiv.classList.remove('active');
+        }
+    </script>
+</body>
+</html>
