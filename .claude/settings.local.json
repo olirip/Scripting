@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(uv init:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(uv add:*)",
+      "Bash(uv remove:*)"
     ],
     "deny": [],
     "ask": []

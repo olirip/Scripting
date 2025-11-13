@@ -1,0 +1,13 @@
+[project]
+name = "audiotxt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx-lm>=0.28.3",
+    "numpy>=2.3.4",
+    "parakeet-mlx>=0.4.0",
+    "pyannote-audio>=4.0.1",
+    "sounddevice>=0.5.3",
+]
