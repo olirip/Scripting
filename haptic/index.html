@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iOS Haptic Scroll Demo</title>
+    <link rel="stylesheet" href="scroll.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>iOS Haptic Scroll Demo</h1>
+            <p>Touch/tap each image card to feel haptic feedback</p>
+            <button id="test-haptic-btn" style="padding: 10px 20px; margin: 10px 0; font-size: 16px; cursor: pointer; border-radius: 8px; border: 2px solid #007AFF; background: #007AFF; color: white;">
+                Test Haptic
+            </button>
+        </header>
+
+        <div class="scroll-container">
+            <div class="image-card" data-index="0">
+                <img src="https://picsum.photos/600/400?random=1" alt="Random image 1">
+                <div class="card-label">Image 1</div>
+            </div>
+
+            <div class="image-card" data-index="1">
+                <img src="https://picsum.photos/600/400?random=2" alt="Random image 2">
+                <div class="card-label">Image 2</div>
+            </div>
+
+            <div class="image-card" data-index="2">
+                <img src="https://picsum.photos/600/400?random=3" alt="Random image 3">
+                <div class="card-label">Image 3</div>
+            </div>
+
+            <div class="image-card" data-index="3">
+                <img src="https://picsum.photos/600/400?random=4" alt="Random image 4">
+                <div class="card-label">Image 4</div>
+            </div>
+
+            <div class="image-card" data-index="4">
+                <img src="https://picsum.photos/600/400?random=5" alt="Random image 5">
+                <div class="card-label">Image 5 - Last one!</div>
+            </div>
+
+            <div class="end-marker">
+                <p>🎉 You've reached the end!</p>
+                <p class="hint">Error haptic triggered</p>
+            </div>
+        </div>
+
+        <div class="status-bar">
+            <span id="haptic-status">Ready - Start scrolling!</span>
+        </div>
+    </div>
+
+    <script type="module" src="scroll.js"></script>
+</body>
+</html>

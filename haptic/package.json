@@ -1,0 +1,18 @@
+{
+  "name": "ios-haptic-scroll-demo",
+  "version": "1.0.0",
+  "description": "Demo showcasing ios-haptic package with scroll interactions",
+  "type": "module",
+  "scripts": {
+    "dev": "bunx --bun serve .",
+    "serve": "bunx --bun serve .",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ios-haptics": "*"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
