@@ -1,3 +1,15 @@
+# TL;DR
+
+```bash
+uv run sitemap_to_csv.py https://www.rolex.org/sitemap.xml --exclude-lang fr --exclude-lang de --exclude-lang it --exclude-lang es --exclude-lang pt-br --exclude-lang ja --exclude-lang ko --exclude-lang zh-hans --exclude-lang zh-hant -o org_sitemap.csv
+
+uv run sitemap_to_csv.py https://www.rolex.com/api/sm/sitemap.xml --filter-rmc -o rolex_sitemap.csv
+
+uv run sitemap_to_csv.py https://newsroom.rolex.com/sitemap.xml  -o newsroom_sitemap.csv --exclude-lang fr --exclude-lang zh-hans --exclude-lang zh-hant
+
+```
+
+
 # Sitemap to CSV Extractor
 
 A Python script that fetches XML sitemaps and extracts URLs to a CSV file. Supports both regular sitemaps and sitemap index files, with optional filtering capabilities.
@@ -224,3 +236,4 @@ uv run sitemap_to_csv.py --help
 ## License
 
 This project is provided as-is for personal use.
+
