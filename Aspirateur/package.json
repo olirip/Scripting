@@ -1,0 +1,23 @@
+{
+  "name": "aspirateur",
+  "version": "1.0.0",
+  "description": "Download complete websites from sitemaps for offline browsing",
+  "main": "aspirateur.js",
+  "type": "module",
+  "scripts": {
+    "start": "node aspirateur.js",
+    "serve": "bun serve.js"
+  },
+  "keywords": ["website", "downloader", "sitemap", "offline", "scraper"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "xml2js": "^0.6.2",
+    "fs-extra": "^11.2.0",
+    "sanitize-filename": "^1.6.3",
+    "cli-progress": "^3.12.0",
+    "colors": "^1.4.0"
+  }
+}

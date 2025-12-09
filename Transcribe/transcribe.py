@@ -10,6 +10,7 @@ Transcribes all audio files in the current directory
 """
 
 import os
+import argparse
 from pathlib import Path
 import mlx_whisper
 
@@ -20,7 +21,7 @@ MODEL_SIZE = "mlx-community/whisper-medium-mlx"  # Options: whisper-{tiny,base,s
 # Supported audio formats
 AUDIO_EXTENSIONS = {'.aac', '.mp3', '.wav', '.m4a', '.flac', '.ogg', '.vorbis'}
 
-def transcribe_file(audio_file):
+def transcribe_file(audio_file, language=None):
     """Transcribe a single audio file"""
     print(f"\n{'='*60}")
     print(f"Transcribing: {audio_file.name}")
@@ -30,11 +31,8 @@ def transcribe_file(audio_file):
     result = mlx_whisper.transcribe(
         str(audio_file),
         path_or_hf_repo=MODEL_SIZE,
-        language="en",  # Change if needed, or set to None for auto-detection
+        language=language,  # None for auto-detection, or specify language code
     )
-
-    print(f"Detected language: {result.get('language', 'en')}")
-
     # Collect all segments
     transcription = []
     for segment in result["segments"]:
@@ -47,6 +45,18 @@ def transcribe_file(audio_file):
     return "\n".join(transcription)
 
 def main():
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Transcribe audio files using MLX-Whisper (GPU-accelerated)"
+    )
+    parser.add_argument(
+        "--lang",
+        type=str,
+        default=None,
+        help="Language code (e.g., 'fr', 'en', 'es', 'de'). If not specified, language will be auto-detected."
+    )
+    args = parser.parse_args()
+
     # Get current directory
     current_dir = Path.cwd()
 
@@ -56,12 +66,16 @@ def main():
         if f.is_file() and f.suffix.lower() in AUDIO_EXTENSIONS
     ]
 
-    if not audio_files: 
+    if not audio_files:
         print("No audio files found in current directory")
         return
 
     print(f"Found {len(audio_files)} audio file(s)")
     print(f"\nUsing MLX-Whisper model: {MODEL_SIZE}")
+    if args.lang:
+        print(f"Language: {args.lang}")
+    else:
+        print("Language: auto-detect")
     print("(First run will download the model, this may take a few minutes)")
     print("GPU acceleration enabled for Apple Silicon")
 
@@ -74,7 +88,7 @@ def main():
         print(f"\n\n[{i}/{len(audio_files)}] Processing: {audio_file.name}")
 
         try:
-            transcription = transcribe_file(audio_file)
+            transcription = transcribe_file(audio_file, language=args.lang)
 
             # Save transcription
             output_file = output_dir / f"{audio_file.stem}.txt"
