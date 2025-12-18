@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matchbox ModHeader</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Matchbox ModHeader</h1>
+
+    <div class="current-site">
+      <strong>Current site:</strong> <span id="currentSite">-</span>
+    </div>
+
+    <div class="section">
+      <h2>Request Headers</h2>
+      <div id="headersList"></div>
+      <div class="add-form">
+        <input type="text" id="headerName" placeholder="Header name">
+        <input type="text" id="headerValue" placeholder="Header value">
+        <button id="addHeader">Add Header</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Cookie Modifications</h2>
+      <div id="cookiesList"></div>
+      <div class="add-form">
+        <input type="text" id="cookieName" placeholder="Cookie name">
+        <input type="text" id="cookieAppend" placeholder="Value to append">
+        <button id="addCookie">Add Cookie Modifier</button>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button id="enableAll" class="btn-primary">Enable All</button>
+      <button id="disableAll" class="btn-secondary">Disable All</button>
+      <button id="clearAll" class="btn-danger">Clear All</button>
+    </div>
+
+    <div class="status" id="status"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

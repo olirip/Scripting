@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Create Icons</title>
+</head>
+<body>
+  <canvas id="canvas16" width="16" height="16"></canvas>
+  <canvas id="canvas48" width="48" height="48"></canvas>
+  <canvas id="canvas128" width="128" height="128"></canvas>
+
+  <script>
+    // Simple icon generator
+    function drawIcon(canvas, size) {
+      const ctx = canvas.getContext('2d');
+
+      // Background
+      ctx.fillStyle = '#1a73e8';
+      ctx.fillRect(0, 0, size, size);
+
+      // Border
+      ctx.strokeStyle = '#0d47a1';
+      ctx.lineWidth = size / 16;
+      ctx.strokeRect(0, 0, size, size);
+
+      // Letter "M"
+      ctx.fillStyle = 'white';
+      ctx.font = `bold ${size * 0.6}px Arial`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('M', size / 2, size / 2);
+    }
+
+    // Create icons
+    drawIcon(document.getElementById('canvas16'), 16);
+    drawIcon(document.getElementById('canvas48'), 48);
+    drawIcon(document.getElementById('canvas128'), 128);
+
+    // Download instructions
+    console.log('Right-click each canvas and save as:');
+    console.log('- icon16.png');
+    console.log('- icon48.png');
+    console.log('- icon128.png');
+  </script>
+
+  <p>Right-click each canvas above and "Save Image As":</p>
+  <ul>
+    <li>First canvas → icon16.png</li>
+    <li>Second canvas → icon48.png</li>
+    <li>Third canvas → icon128.png</li>
+  </ul>
+</body>
+</html>

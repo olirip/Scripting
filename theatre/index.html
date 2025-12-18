@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>React Three Fiber with Bun</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      overflow-x: hidden;
+    }
+    
+    html {
+      height: 400vh; /* Make html scrollable */
+    }
+    
+    body {
+      min-height: 400vh; /* 4 page heights for scrolling */
+    }
+    
+    #root {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 1;
+      pointer-events: none; /* Allow scrolling through canvas */
+    }
+    
+    #root canvas {
+      pointer-events: auto; /* But allow canvas interactions if needed */
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/bundle.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMG_3833 - 3D Gaussian Splatting Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #1a1a1a;
+            color: #ffffff;
+            overflow: hidden;
+        }
+
+        #canvas-container {
+            width: 100vw;
+            height: 100vh;
+            position: relative;
+        }
+
+        #controls {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 100;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            min-width: 250px;
+        }
+
+        .control-group {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .control-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-size: 12px;
+            color: #ccc;
+        }
+
+        .control-group input[type="range"] {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        #back-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #4a9eff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 12px;
+            margin-bottom: 15px;
+            transition: background 0.3s;
+        }
+
+        #back-button:hover {
+            background: #3a8eef;
+        }
+
+        #status {
+            margin-top: 15px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            font-size: 12px;
+            min-height: 40px;
+        }
+
+        #info {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 11px;
+            color: #aaa;
+            backdrop-filter: blur(10px);
+        }
+    </style>
+</head>
+<body>
+    <div id="canvas-container"></div>
+    
+    <div id="controls">
+        <a href="index.html" id="back-button">← Back to Gallery</a>
+        <h3 style="margin: 10px 0; font-size: 14px;">IMG_3833</h3>
+        
+        <div id="status">Loading IMG_3833.ply...</div>
+        
+        <div class="control-group">
+            <label for="scale">Scale: <span id="scale-value">1.0</span></label>
+            <input type="range" id="scale" min="0.1" max="5" step="0.1" value="1.0">
+        </div>
+        
+        <div class="control-group">
+            <label for="rotation-speed">Rotation Speed: <span id="rotation-value">0</span></label>
+            <input type="range" id="rotation-speed" min="0" max="2" step="0.1" value="0">
+        </div>
+    </div>
+    
+    <div id="info">
+        Left click + drag: Rotate | Right click + drag: Pan | Scroll: Zoom
+    </div>
+
+    <!-- Load Three.js and Spark (Gaussian Splatting renderer) from CDN -->
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.178.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.178.0/examples/jsm/",
+            "@sparkjsdev/spark": "https://sparkjs.dev/releases/spark/0.1.10/spark.module.js"
+        }
+    }
+    </script>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+        import { SplatMesh } from '@sparkjsdev/spark';
+
+        // Make THREE available globally for Spark.js compatibility
+        window.THREE = THREE;
+
+        const PLY_FILE = 'output/IMG_3833.ply/IMG_3833.ply';
+
+        let scene, camera, renderer, controls;
+        let splatMesh = null;
+        let rotationSpeed = 0;
+
+        // Initialize scene
+        function init() {
+            // Scene
+            scene = new THREE.Scene();
+            scene.background = new THREE.Color(0x1a1a1a);
+
+            // Camera
+            camera = new THREE.PerspectiveCamera(
+                75,
+                window.innerWidth / window.innerHeight,
+                0.1,
+                1000
+            );
+            camera.position.set(0, 0, 5);
+
+            // Renderer
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.setPixelRatio(window.devicePixelRatio);
+            document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+            // Controls
+            controls = new OrbitControls(camera, renderer.domElement);
+            controls.enableDamping = true;
+            controls.dampingFactor = 0.05;
+
+            // Grid helper
+            const gridHelper = new THREE.GridHelper(10, 10, 0x444444, 0x222222);
+            scene.add(gridHelper);
+
+            // Axes helper
+            const axesHelper = new THREE.AxesHelper(2);
+            scene.add(axesHelper);
+
+            // Controls
+            document.getElementById('scale').addEventListener('input', (e) => {
+                const scale = parseFloat(e.target.value);
+                document.getElementById('scale-value').textContent = scale.toFixed(1);
+                if (splatMesh) {
+                    splatMesh.scale.set(scale, scale, scale);
+                }
+            });
+
+            document.getElementById('rotation-speed').addEventListener('input', (e) => {
+                rotationSpeed = parseFloat(e.target.value);
+                document.getElementById('rotation-value').textContent = rotationSpeed.toFixed(1);
+            });
+
+            // Window resize
+            window.addEventListener('resize', () => {
+                camera.aspect = window.innerWidth / window.innerHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(window.innerWidth, window.innerHeight);
+            });
+
+            // Load the PLY file
+            loadPLYFile();
+
+            // Animation loop
+            animate();
+        }
+
+        async function loadPLYFile() {
+            const status = document.getElementById('status');
+            status.textContent = `Loading ${PLY_FILE}...`;
+
+            try {
+                // Remove previous splat if exists
+                if (splatMesh) {
+                    scene.remove(splatMesh);
+                    if (splatMesh.dispose) {
+                        splatMesh.dispose();
+                    }
+                    splatMesh = null;
+                }
+
+                // Use Spark's SplatMesh for proper Gaussian Splatting rendering
+                status.textContent = `Loading 3D Gaussian Splatting model...`;
+                
+                const splat = new SplatMesh({ url: PLY_FILE });
+                
+                // Rotate 180 degrees around X axis to fix upside-down orientation
+                splat.rotation.x = Math.PI;
+                
+                // Spark loads asynchronously - wait a bit and check if it's ready
+                // The splat will be added to scene immediately and render when ready
+                scene.add(splat);
+                splatMesh = splat;
+
+                // Wait for splat to be ready (check periodically)
+                const checkReady = setInterval(() => {
+                    if (splat.ready !== undefined && splat.ready) {
+                        clearInterval(checkReady);
+                        status.textContent = `Loaded: 3D Gaussian Splatting model`;
+                        
+                        // Adjust camera after a short delay to ensure bounding box is computed
+                        setTimeout(() => {
+                            if (splat.boundingBox) {
+                                const box = splat.boundingBox;
+                                const center = new THREE.Vector3();
+                                box.getCenter(center);
+                                const size = box.getSize(new THREE.Vector3());
+                                const maxDim = Math.max(size.x, size.y, size.z);
+                                const distance = maxDim * 1.5;
+
+                                camera.position.set(0, 0, distance);
+                                controls.target.copy(center);
+                                controls.update();
+                            } else {
+                                camera.position.set(0, 0, 3);
+                                controls.target.set(0, 0, 0);
+                                controls.update();
+                            }
+                        }, 500);
+                    }
+                }, 100);
+
+                // Timeout after 10 seconds
+                setTimeout(() => {
+                    clearInterval(checkReady);
+                    if (status.textContent.includes('Loading')) {
+                        status.textContent = `Model loading (may take a moment for large files)...`;
+                    }
+                }, 10000);
+
+            } catch (error) {
+                console.error('Error loading PLY:', error);
+                status.textContent = `Error: ${error.message}. Trying fallback method...`;
+                
+                // Fallback to basic PLY loader if Spark doesn't work
+                loadPLYFileFallback();
+            }
+        }
+
+        function loadPLYFileFallback() {
+            const status = document.getElementById('status');
+            status.textContent = `Loading ${PLY_FILE} (fallback mode)...`;
+
+            import('three/addons/loaders/PLYLoader.js').then(({ PLYLoader }) => {
+                const loader = new PLYLoader();
+                
+                loader.load(
+                    PLY_FILE,
+                    (geometry) => {
+                        try {
+                            // Remove previous splat if exists
+                            if (splatMesh) {
+                                scene.remove(splatMesh);
+                                if (splatMesh.geometry) {
+                                    splatMesh.geometry.dispose();
+                                }
+                                if (splatMesh.material) {
+                                    splatMesh.material.dispose();
+                                }
+                            }
+
+                            // Use larger points for better visibility
+                            const material = new THREE.PointsMaterial({
+                                size: 0.05,
+                                vertexColors: geometry.attributes.color !== undefined,
+                                color: geometry.attributes.color ? 0xffffff : 0x4a9eff,
+                                sizeAttenuation: true,
+                                transparent: true,
+                                opacity: 0.8,
+                            });
+
+                            const points = new THREE.Points(geometry, material);
+                            
+                            // Center and scale
+                            geometry.computeBoundingBox();
+                            const box = geometry.boundingBox;
+                            const center = box.getCenter(new THREE.Vector3());
+                            const size = box.getSize(new THREE.Vector3());
+                            const maxDim = Math.max(size.x, size.y, size.z);
+                            const scale = 2 / maxDim;
+
+                            points.position.sub(center);
+                            points.scale.set(scale, scale, scale);
+                            
+                            // Rotate 180 degrees around X axis to fix upside-down orientation
+                            points.rotation.x = Math.PI;
+
+                            scene.add(points);
+                            splatMesh = points;
+
+                            // Adjust camera
+                            camera.position.set(0, 0, 3);
+                            controls.target.set(0, 0, 0);
+                            controls.update();
+
+                            const pointCount = geometry.attributes.position.count;
+                            status.textContent = `Loaded: ${pointCount.toLocaleString()} points (fallback - not true 3DGS rendering)`;
+                        } catch (error) {
+                            console.error('Error processing PLY:', error);
+                            status.textContent = `Error: ${error.message}`;
+                        }
+                    },
+                    (progress) => {
+                        if (progress.total > 0) {
+                            const percent = (progress.loaded / progress.total * 100).toFixed(1);
+                            status.textContent = `Loading: ${percent}%`;
+                        }
+                    },
+                    (error) => {
+                        console.error('Error loading PLY:', error);
+                        status.textContent = `Error loading file: ${error.message}`;
+                    }
+                );
+            });
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            if (splatMesh && rotationSpeed > 0) {
+                splatMesh.rotation.y += rotationSpeed * 0.01;
+            }
+
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        // Start
+        init();
+    </script>
+</body>
+</html>

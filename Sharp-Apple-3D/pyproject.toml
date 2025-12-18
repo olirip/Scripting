@@ -1,0 +1,10 @@
+[project]
+name = "sharp-apple-3d"
+version = "0.1.0"
+description = "Sharp Apple 3D Gaussian Splatting processing"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=0.20.0",
+    "sharp @ git+https://github.com/apple/ml-sharp.git",
+]
+
