@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Deck Spread Animation</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #0d4d2d;
+      overflow-x: hidden;
+    }
+    
+    html {
+      height: 200vh; /* 2 page heights for scrolling */
+    }
+    
+    body {
+      min-height: 200vh;
+      background: #0d4d2d;
+    }
+    
+    #root {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/card-bundle.js"></script>
+</body>
+</html>
+
