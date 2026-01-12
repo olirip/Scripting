@@ -1,0 +1,10 @@
+[project]
+name = "strava-shoe-tracker"
+version = "1.0.0"
+description = "Track the evolution of your shoes' mileage over time from Strava activities"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.31.0",
+    "redis>=5.0.0",
+    "streamlit>=1.28.0",
+]

@@ -1,0 +1,9 @@
+config.json
+*.json
+!config.json.example
+*.csv
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
