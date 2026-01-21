@@ -1,0 +1,15 @@
+[project]
+name = "transcribe"
+version = "0.1.0"
+description = "Audio Transcription Script using MLX-Whisper (GPU-accelerated for M1/M2/M3)"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx-whisper",
+]
+
+[project.scripts]
+transcribe = "transcribe:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
