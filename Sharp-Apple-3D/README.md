@@ -86,3 +86,5 @@ The script will:
 Processed 3D Gaussian Splatting files will be saved as `.ply` files in the `./output` directory, with the same base name as the input image.
 
 
+
+
