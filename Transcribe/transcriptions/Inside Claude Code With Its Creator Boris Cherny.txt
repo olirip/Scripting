@@ -1,0 +1,1118 @@
+[0.00s -> 3.80s]  At Anthropic, the way that we thought about it is we don't build for the model of today,
+[3.80s -> 6.36s]  we build for the model six months from now.
+[6.36s -> 9.72s]  That's actually still my advice to founders that are building on LLMs.
+[9.72s -> 13.40s]  Just try to think about what is that frontier where the model is not very good at today,
+[13.40s -> 14.88s]  because it's going to get good at it.
+[14.88s -> 17.94s]  All of quad code has just been written and rewritten and rewritten and rewritten over
+[17.94s -> 18.94s]  and over and over.
+[18.94s -> 21.36s]  There is no part of quad code that was around six months ago.
+[21.36s -> 25.04s]  You try a thing, you give it to users, you talk to users, you learn, and then eventually
+[25.04s -> 26.36s]  you might end up with a good idea.
+[26.36s -> 27.36s]  Sometimes you don't.
+[27.36s -> 30.60s]  I was also in the back of my mind thinking that maybe in six months you won't need to
+[30.60s -> 31.60s]  prompt that explicitly.
+[31.60s -> 34.32s]  That the model should be good enough to figure out how it's done.
+[34.32s -> 35.32s]  Maybe in a month.
+[35.32s -> 38.36s]  No more need for plan mode in a month?
+[38.36s -> 39.36s]  Oh my god.
+[46.88s -> 52.44s]  Welcome to another episode of The Light Cone, and today we have an extremely special guest,
+[52.44s -> 57.00s]  Boris Cherny, the creator, engineer of quad code.
+[57.00s -> 58.68s]  Boris, thanks for joining us.
+[58.68s -> 59.68s]  Thanks for having me.
+[59.68s -> 65.08s]  Thanks for creating a thing that has taken away my sleep for about three weeks straight.
+[65.08s -> 69.80s]  I am very addicted to quad code, and it feels like rocket boosters.
+[69.80s -> 73.44s]  Has it felt like this for people for months at this point?
+[73.44s -> 79.36s]  I think it was like end of November is where a lot of my friends said something changed.
+[79.36s -> 82.96s]  I remember for me, I felt this way when I first created quad code and I didn't yet know
+[82.96s -> 83.96s]  if I was onto something.
+[83.96s -> 85.88s]  I kind of felt like I was onto something.
+[85.88s -> 88.44s]  And then that's when I wasn't sleeping.
+[88.44s -> 90.36s]  And that was just like three straight months.
+[90.36s -> 92.52s]  This was September 2024.
+[92.52s -> 94.32s]  Yeah, it was like three straight months.
+[94.32s -> 96.64s]  I didn't take a single day vacation.
+[96.64s -> 98.88s]  Worked through the weekends, worked every single night.
+[98.88s -> 101.72s]  I was just like, oh my god, this is, I think this is going to be a thing.
+[101.72s -> 105.32s]  I don't know if it's useful yet, because it couldn't actually code yet.
+[105.32s -> 111.08s]  If you look back on those moments to now, like what would be like the most surprising
+[111.08s -> 113.04s]  thing about this moment right now?
+[113.04s -> 114.72s]  It's unbelievable that we're still using a terminal.
+[115.04s -> 116.16s]  That was supposed to be the starting point.
+[116.16s -> 117.56s]  I didn't think that would be the ending point.
+[117.56s -> 121.40s]  And then the second one is that it's even useful because, you know, at the beginning,
+[121.40s -> 122.96s]  it didn't really write code.
+[122.96s -> 127.32s]  Even in February when we created it, it wrote maybe like 10% of my code or something like that.
+[127.32s -> 128.32s]  I don't really use it to write code.
+[128.32s -> 129.32s]  It wasn't very good at it.
+[129.32s -> 130.92s]  I still wrote most of my code by hand.
+[132.12s -> 137.44s]  So the fact that it actually like our bets paid off and it got good at the thing that
+[137.44s -> 140.12s]  we thought it was going to get good at because it wasn't obvious.
+[140.12s -> 143.92s]  At Anthropic, the way that we thought about it is we don't build for the model of today.
+[143.92s -> 146.12s]  We build for the model six months from now.
+[146.12s -> 151.32s]  And that's actually like still my advice to founders that are building on LLMs is, you
+[151.32s -> 154.68s]  know, just try to think about like what is that frontier where the model is not very
+[154.68s -> 158.32s]  good at today because it's going to get good at it and you just have to wait.
+[158.32s -> 161.12s]  Going back, but when, do you remember when you first got the idea?
+[161.12s -> 162.12s]  Can you just talk us through that?
+[162.12s -> 166.72s]  Like was there something like a spark or what was even the first version of it in your mind?
+[166.72s -> 167.32s]  You know, it's funny.
+[167.32s -> 170.32s]  It was like it was so accidental that it just kind of evolved into this.
+[171.32s -> 177.52s]  You know, as Anthropic, I think for Ant, the bet has been coding for a long time and the
+[177.52s -> 182.12s]  bet has been the path to save AGI is through coding.
+[182.12s -> 184.52s]  And this is kind of always been the idea.
+[184.52s -> 188.12s]  And the way you get there is you teach the model how to code, then you teach it how to
+[188.12s -> 190.92s]  use tools, then you teach it how to use computers.
+[190.92s -> 194.52s]  And you can kind of see that because the first team that I joined at Anthropic, it was called
+[194.52s -> 197.72s]  the Anthropic Labs team and it produced three products.
+[197.72s -> 200.92s]  It was Quad Code, MCP and the Desktop App.
+[200.92s -> 203.52s]  So you can kind of see how these like weave together.
+[203.52s -> 210.12s]  The particular product that we built, you know, like no one asked me to build a CLI.
+[210.12s -> 213.52s]  We kind of knew maybe it was time to build some kind of coding product because it seemed
+[213.52s -> 217.92s]  like the model was ready, but no one had yet really built a product that harnessed this
+[217.92s -> 219.12s]  capability.
+[219.12s -> 221.82s]  So like still there's this insane feeling of product overhang.
+[221.82s -> 225.92s]  But at the time it was just like even crazier because like no one had built this yet.
+[225.92s -> 230.72s]  And so I started like hacking around and I was like, okay, we build a coding product.
+[230.72s -> 231.92s]  What do I have to do first?
+[231.92s -> 236.72s]  I have to understand how to use the API because I hadn't used the Anthropic API at that point.
+[236.72s -> 239.92s]  And so I just built like a little terminal app to use the API.
+[239.92s -> 240.72s]  That's all that I did.
+[240.72s -> 244.12s]  And it was a little chat app because, you know, like you think about the, you know,
+[244.12s -> 248.32s]  AI applications at the time and, you know, for non-coders today, what are most people
+[248.32s -> 249.32s]  using is just a chat app.
+[249.32s -> 251.32s]  So that's what I built.
+[251.32s -> 252.72s]  And, you know, it was in a terminal.
+[252.72s -> 253.52s]  I can ask questions.
+[253.52s -> 255.12s]  I get the answers.
+[255.12s -> 256.92s]  Then I think tool use came out.
+[256.92s -> 259.52s]  I just want to try out tool use because I don't really understand what this is.
+[259.52s -> 261.02s]  I was like, tool use, this is cool.
+[261.02s -> 261.92s]  Is this actually useful?
+[261.92s -> 262.72s]  Probably not.
+[262.72s -> 263.82s]  Let me just try it.
+[263.82s -> 267.62s]  You built it in terminal just because it was the easiest way to get something up and running?
+[267.62s -> 269.22s]  Yes, because I didn't have to build a UI.
+[269.22s -> 269.92s]  Okay.
+[269.92s -> 270.92s]  So it was just me.
+[270.92s -> 274.42s]  At that point it was like the IDE's cursor, Windsurf were the things that were really
+[274.42s -> 275.12s]  taking off.
+[275.12s -> 279.52s]  Were you sort of under any pressure or getting lots of suggestions of, hey, like we should
+[279.52s -> 283.52s]  build this out as a plug-in or as a fully featured IDE itself?
+[283.52s -> 286.02s]  There was no pressure because we didn't even know what we wanted to build.
+[286.02s -> 288.02s]  Like the team was just in explore mode.
+[288.02s -> 291.42s]  You know, like we didn't, we know vaguely we wanted to do something in coding, but it
+[291.42s -> 294.02s]  wasn't obvious what, no one was high confidence enough.
+[294.02s -> 295.32s]  That was like my job to figure out.
+[295.32s -> 298.22s]  And so I gave the model the bash tool.
+[298.22s -> 299.82s]  That was the first tool that I gave it.
+[299.82s -> 303.12s]  Just because I think that was literally the example in our docs.
+[303.12s -> 304.52s]  It just like took the examples in Python.
+[304.52s -> 307.02s]  I just ported it to TypeScript because that's how I wrote it.
+[307.02s -> 308.92s]  You know, I didn't know like what the model could do with bash.
+[308.92s -> 310.12s]  So I asked it to like read a file.
+[310.12s -> 311.42s]  It could like cat the files.
+[311.42s -> 312.82s]  Like that was cool.
+[312.82s -> 314.72s]  And then I was like, okay, like what can you actually do?
+[314.72s -> 317.12s]  And I asked it, what music am I listening to?
+[317.52s -> 323.42s]  You wrote some like Apple script to script my Mac and look up the music in my music player.
+[323.42s -> 324.02s]  Oh my God.
+[324.92s -> 326.22s]  And this was Sana 3.5.
+[327.52s -> 329.22s]  You know, like I didn't think the model could do that.
+[330.02s -> 332.62s]  And that was my first, I think ever feel the AGI moment.
+[333.32s -> 336.72s]  Whereas it's like, oh my God, the model, it just wants to use tools.
+[337.12s -> 337.92s]  That's all it wants.
+[338.02s -> 339.02s]  That's kind of fascinating.
+[339.02s -> 346.22s]  I mean, it's very kind of contrarian that clock works so well in such an elegant,
+[346.22s -> 347.42s]  simple form factor.
+[347.42s -> 352.92s]  I mean, terminals happen around for a really long time and that seemed to be like a good
+[353.32s -> 358.02s]  design constraint that allowed a lot of interesting developer experiences.
+[358.82s -> 359.82s]  It doesn't feel like working.
+[359.82s -> 361.32s]  It just feels fun as a developer.
+[361.32s -> 363.92s]  I don't think about files where everything is.
+[364.52s -> 367.22s]  And that came by accident almost.
+[367.42s -> 368.22s]  Yeah, it was an accident.
+[368.22s -> 373.62s]  I remember, so after the terminal started to take off internally and honestly like after
+[373.62s -> 376.62s]  building this thing, I think like two days after the first prototype, I started giving
+[376.62s -> 378.32s]  it to my team just for dog fooding.
+[378.82s -> 382.62s]  Because you know, like, you know, if you come up with an idea and it seems useful, the
+[382.62s -> 385.02s]  first thing you want to do is you want to give it to people to see how they use it.
+[385.62s -> 389.42s]  And then I came in the next day and then Robert who sits across from me, he's another
+[389.42s -> 393.42s]  engineer, he just like had quad code on his computer and he was like using it to code.
+[394.52s -> 395.82s]  I was like, what are you doing?
+[395.82s -> 396.72s]  Like this thing isn't ready.
+[396.72s -> 397.62s]  It's just a prototype.
+[397.62s -> 399.92s]  But yeah, it was already useful in that form factor.
+[400.12s -> 404.82s]  And I remember when we did our launch review to kind of launch quad code externally, this
+[404.82s -> 408.72s]  was in December, November or something like that in 2024.
+[409.72s -> 414.22s]  Dario asked and he was like, the UCS chart internally, like the Dow chart is like vertical.
+[414.72s -> 416.62s]  Are you like forcing engineers to use it?
+[416.62s -> 417.82s]  Like, why are you mandating them?
+[418.42s -> 420.62s]  And I was just like, no, no, we didn't.
+[420.92s -> 423.82s]  I just like posted about it and they had just been like telling each other about it.
+[423.92s -> 425.62s]  Honestly, it was it was just accidental.
+[425.82s -> 428.82s]  We started with the CLI because it was the cheapest thing and it just kind of stayed
+[428.82s -> 429.32s]  there for a bit.
+[429.42s -> 434.22s]  So in that 2024 period, what, how were the engineers using it?
+[434.32s -> 437.82s]  Were they shipping code with it yet or were they using it in a different way?
+[438.02s -> 439.42s]  The model is not very good at coding yet.
+[440.02s -> 442.52s]  I was using it personally for automating Git.
+[443.82s -> 447.82s]  I think at this point, I've probably forgotten most of my Git because quad code has just
+[447.82s -> 448.82s]  been doing it for so long.
+[449.02s -> 453.42s]  But yeah, like automating bash commands, that was a very early use case and like operating
+[453.42s -> 455.42s]  like Kubernetes and kind of things like this.
+[455.62s -> 456.92s]  People were using it for coding.
+[456.92s -> 458.22s]  So there were some early signs of this.
+[458.22s -> 461.72s]  I think the first use case was actually writing unit tests because it's a little bit lower
+[461.72s -> 463.32s]  risk and the model is still pretty bad at it.
+[464.62s -> 468.32s]  But people were kind of figuring it out and they were figuring out how to use this thing.
+[469.32s -> 473.52s]  And one thing that we saw is people started writing these markdown files for themselves
+[474.02s -> 476.22s]  and then having the model read that markdown file.
+[476.82s -> 478.22s]  And this is where QuadMD came from.
+[478.52s -> 481.52s]  Probably the single for me biggest principle in product is late in demand.
+[482.52s -> 487.12s]  And just every bit of this product is built through late in demand after the initial CLI.
+[488.32s -> 489.82s]  And so QuadMD is an example of that.
+[490.02s -> 494.12s]  There's this other general principle that I think is maybe interesting where you can
+[494.12s -> 498.32s]  build for the model and then you can build scaffolding around the model in order to
+[498.32s -> 499.52s]  improve performance a little bit.
+[500.12s -> 504.02s]  And depending on the domain, you can improve performance maybe 10, 20 percent, something
+[504.02s -> 504.42s]  like that.
+[504.82s -> 507.02s]  And then essentially the gain is wiped out with the next model.
+[507.62s -> 511.42s]  So either you can build the scaffolding and then, you know, get some performance gain
+[511.42s -> 512.52s]  and then rebuild it again.
+[513.12s -> 516.02s]  Or you just wait for the next model and then you kind of get it for free.
+[516.12s -> 518.62s]  The QuadMD and kind of the scaffolding is an example of that.
+[518.62s -> 523.62s]  And really, I think that's why we stayed in the CLI is because we felt there is no UI
+[523.62s -> 527.92s]  we could build that would still be relevant in six months because the model was improving
+[527.92s -> 528.42s]  so quickly.
+[528.82s -> 532.62s]  Earlier we were saying like we should compare CloudMDs, but you said something very
+[532.62s -> 537.12s]  profound, which is, you know, yours is actually very short, which is almost like the
+[537.12s -> 539.32s]  opposite of what, you know, people might expect.
+[539.72s -> 540.32s]  Why is that?
+[540.52s -> 541.52s]  What's in your CloudMD?
+[541.82s -> 543.52s]  Okay, so I checked this before we came.
+[543.92s -> 545.62s]  So my CloudMD has two things.
+[546.82s -> 549.82s]  One is there is just two lines.
+[549.82s -> 553.52s]  So the first line is whenever you put up a PR enable auto merge.
+[554.22s -> 555.92s]  So as soon as someone accepts it, it's merged.
+[556.22s -> 559.62s]  That's just so I can like code and I don't have to kind of go back and forth with CR
+[559.62s -> 560.12s]  or whatever.
+[560.92s -> 564.52s]  And then the second one is whenever I put up a PR post it in our internal team stamps
+[564.52s -> 568.02s]  channel, just so someone can stamp it and I can get unblocked.
+[568.92s -> 573.22s]  And the idea is every other instruction is in our CloudMD that's checked into the
+[573.22s -> 577.42s]  code base and it's something our entire team contributes to multiple times a week.
+[578.02s -> 583.32s]  And very often I'll see someone's PR and they make some like mistake that's totally
+[583.32s -> 586.02s]  preventable and I'll just literally tag Claude on the PR.
+[586.02s -> 589.62s]  I'll just do like add Claude, you know, like add this to the CloudMD and I'll do this,
+[589.62s -> 590.72s]  you know, like many times a week.
+[591.02s -> 592.92s]  Do you have to like compact the CloudMD?
+[592.92s -> 596.52s]  Like I've definitely reached a point where I got the message at the top saying your
+[596.72s -> 599.02s]  CloudMD is like thousands of tokens.
+[599.02s -> 601.32s]  Now, what do you do when you guys hit that?
+[601.72s -> 603.22s]  So our CloudMD is actually pretty short.
+[603.22s -> 606.12s]  I think it's like a couple thousand tokens or something like that.
+[606.82s -> 610.02s]  If you hit this my recommendation would be delete your CloudMD and just start fresh.
+[610.12s -> 610.72s]  Interesting.
+[611.32s -> 615.32s]  I think a lot of people like they try to over engineer this right and really like the
+[615.32s -> 617.12s]  capability changes with every model.
+[617.42s -> 621.82s]  And so the thing that you want is do the minimal possible thing in order to get the
+[621.82s -> 622.72s]  model on track.
+[623.22s -> 626.52s]  And so if you delete your CloudMD and then, you know, the model is getting off track,
+[626.52s -> 627.12s]  it does the wrong thing.
+[627.12s -> 630.72s]  That's when you kind of add back a little bit at a time and we are probably going to
+[630.72s -> 632.82s]  find is with every model you have to add less and less.
+[632.92s -> 635.92s]  For me, I consider myself a pretty average engineer to be honest.
+[635.92s -> 638.22s]  Like I don't use a lot of fancy tools.
+[638.22s -> 639.52s]  Like I don't use like Vim.
+[639.52s -> 641.32s]  I use, you know, VS code because it's simpler.
+[642.22s -> 645.42s]  I don't really really I would have assumed that because you built this in the terminal
+[645.42s -> 649.52s]  that you were sort of like a die-hard terminal like Vim, Vim only person, you know,
+[649.82s -> 651.62s]  screw those VS code code people.
+[652.42s -> 653.72s]  Well, we have people like that on the team.
+[653.72s -> 656.12s]  There's you know, like Adam Wolf, for example, he's on the team.
+[656.12s -> 658.32s]  He's like you will never take Vim for my cold dead hands.
+[659.42s -> 661.42s]  Yeah, so there's definitely a lot of people like that on the team.
+[661.42s -> 664.62s]  And this is one of the things that I learned early on is every engineer likes to hold
+[664.62s -> 665.62s]  their dev tools differently.
+[665.62s -> 666.62s]  They like to use different tools.
+[666.62s -> 668.42s]  There's just no one tool that works for everyone.
+[668.42s -> 673.22s]  But I think also this is one of the things that makes it possible for quad code to be
+[673.22s -> 677.32s]  so good because I kind of think about it as what is the product that I would use that
+[677.32s -> 678.12s]  makes sense to me.
+[678.82s -> 681.12s]  And so to use quad code, you don't have to understand them.
+[681.12s -> 682.32s]  You don't have to understand TMUX.
+[682.32s -> 684.12s]  You don't have to know how to like SSH.
+[684.12s -> 685.12s]  You don't have to know all this stuff.
+[685.12s -> 687.42s]  You just have to open up the tool and it will guide you.
+[687.52s -> 688.72s]  It'll it'll do all this stuff.
+[688.82s -> 693.02s]  How do you decide how verbose you want like sort of the terminal to be like sometimes
+[693.02s -> 695.92s]  you have to go, you know, control O and check it out.
+[695.92s -> 700.42s]  And is it like internal bike shed battles around like longer shorter?
+[700.42s -> 703.42s]  I mean, every user probably has a different opinion.
+[703.42s -> 705.72s]  Like how do you make those sorts of decisions?
+[705.82s -> 706.62s]  What's your opinion?
+[706.62s -> 707.92s]  Is it too verbose right now?
+[707.92s -> 712.42s]  Oh, I love the verbosity because basically sometimes it just like goes off the deep end
+[712.42s -> 716.52s]  and I'm watching and then I can just read very quickly and it's like, oh no, no, it's
+[716.52s -> 720.72s]  not that and then I escape and then just stop it and then it just like stops an entire
+[720.72s -> 723.12s]  bug farm like as it's happening.
+[723.32s -> 725.72s]  I mean, that's usually when I didn't do plan mode properly.
+[725.92s -> 728.02s]  This is something that we probably change pretty often.
+[729.42s -> 731.22s]  I remember early on this is maybe six months ago.
+[731.22s -> 734.92s]  I tried to get rid of bash output just internally just to like summarize it because I was
+[734.92s -> 736.72s]  like these giant long bash commands.
+[736.72s -> 737.62s]  I don't actually care.
+[738.02s -> 741.02s]  And then I give it to anthropic employees for a day and everyone just revolted.
+[742.22s -> 746.72s]  I want to see my dash because it actually is quite useful for you know, like for something
+[746.72s -> 748.42s]  like git output, maybe it's not useful.
+[748.82s -> 751.42s]  But if you're running, you know, like Kubernetes jobs or something like this, you actually
+[751.42s -> 752.12s]  do want to see it.
+[752.32s -> 756.12s]  We recently hit the hid the file reads and file searches.
+[756.52s -> 760.22s]  So you'll notice instead of saying, you know, like read foo.md it'll said, you know, like
+[760.22s -> 762.42s]  read one file search, searched one pattern.
+[763.02s -> 765.92s]  And this is something I think we could not have shipped six months ago because the model
+[765.92s -> 766.82s]  just was not ready.
+[767.12s -> 769.92s]  You would have, you know, it's still read the wrong thing pretty often as a user.
+[769.92s -> 772.22s]  You still have to be there and kind of catch it and debug it.
+[772.72s -> 776.72s]  But nowadays I just noticed it's on the right track almost every time and because it's
+[776.72s -> 778.02s]  using tools so much.
+[778.32s -> 780.02s]  It's actually a lot better just to summarize it.
+[780.92s -> 781.82s]  But then we shipped it.
+[782.12s -> 784.92s]  We dog fooded it for like a month and then people on GitHub didn't like it.
+[785.62s -> 788.42s]  So there was a big issue where people like no, like I want to see the details and that
+[788.42s -> 789.42s]  was really great feedback.
+[790.22s -> 792.22s]  And so we added a new verbose mode.
+[792.62s -> 794.12s]  And so that's just like in slash config.
+[794.12s -> 795.32s]  You can enable verbose mode.
+[795.72s -> 798.02s]  If you want to see all the file uploads, you can continue to do that.
+[798.72s -> 802.82s]  And then I posted on the issue and people still didn't like it, which is again, awesome
+[802.82s -> 806.02s]  because like my favorite thing in the world is just hearing people's feedback and hearing
+[806.02s -> 807.02s]  how they actually want to use it.
+[807.82s -> 810.92s]  And so we just like iterated more and more and more to get that really good and to make
+[810.92s -> 811.82s]  it the thing that people want.
+[812.12s -> 815.12s]  I'm amazed like how much I enjoy fixing bugs now.
+[815.32s -> 820.92s]  And then all you have to do is have really good logging and then even just say like,
+[820.92s -> 825.12s]  hey, check out that, you know, this particular object messed up in this way.
+[825.52s -> 827.02s]  And it like searches the log.
+[827.02s -> 828.02s]  It figures everything out.
+[828.02s -> 831.52s]  It can like go into your, you can make a production tunnel and look at your production
+[831.52s -> 832.52s]  DB for you.
+[832.82s -> 833.92s]  It's like, this is insane.
+[834.02s -> 838.22s]  Bug fixing is just going to sentry copy markdown, you know, pretty soon it's just going
+[838.22s -> 839.42s]  to be straight MCP.
+[839.82s -> 846.22s]  It's like an auto bug fixing like and test making sort of what's the new term they call
+[846.22s -> 848.32s]  it? Like making a startup factory.
+[848.42s -> 848.72s]  Oh, yeah.
+[848.72s -> 849.02s]  Right.
+[849.02s -> 853.92s]  There's like all these concepts now of rather than having to review the code, you know,
+[854.02s -> 855.62s]  I'm old school.
+[855.62s -> 857.22s]  So I like the verbosity.
+[857.22s -> 860.22s]  I like to say, oh, well, you're doing this, but I want you to do that.
+[860.22s -> 860.62s]  Right.
+[860.92s -> 866.02s]  But there's a totally different school of thought now that says like anytime a real
+[866.02s -> 869.22s]  human being has to look at code, that's bad.
+[869.52s -> 869.82s]  Yeah.
+[869.82s -> 870.12s]  Yeah.
+[870.12s -> 870.22s]  Yeah.
+[870.22s -> 871.02s]  And it's fascinating.
+[871.32s -> 875.62s]  I think like Dan Chipper talks about this a lot as kind of whenever you see the model
+[875.62s -> 879.22s]  make a mistake, try to put in the Quad MD, try to put it in like skills or something
+[879.22s -> 879.52s]  like this.
+[879.52s -> 880.22s]  What's reusable.
+[880.72s -> 885.52s]  But I think there's this meta point that I actually struggle with a lot and people talk
+[885.52s -> 887.52s]  about like agents can do this agents can do that.
+[887.52s -> 890.32s]  But actually what agents can do it changes with every single model.
+[890.82s -> 894.02s]  And so sometimes there's a new person that joins the team and they actually use Quad
+[894.02s -> 896.12s]  Code more than I would have used it.
+[896.62s -> 898.82s]  And I'm just constantly surprised by this.
+[899.32s -> 902.72s]  Like for example, there was a we had like a memory leak and we were trying to debug
+[902.72s -> 902.92s]  it.
+[903.12s -> 906.82s]  And by the way, like Jared Sumner has just been on this crusade killing all the memory
+[906.82s -> 908.22s]  leaks and it's just been amazing.
+[908.32s -> 912.22s]  But before Jared was on the team, I had to do this and there was this memory leak.
+[912.22s -> 913.42s]  I was trying to debug it.
+[913.42s -> 914.92s]  And so I took a heap dump.
+[914.92s -> 916.02s]  I opened it in DevTools.
+[916.02s -> 917.12s]  I was looking through the profile.
+[917.12s -> 919.52s]  Then I was looking through the code and I was just trying to figure this out.
+[919.92s -> 925.02s]  And then another engineer on the team, Chris, he just like asked Quad Code.
+[925.12s -> 926.42s]  He was like, hey, I think there's a memory leak.
+[926.42s -> 929.82s]  Can you like this and then like try to figure it out and Quad Code like took the heap dump.
+[929.82s -> 932.12s]  It wrote a little tool for itself to like analyze the heat dump.
+[932.92s -> 935.12s]  And then it found the leak faster than I did.
+[936.12s -> 941.52s]  And this is just something I have to constantly re-learn because my brain is still stuck
+[941.52s -> 943.62s]  somewhere six months ago at times.
+[943.82s -> 951.12s]  So what would be some advice for technical founders to really become maximalists at the
+[951.12s -> 951.92s]  latest model release?
+[951.92s -> 956.62s]  It sounds like people off of fresh off of school or that don't have any assumptions
+[956.62s -> 960.82s]  might be better suited than maybe sometimes engineers who have been working at it for
+[960.82s -> 961.42s]  a long time.
+[961.62s -> 964.92s]  And how do the experts get better?
+[965.32s -> 970.02s]  I think for yourself, it's kind of beginner mindset and I don't know, maybe just like
+[970.02s -> 970.62s]  humility.
+[971.42s -> 975.32s]  Like I feel like engineers as a discipline, we've learned to have very strong opinions
+[975.32s -> 977.62s]  and senior engineers are kind of rewarded for this.
+[977.92s -> 981.12s]  In my old job at a big company when I hired like architects and it's kind of a type of
+[981.12s -> 984.72s]  engineer, you look for people that have a lot of experience and really strong opinions,
+[985.22s -> 988.32s]  but it actually turns out a lot of this stuff just isn't relevant anymore.
+[988.32s -> 991.92s]  And a lot of these opinions should change because the model is getting better.
+[992.92s -> 996.82s]  So I think actually the biggest skill is people that can think scientifically and can just
+[996.82s -> 997.92s]  think from first principles.
+[998.22s -> 1001.92s]  How do you screen for that when you try to hire someone now for your team?
+[1002.22s -> 1004.82s]  I sometimes ask about what's an example of when you're wrong.
+[1005.02s -> 1008.32s]  It's really good on you know, some of these like classic behavioral questions, like not
+[1008.32s -> 1012.72s]  even coding questions, I think are quite useful because you can see if people can recognize
+[1012.72s -> 1016.72s]  their mistake in hindsight, if they can claim credit for the mistake and if they learn
+[1016.72s -> 1017.42s]  something from it.
+[1017.82s -> 1021.52s]  And I think a lot of these like very senior people, especially there are some founder
+[1021.52s -> 1024.62s]  types like this, but I think founders in particular actually quite good at it.
+[1025.22s -> 1030.22s]  But other people sometimes will never really take, they'll never take the blame for a
+[1030.22s -> 1030.82s]  mistake.
+[1031.62s -> 1035.22s]  But I don't know like for me personally, I'm wrong probably half the time, like half my
+[1035.22s -> 1039.72s]  ideas are bad and you just have to try stuff and you know, you try things, you give it
+[1039.72s -> 1043.42s]  to users, you talk to users, you learn and then eventually you might end up at a good
+[1043.42s -> 1043.72s]  idea.
+[1043.72s -> 1044.42s]  Sometimes you don't.
+[1045.02s -> 1050.12s]  And this is the skill that I think in the past was very important for founders, but
+[1050.12s -> 1052.22s]  now I think it's very important for every engineer.
+[1052.52s -> 1058.72s]  Do you think you would ever hire someone based on the Claude code transcript of them
+[1058.72s -> 1059.92s]  working with the agent?
+[1060.12s -> 1062.62s]  Because we're actively doing that right now.
+[1063.02s -> 1068.92s]  We just added just as a test, like you can upload a transcript of you coding a feature
+[1068.92s -> 1071.32s]  with Claude code or Codex or whatever it is.
+[1071.52s -> 1073.22s]  Personally, I think that like it's going to work.
+[1073.32s -> 1078.52s]  I mean, you can figure out how someone thinks, like whether they're looking at the logs
+[1078.52s -> 1082.22s]  or not, like can they correct the agent if it goes off the rails?
+[1082.22s -> 1084.42s]  Like do they use plan mode?
+[1084.62s -> 1088.52s]  You know, when they use plan mode, do they make sure that there are tests or you know,
+[1088.52s -> 1091.42s]  all of these different things that you know, do they think about systems?
+[1091.42s -> 1092.92s]  Do they even understand systems?
+[1092.92s -> 1096.52s]  Like there's just so much that's sort of embedded in that that I imagine.
+[1096.62s -> 1101.92s]  I just want like a spider web graph, you know, like in those video games like NBA 2K.
+[1102.02s -> 1104.42s]  It's like, oh, this person is really good at shooting or defense.
+[1104.42s -> 1110.22s]  It's like you can imagine a spider web graph of like, you know, someone's Claude code skill level.
+[1110.32s -> 1111.82s]  Yeah, what would the skills be?
+[1111.82s -> 1112.92s]  What would be those assets?
+[1113.12s -> 1117.02s]  I mean, I think it's like systems testing must be like user behavior.
+[1117.02s -> 1119.62s]  I mean, there's got to be a design part for sure.
+[1119.62s -> 1120.42s]  Like product sense.
+[1120.42s -> 1122.22s]  Maybe also just like automating stuff.
+[1122.72s -> 1129.02s]  My favorite thing in CloudMD for me is I have a thing that says for every plan decide
+[1129.02s -> 1133.02s]  whether it's over engineered, under engineered or perfectly engineered and why.
+[1133.12s -> 1134.82s]  I think this is something that we're trying to figure out too,
+[1134.82s -> 1139.32s]  because I think when I look at engineers on the team that I think are the most effective,
+[1139.32s -> 1141.32s]  there's essentially two, it's very bimodal.
+[1141.92s -> 1144.12s]  There's one side where it's extreme specialists.
+[1144.72s -> 1147.12s]  And so like I named Jared before, like he's a really good example of this
+[1147.12s -> 1149.12s]  and kind of the bun team is a really good example.
+[1149.32s -> 1150.32s]  Just hyper specialists.
+[1150.32s -> 1152.62s]  They understand dev tools better than anyone else.
+[1153.02s -> 1155.62s]  They understand JavaScript runtime systems better than anyone else.
+[1156.22s -> 1159.62s]  And then there's the flip side of kind of hyper generalists and that's kind of the rest of the team.
+[1160.02s -> 1165.22s]  And a lot of people, they span like product and info or product and design or, you know,
+[1165.22s -> 1167.42s]  like product and user research product and business.
+[1167.62s -> 1170.92s]  I really like to see people that just do weird stuff.
+[1171.52s -> 1174.42s]  I think that's one of these things that was kind of a warning sign in the past,
+[1174.82s -> 1176.92s]  because it's like, can these people actually build something useful?
+[1178.02s -> 1179.02s]  That's the limits test.
+[1179.32s -> 1180.32s]  Yeah, that's the limits test.
+[1180.32s -> 1185.12s]  But nowadays, like for example, an engineer on the team, Daisy, she was on a different team
+[1185.12s -> 1186.62s]  and then she transferred on to our team.
+[1187.02s -> 1192.82s]  And the reason that I wanted her to transfer is she put up a PR for quad code,
+[1192.82s -> 1195.22s]  like a couple of weeks after she joined or something.
+[1195.72s -> 1197.92s]  And the PR was to add a new feature to quad code.
+[1198.52s -> 1203.32s]  And then instead of just adding the feature, what she did is first she put up a PR to give quad code a tool
+[1203.62s -> 1207.32s]  so that it can test an arbitrary tool and verify that that works.
+[1207.32s -> 1212.42s]  And then she put up that PR and then she had quad write its own tool instead of herself implementing it.
+[1212.62s -> 1216.02s]  And I think it's this kind of out of the box thinking that is just so interesting
+[1216.02s -> 1217.62s]  because not a lot of people get it yet.
+[1217.82s -> 1222.02s]  You know, like we use the quad agent SDK to automate pretty much every part of development.
+[1222.12s -> 1228.32s]  It automates code review, security review, it labels all of our issues, it shepherds things to production.
+[1228.32s -> 1229.72s]  It does pretty much everything for us.
+[1230.42s -> 1233.62s]  But I think externally, I'm seeing a lot of people start to figure this out.
+[1234.02s -> 1237.62s]  But it's actually taken a while to figure out how do you use LMS in this way?
+[1237.62s -> 1239.22s]  How do you use this new kind of automation?
+[1239.52s -> 1240.72s]  So it's kind of a new skill.
+[1240.92s -> 1245.32s]  I guess one of the funnier things that I've been having office hours with various founders about
+[1245.32s -> 1251.92s]  is you have like sort of the visionary founder who has like the idea they've like built this like crystal palace
+[1251.92s -> 1254.32s]  of the product that they want to build.
+[1254.32s -> 1260.12s]  They've totally loaded in their brain, you know, who the user is and what they feel and what they're motivated by.
+[1260.52s -> 1265.12s]  And then they're sitting in quad code and they can do like, you know, 50x work.
+[1265.52s -> 1269.52s]  And then but they have engineers who work for them who like don't have the, you know,
+[1269.72s -> 1274.22s]  crystal memory palace of like the platonic ideal of the product that the founder has.
+[1274.52s -> 1276.42s]  And they can only do like 5x work.
+[1276.82s -> 1278.42s]  Are you hearing stories like that?
+[1278.42s -> 1283.72s]  There's usually a person who's like the core like designer of a thing.
+[1283.92s -> 1287.72s]  And they're just like, you know, trying to blast it out of their brain.
+[1287.82s -> 1290.32s]  What's the nature of like teams like that?
+[1290.32s -> 1293.32s]  You know, it seems like that's almost a stable configuration.
+[1293.32s -> 1297.52s]  Like you're going to have the visionary who like now is unleashed.
+[1297.62s -> 1301.42s]  But you know, maybe going back to the top of it, like I'm experiencing this right now.
+[1301.42s -> 1304.12s]  It's like, oh, well, I'm only a solo person.
+[1304.52s -> 1308.62s]  And you know, I need to eat and sleep and I have, you know, a whole job.
+[1308.62s -> 1310.62s]  And it's like, how am I going to do this?
+[1310.62s -> 1314.32s]  You know, like we just launched quad teams and you know, this is a way to do it.
+[1314.32s -> 1316.02s]  But you can also just build your own way to do it.
+[1316.02s -> 1316.92s]  It's pretty easy.
+[1317.22s -> 1318.92s]  What's the vision for quad teams?
+[1319.32s -> 1320.22s]  Just collaboration.
+[1320.22s -> 1323.82s]  It's like there's this whole new field of like agent apologies that people are exploring.
+[1323.82s -> 1325.82s]  Like what are the ways they can configure agents?
+[1326.22s -> 1329.22s]  There's this one sub idea, which is uncorrelated context windows.
+[1329.22s -> 1330.82s]  And the idea is just multiple agents.
+[1331.12s -> 1332.92s]  They have fresh context windows that aren't essentially
+[1332.92s -> 1335.82s]  polluted with each other's context or their own previous context.
+[1336.42s -> 1339.42s]  And if you throw more context at a problem, that's like a form of test time compute.
+[1340.22s -> 1342.42s]  And so you just get more capability that way.
+[1342.82s -> 1345.82s]  And then if you have the right topology on top of it, so the agents can communicate in
+[1345.82s -> 1350.12s]  the right way, they're weighed out in the right way, then they can just build bigger stuff.
+[1350.22s -> 1352.12s]  And so teams is kind of like one idea.
+[1352.12s -> 1353.82s]  There's a few more that are coming pretty soon.
+[1354.72s -> 1358.02s]  And the idea is just maybe it can build a little bit more.
+[1358.32s -> 1362.32s]  I think the first kind of big example where it worked is our plugins feature was
+[1362.32s -> 1365.02s]  entirely built by a swarm over over a weekend.
+[1365.32s -> 1366.62s]  It just ran for like a few days.
+[1366.92s -> 1370.92s]  There wasn't really human intervention and plugins is pretty much in the form that
+[1370.92s -> 1372.32s]  it was when it came out.
+[1372.52s -> 1373.62s]  How did you set that up?
+[1373.62s -> 1378.12s]  Like, did you spec out sort of the outcome that you were hoping for and then let it
+[1378.12s -> 1382.02s]  sort of figure out the details and then like let it run?
+[1382.32s -> 1382.62s]  Yeah.
+[1382.62s -> 1389.32s]  An engineer on the team just gave, gave quad a spec and told quad to use a sona board
+[1389.72s -> 1394.22s]  and then quad just put up a bunch of tickets on a sona and then spawned a bunch of agents
+[1394.22s -> 1395.72s]  and the agent started picking up tasks.
+[1396.12s -> 1398.82s]  The main quad just gave it instructions and they all just figured it out.
+[1399.02s -> 1403.32s]  Independent agents that didn't have the context of the bigger spec, right?
+[1403.52s -> 1403.82s]  Right.
+[1404.02s -> 1407.92s]  If you think about the way that, you know, like how our agents actually started
+[1407.92s -> 1411.52s]  nowadays and you know, I haven't pulled the data on this, but I would bet the majority
+[1411.52s -> 1415.92s]  of agents are actually prompted by quad today in the form of sub agents.
+[1416.52s -> 1418.72s]  Cause like a sub agent is just like a recursive quad code.
+[1418.72s -> 1419.72s]  That's all it is in the code.
+[1419.82s -> 1421.92s]  And it's just prompted by, we call her mama quad.
+[1423.22s -> 1424.42s]  And that's all it is.
+[1424.42s -> 1427.22s]  And I think probably if you look at most agents that are launched in this way.
+[1427.42s -> 1432.12s]  My Claude insights just told me to do this more for debugging so that I get like, I
+[1432.12s -> 1436.22s]  spend a lot of time on debugging and it would just be better to have like multiple
+[1436.22s -> 1439.42s]  sub agents spin up and like debug something in parallel.
+[1439.52s -> 1442.52s]  And so then I just like added that to my Claude MD to just be like, Hey, like next
+[1442.62s -> 1446.12s]  time you try and fix a bug, like have one agent that like looks in the log, like one
+[1446.12s -> 1447.32s]  that looks in the code path.
+[1447.52s -> 1448.82s]  That just seems sort of inevitable.
+[1448.82s -> 1450.32s]  For weird, scary bugs.
+[1450.32s -> 1455.62s]  I try to fix bugs in plan mode and then it seems to use the agents to sort of search
+[1455.62s -> 1456.22s]  everything.
+[1456.32s -> 1459.72s]  Whereas like when you're just trying to do it in line, it's like, okay, I'm going
+[1459.72s -> 1462.62s]  to do like this one task instead of search wide.
+[1462.82s -> 1464.42s]  This is something I do all the time too.
+[1464.42s -> 1468.02s]  I just say if the, if the testing was kind of hard, this kind of research task, I'll
+[1468.02s -> 1471.42s]  calibrate the number of sub agents that I asked it to use based on the difficulty of
+[1471.42s -> 1471.92s]  the task.
+[1472.32s -> 1475.92s]  So if it's like really hard, I'll say like use three or maybe five or even 10 sub
+[1475.92s -> 1478.72s]  agents research in parallel and then see what they come up with.
+[1478.92s -> 1479.52s]  I'm curious.
+[1479.52s -> 1482.72s]  So then why don't you put that in your Claude MD file?
+[1482.82s -> 1486.62s]  It's kind of case by case, you know, like quad MD, like what is it?
+[1486.62s -> 1487.82s]  It's just a, it's a shortcut.
+[1488.12s -> 1490.82s]  Like if you find yourself repeating the same thing over and over, you put in the
+[1490.82s -> 1493.72s]  quad MD, but otherwise you don't have to put everything there.
+[1493.72s -> 1494.62s]  You can just prompt quad.
+[1494.92s -> 1497.72s]  Are you also in the back of your mind thinking that maybe like in six months you
+[1497.72s -> 1500.42s]  won't need to prompt that explicitly?
+[1500.52s -> 1502.72s]  Like the model should be good enough to figure out on its own.
+[1503.02s -> 1503.82s]  Maybe in a month.
+[1507.22s -> 1507.82s]  Oh my God.
+[1508.12s -> 1510.02s]  I think plan mode probably has a limited lifespan.
+[1510.22s -> 1511.02s]  Interesting.
+[1511.02s -> 1511.32s]  Yeah.
+[1511.32s -> 1512.42s]  Some alpha for everyone here.
+[1512.52s -> 1514.52s]  What would the world look like without plan mode?
+[1514.62s -> 1519.12s]  Do you just describe it at the prompt level and it would just do it one shot it?
+[1519.42s -> 1522.52s]  Yeah, we've we've started experimenting with this because Claude code can now
+[1522.52s -> 1523.92s]  enter plan mode by itself.
+[1524.42s -> 1525.92s]  I don't know if you've, you guys have seen that.
+[1525.92s -> 1526.22s]  Yeah.
+[1526.82s -> 1529.12s]  So we're trying to kind of get this experience really good.
+[1529.52s -> 1533.12s]  So it would enter plan mode the same point where a human would have wanted to
+[1533.12s -> 1533.52s]  enter it.
+[1533.72s -> 1536.62s]  So I think it's like, I think it's something like this, but actually plan
+[1536.62s -> 1538.62s]  mode, there's no, there's no big secret to it.
+[1538.62s -> 1541.42s]  All it does is it adds one sentence to the prompt.
+[1541.42s -> 1542.52s]  That's like, please don't code.
+[1543.62s -> 1544.12s]  That's all it is.
+[1544.12s -> 1545.22s]  You can, you can actually just say that.
+[1545.32s -> 1545.62s]  Yeah.
+[1545.82s -> 1549.02s]  So it sounds like a lot of the feature development for Claude code is very much
+[1549.02s -> 1554.22s]  a, when we talk about OIC, talk to your users and then you come and implement
+[1554.22s -> 1556.72s]  that it, it wasn't the other way that you had this master plan and then
+[1556.92s -> 1557.92s]  implemented all the features.
+[1558.12s -> 1558.32s]  Yeah.
+[1558.32s -> 1558.52s]  Yeah.
+[1558.52s -> 1559.42s]  I mean, that's all it was.
+[1559.42s -> 1562.82s]  Like plan mode was we saw users that were like, Hey Claude, come up with an
+[1562.82s -> 1565.52s]  idea, plan this out, but don't write any code yet.
+[1565.92s -> 1567.32s]  And there was kind of various versions of this.
+[1567.32s -> 1568.92s]  Sometimes it was just talking through an idea.
+[1569.32s -> 1572.72s]  Sometimes it was these very sophisticated specs that they were asking Claude to
+[1572.72s -> 1575.92s]  write, but the common dimension was do a thing without coding yet.
+[1576.52s -> 1579.42s]  And so literally like, this was like Sunday night at 10 PM.
+[1579.42s -> 1582.32s]  I was, I was just like looking at GitHub issues and kind of seeing what
+[1582.32s -> 1585.42s]  people were talking about and looking at our internal Slack feedback channel.
+[1585.92s -> 1589.62s]  And I just wrote this thing in like 30 minutes and then shipped it that night.
+[1589.62s -> 1590.62s]  It went out Monday morning.
+[1590.82s -> 1591.32s]  It was plan mode.
+[1591.32s -> 1595.62s]  So do you mean that there'll be no need for plan mode to in the sense of I'm
+[1595.62s -> 1598.52s]  worried that the model is going to do like, it's going to do like the wrong
+[1598.52s -> 1602.12s]  thing or head off in the wrong direction, but there will still be a need for that.
+[1602.72s -> 1605.52s]  You need to think through the idea and figure out exactly what it is that you
+[1605.52s -> 1607.22s]  want and you have to do that somewhere.
+[1607.42s -> 1611.02s]  I kind of think about it in terms of like, kind of increasing model capabilities.
+[1611.42s -> 1614.12s]  So maybe six months ago, a plan was insufficient.
+[1614.52s -> 1616.72s]  So you get Claude to make a plan.
+[1616.72s -> 1618.92s]  Let's say even with plan mode, you still have to kind of sit there and maybe
+[1618.92s -> 1620.02s]  sit because it can go off track.
+[1620.12s -> 1623.62s]  Nowadays, what I do is probably 80% of my sessions, I say, I say plan mode
+[1623.62s -> 1625.92s]  has a limited lifespan, but I'm a heavy plan mode user.
+[1626.72s -> 1632.02s]  I probably 80% of my sessions, I start in plan mode and Claude will, you
+[1632.02s -> 1633.82s]  know, it'll start, he'll start making a plan.
+[1633.82s -> 1636.82s]  I'll move on to my second terminal tab and then I'll have it make another
+[1636.82s -> 1637.22s]  plan.
+[1637.22s -> 1640.32s]  And then when I run out of tabs, I open the desktop app and then I go to the
+[1640.32s -> 1642.92s]  code tab and then I just start a bunch of tabs there and they all start in
+[1642.92s -> 1645.32s]  plan mode, probably, you know, like 80% of the time.
+[1645.72s -> 1648.12s]  Once the plan is good and sometimes it takes a little back and forth, they
+[1648.12s -> 1649.62s]  just get Claude to execute.
+[1650.02s -> 1655.02s]  And nowadays what I find with Opus 4.5, I think it started with 4.6, it got
+[1655.02s -> 1655.62s]  really good.
+[1656.12s -> 1659.42s]  Once the plan is good, it just stays on track and it'll just do the thing
+[1659.42s -> 1661.12s]  exactly right almost every time.
+[1661.32s -> 1664.42s]  And so, you know, before you had to babysit after the plan and before the
+[1664.42s -> 1666.42s]  plan, now it's just before the plan.
+[1666.82s -> 1669.22s]  So maybe the next thing is you just won't have to babysit.
+[1669.22s -> 1671.52s]  You can just kind of give a prompt and Claude will figure it out.
+[1671.62s -> 1674.42s]  The next step is Claude just speaks to your users directly.
+[1676.62s -> 1678.02s]  It just bypasses you entirely.
+[1678.22s -> 1678.62s]  It's funny.
+[1678.62s -> 1679.92s]  This is actually the current stuff, bro.
+[1680.12s -> 1681.82s]  Our Claude's actually like they talk to each other.
+[1681.82s -> 1685.52s]  They talk to our users on Slack, at least internally pretty often.
+[1686.52s -> 1688.12s]  My Claude will like tweet once in a while.
+[1688.12s -> 1688.72s]  No way.
+[1688.92s -> 1690.02s]  But I actually like delete it.
+[1690.82s -> 1692.42s]  It's just like, it's a little like cheesy.
+[1692.52s -> 1692.72s]  Yeah.
+[1693.02s -> 1694.02s]  Like I don't love the tongue.
+[1694.02s -> 1695.72s]  What does it want to tweet about?
+[1696.02s -> 1698.92s]  Sometimes it'll just like respond to someone because I always have like
+[1698.92s -> 1701.42s]  cowork running in the background and it's like, it's the cowork Claude
+[1701.42s -> 1703.52s]  that really loves to do that because it likes using a browser.
+[1703.62s -> 1704.12s]  That's funny.
+[1704.32s -> 1706.82s]  A really common pattern is I ask Claude to build something.
+[1706.82s -> 1708.12s]  It'll look in the code base.
+[1708.42s -> 1711.92s]  It'll see some engineer touch something in the git flame and then it'll
+[1711.92s -> 1713.32s]  message that engineer on Slack.
+[1714.02s -> 1716.22s]  Just like asking a clarifying question and then once it gets the
+[1716.22s -> 1717.22s]  answer back, it'll keep going.
+[1717.42s -> 1722.32s]  What are some tips for founders now on how to build for the future?
+[1722.32s -> 1723.92s]  It sounds like everything is really changing.
+[1724.12s -> 1727.72s]  What are like some principles that will stay on and what will change?
+[1727.92s -> 1731.32s]  So I think some of these are pretty basic, but I think they're even
+[1731.32s -> 1733.22s]  more important now than they were before.
+[1734.02s -> 1735.42s]  So one example is latent demand.
+[1735.52s -> 1737.12s]  Like I mentioned it a thousand times for me.
+[1737.12s -> 1740.02s]  It's just like the single biggest idea in product.
+[1740.02s -> 1742.62s]  It's a thing that no one understands.
+[1743.02s -> 1745.82s]  It's a thing I certainly did not understand my first few startups.
+[1746.12s -> 1749.12s]  And the idea is like people will only do a thing that they already do.
+[1749.22s -> 1750.72s]  You can't get people to do a new thing.
+[1750.92s -> 1754.12s]  If people are trying to do a thing and you make it easier, that's a good idea.
+[1754.42s -> 1756.92s]  But if people are doing a thing and you try to make them do a different
+[1756.92s -> 1758.02s]  thing, they're not going to do that.
+[1758.62s -> 1760.92s]  And so you just have to make the thing that they're trying to do easier.
+[1761.02s -> 1763.52s]  And I think Claude is going to get increasingly good at kind of figuring
+[1763.52s -> 1766.72s]  out these kind of product ideas for you just because it can look at feedback.
+[1766.72s -> 1767.82s]  It can look at debug logs.
+[1767.82s -> 1768.82s]  It kind of figure this out.
+[1768.82s -> 1772.52s]  That's what you mean by a plan mode was latent demand that people already
+[1772.52s -> 1776.02s]  like had their Claude chat window open in the browser and were like
+[1776.32s -> 1779.72s]  talking to it to figure out like the spec and what it should do.
+[1780.22s -> 1784.72s]  And now is that like plan mode just became that you just do it in Claude code.
+[1784.82s -> 1785.02s]  Yeah.
+[1785.02s -> 1785.22s]  Yeah.
+[1785.22s -> 1785.52s]  That's it.
+[1785.62s -> 1788.42s]  Sometimes what I'll do is I'll just walk around the office on on our floor
+[1788.42s -> 1790.22s]  and I'll just kind of stand behind people.
+[1791.72s -> 1793.22s]  I'll say like, hi, so it's not great.
+[1793.22s -> 1796.22s]  And then I'll just see kind of like how they're using Claude code.
+[1797.02s -> 1798.42s]  And this is also just something I saw a lot.
+[1799.02s -> 1800.42s]  But it also came up in GitHub issues.
+[1800.42s -> 1801.52s]  Like people were talking about it.
+[1801.72s -> 1806.22s]  It seems like you're surprised how far the terminal has gone and how far
+[1806.22s -> 1806.92s]  it's been pushed.
+[1806.92s -> 1809.12s]  Like how far do you think it has left to go?
+[1809.42s -> 1813.02s]  Just given with this world of swore multiple agents.
+[1813.02s -> 1817.72s]  Like, do you think there's going to be a new a need for a different UI on top of it?
+[1817.82s -> 1818.22s]  It's funny.
+[1818.22s -> 1820.72s]  If you asked me this a year ago, I would have said the terminal has like a three
+[1820.72s -> 1822.82s]  month lifespan and then we're going to move on to the next thing.
+[1823.82s -> 1825.42s]  And you can see us experimenting with this, right?
+[1825.42s -> 1829.12s]  Because Claude code started in a terminal, but now it's in, you know, it's on
+[1829.12s -> 1830.72s]  web, you can like, what is code?
+[1831.02s -> 1832.02s]  It's in the desktop app.
+[1832.02s -> 1834.42s]  You know, we've had that for, you know, like three months or six months or
+[1834.42s -> 1836.02s]  something just in the code tab.
+[1836.92s -> 1839.42s]  It's in the iOS and Android apps, just like in the code tab.
+[1839.42s -> 1840.62s]  It's in Slack.
+[1840.62s -> 1841.42s]  It's in GitHub.
+[1841.42s -> 1843.02s]  There's VS code extensions.
+[1843.02s -> 1844.32s]  There's JetBrains extensions.
+[1844.72s -> 1848.02s]  So we're just like, we're always experimenting with different form
+[1848.02s -> 1850.32s]  factors for this thing to figure out what's the next thing.
+[1850.52s -> 1853.62s]  I've been wrong so far about the lifespan of the CLI.
+[1853.62s -> 1855.62s]  So I'm probably not the person to forecast that.
+[1856.62s -> 1859.22s]  What about like your advice to DevTool founders?
+[1859.22s -> 1861.52s]  Like someone's building a DevTool company today.
+[1861.92s -> 1866.02s]  Should they just like be building for engineers and humans or should they be
+[1866.02s -> 1870.32s]  thinking more about like what Claude is going to think and want and build for
+[1870.32s -> 1871.32s]  sort of like the agent?
+[1871.52s -> 1875.52s]  The way I would frame it is think about the thing that the model wants to do
+[1875.62s -> 1878.22s]  and figure out how do you make that easier?
+[1879.02s -> 1881.72s]  And that's something that we saw, you know, like when I first started
+[1881.72s -> 1884.92s]  hacking on Claude code, I realized like this thing just wants to use tools.
+[1884.92s -> 1886.62s]  It just wants to interact with the world.
+[1887.32s -> 1889.22s]  And how do you enable that?
+[1889.22s -> 1892.82s]  Well, the way you don't do it is you put it in a box and you're like,
+[1892.82s -> 1893.42s]  here's the API.
+[1893.42s -> 1894.72s]  Here's how you interact with me.
+[1894.72s -> 1896.12s]  And here's how you interact with the world.
+[1896.12s -> 1898.52s]  The way you do it is you see what tools it wants to use.
+[1898.52s -> 1901.52s]  You see what it's trying to do and you enable that the same way that you do
+[1901.52s -> 1902.52s]  for your users.
+[1903.12s -> 1905.82s]  And so like for if you're building a DevTool startup, I would think about like
+[1905.82s -> 1907.62s]  what is the problem you want to solve for the user?
+[1908.12s -> 1910.82s]  And then when you use, when you apply the model to solving this problem,
+[1910.82s -> 1912.22s]  what is the thing the model wants to do?
+[1912.62s -> 1915.22s]  And then what is the technical and product solution that serves the
+[1915.22s -> 1916.22s]  weight and demand of both?
+[1916.52s -> 1919.72s]  YC's next batch is now taking applications.
+[1919.72s -> 1920.92s]  Got a startup in you?
+[1921.02s -> 1923.82s]  Apply at ycombinator.com slash apply.
+[1924.02s -> 1928.32s]  It's never too early and filling out the app will level up your idea.
+[1928.42s -> 1930.02s]  Okay, back to the video.
+[1930.42s -> 1936.42s]  Back in the day, more than 10 years ago, you were a very heavy user and you
+[1936.42s -> 1938.02s]  wrote a book about TypeScript, right?
+[1938.82s -> 1940.72s]  Before TypeScript was cool.
+[1940.82s -> 1943.52s]  This is when everyone was deep in JavaScript.
+[1943.52s -> 1945.72s]  This is back in early 2010s, right?
+[1945.82s -> 1946.82s]  Yeah, something like that.
+[1946.92s -> 1952.22s]  Before TypeScript was a thing because back then is a very weird language.
+[1952.22s -> 1956.22s]  It's not supposed to do a lot of things with being typed in JavaScript.
+[1956.22s -> 1958.02s]  And now it's the right thing.
+[1958.02s -> 1961.72s]  And it feels like Claude code in the terminal has a lot of parallels
+[1961.72s -> 1963.92s]  with TypeScript at the beginning.
+[1964.22s -> 1968.52s]  TypeScript makes a lot of really weird language decisions.
+[1968.52s -> 1971.92s]  So if you look at the type system, pretty much anything can be a literal
+[1971.92s -> 1975.62s]  type, for example, and this is like, this is super weird because like
+[1975.92s -> 1979.02s]  even though like Haskell doesn't even do this, it's just like, it's too
+[1979.02s -> 1983.32s]  extreme or it has like conditional types, which I don't think any
+[1983.32s -> 1985.12s]  language thought of at all.
+[1985.22s -> 1986.62s]  It was like very strongly typed.
+[1986.82s -> 1987.72s]  Yeah, it was very strongly.
+[1987.72s -> 1990.72s]  And the idea was like when, you know, like when Joe Paymer and
+[1990.72s -> 1994.42s]  Anders and the early team was like building this thing, the way they
+[1994.42s -> 1997.42s]  built it is that we, okay, we have these teams with these big untyped
+[1997.42s -> 1998.32s]  JavaScript code bases.
+[1998.32s -> 2001.12s]  We have to get types in there, but we're not going to get engineers to
+[2001.12s -> 2002.62s]  change that the way that they code.
+[2002.92s -> 2005.42s]  You're not going to get JavaScript people to have like, you know, 15
+[2005.42s -> 2008.42s]  layers of class inheritance, like you would a Java programmer.
+[2008.62s -> 2008.82s]  Right.
+[2008.82s -> 2010.32s]  They're going to write code the way they're going to write it.
+[2010.32s -> 2013.22s]  They're going to use a reflection and they're going to use mutation and
+[2013.22s -> 2015.52s]  they're going to use all these features that traditionally are very,
+[2015.52s -> 2016.42s]  very difficult to type.
+[2016.62s -> 2019.42s]  They're very unsafe type to any strong functional programmers.
+[2020.02s -> 2020.52s]  That's right.
+[2020.52s -> 2020.82s]  That's right.
+[2020.82s -> 2021.22s]  That's right.
+[2021.32s -> 2024.02s]  And so the thing that they did instead of getting people to kind of
+[2024.02s -> 2027.02s]  change the way that they code, they, they built a type system around
+[2027.02s -> 2030.92s]  this and it was just, it's brilliant because there's all of these ideas
+[2030.92s -> 2034.02s]  that no one was thinking about even in academia, like no one thought
+[2034.02s -> 2035.02s]  of a bunch of these ideas.
+[2035.32s -> 2038.52s]  It purely came out of the practice of observing people and seeing how
+[2038.52s -> 2040.02s]  JavaScript programmers want to write code.
+[2040.32s -> 2043.92s]  And so, you know, for, for cloud code, there, there are some ideas that
+[2043.92s -> 2047.02s]  are kind of similar in that, you know, like you can use it like a Unix utility.
+[2047.02s -> 2047.82s]  You can pipe into it.
+[2047.82s -> 2048.72s]  You can pipe out of it.
+[2049.52s -> 2053.22s]  In some ways it is kind of rigorous in this way, but in, in almost every
+[2053.22s -> 2055.42s]  other way, it's just the tool that we wanted.
+[2055.82s -> 2059.22s]  Like I built a tool for myself and then the team built the tool for themselves.
+[2059.62s -> 2062.12s]  And then for entropic employees and then for users.
+[2062.82s -> 2064.42s]  And it just ends up being really useful.
+[2064.82s -> 2067.12s]  It's not, it's not this like principled and academic thing.
+[2067.52s -> 2071.22s]  Which I think the, the proof is actually in the results now, fast
+[2071.22s -> 2073.62s]  forward more than 15 years later.
+[2074.72s -> 2077.72s]  Not many code bases are in Haskell, which is more academic.
+[2078.42s -> 2081.42s]  And there's tons of them now in TypeScript because it's way more practical.
+[2081.82s -> 2082.12s]  Right.
+[2082.22s -> 2083.12s]  Which is interesting.
+[2083.22s -> 2084.22s]  Yeah, it is interesting, right?
+[2084.22s -> 2085.62s]  It's like TypeScript solves the problem.
+[2085.92s -> 2087.22s]  I guess one thing that's cool.
+[2087.22s -> 2090.22s]  I don't know how many people know, but the terminal is actually one of the
+[2090.22s -> 2096.92s]  most beautiful terminal apps out there and is actually written with React terminal.
+[2097.12s -> 2099.92s]  When I first started building it, you know, like I did front-end engineering
+[2099.92s -> 2104.42s]  for a while, so, and I was also like, you know, I'm sort of like a hybrid.
+[2104.42s -> 2108.32s]  Like I do like design and user research and, you know, write code and all the
+[2108.32s -> 2110.52s]  stuff, and we love hiring engineers that are like this.
+[2110.92s -> 2112.42s]  So we just, we love generalists.
+[2112.72s -> 2114.82s]  So for me, it's like, okay, I'm building a thing for the terminal.
+[2114.82s -> 2116.32s]  I'm actually kind of a shitty Vim user.
+[2116.92s -> 2120.32s]  So like, how do I build a thing for people like me that, you know, are
+[2120.32s -> 2121.52s]  going to be working in a terminal?
+[2122.22s -> 2124.42s]  And I think just the delight is so important.
+[2124.52s -> 2127.22s]  And I feel like at YC, this is something you talk about a lot, right?
+[2127.22s -> 2128.62s]  It's like build a thing that people love.
+[2129.02s -> 2131.72s]  If the product is useful, but you don't fall in love with it, that's not great.
+[2132.42s -> 2133.62s]  So it kind of has to do both.
+[2133.92s -> 2136.42s]  Designing for the terminal honestly has been hard, right?
+[2136.42s -> 2139.02s]  It's like a, it's like 80 by a hundred characters or whatever.
+[2139.22s -> 2140.72s]  You have like 256 colors.
+[2140.72s -> 2141.92s]  You have one font size.
+[2142.22s -> 2143.82s]  You don't have like mouse interactions.
+[2144.22s -> 2145.22s]  There's all the stuff you can't do.
+[2145.22s -> 2146.92s]  And there's all these very hard trade-offs.
+[2147.12s -> 2149.62s]  So like a little known thing, for example, is you can actually
+[2149.62s -> 2151.82s]  enable mouse interactions in a terminal.
+[2151.92s -> 2153.42s]  So you can enable like clicking and stuff.
+[2153.52s -> 2154.72s]  Oh, how do you do that in cloud code?
+[2154.72s -> 2155.82s]  I've been trying to figure out how to do this.
+[2156.52s -> 2158.42s]  We don't, we don't have it in quad code because we actually
+[2158.42s -> 2161.32s]  prototyped it a few times and it felt really bad because the trade-off is
+[2161.32s -> 2162.42s]  you have to virtualize scrolling.
+[2162.62s -> 2165.62s]  And so there's all these weird trade-offs because like the way
+[2165.62s -> 2167.52s]  terminals work is like, there's no DOM, right?
+[2167.52s -> 2170.62s]  It's like, there's like anti-escape codes and these kind of weird,
+[2171.02s -> 2174.12s]  organically evolved specs since like the 1960s or whatever.
+[2174.12s -> 2174.32s]  Oh yeah.
+[2174.32s -> 2175.62s]  It feels like BBSs.
+[2175.62s -> 2177.02s]  It's like a BBS door game.
+[2177.02s -> 2177.32s]  Yeah.
+[2177.32s -> 2178.22s]  Oh my gosh.
+[2178.22s -> 2179.92s]  That's like, that's like a great compliment.
+[2179.92s -> 2180.12s]  Yeah.
+[2180.12s -> 2180.42s]  Yeah.
+[2180.42s -> 2182.02s]  Like it should feel like you're discovering.
+[2182.12s -> 2183.42s]  Lord of the red dragons.
+[2183.42s -> 2184.02s]  Fantastic.
+[2184.12s -> 2184.72s]  Oh my God.
+[2184.82s -> 2185.12s]  Yeah.
+[2185.12s -> 2187.82s]  But we have, we've had to just like discover all these kind of
+[2187.82s -> 2190.42s]  UX principles for building the terminal because no one really
+[2190.42s -> 2191.32s]  writes about this stuff.
+[2191.82s -> 2194.42s]  And if you look at the big terminal apps of, you know, like the
+[2194.42s -> 2197.02s]  eighties or nineties or two thousands or whatever, they use like
+[2197.02s -> 2199.52s]  end curses and they have all these like windows and things like this.
+[2199.52s -> 2202.22s]  And it just looks kind of like janky by modern standards.
+[2202.32s -> 2203.92s]  It just looks too heavy and complicated.
+[2204.72s -> 2206.22s]  And so we had to like reinvent a lot.
+[2206.42s -> 2208.72s]  And you know, for example, something like the terminal spinner,
+[2209.22s -> 2213.22s]  like just like the spinner words, it's gone through probably, I want
+[2213.22s -> 2216.32s]  to say like 50, maybe a hundred iterations at this point and probably
+[2216.32s -> 2217.62s]  80% of those didn't ship.
+[2218.02s -> 2219.02s]  So we tried it.
+[2219.02s -> 2219.72s]  It didn't feel good.
+[2219.72s -> 2220.42s]  Move on to the next one.
+[2220.42s -> 2220.72s]  Try it.
+[2220.72s -> 2221.22s]  Didn't feel good.
+[2221.22s -> 2222.02s]  Move on to the next one.
+[2222.92s -> 2225.32s]  And this was like sort of one of the amazing things about quad code,
+[2225.32s -> 2225.52s]  right?
+[2225.52s -> 2228.42s]  Is like you can write these prototypes and you can just do like 20
+[2228.42s -> 2231.42s]  prototypes back to back, see which one you like and then ship that.
+[2231.42s -> 2233.02s]  And the whole thing takes maybe a couple hours.
+[2233.52s -> 2235.82s]  Whereas in the past, what you would have had to do is like, weren't
+[2235.82s -> 2237.82s]  to use origami or framer or something like this.
+[2237.82s -> 2239.12s]  You built like maybe three prototypes.
+[2239.12s -> 2240.02s]  It took like two weeks.
+[2240.32s -> 2241.52s]  It just took much, much longer.
+[2242.12s -> 2245.32s]  And so we have this luxury of we have to discover this new thing.
+[2245.32s -> 2246.22s]  We have to build the thing.
+[2246.22s -> 2249.62s]  We don't know what the right endpoint is, but we can iterate there
+[2249.62s -> 2252.42s]  so quickly and that's what makes it really easy.
+[2252.42s -> 2255.32s]  And that's what lets us build a product that's like joyous and
+[2255.32s -> 2256.22s]  that people like to use.
+[2256.72s -> 2260.32s]  Of course you had other advice for, for builders and we kept interrupting
+[2260.32s -> 2262.32s]  you because we have so many questions.
+[2263.62s -> 2267.82s]  I would say, so, okay, so maybe two pieces of advice that are kind of
+[2267.82s -> 2270.12s]  weird because it's like about building for the model.
+[2270.52s -> 2273.42s]  So one is don't build for the model of today, build for the
+[2273.42s -> 2274.42s]  model of six months from now.
+[2274.72s -> 2275.92s]  This is like sort of weird, right?
+[2275.92s -> 2278.42s]  Because like you can't find PMF if the product doesn't work, but actually
+[2278.42s -> 2281.02s]  this is the thing that you should do because otherwise what will happen
+[2281.02s -> 2283.92s]  is you spend a bunch of work, you find PMF for the product right now
+[2283.92s -> 2287.12s]  and then you're just going to get leapfrogged by someone else because
+[2287.12s -> 2289.82s]  they're building for the next model and a new model comes out every few months.
+[2290.02s -> 2292.92s]  Use the model, feel out the boundary of what it can do and then build
+[2292.92s -> 2295.72s]  for the model that you think will be the model maybe six months from now.
+[2296.02s -> 2299.62s]  I think the second thing is, you know, actually in the, in the quad
+[2299.62s -> 2303.82s]  code area where we sit, we have a framed copy of the bitter lesson on the wall.
+[2304.22s -> 2307.42s]  And this is this like rich Sutton, uh, focus that like everyone
+[2307.42s -> 2308.72s]  should read it if you haven't.
+[2309.52s -> 2314.32s]  Uh, and the idea is the more general model will always be the more specific model.
+[2315.02s -> 2318.02s]  And there's a lot of corollaries to this, but essentially what it boils down to
+[2318.02s -> 2319.42s]  is never bet against the model.
+[2320.22s -> 2324.52s]  Uh, and so this is just like a thing to that we always think about where
+[2324.52s -> 2326.32s]  we could build a feature into quad code.
+[2326.32s -> 2327.72s]  We could make it better as a product.
+[2327.72s -> 2328.92s]  And we call this scaffolding.
+[2329.02s -> 2329.72s]  That's all this code.
+[2329.72s -> 2332.62s]  That's not the model itself, but we could also just wait like a couple
+[2332.62s -> 2335.32s]  months and the model can probably just do the thing instead.
+[2336.22s -> 2337.62s]  Um, and there's a way to straight off, right?
+[2337.62s -> 2340.72s]  It's like engineering work now and you can kind of extend the capability
+[2340.72s -> 2344.32s]  a little bit, maybe 10, 20% or whatever, and whatever domain on this, like, you
+[2344.32s -> 2347.72s]  know, like the spider chart of what you're trying to extend, um, or you can
+[2347.72s -> 2349.02s]  just wait and the next model will do it.
+[2349.22s -> 2352.12s]  So just always, always think in terms of this trade-off where, where do you
+[2352.12s -> 2355.72s]  actually want to invest and assume that whatever the scaffolding is, it's just.
+[2356.62s -> 2359.12s]  How often do you rewrite the code base of a clock code?
+[2360.02s -> 2364.12s]  Is this every six months with this, with this first, scaffolding that you've
+[2364.12s -> 2365.42s]  deleted because you don't need it anymore.
+[2365.42s -> 2366.72s]  Cause the model just improved.
+[2366.92s -> 2367.72s]  Oh, so much.
+[2367.82s -> 2368.12s]  Yeah.
+[2368.12s -> 2370.92s]  Like all of quad code has just been written and rewritten and rewritten
+[2370.92s -> 2372.42s]  and rewritten over and over and over.
+[2372.72s -> 2374.82s]  We unshipped tools every couple of weeks.
+[2374.82s -> 2376.42s]  We add new tools every couple of weeks.
+[2376.92s -> 2379.52s]  There's no part of quad code that was around six months ago.
+[2379.82s -> 2380.92s]  It's just constantly rewritten.
+[2381.12s -> 2384.62s]  Would you say most of the code base for our current clock code is
+[2384.62s -> 2388.12s]  only say 80% of it is only less than a couple of months old.
+[2388.42s -> 2389.22s]  Yeah, definitely.
+[2389.22s -> 2392.02s]  It might, it might even be like less than, yeah, maybe like a couple of
+[2392.02s -> 2393.12s]  months that feels about right.
+[2393.22s -> 2394.72s]  So it's like the life cycle of code.
+[2394.72s -> 2398.02s]  Now that's another alpha is expecting it to be the shelf life to be just
+[2398.02s -> 2399.92s]  a couple of months for the best founders.
+[2400.22s -> 2405.22s]  Do you see a Steve Yeggy's post about how awesome working at Anthropic is?
+[2405.22s -> 2409.82s]  And I think there's a line in there that says that an Anthropic engineer, uh,
+[2409.82s -> 2415.12s]  currently averages 1000 X more productivity than a Google engineer at
+[2415.22s -> 2421.42s]  Google's peak, which is really an insane number, honestly, like 1000 X.
+[2421.42s -> 2424.52s]  Like, you know, we're three years ago, we were still talking about 10 X
+[2424.52s -> 2428.42s]  engineers, now we're talking about 1000 X on top of a Google engineer in the
+[2428.42s -> 2429.92s]  prime, like this is unbelievable.
+[2430.02s -> 2430.52s]  Honestly.
+[2430.82s -> 2431.02s]  Yeah.
+[2431.02s -> 2433.52s]  I mean, internally, if you, if you look at like technical employees, they
+[2433.52s -> 2434.72s]  all use quad code every day.
+[2435.52s -> 2438.52s]  Um, and even non-technical employees, I think like half the sales team
+[2438.52s -> 2439.32s]  uses quad code.
+[2439.72s -> 2442.52s]  Um, they, they've started switching to core cause it's a little easier to use.
+[2442.52s -> 2443.42s]  It has like a VM.
+[2443.52s -> 2446.72s]  It's a little bit safer, but yeah, we actually, we just pulled the stat and
+[2446.72s -> 2451.12s]  the, the, I think the team doubled in size last year, but productivity per
+[2451.12s -> 2452.92s]  engineer grew something like 70%.
+[2453.22s -> 2454.52s]  As measured by?
+[2454.62s -> 2457.02s]  Just like the simple stupidest measure pull requests.
+[2457.42s -> 2460.42s]  But we also kind of cross-check that against like commits and like, uh, the
+[2460.42s -> 2461.82s]  lifetime of commits and things like this.
+[2462.12s -> 2465.42s]  And since quad code came out, productivity per engineer at Anthropic
+[2465.42s -> 2466.82s]  has grown 150%.
+[2467.02s -> 2467.62s]  Oh my God.
+[2467.72s -> 2471.62s]  Um, and this is crazy because I want in my old life, I was responsible for
+[2471.62s -> 2475.32s]  code quality at Meta, um, and I was responsible for the quality of all of
+[2475.32s -> 2478.12s]  our code bases across every product across like, you know, Facebook,
+[2478.12s -> 2479.42s]  Instagram, WhatsApp, whatever.
+[2480.22s -> 2484.02s]  And one of the things that the team worked on was improving productivity.
+[2484.32s -> 2488.22s]  And back then seeing a gain of something like 2% in productivity, that was like
+[2488.22s -> 2489.92s]  a year of work by hundreds of people.
+[2490.62s -> 2493.92s]  And so this like a hundred percent, this is just like unheard of, just
+[2493.92s -> 2494.72s]  completely unheard of.
+[2495.12s -> 2497.22s]  What drew you to come over to Anthropic?
+[2497.22s -> 2499.82s]  I mean, basically as a builder, you could go anywhere.
+[2499.92s -> 2503.02s]  What was the moment that made you say like, actually this is the set of
+[2503.02s -> 2504.72s]  people or this is the approach.
+[2505.02s -> 2510.12s]  I was living in rural Japan and I was opening up hacker news every morning
+[2510.12s -> 2514.32s]  and I was reading the news and, uh, it was all, it just started to be like
+[2514.32s -> 2518.22s]  AI stuff at some point and, uh, I started to use some of these early products.
+[2518.22s -> 2521.62s]  And, uh, I remember like the first couple of times that I used it, I was
+[2521.62s -> 2523.82s]  just like, it just took my breath away.
+[2524.12s -> 2526.22s]  That was like very cheesy to say, but that was actually, that was actually
+[2526.22s -> 2528.32s]  the feeling like it was just like, it was amazing.
+[2528.32s -> 2532.42s]  Like as a, as a builder, I've just never kind of felt, felt this feeling
+[2532.62s -> 2534.42s]  like using these very, very early products.
+[2534.72s -> 2537.32s]  That was like in the quad two days or something like that.
+[2537.52s -> 2541.42s]  And so I just started talking to friends at labs, um, just to kind of see
+[2541.42s -> 2547.22s]  what was going on, um, and, uh, I met Ben Mann, who's one of the founders at
+[2547.22s -> 2550.62s]  a, at Anthropic and, uh, he just immediately won me over.
+[2551.02s -> 2554.22s]  Um, and as soon as I met kind of the rest of the team at and it just won me over.
+[2554.52s -> 2555.72s]  And I think, I think probably in two ways.
+[2555.72s -> 2558.12s]  So one is it operates as a research lab.
+[2558.62s -> 2561.62s]  Um, so the product world was teeny, teeny tiny.
+[2561.62s -> 2563.72s]  It's really all about building a safe model.
+[2564.02s -> 2564.92s]  That's all that matters.
+[2565.52s -> 2568.42s]  Um, and so this idea of just being very close to the model and being very close
+[2568.42s -> 2573.02s]  to development and being not the most important thing because the product isn't
+[2573.02s -> 2575.52s]  anymore, it's just the model is the thing that's the most important.
+[2576.22s -> 2579.32s]  Um, that really resonated with me after building product for many years.
+[2579.52s -> 2582.72s]  And then the second thing was just how mission driven it is.
+[2582.92s -> 2585.02s]  Um, like I'm, I'm a huge sci-fi reader.
+[2585.02s -> 2586.92s]  My bookshelf was just like filled with sci-fi.
+[2587.32s -> 2589.32s]  And so like, I just know how bad this can go.
+[2589.92s -> 2593.02s]  And when I kind of think about what's going to happen this year, you
+[2593.02s -> 2594.62s]  know, it's going to be totally insane.
+[2595.22s -> 2597.22s]  And in the worst case, it can go very, very bad.
+[2597.82s -> 2600.32s]  Um, and so I just wanted to be at a place that really understood that
+[2600.32s -> 2601.72s]  and kind of really internalize that.
+[2602.12s -> 2605.62s]  And at, and, you know, like if you overhear conversations in the lunchroom
+[2605.62s -> 2607.92s]  or in the hallway, people are talking about AI safety.
+[2608.32s -> 2611.52s]  This is really the thing that everyone cares about more than anything.
+[2612.12s -> 2614.12s]  Um, and so I just wanted to be in a place like that.
+[2614.22s -> 2616.82s]  I know, I know for me personally, the mission is just so important.
+[2617.22s -> 2618.52s]  What is going to happen this year?
+[2620.02s -> 2620.32s]  Okay.
+[2620.32s -> 2624.52s]  So if you think back like six months ago and, uh, kind of what are the
+[2624.52s -> 2625.52s]  predictions that people are making?
+[2625.52s -> 2629.22s]  So Dario predicted that 90% of the code at Anthropic would be,
+[2629.22s -> 2630.32s]  would be written by quad.
+[2630.32s -> 2631.02s]  This is true.
+[2631.72s -> 2635.62s]  Um, for me personally, it's been a hundred percent for like, since opus
+[2635.62s -> 2638.42s]  4.5, um, I just, I uninstalled my IDE.
+[2638.92s -> 2640.62s]  I don't edit a single line of code by hand.
+[2640.72s -> 2642.52s]  It's just a hundred percent quad code and opus.
+[2643.42s -> 2646.12s]  Um, and you know, I land, you know, like 20 hours a day, every day.
+[2646.42s -> 2650.62s]  If you look at Anthropic overall, it ranges between like 70 to 90%.
+[2650.92s -> 2653.42s]  Uh, you know, depending on the team for a lot of teams, it's also like a
+[2653.42s -> 2655.22s]  hundred percent for a lot of people, it's a hundred percent.
+[2655.92s -> 2660.12s]  And I remember making this prediction back in May when we GA'd quad code
+[2660.22s -> 2662.22s]  that you wouldn't need an IDE to code anymore.
+[2662.72s -> 2666.12s]  Uh, and it was totally crazy to say, I feel like people in the audience
+[2666.12s -> 2669.72s]  gasped because it was such like a silly prediction at the time, but really
+[2669.72s -> 2672.42s]  all it is is like, you just like trace the, you know, the exponential.
+[2672.92s -> 2675.42s]  And this is just like so deep in, you know, the DNA at hand.
+[2675.42s -> 2678.72s]  Cause like, you know, three of our founders were coauthors of the scaling
+[2678.72s -> 2681.92s]  laws paper, they kind of, they saw this very early and so this is just like
+[2682.02s -> 2685.02s]  tracing the exponential, this is what's going to happen and yes, that happened.
+[2685.72s -> 2689.42s]  So continuing to trace the exponential, I think what will happen is coding will
+[2689.42s -> 2690.72s]  be generally solved for everyone.
+[2691.62s -> 2694.22s]  Um, and I think today coding is practically solved, you know, for me.
+[2694.22s -> 2695.62s]  And I think it'll be the case for everyone.
+[2695.92s -> 2699.42s]  Um, you know, regardless of domain, I think we're going to start to see the
+[2699.42s -> 2700.72s]  title of software engineer go away.
+[2701.12s -> 2704.52s]  And I think it's just going to be maybe builder, maybe product manager.
+[2704.82s -> 2708.42s]  Maybe we'll keep the title as kind of a vestigial thing, but the work that people
+[2708.42s -> 2709.82s]  do, it's not just going to be coding.
+[2709.82s -> 2712.42s]  It's software engineers are also going to be writing specs.
+[2712.42s -> 2713.72s]  They're going to be talking to users.
+[2714.22s -> 2716.82s]  Like this thing that we're starting to see right now on our team where
+[2717.22s -> 2721.72s]  engineers are very much generalists and every single function on our team codes,
+[2721.72s -> 2726.92s]  like our PMs code, our designers code, our EM codes are, um, like everyone
+[2726.92s -> 2729.82s]  our, our finance guy codes, like everyone on our team codes.
+[2730.32s -> 2731.62s]  We're going to start to see this everywhere.
+[2731.82s -> 2734.52s]  So this is sort of, uh, this is kind of like the lower bound.
+[2734.62s -> 2738.52s]  If we just continue the trend, the upper bound, I think is a lot scarier.
+[2738.92s -> 2742.92s]  Um, and this is something like, you know, we hit ASL four, um, and the, you know,
+[2742.92s -> 2746.12s]  at entropic, we talked about these safety levels is so three is where the
+[2746.12s -> 2746.92s]  models are right now.
+[2746.92s -> 2747.22s]  Yes.
+[2747.22s -> 2749.62s]  Oh, four is the model is recursively self-improving.
+[2750.22s -> 2752.82s]  Um, and so if this happens, essentially we have to meet a bunch of criteria
+[2752.82s -> 2754.02s]  before we can release a model.
+[2754.32s -> 2758.12s]  And so the extreme is that, you know, this happens, um, or there's some kind
+[2758.12s -> 2762.72s]  of catastrophic misuse, like people are using the model to design bio viruses,
+[2762.72s -> 2764.42s]  design zero days, stuff like this.
+[2764.92s -> 2767.22s]  Um, and this is something that we're really, really actively working on.
+[2767.22s -> 2768.02s]  So that doesn't happen.
+[2768.42s -> 2772.32s]  I think, uh, it's just been, honestly, it's just been like so exciting and humbling,
+[2772.52s -> 2774.02s]  like seeing how people are using quad code.
+[2774.32s -> 2777.62s]  Like, uh, you know, I just wanted to build a cool thing and it ended
+[2777.62s -> 2778.62s]  up being really useful.
+[2778.82s -> 2781.02s]  Uh, and that was so surprising and so exciting.
+[2781.32s -> 2785.02s]  My impression from Twitter or just the outside is basically everyone went away
+[2785.02s -> 2788.12s]  over the holidays and then like found out about Claude code and it's just
+[2788.12s -> 2789.32s]  been crazy ever since.
+[2789.32s -> 2792.02s]  Is that how it was for you at like in turn?
+[2792.02s -> 2795.72s]  Did you, were you having like a nice Christmas break and then came
+[2795.72s -> 2796.92s]  back and like what happened?
+[2797.22s -> 2800.62s]  Well, actually for all of December I was traveling around, uh, and I took
+[2800.62s -> 2803.12s]  a coding vacation, so we were kind of traveling around and I was just like
+[2803.12s -> 2805.02s]  coding every day, so that was really nice.
+[2805.32s -> 2808.22s]  Uh, and then I also started to use Twitter at the time cause like I worked
+[2808.22s -> 2810.02s]  on threads back then, way back when.
+[2810.02s -> 2811.82s]  So I've been a threads user for a while.
+[2812.12s -> 2815.22s]  So I just like tried to see kind of like other platforms where people are.
+[2815.52s -> 2815.72s]  Yeah.
+[2815.72s -> 2818.22s]  I think for a lot of people, they kind of discover, that was the moment where
+[2818.22s -> 2820.32s]  they discovered Opus 4.5, I kind of already knew.
+[2820.52s -> 2823.82s]  Uh, and internally, quad code has just been on this like exponential
+[2823.82s -> 2825.72s]  tear for many, many months now.
+[2825.72s -> 2828.12s]  So that just like, it became even more steep.
+[2828.92s -> 2829.62s]  That's what we saw.
+[2829.82s -> 2832.92s]  And if you look at quad code now, you know, there was some stat from
+[2832.92s -> 2837.32s]  Mercury that like 70% of startups are, you know, choosing quad as their model
+[2837.32s -> 2837.92s]  of choice.
+[2838.52s -> 2841.92s]  There were some other stat from like semi-analysis that 4% of all public
+[2841.92s -> 2843.22s]  commits are made by quad code.
+[2843.72s -> 2845.72s]  Um, like of all code written everywhere.
+[2845.72s -> 2846.02s]  I understand that.
+[2846.12s -> 2849.12s]  All the companies, you know, use quad code from like the biggest companies to
+[2849.62s -> 2851.12s]  kind of, you know, smallest startups.
+[2851.52s -> 2854.62s]  You know, like it, it wrote, it, it plotted the course for perseverance.
+[2854.62s -> 2857.92s]  Like for like the Mars Rover, this is just like, this is the coolest thing
+[2857.92s -> 2860.92s]  for me and we like, we even printed posters cause the team was like, wow,
+[2860.92s -> 2861.82s]  this is just like so cool.
+[2861.82s -> 2863.32s]  The NASA chooses to use this thing.
+[2863.62s -> 2864.92s]  So yeah, it's just like, it's humbling.
+[2865.02s -> 2866.92s]  Um, but it also feels like the very beginning.
+[2867.42s -> 2871.72s]  What's the sort of interaction between a quad code and then co-work like, you
+[2871.72s -> 2874.52s]  know, was it a fork of quad code?
+[2874.52s -> 2879.72s]  Was it like, you had quad code, look at the quad code code and say, let's
+[2879.72s -> 2883.72s]  make a new spec for non-technical people that, you know, keeps all the
+[2883.72s -> 2886.92s]  lessons and then, you know, it sort of went off for a couple of days and did
+[2886.92s -> 2887.32s]  that.
+[2887.42s -> 2888.62s]  What's the genesis of that?
+[2888.62s -> 2890.72s]  And, you know, where do you think that goes?
+[2891.32s -> 2893.92s]  This is going to be like my fifth time using the word wait and demand.
+[2895.12s -> 2896.82s]  It was just that, I mean, like we were looking at.
+[2896.92s -> 2899.32s]  Twitter and there was like that one guy that was using quad code to like
+[2899.32s -> 2900.62s]  monitor his tomato plants.
+[2901.52s -> 2904.52s]  There was like this other person that was using it to like recover wedding
+[2904.52s -> 2906.12s]  photos off of a corrupted hard drive.
+[2906.62s -> 2909.62s]  There are people that using it for like, uh, for finance.
+[2909.82s -> 2913.32s]  When we looked internally at Anthropic, every designer is using it.
+[2913.32s -> 2915.52s]  All the entire finance team at this point is using it.
+[2915.92s -> 2918.02s]  The entire data science team is using it, not for coding.
+[2918.42s -> 2920.82s]  People are jumping over hoops to install a thing in the terminal so
+[2920.82s -> 2921.62s]  that they can use this.
+[2921.82s -> 2923.82s]  So we knew for a while that we wanted to build something.
+[2923.82s -> 2926.32s]  And so we're experimenting with a bunch of different ideas.
+[2926.62s -> 2929.22s]  And the thing that kind of took off was just, you know, a little
+[2929.22s -> 2931.42s]  quad code wrapper in a GUI in the desktop app.
+[2931.62s -> 2932.32s]  And that's all it is.
+[2932.32s -> 2933.52s]  It's just quad code under the hood.
+[2933.72s -> 2934.42s]  It's the same agent.
+[2934.62s -> 2935.02s]  Oh, wow.
+[2935.42s -> 2939.62s]  Um, and, uh, Felix and the team and Felix was an early electron contributor.
+[2939.82s -> 2942.62s]  He kind of knows that stack really well and he was hacking on various ideas.
+[2943.42s -> 2946.52s]  And, uh, they, they built it in, I think something like 10 days.
+[2946.62s -> 2948.82s]  It was, it was just like a hundred percent written by quad code.
+[2949.32s -> 2951.52s]  Uh, and it just felt ready to release.
+[2951.82s -> 2955.22s]  There was a lot of stuff that we had to build for non-technical users.
+[2955.22s -> 2957.52s]  So it's a little bit different than a technical audience.
+[2958.12s -> 2960.92s]  Uh, it runs in a, all the code runs in a virtual machine.
+[2961.32s -> 2964.82s]  Uh, there's a lot of the protections for deletion and things like this.
+[2965.32s -> 2969.02s]  There's a lot of permission prompting and kind of other guardrails for users.
+[2969.82s -> 2972.02s]  Um, but yeah, it was honestly pretty obvious.
+[2972.42s -> 2976.92s]  Boris, thank you so much for making something that is taking away all my
+[2976.92s -> 2982.02s]  sleep, but in return, it's making me feel creator mode again, sort of founder mode.
+[2982.02s -> 2984.72s]  Again, it's been an exhilarating three weeks.
+[2984.72s -> 2988.12s]  I can't believe I waited that long since November to actually get into it.
+[2988.22s -> 2990.22s]  Thank you so much for being with us.
+[2990.22s -> 2992.32s]  Thank you for building what you're building.
+[2992.62s -> 2992.92s]  Yeah.
+[2992.92s -> 2994.92s]  Thanks for having me and send bugs.
+[2996.32s -> 2996.92s]  Sounds good.

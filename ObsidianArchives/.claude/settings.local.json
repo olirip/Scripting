@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/olivier/Library/CloudStorage/Dropbox/Data/**)",
+      "Read(//Users/olivier/Obsidian/Main/**)",
+      "Bash(chmod +x:*)",
+      "Bash(crontab:*)"
+    ]
+  }
+}

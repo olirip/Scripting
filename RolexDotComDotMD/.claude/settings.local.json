@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.rolex.com)",
+      "Bash(/Users/olivier/.local/bin/lightpanda --help)",
+      "Bash(npm info:*)",
+      "Bash(/Users/olivier/.local/bin/lightpanda fetch:*)",
+      "Bash(curl -s \"https://defuddle.md/https://example.com\")",
+      "Bash(brew list:*)",
+      "Read(//Users/olivier/.local/bin/**)",
+      "Read(//Library/Frameworks/Python.framework/Versions/3.12/bin/**)"
+    ]
+  }
+}

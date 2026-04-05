@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scripting Projects</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --tag-python: #3572A5;
+      --tag-node: #f1e05a;
+      --tag-shell: #89e051;
+      --tag-js: #f1e05a;
+      --tag-unknown: #6e7681;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem;
+    }
+
+    header {
+      max-width: 960px;
+      margin: 0 auto 2rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    header p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    .filters {
+      max-width: 960px;
+      margin: 0 auto 1.5rem;
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .filters button {
+      background: var(--surface);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.85rem;
+      border-radius: 2rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.15s;
+    }
+
+    .filters button:hover,
+    .filters button.active {
+      color: var(--text);
+      border-color: var(--accent);
+      background: rgba(88, 166, 255, 0.1);
+    }
+
+    .grid {
+      max-width: 960px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      transition: border-color 0.15s;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+    }
+
+    .card h2 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .tag {
+      font-size: 0.7rem;
+      font-weight: 500;
+      padding: 0.15rem 0.5rem;
+      border-radius: 2rem;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .tag-python { background: var(--tag-python); }
+    .tag-node { background: #b08800; color: #000; }
+    .tag-shell { background: #2ea043; }
+    .tag-javascript { background: #b08800; color: #000; }
+    .tag-unknown { background: var(--tag-unknown); }
+
+    .card p {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .usage {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.6rem 0.75rem;
+      font-family: "SF Mono", "Fira Code", "Fira Mono", Menlo, monospace;
+      font-size: 0.8rem;
+      color: var(--accent);
+      overflow-x: auto;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+
+    .files {
+      margin-top: 0.6rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .files span {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.75rem;
+      background: var(--bg);
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+      margin-right: 0.3rem;
+    }
+
+    .empty { display: none; }
+
+    @media (max-width: 640px) {
+      body { padding: 1rem; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>~/Developer/Scripting</h1>
+    <p>Personal toolbox &mdash; scrapers, media processors, data tools, and experiments.</p>
+  </header>
+
+  <div class="filters">
+    <button class="active" data-filter="all">All</button>
+    <button data-filter="python">Python</button>
+    <button data-filter="node">Node</button>
+    <button data-filter="javascript">JS / Browser</button>
+    <button data-filter="shell">Shell</button>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <script>
+    const projects = [
+      {
+        name: "Aspirateur",
+        description: "Website downloader that fetches complete sites from sitemaps, converts URLs to relative paths, and creates offline-browsable directories.",
+        tech: "node",
+        usage: "npm install && node aspirateur.js <sitemap-url> [--output dir] [--delay ms] [--no-assets]",
+        files: ["aspirateur.js", "serve.js"]
+      },
+      {
+        name: "AudioTxt",
+        description: "Real-time microphone transcription using MLX Parakeet on Apple Silicon, with optional speaker diarization and AI summarization.",
+        tech: "python",
+        usage: "uv sync && uv run audiotxt.py",
+        files: ["audiotxt.py", "summarize.py"]
+      },
+      {
+        name: "CloudinaryErrors",
+        description: "Processes Cloudinary error reports from Excel files into structured JSON, organized by referrer, user agent, and error code.",
+        tech: "python",
+        usage: "pip install openpyxl && python process_errors.py",
+        files: ["process_errors.py", "parsing.py"]
+      },
+      {
+        name: "Frame",
+        description: "Extracts individual frames from video files at a given fps using FFmpeg and saves them as JPEGs.",
+        tech: "python",
+        usage: "uv sync && uv run python frame.py <video> [--fps n] [--output dir]",
+        files: ["frame.py"]
+      },
+      {
+        name: "Gyroscopique",
+        description: "Demo using device gyroscope/accelerometer to control a spatial photo viewer with parallax effect, served over HTTPS.",
+        tech: "node",
+        usage: "bun run server.js  # runs on port 4000 with HTTPS",
+        files: ["server.js", "gyroscope.js", "index.html"]
+      },
+      {
+        name: "MBX-ModHeader",
+        description: "Chrome extension to modify HTTP request headers and cookies on any website, with per-site control and persistent storage.",
+        tech: "javascript",
+        usage: "Load unpacked in Chrome at chrome://extensions/",
+        files: ["manifest.json", "background.js", "popup.js"]
+      },
+      {
+        name: "Newsroom",
+        description: "Processes Rolex newsroom Excel data with enrichment and filling capabilities, extracting and organizing publication metadata.",
+        tech: "python",
+        usage: "python script.py  # requires openpyxl, requests",
+        files: ["script.py"]
+      },
+      {
+        name: "pdfMarkdown",
+        description: "Converts PDF files to clean Markdown using pymupdf4llm, stripping image placeholders.",
+        tech: "python",
+        usage: "python pdf2md.py <path/to/file.pdf>",
+        files: ["pdf2md.py"]
+      },
+      {
+        name: "Scripts",
+        description: "Utility bash script for creating git worktrees with automatic copying of .env and certificate files.",
+        tech: "shell",
+        usage: "./create-worktree.sh <worktree-path>",
+        files: ["create-worktree.sh"]
+      },
+      {
+        name: "Sharp-Apple-3D",
+        description: "Processes images into 3D Gaussian Splatting models (.ply) using Apple's Sharp model from Hugging Face.",
+        tech: "python",
+        usage: "uv venv && source .venv/bin/activate && python process_images.py\n# Place images in ./input",
+        files: ["process_images.py", "generate_viewers.py", "server.js"]
+      },
+      {
+        name: "sitemap-extractor",
+        description: "Fetches XML sitemaps and exports URLs to CSV with metadata. Supports sitemap indices, RMC filtering, and language exclusion.",
+        tech: "python",
+        usage: "uv run sitemap_to_csv.py <url> [--recursive] [--filter-rmc] [--exclude-lang fr] [-o out.csv]",
+        files: ["sitemap_to_csv.py"]
+      },
+      {
+        name: "Sort_Images",
+        description: "Organizes photos from multiple sources into a date-based directory structure (Year/MM_Month/), using EXIF data when available.",
+        tech: "python",
+        usage: "python sort.py [--dry-run]\n# Reads from Photos/ and DuplicatedPhotos/, outputs to Sorted/",
+        files: ["sort.py"]
+      },
+      {
+        name: "Spatial",
+        description: "Extracts and views stereoscopic images from iPhone spatial photos (HEIC), with multiple 3D modes: parallax, side-by-side, anaglyph, wigglegram.",
+        tech: "python",
+        usage: "uv run spatial_photo_viewer.py [--server] [--port 3000]\nuv run spatial_photo_viewer.py <file.heic> [--output-dir dir]",
+        files: ["spatial_photo_viewer.py"]
+      },
+      {
+        name: "Strava",
+        description: "Tracks shoe mileage evolution over time from Strava activities, with Redis caching and a Streamlit dashboard.",
+        tech: "python",
+        usage: "uv sync && uv run python get_all_shoes.py [--authorize]\nstreamlit run app.py",
+        files: ["get_all_shoes.py", "app.py", "redis_client.py"]
+      },
+      {
+        name: "Transcribe",
+        description: "CLI tool that transcribes audio files using MLX-Whisper with GPU acceleration on Apple Silicon, auto-detects language.",
+        tech: "python",
+        usage: "uv sync && uv run transcribe [--lang code]",
+        files: ["transcribe.py"]
+      },
+      {
+        name: "haptic",
+        description: "Demo of iOS haptic feedback using the ios-haptics package, with scroll-based triggers and visual feedback.",
+        tech: "node",
+        usage: "npm install && npm run dev",
+        files: ["scroll.js"]
+      },
+      {
+        name: "theatre",
+        description: "React Three Fiber 3D graphics project built with Bun, with hot reload dev server.",
+        tech: "node",
+        usage: "bun install && bun run dev",
+        files: ["server.js"]
+      },
+      {
+        name: "theHarvester",
+        description: "OSINT reconnaissance tool for penetration tests \u2014 gathers emails, IPs, subdomains, and URLs from public sources (Shodan, Censys, etc.).",
+        tech: "python",
+        usage: "uv sync && uv run theHarvester -d <domain> -b <source>",
+        files: ["theHarvester.py"]
+      },
+      {
+        name: "tuiles",
+        description: "Interactive photo book viewer with 3D page-turning animations, horizontal scrolling navigation, and multiple viewing controls.",
+        tech: "node",
+        usage: "# No build step \u2014 open index.html in a browser",
+        files: ["tuiles.js", "index.html"]
+      },
+      {
+        name: "RolexDotComDotMD",
+        description: "Scrapes rolex.com pages using Playwright and Defuddle, converting them to clean Markdown.",
+        tech: "node",
+        usage: "npm install && npm run scrape",
+        files: ["scrape.mjs"]
+      }
+    ];
+
+    const grid = document.getElementById("grid");
+    const filterBtns = document.querySelectorAll(".filters button");
+
+    function render(filter) {
+      grid.innerHTML = "";
+      const filtered = filter === "all"
+        ? projects
+        : projects.filter(p => p.tech === filter);
+
+      filtered.forEach(p => {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.dataset.tech = p.tech;
+        card.innerHTML = `
+          <h2>${p.name} <span class="tag tag-${p.tech}">${p.tech}</span></h2>
+          <p>${p.description}</p>
+          <div class="usage">${p.usage}</div>
+          <div class="files">${p.files.map(f => `<span>${f}</span>`).join("")}</div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener("click", () => {
+        filterBtns.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        render(btn.dataset.filter);
+      });
+    });
+
+    render("all");
+  </script>
+</body>
+</html>

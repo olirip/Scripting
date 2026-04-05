@@ -1,0 +1,13 @@
+{
+  "name": "rolexdotcomdotmd",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "defuddle": "^0.15.0",
+    "playwright": "^1.59.1"
+  }
+}

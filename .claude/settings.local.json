@@ -5,7 +5,8 @@
       "Bash(chmod:*)",
       "Bash(uv add:*)",
       "Bash(uv remove:*)",
-      "Bash(npm install)"
+      "Bash(npm install)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ],
     "deny": [],
     "ask": []
