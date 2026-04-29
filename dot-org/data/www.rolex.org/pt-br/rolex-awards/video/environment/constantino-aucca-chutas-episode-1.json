@@ -1,0 +1,2444 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "pt-BR",
+      "wa": {
+        "contentTag": "environment/conservation/rolex-awards",
+        "pageType": "video page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "video",
+        "environmentName": "production",
+        "pageName": "rolex-awards:video:environment:constantino-aucca-chutas-episode-1",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/laureates/2023/constantino-aucca-chutas/episode-1/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-1"
+      ],
+      "item": {
+        "datePublished": "2024-05-03T08:25:57Z",
+        "dateModified": "2024-05-24T07:37:44Z"
+      }
+    },
+    "route": {
+      "name": "constantino-aucca-chutas-episode-1",
+      "displayName": "constantino-aucca-chutas-episode-1",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "video"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Laureado dos Prêmios Rolex 2023 – Constantino Aucca Chutas – Episódio 1 "
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Descendente de fazendeiros quéchuas, o biólogo Constantino Aucca Chutas sentiu a necessidade de agir há 30 anos, quando se deu conta dos danos causados às florestas do Peru pela descontrolada exploração ilegal de madeira, pelos incêndios florestais e pelo tráfico de terras."
+        },
+        "Video": {
+          "value": true
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "0min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-01-thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": "dark"
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+          "url": "/Content/PageType/video-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "2023 Rolex Awards Laureate - Constantino Aucca Chutas - Episode 1"
+        },
+        "metadescription": {
+          "value": "O biólogo Constantino Aucca Chutas, descendente de fazendeiros quéchuas, dedicou sua vida ao reflorestamento dos altos Andes. Assista ao vídeo em rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+          "url": "/Content/Category/Environment",
+          "fields": {
+            "name": {
+              "value": "Environment"
+            },
+            "dictionaryKey": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1000"
+        },
+        "tag2": {
+          "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+          "url": "/Content/Category/Conservation",
+          "fields": {
+            "name": {
+              "value": "Conservation"
+            },
+            "dictionaryKey": {
+              "value": "conservation"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "1000"
+        },
+        "tag3": {
+          "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+          "url": "/Content/Category/RolexAwards",
+          "fields": {
+            "name": {
+              "value": "Rolex Awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag_video": {
+          "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+          "url": "/Content/Category/RolexAwards",
+          "fields": {
+            "name": {
+              "value": "Rolex Awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": "02:58"
+        },
+        "previewTitle": {
+          "value": "Laureado dos Prêmios Rolex 2023: Constantino Aucca Chutas – Episódio 1"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-01-thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Meio ambiente"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "6f62e2fc-97c4-4dba-a009-6be5c1f88c28",
+      "itemLanguage": "pt-BR",
+      "itemVersion": 17,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "82d038b8-821b-5de2-96ec-4ad3f0e8b4ba",
+                  "componentName": "VideoPlaylist",
+                  "dataSource": "{A8535C08-5108-47EF-9C4D-E52AC7C91CF0}",
+                  "params": {},
+                  "fields": {
+                    "video_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/constantino-aucca-chutas/episode-1/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-1.mp4"
+                    },
+                    "date": {
+                      "value": "Maio de 2024"
+                    },
+                    "description": {
+                      "value": "Raízes ancestrais"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/constantino-aucca-chutas/episode-1/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-01-posterframe.jpg"
+                    },
+                    "title": {
+                      "value": "Laureado dos Prêmios Rolex 2023: Constantino Aucca Chutas – Episódio 1"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "us_text": {
+                      "value": ""
+                    },
+                    "us_video_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards/environment/constantino-aucca-chutas"
+                    },
+                    "text": {
+                      "value": "Descendente de fazendeiros quéchuas, o biólogo Constantino Aucca Chutas sentiu a necessidade de agir há 30 anos, quando se deu conta dos danos causados às florestas do Peru pela descontrolada exploração ilegal de madeira, pelos incêndios florestais e pelo tráfico de terras. O Laureado dos Prêmios Rolex 2023 fundou a Asociación de Ecosistemas Andinos (ECOAN) em 2000, com o objetivo de proteger os ecossistemas das montanhas de seu país. Dezoito anos mais tarde, ele cofundou a Acción Andina – reconhecida pelas Nações Unidas como um exemplo de ação climática bem-sucedida – para implementar o seu modelo de reflorestação em toda a região andina, estimulando milhares de comunidades a realizar o plantio de milhões de árvores."
+                    },
+                    "time": {
+                      "value": "02:58"
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": [
+                      {
+                        "name": "denica-riadini-flesch-episode-2",
+                        "id": "72f6f2f8fabb45a6ad817ed2027aad75",
+                        "url": "/rolex-awards/video/cultural-heritage/denica-riadini-flesch-episode-2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Laureada dos Prêmios Rolex de Empreendedorismo 2023 – Denica Riadini-Flesch – Episódio 2"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Denica Riadini-Flesch, Laureada dos Prêmios Rolex 2023, colocou as mulheres e a natureza no centro de seus esforços de empreendedorismo e inovação. A SukkhaCitta, marca de roupas fundada por ela, está ajudando mulheres de comunidades rurais a recuperar técnicas tradicionais e sustentáveis para o plantio e a fabricação têxtil. O projeto já tocou a vida de mais de 1.400 pessoas, principalmente agricultores, tecelãs e costureiras. Além disso, solos anteriormente estéreis estão em regeneração, e as toxinas provenientes dos processos de tintura deixaram de entrar em contato com a terra."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": ""
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/denica-riadini-flesch/rolex-org-rae-2023-laureates-denica-riadini-flesch-episode-02-thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards Laureate - Denica Riadini-Flesch - Episode 2"
+                          },
+                          "metadescription": {
+                            "value": "Graças ao seu projeto, Denica Riadini-Flesch está conseguindo não apenas recuperar práticas nativas de plantio e tintura, mas também regenerar a própria terra. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "1d8f84a8-e9f9-5b51-8e40-d1f52e156e36",
+                            "url": "/Content/Category/Cultural-Heritage",
+                            "fields": {
+                              "name": {
+                                "value": "Cultural Heritage"
+                              },
+                              "dictionaryKey": {
+                                "value": "cultural-heritage"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1510"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "02:33"
+                          },
+                          "previewTitle": {
+                            "value": "Laureada dos Prêmios Rolex 2023: Denica Riadini-Flesch – Episódio 2"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/denica-riadini-flesch/rolex-org-rae-2023-laureates-denica-riadini-flesch-episode-02-thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "rolex-awards"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "constantino-aucca-chutas-episode-2",
+                        "id": "2689447909454ae78cd151c0580dcb23",
+                        "url": "/rolex-awards/video/environment/constantino-aucca-chutas-episode-2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Laureado dos Prêmios Rolex 2023 – Constantino Aucca Chutas – Episódio 2 "
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "As florestas de <i>Polylepis</i> nativas dos altos Andes são imprescindíveis para a segurança hídrica dos Andes até a Amazônia. Com crescimento de até 5.000 metros acima do nível do mar, elas não apenas reduzem a erosão do solo e propiciam um habitat para a vida selvagem, mas também atuam como uma “torre de água” natural em grande escala."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-02-thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards Laureate - Constantino Aucca Chutas - Episode 2"
+                          },
+                          "metadescription": {
+                            "value": "O biólogo Constantino Aucca Chutas está salvando o maior ciclo de água da região amazônica ao reflorestar as florestas andinas de <i>Polylepis</i>. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1005"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1005"
+                          },
+                          "tag3": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "02:31"
+                          },
+                          "previewTitle": {
+                            "value": "Laureado dos Prêmios Rolex 2023: Constantino Aucca Chutas – Episódio 2"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-02-thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "beth-koigi-episode-2",
+                        "id": "0270a895088e45e290c0266e2f791e47",
+                        "url": "/rolex-awards/video/applied-technology/beth-koigi-episode-2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Laureada dos Prêmios Rolex 2023 – Beth Koigi – Episódio 2"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "A atmosfera cont&eacute;m seis vezes mais &aacute;gua do que todos os rios do mundo juntos.&nbsp;"
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-02-thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 2"
+                          },
+                          "metadescription": {
+                            "value": "A atmosfera contém seis vezes mais água do que todos os rios do mundo juntos."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                            "url": "/Content/Category/Applied-Technology",
+                            "fields": {
+                              "name": {
+                                "value": "Applied Technology"
+                              },
+                              "dictionaryKey": {
+                                "value": "applied-technology"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": ""
+                          },
+                          "tag2": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "02:35"
+                          },
+                          "previewTitle": {
+                            "value": "Laureada dos Prêmios Rolex 2023: Beth Koigi – Episódio 2"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-02-thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Tecnologia aplicada"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "placeholders": {
+                    "jss-related-videos": [
+                      {
+                        "uid": "d744dad9-9608-40f9-8cc7-071d06b1985f",
+                        "componentName": "RelatedItems",
+                        "dataSource": "{5DAEF2C1-C9D4-42B4-B223-4F2D4E03646A}",
+                        "params": {},
+                        "fields": {
+                          "title": {
+                            "value": "Descubra os nossos vídeos relacionados"
+                          },
+                          "relatedItems": [
+                            {
+                              "id": "26894479-0945-4ae7-8cd1-51c0580dcb23",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Laureado dos Prêmios Rolex 2023 – Constantino Aucca Chutas – Episódio 2 "
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "As florestas de <i>Polylepis</i> nativas dos altos Andes são imprescindíveis para a segurança hídrica dos Andes até a Amazônia. Com crescimento de até 5.000 metros acima do nível do mar, elas não apenas reduzem a erosão do solo e propiciam um habitat para a vida selvagem, mas também atuam como uma “torre de água” natural em grande escala."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-02-thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2023 Rolex Awards Laureate - Constantino Aucca Chutas - Episode 2"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo Constantino Aucca Chutas está salvando o maior ciclo de água da região amazônica ao reflorestar as florestas andinas de <i>Polylepis</i>. Assista ao vídeo em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1005"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1005"
+                                },
+                                "tag3": {
+                                  "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                  "url": "/Content/Category/RolexAwards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Rolex Awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                  "url": "/Content/Category/RolexAwards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Rolex Awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "02:31"
+                                },
+                                "previewTitle": {
+                                  "value": "Laureado dos Prêmios Rolex 2023: Constantino Aucca Chutas – Episódio 2"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-02-thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "81e0e3d6-14f0-44fe-a0c1-e4589935e074",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Laureado dos Prêmios Rolex 2023 – Constantino Aucca Chutas – Episódio 3 "
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte de sua campanha massiva de reflorestamento, Constantino Aucca Chutas, Laureado dos Prêmios Rolex 2023, mobilizou milhares de pessoas de vilarejos dos Andes."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-03-thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2023 Rolex Awards Laureate - Constantino Aucca Chutas - Episode 3"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo Constantino Aucca Chutas está mobilizando as comunidades locais como parte dos seus esforços massivos de reflorestamento nos Andes. Assista ao vídeo em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1010"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1010"
+                                },
+                                "tag3": {
+                                  "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                  "url": "/Content/Category/RolexAwards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Rolex Awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                  "url": "/Content/Category/RolexAwards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Rolex Awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "02:32"
+                                },
+                                "previewTitle": {
+                                  "value": "Laureado dos Prêmios Rolex 2023: Constantino Aucca Chutas – Episódio 3"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-episode-03-thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "31d873fe-f167-4711-a6e5-ea066802cf49",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": ""
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Expedição Perpetual Planet à Amazônia – Na floresta nublada – Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte da Expedição Perpetual Planet à Amazônia da Rolex e da National Geographic, a bióloga quéchua e Exploradora da National Geographic, Ruthmery Pillco Huarcaya, está em busca de ursos-andinos, mamíferos que atuam na regeneração das florestas nubladas, que, por sua vez, fornecem água à bacia do rio Amazonas."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 28s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/amazon-rainforest-expeditions/ruthmery-pillco-huarcaya/rolex-org-environment-perpetual-planet-in-the-cloud-forest-thumbnail-video.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Perpetual Planet Amazon Expedition - In the Cloud Forest - Video"
+                                },
+                                "metadescription": {
+                                  "value": "Ruthmery Pillco Huarcaya tem revelado como os ursos-andinos podem impactar o futuro das florestas nubladas e da bacia do rio Amazonas. Assista ao vídeo em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1800"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1600"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "02:28"
+                                },
+                                "previewTitle": {
+                                  "value": "Na floresta nublada – Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/amazon-rainforest-expeditions/ruthmery-pillco-huarcaya/rolex-org-environment-perpetual-planet-in-the-cloud-forest-thumbnail-video.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "8b2716ed-f60f-4da5-9548-d371683177d2",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes – Great Spine of Africa – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Após inúmeras e arriscadas expedições, o explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Com o apoio da Rolex, ele agora está usando essa descoberta para exigir a tomada de medidas concretas para proteger essa área vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "O explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protegendo nossas águas"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploração"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e a expedição ao rio Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte das expedições Great Spine of Africa para proteger a segurança hídrica do continente africano, Steve Boyes, conservacionista e parceiro da Iniciativa Perpetual Planet da Rolex, mapeou uma importante nascente do rio Congo às Terras Altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Como parte das expedições Great Spine of Africa, o conservacionista Steve Boyes examinou o rio Cassai, uma importante nascente do rio Congo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "O rio Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e o rio Lungué-Bungo – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Graças à Iniciativa Perpetual Planet, a Rolex tem o prazer de contribuir para as expedições do projeto Great Spine of Africa, que atravessam milhares de quilômetros de rios nunca antes documentados cientificamente. O trabalho realizado nessas expedições é crucial para proteger as comunidades locais e os animais selvagens que dependem dos grandes rios africanos para sobreviver."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Por meio de sua Iniciativa Perpetual Planet, a Rolex apoia Steve Boyes em sua expedição pelo inexplorado rio Lungué-Bungo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Os segredos do poderoso rio Zambeze"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O prêmio Rolex National Geographic Explorer of the Year agracia exploradores cujo compromisso com um planeta perpétuo mobiliza grande atenção para temas, descobertas e desafios importantes enfrentados pelo nosso planeta. "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra os vencedores do Rolex National Geographic Explorers of the Year: a equipe do Okavango Wilderness Project e o seu projeto em prol de um planeta perpétuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O biólogo marinho colombiano, Fernando Trujillo, foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa, uma espécie emblemática da Amazônia, e de seu habitat."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo marinho Fernando Trujillo foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: por paixão pelos botos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

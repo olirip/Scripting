@@ -1,0 +1,794 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "rolex-awards",
+        "pageType": "content page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "laureates",
+        "environmentName": "production",
+        "pageName": "rolex-awards:latest-laureates",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/laureates/2023/cover/long-film/rolex-org-rae-latest-laureates-2023-announcement-long-film"
+      ],
+      "item": {
+        "datePublished": "2019-04-26T15:37:37Z",
+        "dateModified": "2024-02-19T14:00:26Z"
+      }
+    },
+    "route": {
+      "name": "latest-laureates",
+      "displayName": "latest-laureates",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "laureates"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Awards for Enterprise - Latest Laureates"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "The Rolex Awards support individuals with original ideas who are making the world a better place. Discover their inspiring projects."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1min 25s"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-thumbnail-landing.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "ea3c95c4-0952-4824-a627-ddae6be14661",
+          "url": "/Content/PageType/content-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex Awards for Enterprise - Latest Laureates"
+        },
+        "metadescription": {
+          "value": "Discover the 2023 Rolex Awards Laureates, five pioneers striving to improve lives while protecting the planet for future generations. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": "#fff"
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+          "url": "/Content/Category/RolexAwards",
+          "fields": {
+            "name": {
+              "value": "Rolex Awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Latest Laureates  - The Rolex Awards "
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-thumbnail-landing.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Rolex Awards"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "a7fee072-6a44-5901-ab05-4515eec17ea7",
+      "itemLanguage": "en",
+      "itemVersion": 15,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "9e82490a-d69d-42ed-946d-263fcfebf3d7",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{AD903319-019D-4791-A557-7847E01D69F1}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/long-film/rolex-org-rae-latest-laureates-2023-announcement-long-film.mp4"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/autoplay/rolex-org-rae-latest-laureates-2023-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/autoplay/rolex-org-rae-latest-laureates-2023-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "100vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/autoplay/rolex-org-rae-latest-laureates-2023-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "CELEBRATING THE 2023 LAUREATES"
+                    },
+                    "subtitle": {
+                      "value": "Perpetual Planet Initiative"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/long-film/rolex-org-rae-latest-laureates-2023-announcement-long-film-posterframe.jpg"
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/cover/autoplay/rolex-org-rae-latest-laureates-2023-cover-autoplay-posterframe-portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "b81ad7d0-3449-431f-81e8-56adfd49b74b",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{CBE5FA12-2170-481D-B967-361499D5A8E4}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": "black"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p style=color:black><i>A part of the Perpetual Planet Initiative, the Rolex Awards for Enterprise support exceptional individuals with innovative projects in areas as diverse as creating technologies that improve lives, saving endangered ecosystems, protecting the oceans, exploring new frontiers on the planet, or pioneering advances in science and health.</i></p>"
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": "/data/media/img/static/logo_perpetual_planet_02.svg"
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "799b670b-fd0f-45c9-b624-11b8e1102517",
+                  "componentName": "TextSection",
+                  "dataSource": "{F89B3589-AB22-4513-8618-803039D14807}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Global Pioneers"
+                    },
+                    "text": {
+                      "value": "<b>The five Laureates of the 2023 Rolex Awards for Enterprise were selected by an independent jury of 10 international experts. They share a common goal: to improve lives while protecting the planet for future generations.</b>\n<br/><br/>\nTheir inspiring projects include: providing clean water to communities in Kenya’s arid regions; protecting one of the last primary forests in West Africa; saving East Asia’s critically endangered wild camels; mobilizing community-led reforestation in the high Andes; and creating a farm-to-closet supply chain in Indonesia, benefiting rural craftswomen and the environment.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "21522899-fed6-47e6-a056-cf2090c963d7",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{3B313E87-5C4B-4E2E-AC7B-012DF67A28AB}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-awards/applied-technology/beth-koigi"
+                    },
+                    "descriptionText": {
+                      "value": "The atmosphere contains six times more water than all of the world’s rivers combined. Kenyan entrepreneur Beth Koigi’s atmospheric water generators draw clean water from the air, helping to alleviate acute water shortages. Her generators are providing drinking water in arid regions all over the world."
+                    },
+                    "descriptionTitle": {
+                      "value": "Extracting water from the air"
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-beth-koigi-rae23-koigi-23ed-5158.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-beth-koigi-rae23-koigi-23ed-5158-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Kenya"
+                    },
+                    "textColor": {
+                      "value": "#67B175"
+                    },
+                    "title": {
+                      "value": "Beth Koigi"
+                    }
+                  }
+                },
+                {
+                  "uid": "d2bc11c7-a0c7-4dda-a7c1-9a92d32cfd8f",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{10ACF6FC-AA58-4CD0-96AB-9B9B5B4717C5}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-awards/environment/inza-kone"
+                    },
+                    "descriptionText": {
+                      "value": "The Tanoé-Ehy Forest is one of West Africa’s last primary forests. Thanks to the work of Ivorian primatologist Inza Koné, it was designated a community-managed natural reserve. He is working to scale up his forest conservation model across the region to better protect its unique biodiversity."
+                    },
+                    "descriptionTitle": {
+                      "value": "Protecting Africa’s forests"
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-inza-kone-rae23-kone-23nq-5041.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-inza-kone-rae23-kone-23nq-5041-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Tanoé-Ehy Forest, Côte d’Ivoire"
+                    },
+                    "textColor": {
+                      "value": "#67B175"
+                    },
+                    "title": {
+                      "value": "Inza Koné"
+                    }
+                  }
+                },
+                {
+                  "uid": "90bb8161-1ff5-46bf-a4dd-ccea861cd6cd",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{CC35DAEB-AD60-4744-8967-8CEA064F28AE}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-awards/environment/liu-shaochuang"
+                    },
+                    "descriptionText": {
+                      "value": "Wild camels have roamed the Gobi Desert for thousands of years, but now they are critically endangered. Chinese remote sensing specialist Liu Shaochuang uses satellite technology to monitor herds far more efficiently than traditional tracking methods allow. His findings will be instrumental in establishing two extensive conservation zones across China and Mongolia."
+                    },
+                    "descriptionTitle": {
+                      "value": "Tracking wild camels with satellites"
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-liu-shaochuang-rae23-liu-23lx-5031-r.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-liu-shaochuang-rae23-liu-23lx-5031-r-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Gobi desert, Mongolia and China"
+                    },
+                    "textColor": {
+                      "value": "#67B175"
+                    },
+                    "title": {
+                      "value": "Liu Shaochuang"
+                    }
+                  }
+                },
+                {
+                  "uid": "fdcf880e-df7b-4ddd-895e-d3bc5f2e2654",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{BE42B5FB-77B4-415A-B522-763AF5491294}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-awards/environment/constantino-aucca-chutas"
+                    },
+                    "descriptionText": {
+                      "value": "In the high Andes, only two per cent of the original forest remains. Peruvian biologist Constantino Aucca Chutas has been working with indigenous communities to reforest the area and to protect its unique ecosystems. Since beginning this project, he has been responsible for planting 4.5 million trees in Peru alone."
+                    },
+                    "descriptionTitle": {
+                      "value": "Community-led reforestation in the Andes"
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-constantino-aucca-chutas-rae23-aucca-chutas-23slm-026.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-constantino-aucca-chutas-rae23-aucca-chutas-23slm-026-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "High Andes"
+                    },
+                    "textColor": {
+                      "value": "#67B175"
+                    },
+                    "title": {
+                      "value": "Constantino Aucca Chutas"
+                    }
+                  }
+                },
+                {
+                  "uid": "b18da97d-472a-4ccf-a764-5b8bb704caff",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{42BD531D-71C7-4DA5-8875-741CB35143A8}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-awards/cultural-heritage/denica-riadini-flesch"
+                    },
+                    "descriptionText": {
+                      "value": "Indonesian entrepreneur Denica Riadini-Flesch is changing the future for rural craftswomen through her farm-to-closet clothing brand. She pays them a fair living wage for traditionally crafted clothing made from materials grown using regenerative agriculture, thereby breathing new life into the country’s rich heritage."
+                    },
+                    "descriptionTitle": {
+                      "value": "Regenerating land, lives and tradition in Indonesia"
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-denica-riadini-flesch-rae23-riadini-flesch-23sa-0115.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/landing-page/rolex-org-rae-2023-laureates-denica-riadini-flesch-rae23-riadini-flesch-23sa-0115-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Indonesia"
+                    },
+                    "textColor": {
+                      "value": "#67B175"
+                    },
+                    "title": {
+                      "value": "Denica Riadini-Flesch"
+                    }
+                  }
+                },
+                {
+                  "uid": "881122a8-e578-4320-9b5c-7f45e6341509",
+                  "componentName": "Paragraph",
+                  "dataSource": "{D028DDB8-798C-4E6F-AC97-0B0B8E65DDCE}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<br/>\n<br/>"
+                    }
+                  }
+                },
+                {
+                  "uid": "1cd0629c-30d1-4225-840e-859b2eee036c",
+                  "componentName": "Sharing",
+                  "dataSource": "{1DEA1ED9-7887-4CAF-88D0-06408EB16F64}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "4fda3421-d3d5-472f-a209-2cc43ef5ece2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

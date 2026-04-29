@@ -1,0 +1,2196 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "pt-BR",
+      "wa": {
+        "contentTag": "visao",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "visao",
+        "environmentName": "production",
+        "pageName": "partnerships:visao:emma-camp",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2020-11-13T10:22:07Z",
+        "dateModified": "2023-11-30T09:41:11Z"
+      }
+    },
+    "route": {
+      "name": "emma-camp",
+      "displayName": "emma-camp",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "visao"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Parcerias Rolex – A corrida de uma bióloga para salvar os corais"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Uma jovem bióloga inglesa está numa corrida para salvar a Grande Barreira de Coral na Austrália. Será que vai a tempo?"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 12s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/visao/emma-camp/thumbnail_emma_camp.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "\"Within a week, healthy and vibrant corals had turned white\""
+        },
+        "metadescription": {
+          "value": "A Grande Barreira de Coral é o maior organismo vivo do planeta. Descubra como a Laureada Rolex Emma Camp pretende salvar estes corais em rolex.org.\r\n"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "63335e33-cad5-41bb-b86b-75a0aee361ba",
+          "url": "/Content/Category/visao",
+          "fields": {
+            "name": {
+              "value": "Visão"
+            },
+            "dictionaryKey": {
+              "value": "visao"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "100"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "10"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "2ac50680-efcc-4c9f-bd6c-1c40334abccd",
+          "url": "/Content/Hub/Minisites/visao",
+          "fields": {
+            "name": {
+              "value": "visao"
+            },
+            "dictionaryKey": {
+              "value": "view-visao"
+            },
+            "url": {
+              "value": "/partnerships/visao"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Numa semana, corais saudáveis e vibrantes ficaram brancos"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/visao/emma-camp/thumbnail_emma_camp.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Parcerias"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "e252c384-5b9c-45de-ba2c-a081fb1c6ec6",
+      "itemLanguage": "pt-BR",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{FDC0B6B4-7AC9-4884-AE0E-8BFA40BD9E6E}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_cover_1920x900_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Numa semana, corais saudáveis e vibrantes ficaram brancos"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/align-left/rolex_partners_logo_Visao_align_left_white.svg"
+                    },
+                    "suptitle": {
+                      "value": "OCEANO DE ESPERANÇA"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_cover_1920x900.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b8646911-8a37-49f0-bc7e-686cfa4bf4bb",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{2AD36D27-FDBF-4A88-B1D0-D4DFE93390F4}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#135C62"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#7FB9AD"
+                    },
+                    "time": {
+                      "value": "2min 16s"
+                    },
+                    "date": {
+                      "value": "fevereiro de 2020"
+                    },
+                    "text": {
+                      "value": "<b>Numa semana, corais saudáveis e vibrantes ficaram brancos.\r\n</b><br/>\r\nUma jovem bióloga inglesa está numa corrida para salvar a Grande Barreira de Coral na Austrália. Será que vai a tempo?<br/><br/>Por Bruno Lobo, Visão"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_poster_frame_1920x1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B17FEA17-810B-442D-91B0-C88ABC8EB8A8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Em 2016, Emma Camp aterrava pela primeira vez em Sydney. Na bagagem levava um doutoramento em Biologia Marinha, uma bolsa de investigação atribuída pelo governo australiano e um plano para salvar os corais. Ainda não tinha completado 30 anos, mas “para uma bióloga de corais, não havia melhor sítio no mundo para trabalhar”, diz-nos agora, aos 32, a partir do seu laboratório na University of Technology Sydney."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{AEA4BD6D-F516-40A7-AD74-503185FE4267}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_natgeo_emma_camp_square_960x960_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_natgeo_emma_camp_square_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D0C055C2-FD4A-4659-A56D-13D7861ADFBA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "\r\nInfelizmente, mal tinha chegado à Austrália quando começou “a grande descoloração”, um fenómeno provocado por um aumento na temperatura das águas do mar que afetou praticamente todas as colónias de corais do mundo. O evento repetiu-se no ano seguinte e, para se perceber a dimensão dos danos, apenas 10% a 40% dos recifes sobreviveram intactos. Da segunda vez, Camp assistiu, impotente, a um cenário devastador: “No espaço de uma semana, corais saudáveis, vibrantes e cheios de cor ficaram completamente brancos”. Já tinham sucedido eventos semelhantes, mas nunca com esta magnitude. A Grande Barreira de Coral da Austrália (GBC) perdeu um terço da sua superfície, um terço de uma área equivalente à Itália. \r\n<br/><br/>\r\n“Muita gente pensa erradamente que os corais são plantas, quando, na verdade são animais, embora compostos também por microalgas que vivem na pele. As microalgas são responsáveis por fornecer a maioria dos nutrientes, através da fotossíntese, mas os corais também se alimentam de outras algas e de pequenos peixes”, explica. Por isso, quando os vossos filhos perguntarem qual é o maior animal da terra não lhes respondam que é a baleia-azul ou o elefante, mas a Grande Barreira de Coral. É, de facto, o maior organismo vivo, composto por dois mil e muitos recifes individuais.\r\n<br/><br/>\r\nMas a GBC, tal como todos os outros corais do mundo, está perigosamente ameaçada pelas alterações climáticas. Águas mais quentes, com menos oxigénio, e mais ácidas provocam stresse aos corais que expulsam as algas coloridas do seu organismo, perdendo a cor. Como as algas são a principal fonte de energia, o coral morre em poucos dias."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{96A59965-B3BE-4120-9AEA-6F9D421EC1D8}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_big-visual_1728x1290_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_big-visual_1728x1290.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FB462020-AA7F-4C8F-B29F-F188415D6573}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": true
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Uma catástrofe de consequências inimagináveis para o planeta, e, no entanto, os cientistas sabem que as ocorrências de descoloração vão repetir-se, porventura “com maior frequência e intensidade”. “Uma parte importante da comunidade científica acredita mesmo que, em 2030, todos os corais possam já ter morrido”. \r\n<br/><br/>\r\nMas Emma Camp quer ter uma palavra a dizer sobre o assunto. Ainda durante o doutoramento, descobriu que junto dos mangais, em locais como a Nova Caledónia, existem colónias que sobrevivem e prosperam em ambientes muito mais hostis. “Porque não olhar para a natureza e tentar perceber como esses corais se adaptaram e a que custo?”, pensou. Na expectativa de descobrir como funciona essa resiliência transplantaram corais destes mangais para a Grande Barreira, e vice-versa e estão a analisar como as espécies evoluem nos novos ambientes: “A ideia é, obviamente, identificar as melhores para poder replantar os recifes caso seja necessário”.\r\n<br/><br/>\r\nO seu trabalho tem sido reconhecido pela comunidade científica, como aconteceu recentemente ao ser eleita Associate Laureus, nos Rolex Awards for Enterprise. A iniciativa decorreu em Washington DC, em paralelo com o festival Explorers, da National Geographic. Antes, já tinha sido eleita Jovem Líder para o Desenvolvimento Sustentável das Nações Unidas, discursando perante uma plateia de líderes mundiais: “Nem toda a gente consegue perceber a importância de perder um ecossistema como um recife, e estes prémios fornecem uma plataforma para o comunicar, não só aos líderes, mas ao mundo”.\r\n<br/><br/>\r\nPorque ainda hoje Emma Camp se lembra bem do dia em que meteu a cabeça dentro de água e viu, pela primeira vez, “aquela cidade subaquática, cheia de cor e vida”. Sendo inglesa, “não tinha grande contacto com recifes de coral, mas tive a sorte de a minha família ter ido passar umas férias às Caraíbas quando tinha 6 anos”. Privilégio que ela se esforça por passar às próximas gerações.\r\n\r\n<br/><br/>\r\n<i>Artigo publicado na revista VISÃO em parceria com a Rolex, no âmbito do projeto Oceano de Esperança, para dar voz a pessoas e organizações extraordinárias que trabalham para construir um planeta e um futuro mais sustentáveis.</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{BCA1FE22-80C5-4336-9CD6-3F6082525314}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>Este artigo foi escrito em parceria com:</b>\r\n"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": "visao"
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://visao.sapo.pt/especiais/oceanodeesperanca/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "Site da VISÃO"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "600b54c6-449d-4be7-b735-8b1031b1a335",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E6CDBA08-2620-4D9C-9D11-216F0009B2C6}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_banner_1920x1080_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/visao/emma-camp/rolex_org_nat_geo_emma_camp_banner_1920x1080.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "caa53685-08b6-4612-9d22-83c146621a61",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{7AAB920F-83A6-4FEC-B540-C3F98655A05C}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Artigos relacionados"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "a0fcc5fa-19ec-48d7-8433-728f8d8e5b03",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "visao"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Parcerias Rolex – Proteger a Natureza com as comunidades locais"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Aos 36 anos, João Campos-Silva está numa missão para salvar o peixe gigante da Amazónia. E, com ele, todo o ecossistema do rio"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/visao/joao-campos-silva/thumbnail_joao_campos_silva.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "The protection of nature "
+                          },
+                          "metadescription": {
+                            "value": "O projeto do Laureado Rolex João Campos-Silva de salvar o ecossistema do Amazonas também trouxe benefícios para as comunidades locais envolvidas no processo. Saiba mais em rolex.org.\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "63335e33-cad5-41bb-b86b-75a0aee361ba",
+                            "url": "/Content/Category/visao",
+                            "fields": {
+                              "name": {
+                                "value": "Visão"
+                              },
+                              "dictionaryKey": {
+                                "value": "visao"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "120"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "2ac50680-efcc-4c9f-bd6c-1c40334abccd",
+                            "url": "/Content/Hub/Minisites/visao",
+                            "fields": {
+                              "name": {
+                                "value": "visao"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-visao"
+                              },
+                              "url": {
+                                "value": "/partnerships/visao"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A proteção da Natureza "
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/visao/joao-campos-silva/thumbnail_joao_campos_silva.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Parcerias"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "55ae67b4-fb42-4730-8ee3-92a258c23043",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "visao"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Parcerias Rolex – Uma vida inteira salvando as populações de pinguins"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "14 das 18 espécies de pinguins existentes no mundo estão em risco. Pablo García Borboroglu fez sua missão de vida salvá-los."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 5s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/visao/pablo-garcia-borboroglu/thumbnail_pablo_garcia_borboroglu.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Penguins face threats at sea and on land"
+                          },
+                          "metadescription": {
+                            "value": "O biólogo Pablo García Borboroglu dedicou a sua vida à proteção dos pinguins e aumentou a conscientização sobre o declínio da espécie. Saiba mais em rolex.org.\r\n\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "63335e33-cad5-41bb-b86b-75a0aee361ba",
+                            "url": "/Content/Category/visao",
+                            "fields": {
+                              "name": {
+                                "value": "Visão"
+                              },
+                              "dictionaryKey": {
+                                "value": "visao"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "110"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "2ac50680-efcc-4c9f-bd6c-1c40334abccd",
+                            "url": "/Content/Hub/Minisites/visao",
+                            "fields": {
+                              "name": {
+                                "value": "visao"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-visao"
+                              },
+                              "url": {
+                                "value": "/partnerships/visao"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Os pinguins enfrentam ameaças no mar e em terra"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/visao/pablo-garcia-borboroglu/thumbnail_pablo_garcia_borboroglu.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Parcerias"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "fac7beb0-250e-4ff5-a722-5268a38fd896",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "visao"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Parcerias Rolex – O coração azul do nosso planeta"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Sylvia Earle recebeu mais de 32 graus honorários e é autora de mais de 225 publicações científicas e técnicas."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 19s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/visao/sylvia-earle/rolex_org_visao_big_thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Sylvia Earle, Legendary Pioneer Of Underwater Exploration"
+                          },
+                          "metadescription": {
+                            "value": "Pioneira do mundo subaquático, Sylvia Earle tem como missão proteger os oceanos graças a uma rede de Hope Spots. Saiba mais em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "63335e33-cad5-41bb-b86b-75a0aee361ba",
+                            "url": "/Content/Category/visao",
+                            "fields": {
+                              "name": {
+                                "value": "Visão"
+                              },
+                              "dictionaryKey": {
+                                "value": "visao"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "2ac50680-efcc-4c9f-bd6c-1c40334abccd",
+                            "url": "/Content/Hub/Minisites/visao",
+                            "fields": {
+                              "name": {
+                                "value": "visao"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-visao"
+                              },
+                              "url": {
+                                "value": "/partnerships/visao"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Sylvia Earle, lendária pioneira do mundo subaquático"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/visao/sylvia-earle/rolex_org_visao_big_thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Parcerias"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "91bf6008-1bba-4bfd-8a5e-34cef1e201c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{0CDCA71E-679A-4E21-A9E1-087D5040C354}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/partnerships/visao"
+                    },
+                    "anchorText": {
+                      "value": "Descubra"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/visao/rolex_org_natgeo_push_1920x1080.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Partnership Series"
+                    },
+                    "title": {
+                      "value": "Oceano de Esperança"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": "/data/media/img/visao/rolex_org_natgeo_push_1920x1080.jpg"
+                    },
+                    "posterPortrait": {
+                      "value": "/data/media/img/visao/rolex_org_natgeo_push_1920x1080_portrait.jpg"
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{67520072-6A7E-4CA7-8063-2439670F99D9}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "273690ec-40b1-45c6-b281-9cb3b16c86d7",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes – Great Spine of Africa – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Após inúmeras e arriscadas expedições, o explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Com o apoio da Rolex, ele agora está usando essa descoberta para exigir a tomada de medidas concretas para proteger essa área vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "O explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protegendo nossas águas"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploração"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e a expedição ao rio Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte das expedições Great Spine of Africa para proteger a segurança hídrica do continente africano, Steve Boyes, conservacionista e parceiro da Iniciativa Perpetual Planet da Rolex, mapeou uma importante nascente do rio Congo às Terras Altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Como parte das expedições Great Spine of Africa, o conservacionista Steve Boyes examinou o rio Cassai, uma importante nascente do rio Congo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "O rio Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e o rio Lungué-Bungo – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Graças à Iniciativa Perpetual Planet, a Rolex tem o prazer de contribuir para as expedições do projeto Great Spine of Africa, que atravessam milhares de quilômetros de rios nunca antes documentados cientificamente. O trabalho realizado nessas expedições é crucial para proteger as comunidades locais e os animais selvagens que dependem dos grandes rios africanos para sobreviver."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Por meio de sua Iniciativa Perpetual Planet, a Rolex apoia Steve Boyes em sua expedição pelo inexplorado rio Lungué-Bungo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Os segredos do poderoso rio Zambeze"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O prêmio Rolex National Geographic Explorer of the Year agracia exploradores cujo compromisso com um planeta perpétuo mobiliza grande atenção para temas, descobertas e desafios importantes enfrentados pelo nosso planeta. "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra os vencedores do Rolex National Geographic Explorers of the Year: a equipe do Okavango Wilderness Project e o seu projeto em prol de um planeta perpétuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O biólogo marinho colombiano, Fernando Trujillo, foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa, uma espécie emblemática da Amazônia, e de seu habitat."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo marinho Fernando Trujillo foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: por paixão pelos botos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

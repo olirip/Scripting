@@ -1,0 +1,19 @@
+---
+title: "Colaboraciones Rolex - En guerra contra las superbacterias"
+url: "https://www.rolex.org/es/partnerships/national-geographic-spain/hosam-zowawi"
+---
+
+[Ir directamente al pie de página](#footer)
+
+Idiomas
+
+- [Français](https://www.rolex.org/fr/partnerships/national-geographic-spain/hosam-zowawi)
+- [Português](https://www.rolex.org/pt-br/partnerships/national-geographic-spain/hosam-zowawi)
+- [English](https://www.rolex.org/partnerships/national-geographic-spain/hosam-zowawi)
+- [简体中文](https://www.rolex.org/zh-hans/partnerships/national-geographic-spain/hosam-zowawi)
+- [Deutsch](https://www.rolex.org/de/partnerships/national-geographic-spain/hosam-zowawi)
+- [繁體中文](https://www.rolex.org/zh-hant/partnerships/national-geographic-spain/hosam-zowawi)
+- [Italiano](https://www.rolex.org/it/partnerships/national-geographic-spain/hosam-zowawi)
+- [日本語](https://www.rolex.org/ja/partnerships/national-geographic-spain/hosam-zowawi)
+- [Español](https://www.rolex.org/es/partnerships/national-geographic-spain/hosam-zowawi)
+- [한국어](https://www.rolex.org/ko/partnerships/national-geographic-spain/hosam-zowawi)

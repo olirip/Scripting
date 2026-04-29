@@ -1,0 +1,2908 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "it",
+      "wa": {
+        "contentTag": "exploration",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "perpetual-planet",
+        "environmentName": "production",
+        "pageName": "environment:perpetual-planet:yucatan-cave-expedition",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2021-12-08T11:27:10Z",
+        "dateModified": "2023-01-26T09:17:44Z"
+      }
+    },
+    "route": {
+      "name": "yucatan-cave-expedition",
+      "displayName": "yucatan-cave-expedition",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "perpetual-planet"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Perpetual Planet - Una spedizione nei sistemi di grotte dello Yucatán"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "L’inquinamento provocato dalle città e dal turismo sta contaminando la falda acquifera che è l’unica risorsa di acqua dolce dello Yucat&aacute;n. Nell’ambito di una spedizione di due settimane sostenuta dall’Iniziativa Perpetual Planet, sei delle migliori speleologhe subacquee al mondo hanno mappato sistemi di grotte e raccolto campioni d’acqua in cavità sommerse che non erano mai state esplorate nel corso dell’era moderna."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Yucatán, Mexico — A giant aquifer under siege"
+        },
+        "metadescription": {
+          "value": "Robbie Schmittner ha condotto una spedizione scientifica nelle grotte della penisola dello Yucat&aacute;n, in Messico, per trovare una soluzione all’inquinamento delle acque. Scopri di più su Rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "100"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Un’enorme falda acquifera in pericolo"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Perpetual Planet"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "e87848a3-5d41-434a-90ce-6d6fc2b5a3c1",
+      "itemLanguage": "it",
+      "itemVersion": 28,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "56652c13-259b-473f-89fa-126a8eb5d707",
+                  "componentName": "CoverImage",
+                  "dataSource": "{9273E755-5504-4B00-8AAF-835ADFF7A6AC}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_cover-750x900_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": " Un’enorme falda acquifera<br/>in pericolo "
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "\r\n"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_cover-1920x900.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": "Penisola dello Yucatán, Messico"
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "52572e41-a86e-44ba-a6dc-b19a422c7ab6",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{8BB5F993-74AB-423C-9235-F09EB25BCDD8}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#072036"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#03446A"
+                    },
+                    "time": {
+                      "value": "2min 10s"
+                    },
+                    "date": {
+                      "value": "2021"
+                    },
+                    "text": {
+                      "value": "<b>L’inquinamento provocato dalle città e dal turismo sta contaminando la falda acquifera che è l’unica risorsa di acqua dolce della penisola dello Yucatán. Nell’ambito di una spedizione di due settimane sostenuta dall’iniziativa Perpetual Planet, sei delle migliori subacquee al mondo hanno mappato sistemi di grotte e raccolto campioni d’acqua in cavità sommerse che non erano mai state esplorate nel corso dell’era moderna.</b>"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_watching_weather-sation_0001_1140x760.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "f348ee92-c39d-4f0d-b0aa-f0bf8ac295ad",
+                  "componentName": "TextSection",
+                  "dataSource": "{1441460C-A264-4E21-B068-82CF69B9F5F3}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Armato di lampada e sagola"
+                    },
+                    "text": {
+                      "value": "È arrivato come turista, è rimasto come guida speleosubacquea, e oggi si immerge in nome della scienza. Da oltre vent’anni, ossia da quando è arrivato in Messico dalla Germania, l’esploratore di grotte sommerse Robbie Schmittner si infila nelle cavità carsiche sparse a migliaia nella penisola dello Yucatán per esplorare questo vasto mondo sotterraneo, armato di una lampada e di un sottile cavo di nylon, la sagola, per non smarrirsi. La sagola è inoltre uno strumento efficace – perfino nel XXI secolo – per effettuare misurazioni che contribuiscono alla mappatura delle grotte."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "6eb9b942-c792-49aa-9134-878b69185a3b",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{8AAF319E-115D-4F9C-9862-6901DAF3864D}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_watching_glacier_0001_1140x759.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5d4dd8ac-aee0-4879-9e81-169f6133df36",
+                  "componentName": "TextSection",
+                  "dataSource": "{0805A71E-8877-48D4-8F3C-A700805FA94D}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "UN TUFFO NELLE DOLINE"
+                    },
+                    "text": {
+                      "value": "Nel novembre del 2021 Schmittner ha condotto un team di sub professioniste in una spedizione della durata di due settimane, chiamata Xunaan‑Ha Expedition e finalizzata a esplorare cinque doline e le grotte a esse sottostanti. Si ipotizzava che queste grotte collegassero la frattura di Holbox, una serie di spaccature nel tavolato calcareo che, secondo le stime, si estende dal Belize fino a poco oltre Cancún, in Messico.\r\n<br/><br/>\r\nLa spedizione – sostenuta da Rolex nell’ambito dell’iniziativa Perpetual Planet – ha permesso a Schmittner di raccogliere dati sullo scolo delle acque piovane nello Yucatán, grazie alla scoperta di sistemi di grotte che collegano effettivamente la frattura di Holbox, e di una nuova faglia a cui ha dato il nome di frattura di Akumal. Insieme al suo team, composto interamente da donne – Tamara Lelani May (Australia), Ellen Cuylaerts (Belgio), Maria Bollerup (Danimarca), Julia Gugelmeier (Germania), Rannva Joermundsson (Isole Faroe) e Melodie Trevino (Messico) –, ha raccolto inoltre da nove siti vicino a Tulum dei campioni d’acqua che diventeranno un punto di riferimento per le future analisi di qualità dell’acqua."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "4833524a-87f8-40cd-89f6-1b2665201c73",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{5E330298-656F-4088-9F86-7CE34C9BD132}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_ecosystem-675x1100.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_ecosystem-1920x1280.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "23990b9c-0238-4b64-b8ff-89c703461cc1",
+                  "componentName": "SimpleText",
+                  "dataSource": "{229B4556-247C-43EB-B4F4-613D37D1E79C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "La massima ambizione di Schmittner è fornire una base scientifica per la gestione dell’inquinamento antropico dell’enorme falda acquifera che si estende per 165.000 km² attraverso la penisola dello Yucatán, fino al Guatemala e al Belize. Questa falda acquifera, una delle più grandi al mondo, è l’unica fonte di acqua dolce dell’area."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9755f56d-9981-49d3-8e5b-946c14410c37",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{64E27DE6-E0C7-493F-AAA9-A03D9960102D}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_watching_glacier_0002_1140x759.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f3d48944-644e-4705-8639-7cbb82039343",
+                  "componentName": "SimpleText",
+                  "dataSource": "{50A1F243-FC29-490C-8575-F7209920FD59}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "“Una migliore comprensione del sistema naturale di scolo delle acque è essenziale per proteggere gli ecosistemi, come la savana e la foresta pluviale, che dipendono da questa falda per rifornirsi di acqua”, dichiara. “I progetti scientifici indipendenti, dedicati ad esempio alla protezione dei giaguari e delle foreste di mangrovie, alla conservazione delle riserve naturali o al ripristino delle barriere coralline, sarebbero molto più efficaci se conoscessimo il percorso delle acque sotterranee, perché in alcuni casi queste acque trasportano agenti inquinanti fatali. Dobbiamo trovare le origini della contaminazione”."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5ecda9e5-f2e5-4b99-90a2-26105dd28ed7",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{A456DF75-494B-41EC-A270-FD6EDB2D159F}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_a-whale-cafe-in-the-azores-portrait-960x1500_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_a-whale-cafe-in-the-azores-portrait-960x1500.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0866fe00-4311-4a7b-8c20-0704f15ea53d",
+                  "componentName": "TextSection",
+                  "dataSource": "{47646E65-EC82-40D4-926D-2F046F1478C7}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": " UNA CAPSULA DI LUCE"
+                    },
+                    "text": {
+                      "value": "“In molti luoghi, la conoscenza dei sistemi di grotte è ridotta. Finora ne sono stati esplorati solo 1.600‑2.000 km”, racconta Schmittner, che ne ha mappati personalmente circa 400 km, scoprendo inoltre il complesso di grotte sommerse più lungo al mondo, che collega i sistemi di Sac Actun e di Dos Ojos. Nel corso dell’ultima spedizione, il team ha mappato circa 3.214 m di difficili passaggi sotterranei, una distanza “davvero impressionante” in un tempo così breve, osserva lo speleologo."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "179f27c4-f8ba-479b-9b90-3d2d100e5794",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{29E86183-8743-4AA7-B6F0-F2DC817A062A}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_deep-675x1100.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_deep-1920x1280.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "89ab4a74-9f2b-4008-9eee-01d72a6eb836",
+                  "componentName": "SimpleText",
+                  "dataSource": "{86429349-C16A-4485-BD61-E043A504A690}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "“È come trovarsi su un altro pianeta. È magnifico. Scendi in una dolina e ti immergi, l’acqua è tiepida, a 25 °C, e limpida. Nel buio, tutto ciò che hai è la tua capsula di luce e ti sembra di volare”. All’interno si dirama un labirinto di grotte di tutti i tipi, alcune immense, altre anguste, altre ancora simili a tubi dalle pareti levigate nel corso di milioni di anni, o irte di stalagmiti e stalattiti. Si potrebbe credere di essere la prima persona al mondo a penetrare in questi recessi reconditi, ma i cimeli dell’ultima era glaciale dimostrano che non è così. I livelli dell’acqua non erano allora così alti e le popolazioni dell’epoca si recavano spesso nelle grotte per attingere acqua.\r\n<br/><br/>\r\n\r\nInevitabilmente, l’esplorazione delle grotte comporta una serie di rischi. Oltre alla possibilità di perdere la sagola guida, Schmittner si ritrova spesso incastrato negli antri più piccoli. “È stressante”, spiega, “ma visto che sei entrato ne puoi anche uscire, anche se la grotta non vorrebbe lasciarti andare e hai una stalagmite impigliata nella giacca”."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8cf3cd41-1827-4ade-9c89-8ca1a3398ecc",
+                  "componentName": "Roller",
+                  "dataSource": "{194AD3C9-C273-4FB8-A800-C5E874893324}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "0ec09154-a621-49e0-91ef-d767ccd3593f",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7B09B0FD-415C-48DB-A116-BF7A875A2505}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_01_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "7340322f-1c8f-4800-b5f1-5c9865bcf4c7",
+                        "componentName": "RollerCard",
+                        "dataSource": "{C6EA79A1-3CF1-40AD-A7CB-842B8C16D62D}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_02_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "babc0333-4ecb-4278-81e6-32e239289827",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3EF9C22E-3DB1-4D6F-9041-66785884B993}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_03_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "5eba5e52-0ff3-4ab5-849a-e1a04aee7d58",
+                        "componentName": "RollerCard",
+                        "dataSource": "{83CD148B-D356-41E0-8771-ED7B0BD02EA3}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_04_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "9448db9b-14df-4ada-9549-07db15e10a22",
+                        "componentName": "RollerCard",
+                        "dataSource": "{E3309270-D7FC-4EBE-93E9-55E5FF06969A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_05_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "64fe6b3a-6042-42c6-a0d2-fb010f291a57",
+                        "componentName": "RollerCard",
+                        "dataSource": "{A7656700-56FF-4897-B3D1-F2AD07619BB8}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/roller/environment-a-giant-aquifer-under-siege_watching_over_the_earths_blue_heart_roller01_06_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "7ce53dd8-f2b0-4697-a2dc-e3ed5f8b9fcf",
+                  "componentName": "TextSection",
+                  "dataSource": "{1C6B9B2C-7F0F-4AA1-BCCE-0A6083031453}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "COME UNA SPUGNA"
+                    },
+                    "text": {
+                      "value": "La penisola dello Yucatán si distingue per il suo paesaggio. Non vi sono né fiumi né laghi, e lo strato di terreno è esiguo. Quando piove, il calcare poroso agisce come una spugna. L’acqua piovana penetra nel sottosuolo finché non incontra l’acqua salata che a sua volta si è infiltrata dall’oceano. A causa della sua minore densità, l’acqua dolce si posiziona a un livello superiore rispetto all’acqua salata all’interno della falda e può essere estratta per l’uso umano.\r\n<br/><br/>\r\nTuttavia, l’acqua dolce continua a fuoriuscire attraverso fratture nel calcare, alcune delle quali sono state causate dalla caduta della meteorite Chicxulub circa 66 milioni di anni fa. Le fratture deviano l’acqua e il risultato è un mondo capovolto, con un delta che, secondo le ipotesi, riunisce tre fiumi sotterranei interconnessi, sovrastato da un tetto di roccia anziché dal cielo.\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "6511f67d-ab9f-49ad-b305-b250d1b0cc57",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E29036C2-42F7-4B47-924C-81C08C585ED1}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_a-whale-cafe-in-the-azores-portrait-02_960x1500.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3c73dee9-6e26-4035-b78f-4aa2f635404e",
+                  "componentName": "TextSection",
+                  "dataSource": "{C445CA4E-E8EF-4AEA-A05B-09EF44BC1213}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "UNA VISIONE D’INSIEME"
+                    },
+                    "text": {
+                      "value": "Utilizzando le informazioni raccolte dalle immagini satellitari, dall’esplorazione delle grotte e dallo studio delle correnti interne e oceaniche, Schmittner ha formulato una visione d’insieme del sistema di scolo. “Dato come fatto che le fratture principali sono collegate, è possibile che la maggior parte delle precipitazioni siano raccolte e convogliate verso la costa caraibica attraverso le fratture e i sistemi di grotte correlati”, spiega. “Le forti correnti provenienti dal Sud America si ritrovano estremamente compresse quando passano per il canale dello Yucatán in direzione del golfo del Messico, e questo causa una forza di suzione potentissima. L’acqua dolce viene così risucchiata dalle fratture di Holbox e di Akumal, prossime alla costa caraibica, dove lo strato di calcare è relativamente sottile, fino alla punta nord‑orientale della penisola. È così che si sono formati 2.000 km di passaggi sotterranei lungo la costa caraibica”."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "2a2ac42e-d912-4aa4-a693-2f2347be1f91",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{4F56AFCC-2792-4E8A-9AA5-0492E3884C40}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege-02_deep-675x1100.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege-02_deep-1920x1280.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "3edfd014-5afe-436c-9706-83c3cfa6c12b",
+                  "componentName": "TextSection",
+                  "dataSource": "{01D10F41-E3A1-4303-862A-573EA098A098}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "LE PRESSIONI DEL TURISMO"
+                    },
+                    "text": {
+                      "value": "La situazione dello Yucatán è tutt’altro che rosea. A una popolazione di circa 2,3 milioni si aggiungono 6 milioni di turisti ogni anno, e vi sono pressioni per attirarne ancora di più. Il turismo è l’unico vero settore economico nella regione, perché il terreno è troppo povero per l’agricoltura. La penisola si è sviluppata comunque, usando l’acqua dolce estratta dalla falda acquifera senza troppi riguardi per la fragilità e la vulnerabilità di quest’ultima, secondo Schmittner.\r\n<br/><br/>\r\nLa maggior parte degli scarichi finisce per penetrare nella falda acquifera tramite fosse settiche straripanti e discariche a cielo aperto. “Non c’è un sistema di trattamento delle acque reflue a Tulum e le condizioni sono simili in altri luoghi”, aggiunge lo speleologo. “L’acqua arriva da sud‑ovest relativamente pulita, viene contaminata, e si riversa nell’oceano attraverso le fratture di Akumal e di Holbox, inquinando gli ecosistemi sul suo percorso”.\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "3a17fe09-6448-434b-85df-500e5e4b5139",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{AA927524-DD31-4B80-AFA8-B20770645171}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_watching_glacier_0003_1140x759.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1c1222ab-a029-43fb-8309-a5d405568daf",
+                  "componentName": "TextSection",
+                  "dataSource": "{6D6EBEB0-C1F0-4803-8C8D-4566AF55E08F}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "L’ISTITUTO DI RICERCA"
+                    },
+                    "text": {
+                      "value": "Come risultato della spedizione, la geologia, l’idrologia e la chimica dell’acqua dei sistemi di grotte saranno analizzate da vari dipartimenti universitari in Messico e negli Stati Uniti. Nel prossimo futuro, Schmittner prevede di fondare un Istituto per l’acqua e per la giungla a Tulum, che sarà dedito all’istruzione, alla ricerca e ad attività di consulenza. “Gli studenti universitari e i dottorandi svolgeranno qui ricerche che avranno implicazioni globali, poiché le falde acquifere delle regioni costiere e aride sono in pericolo. Dobbiamo salvaguardarle per le generazioni a venire”."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "e4900571-900e-4ba5-b855-08bd51c05625",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{38399D9D-C808-4FF2-ABFC-62BB96A2B558}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/yucatan-expedition/environment-a-giant-aquifer-under-siege_bottom-banner-1920x680.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2b517aff-969b-48ed-ba2f-a2062c7b4326",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{3230EB1C-25BB-465F-957C-2D9329259B4A}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Articoli correlati"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "9c58db97-89ab-5cce-849b-a4d08a302676",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-long-standing-passion-for-adventure"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Un impegno di lunga data - Ambiente"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "La storia tra Rolex e l’esplorazione si lega ad alcune delle più grandi avventure umane del secolo scorso. Gli orologi Oyster hanno accompagnato spedizioni sul Tetto del Mondo e nelle profondità oceaniche e, generazione dopo generazione, gli esploratori ne hanno certificato l’affidabilità negli ambienti più ostili."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6min 48s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/a-long-standing-passion-for-adventure/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A long-standing commitment - Environment"
+                          },
+                          "metadescription": {
+                            "value": "Scopri la storia delle straordinarie innovazioni Rolex, profondamente legate alle più grandi spedizioni alpinistiche, polari e subacquee del secolo scorso."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "320"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Un impegno di lunga data"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/a-long-standing-passion-for-adventure/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "75132546-c15f-5719-a25c-b1781c0bbd13",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mt-everest-sensors-new-insights-climate-change"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Sensori sull’Everest per offrire nuove prospettive sul cambiamento climatico"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Nel maggio del 2019 una spedizione guidata da National Geographic nell’ambito dell’Iniziativa Perpetual Planet, in collaborazione con Rolex, ha installato sull’Everest la stazione meteorologica più alta del mondo."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 54s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mt-everest-sensors-new-insights-climate-change/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Mt Everest sensors give new insights into climate change"
+                          },
+                          "metadescription": {
+                            "value": "Scopri come, nell’ambito dell’Iniziativa Perpetual Planet, Rolex e National Geographic hanno portato a termine una spedizione per installare la stazione meteorologica più alta del mondo."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2500"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Sensori sull’Everest per offrire nuove prospettive sul cambiamento climatico"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mt-everest-sensors-new-insights-climate-change/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "851d1afd-a22f-409d-975a-0ce2aa43b58c",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": ""
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Awards - Avventure nel mondo sotterraneo"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Il regno nascosto delle grotte ha aperto un nuovo mondo agli scienziati e agli esploratori grazie a speleologi come Francesco Sauro, le cui numerose spedizioni hanno fornito un archivio del tempo per le generazioni future."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "5min 41s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex Awards - Venturer in the underworld"
+                          },
+                          "metadescription": {
+                            "value": "Francesco Sauro, speleologo e Vincitore dei Rolex Awards, esplora le grotte più profonde al mondo per scoprire forme di vita finora sconosciute. Scopri di più su rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "20"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "20"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "L’esploratore del mondo sotterraneo"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Esplorazione"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "5c38aa45-eb35-4eab-a444-6e3a14ee1f94",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "Scopri"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Ambiente"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "67af39a5-6fe7-42b9-ba5e-8d09ec8ba486",
+                  "componentName": "Sharing",
+                  "dataSource": "{3BA16DD7-E724-4C1B-AC86-DB919F4A764F}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ae3a50dd-b3bf-4684-812f-ce32a49b5ba3",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "d6c1927c-99c4-4b86-bfd4-9955951f178b",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa di Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dopo una serie di spedizioni rischiose, l’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Con il sostegno di Rolex, Boyes sta utilizzando questa scoperta per garantire una protezione concreta a questa zona di vitale importanza."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Proteggere l’acqua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Esplorazione"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e la spedizione sul fiume Kasai - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, che mirano a proteggere la sicurezza idrica nel continente africano, l’ambientalista e partner dell’Iniziativa Perpetual Planet di Rolex Steve Boyes ha localizzato un’importante sorgente del fiume Congo negli altipiani dell’Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, l’ambientalista Steve Boyes ha condotto ricerche sul fiume Kasai, un’importante sorgente del fiume Congo. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il fiume Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e il fiume Lungué‑Bungo - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene le spedizioni Great Spine of Africa, che attraversano migliaia di chilometri di fiumi mai documentati prima d’ora. Queste ricerche contribuiranno a proteggere le comunità e la fauna selvatica che dipendono dai grandi fiumi d’Africa."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene la spedizione di Steve Boyes mirata a studiare il fiume Lungué‑Bungo, finora inesplorato. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il possente fiume Zambesi e i suoi segreti"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il premio Rolex National Geographic Explorer of the Year è un riconoscimento assegnato a esploratori il cui impegno per un pianeta perpetuo contribuisce a far luce su importanti questioni, scoperte e sfide che la Terra si trova ad affrontare."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Scopri il vincitore del Rolex National Geographic Explorer of the Year 2019 e il suo impegno per un pianeta perpetuo: il team dell’Okavango Wilderness Project."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il biologo marino colombiano Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia del delfino rosa del Rio delle Amazzoni e dell’ecosistema fluviale in cui vive."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Il biologo marino Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia dei delfini del Rio delle Amazzoni. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: un amore per i delfini di fiume"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,1767 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "perpetual",
+        "pageType": "article page",
+        "pageSiteSection": "perpetual",
+        "pageSiteSubSection": "rolex-training-centre",
+        "environmentName": "production",
+        "pageName": "perpetual:rolex-training-centre",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2020-06-02T15:49:13Z",
+        "dateModified": "2021-10-25T09:12:11Z"
+      }
+    },
+    "route": {
+      "name": "rolex-training-centre",
+      "displayName": "rolex-training-centre",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "rolex-training-centre"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Training Centre - A commitment to training"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Highly qualified employees are essential to create and manufacture quality watches. That is why at Rolex, learning and passing on knowledge are a priority. In 2018, the company opened its Training Centre in Geneva – the culmination of more than 30 years’ commitment to training."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 14s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/perpetual/rolex-training-centre/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": ""
+        },
+        "metadescription": {
+          "value": "At Rolex, learning and passing on knowledge are a priority. In 2018, the brand opened its Training Centre in Geneva. Read more on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "perpetual"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+          "url": "/Content/Hub/perpetual",
+          "fields": {
+            "name": {
+              "value": "perpetual"
+            },
+            "dictionaryKey": {
+              "value": "all-perpetual"
+            },
+            "url": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1": {
+          "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+          "url": "/Content/Category/Perpetual",
+          "fields": {
+            "name": {
+              "value": "Perpetual"
+            },
+            "dictionaryKey": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2100"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex Training Centre - A commitment to training"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/perpetual/rolex-training-centre/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Perpetual"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "17ed5ff7-f4b0-5706-9516-e810c1d004df",
+      "itemLanguage": "en",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "5b5985ec-1b67-5562-967b-d4c35a92b092",
+                  "componentName": "Cover",
+                  "dataSource": "{4952471C-C538-5526-8F5A-FFE26F146B40}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_cover.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:03min"
+                    },
+                    "title": {
+                      "value": "A Culture of Training and Mentorship"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_cover_portrait.jpg"
+                    },
+                    "date": {
+                      "value": "June 2020"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": "Rolex Training"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8b1df4ba-d4ec-5cf6-a992-dc768740c1b0",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{FE3767EA-D7FF-4FB2-A9EB-98CDF5FBA260}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": "black"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Highly qualified employees are essential for creating and manufacturing high-quality watches. That is why at Rolex, learning and knowledge transfer are a priority. In 2018, the company introduced a dedicated service for this: the Rolex Training Centre, culminating more than 30 years’ commitment to skills acquisition and development.</b>"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex-org-a-culture-of-training-and-mentorship-posterframe-2_centreformation_18ra_v3_186.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "bdc79238-cb52-54a2-9f9d-c0eb97e8378d",
+                  "componentName": "Paragraph",
+                  "dataSource": "{BFE5BECE-789C-535B-BDC4-C7C79808AD35}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Mastering skills, acquiring and sharing knowledge, along with the continuous quest for perfection are key aspects of training at Rolex. For several decades, the company has been creating training programmes and methods to suit its various professions and support its employees’ career development. From initial training to continuing on-the-job tuition and specialist courses, a considerable range of resources are available. They enable the brand to pass on its carefully curated heritage of skills, practices and Rolex-specific knowledge.</p></br><p>Rolex’s investment in training – which goes beyond the scope of watchmaking and benefits all sectors – has three objectives: to ensure progress, allow skills to be developed within the company, and perpetuate the company’s unique culture. Rolex offers the same training opportunities to all its employees, whether they are based in Geneva, home to the brand’s world headquarters and three production sites, in Bienne, where the movements are made, or in the canton of Fribourg, where the brand is developing its industrial operations. All told, nearly 12,000 square metres of space is devoted to training facilities in Geneva, Bienne and Fribourg, with a sole objective: to train more than 10,000 employees, managers, apprentices and interns each year.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "08341b6c-f2c5-500b-a325-02405e22fa09",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{9E7340A6-8B2F-4327-A38A-E301A7965FA2}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_apprentices_01_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_apprentices_01.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "bd57bddf-756b-5c9c-ad47-a576b593ac34",
+                  "componentName": "TextSection",
+                  "dataSource": "{06EB6C70-FF69-5B01-B99A-1D168492B434}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Comprehensive Training"
+                    },
+                    "text": {
+                      "value": "In 1984, Rolex was the first company in Geneva to take on watchmaking apprentices. In 1989, the brand opened its doors to its first apprentices in Bienne. Since then, it has trained hundreds of people of different ages and backgrounds. Apprentices are selected following a rigorous recruitment process that evaluates their intellectual and manual abilities, as well as their soft skills. In time, Rolex aims to provide ongoing initial training to 500 apprentices in the fields of watchmaking, industry and services."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "704f449c-786a-5f3b-9154-3f19b8b6a3b3",
+                  "componentName": "Quote",
+                  "dataSource": "{B5358D3C-0F14-5901-82EC-2849ECAA0F68}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "In 1984, Rolex was the first company in Geneva to take on watchmaking apprentices."
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "8f04a5ab-18b4-564d-8406-7248ba3fd40b",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{0066C3EB-38AD-5E67-92AE-A02831F90241}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_apprentices_02.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2581a0a6-24f6-589d-a8da-87422fd03c3d",
+                  "componentName": "Paragraph",
+                  "dataSource": "{CB814891-F7B6-5442-8ED6-CE06D98D5619}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>The training of these future professionals combines periods of practical training within the company and theoretical classes in a vocational college each week – in line with the legal framework governing apprenticeships, which are very popular in Switzerland. The importance Rolex places on this “dual” education system and its evolution has led the brand to become actively involved with relevant official governing bodies. </p><br><p>In all, apprenticeships for more than 20 professions are offered to young people between the ages of 15 and 25 each year.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "aff3cb53-10e3-5d36-9b9f-155204f9aa32",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{8D6CFB67-04F4-5ACD-9767-788F5F3DBB2D}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "The training of these future professionals combines periods of practical training within the company and theoretical classes."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_quote_01_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_quote_01.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "b31b6c1a-9572-5fd8-a0ad-28f96eb303cd",
+                  "componentName": "TextSection",
+                  "dataSource": "{86ACF789-4A1E-5763-AD90-C0944B7A0B5C}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Facilities focused on the future"
+                    },
+                    "text": {
+                      "value": "In order to provide apprentices and employees with the best training conditions, the brand opened the Rolex Training Centre in September 2018. The service centralizes Rolex’s key training expertise in every region where the brand operates. Designed as places of interaction with open, versatile layouts, the training facilities encourage different generations to come together to optimize the transmission of knowledge and progression of skills. They are firmly focused on the future; thanks to their monitoring activities, they are able to constantly incorporate evolutions in the teaching, technological, sociological, organizational and legislative sectors. Spearheading these knowledge-sharing hubs is the facility in Geneva, which boasts a contemporary design reflected in its interior furnishings. It is composed of some 20 spaces spread over 5,500 square metres and is equipped with cutting-edge educational tools."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "dbfdf65c-6b62-53df-a854-5c2891df4288",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{27D2339E-C99B-4A39-A017-BD34F2364A75}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_part_02_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_part_02.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "bcb328e4-31bb-5563-adb8-bb86e33a5e74",
+                  "componentName": "Paragraph",
+                  "dataSource": "{8EE404E9-B445-5590-AB26-987182BB5EF3}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Rolex’s training facilities provide, on an ongoing basis, dedicated courses for apprentices and continuous training modules that teach employees about the company’s history, culture and values, as well as its watches. They also dispense all other Rolex training programmes available to employees over the course of their careers, from the acquisition and development of technical expertise to management skills. Through engaging and dynamic teaching methods, trainers from both inside and outside the company consolidate and guarantee the passage of vital knowledge between generations. Internships are also offered to students in higher education, with Rolex taking on around 150 interns each year.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "7b243c50-5551-54da-aa65-460ff61c01bc",
+                  "componentName": "Roller",
+                  "dataSource": "{7262D913-AE74-53C6-8B07-C6022D89071E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Roller Articles"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "5e6e4974-c5e8-5cf3-aada-3ba2cfbf05a7",
+                        "componentName": "RollerCard",
+                        "dataSource": "{FDD60169-ABA1-5A88-84D5-DC03B48561D9}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/rolex-training-centre/roller/rolex_org_a_culture_of_training_roller_01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "d6a9a78b-6592-564e-9f55-737f8759dd47",
+                        "componentName": "RollerCard",
+                        "dataSource": "{76766F6D-D1EA-5D2C-948F-C105869D4EE3}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/rolex-training-centre/roller/rolex_org_a_culture_of_training_roller_02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "aca430b6-3a5a-5354-9561-af03ebd0dfac",
+                        "componentName": "RollerCard",
+                        "dataSource": "{CA279F34-F2F8-5E0D-851F-9AC3BEC0BFA2}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/rolex-training-centre/roller/rolex_org_a_culture_of_training_roller_03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "d6a77454-bba5-507a-ba94-8ab49e559b22",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5B327677-1439-563C-8840-5CDF319CECA3}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/rolex-training-centre/roller/rolex_org_a_culture_of_training_roller_04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "8dbf3617-a64c-58de-a720-2007c8de36dd",
+                        "componentName": "RollerCard",
+                        "dataSource": "{B74273BD-E9B8-5D65-8EE7-0871CAAA5678}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/rolex-training-centre/roller/rolex_org_a_culture_of_training_roller_05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "00fab334-c9eb-5892-9298-ce270e0084c8",
+                  "componentName": "TextSection",
+                  "dataSource": "{A859380B-83E3-5199-B55D-AE6898D750B4}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "The human at the heart of the company"
+                    },
+                    "text": {
+                      "value": "Hans Wilsdorf, the founder of Rolex, recognized the importance of surrounding oneself with highly qualified employees. He was also convinced that their well-being would directly contribute to the success of the company. This open-mindedness and ability to place the person at the heart of the business still play an intrinsic role in Rolex’s company culture to this day. The brand’s tangible, significant commitment to training and to the integration of the next generation into the professional world are testimony to this concept."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "5dc1f5c7-137b-5939-9aae-02a4c7aa767e",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{054180C6-EB83-58D9-923E-8651262D564D}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "top"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "This open-mindedness and ability to place the person at the heart of the business still play an intrinsic role in Rolex’s company culture to this day."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_quote_02_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/rolex-training-centre/rolex_org_a_culture_of_training_quote_02.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "3af9e3bc-796e-5d89-acd5-735c4edc6c14",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "32011dd1-86bd-5655-bf58-0ed3bc2387bd",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{79B05CD5-A4D0-4CEB-9A39-6829B85E5A17}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "b3b4822a-aba1-5a8f-ac14-b30a68c0fca7",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "an-education-in-precision"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "An education in precision - Science"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Faced with a shortage of skilled watchmakers in the United States, Rolex built a school in 2001 to train a new generation of young specialists to service high-quality mechanical wristwatches."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 8s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "An education in precision - Science"
+                          },
+                          "metadescription": {
+                            "value": "Faced with a shortage of skilled watchmakers in the United States, Rolex built a school in 2001 to train a new generation of young specialists to service high-quality mechanical wristwatches."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "27b0575f-fe8b-55be-9d2f-55c751f8abba",
+                            "url": "/Content/Category/Education",
+                            "fields": {
+                              "name": {
+                                "value": "Education"
+                              },
+                              "dictionaryKey": {
+                                "value": "education"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1650"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "An education in precision"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Education"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "c9baf0d1-a28e-508c-9516-6ba3cea23ab1",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "the-man-behind-the-crown"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "The man behind the crown - Hans Wilsdorf - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Everything about Rolex carries the stamp of one exceptional human being. Hans Wilsdorf, the founder of Rolex, was not just a visionary entrepreneur whose stream of inventions, such as the first waterproof wristwatch, changed the world. He was an altruist, whose enduring philanthropy has left a mark that goes far beyond watchmaking."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 22s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/hans-wilsdorf/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "The man behind the crown - Hans Wilsdorf - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "Everything about Rolex carries the stamp of one exceptional human being. Hans Wilsdorf, the founder of Rolex, was not just a visionary entrepreneur whose stream of inventions, such as the first waterproof wristwatch, changed the world. He was an altruist, whose enduring philanthropy has left a mark that goes far beyond watchmaking."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "3000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1200"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "The man behind the crown - Hans Wilsdorf "
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/hans-wilsdorf/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d95b0c1a-60de-5d29-96c3-59691ccec0a7",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "sir-francis-chichester"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Sir Francis Chichester - Time on the high seas"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Few characterize the daring spirit that has marked the history of yachting better than Sir Francis Chichester, whose single-handed round-the-world voyage in 1966–1967 charted the course for subsequent generations of yachtsmen and yachtswomen."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 20s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/sir-francis-chichester/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Sir Francis Chichester - Time on the high seas"
+                          },
+                          "metadescription": {
+                            "value": "Discover Sir Francis Chichester's incredible odyssey around the globe's oceans in record-breaking time and how he marked the history of yachting."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2050"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Sir Francis Chichester - Time on the high seas"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/sir-francis-chichester/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Oceans"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "b833270f-dbc5-5a9a-8715-e63624823f37",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{36BACF51-D04C-504B-984C-80628A3F086C}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/perpetual"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/rolex_org_perpetual_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Our Founding Spirit"
+                    },
+                    "title": {
+                      "value": "Perpetual"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "522404bb-e196-519d-8b52-fe4442aabdba",
+                  "componentName": "Sharing",
+                  "dataSource": "{4EFE4E10-A584-5EC3-B5D4-1C0BFBAB85C1}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "52ac12e9-fae2-478f-a612-16f4c547264b",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "4fda3421-d3d5-472f-a209-2cc43ef5ece2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

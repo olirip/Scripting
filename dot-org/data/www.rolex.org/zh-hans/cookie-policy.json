@@ -1,0 +1,1534 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "zh-Hans",
+      "wa": {
+        "contentTag": "",
+        "pageType": "legal page",
+        "pageSiteSection": "cookie-policy",
+        "pageSiteSubSection": "",
+        "environmentName": "production",
+        "pageName": "cookie-policy",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:15:21Z",
+        "dateModified": "2025-02-18T13:58:07Z"
+      }
+    },
+    "route": {
+      "name": "cookie-policy",
+      "displayName": "cookie-policy",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": true
+        },
+        "pageSiteSubSection": {
+          "value": ""
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex.org - Cookie政策"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "本cookie政策旨在列出Rolex SA（“劳力士”、“我们的”或“我们”）在网站www.rolex.org使用cookies的基础。"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "3分22秒"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": ""
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "0adbca3a-92b5-4d36-9aae-c6cd338ef15a",
+          "url": "/Content/PageType/legal-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex.org - Cookie Policy"
+        },
+        "metadescription": {
+          "value": "本cookie政策旨在列出Rolex SA（“劳力士”、“我们的”或“我们”）在网站www.rolex.org使用cookies的基础。"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "cookie-policy"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": null,
+        "tag1": null,
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex.org - Cookie政策"
+        },
+        "previewImage_src": {
+          "value": ""
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": ""
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "1df07675-cd89-5723-b293-120f4d6ec0c6",
+      "itemLanguage": "zh-Hans",
+      "itemVersion": 27,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "8318b42e-cde3-5bfa-99f0-0669cd596517",
+                  "componentName": "CoverParallax",
+                  "dataSource": "{DA938090-1442-581E-9A2F-D4BBA10AA97B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/legal-notices/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Cookie政策"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/legal-notices/mobile_0001.jpg"
+                    },
+                    "background_description": {
+                      "value": ""
+                    },
+                    "background_title": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "293ea0df-b02c-54c8-b213-cabbfdd415f0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{AA7203E9-6834-57E2-B648-6C5F943F6BC2}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "目的"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "本条款旨在列出Rolex SA（“劳力士”、“我们的”或“我们”）在网站www.rolex.org使用cookies的基础。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "448ab4c3-3ba3-5c2c-85a4-bb05ab52f26a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B5F62C22-3FFC-52AF-9F1C-D0DA789A92B1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Cookies及网站信标"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Cookie乃一种由文母与数字组成的小型档案，储存在阁下的装置硬盘。Cookies用于辨认阁下及其他使用网站的用户。这有助我们了解阁下如何使用网站。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a28ed8ab-e093-56c9-8d0e-bcf1edbcc428",
+                  "componentName": "SimpleText",
+                  "dataSource": "{46700DA4-6BA7-5682-AACF-FC720171EE55}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "修订Cookies及网站信标"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "就我们的网站，阁下可设置浏览器拒绝所有或某些浏览器cookies，或在网站设置或存取cookies时提醒阁下。若阁下封锁或删除我们网站的所有cookies，网站应仍然正常运作。继续浏览网站，即表示阁下同意使用cookies。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "26ba9ed6-1616-5b23-b7bb-f1510a49eb0c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CD5ED354-1E1A-5456-BD83-54335F8E464D}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "第一方cookies"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>这些cookies由rolex.org设置，为简化阁下的导航浏览及记忆设定。</p>\r\n<p><em>Cookie名称</em> / rolex-org_lang<br />\r\n<em>Cookie目的</em> / 此cookie用于决定网站的浏览语言。<br />\r\n<em>Cookie期限</em> / 1年 <br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及spirit.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / coveo_visitorId<br />\r\n<em>Cookie目的</em> / 此cookie用于识别访客并跟踪他们在网站上的互动，根据网站上的偏好及浏览记录以个性化搜索体验和推荐。<br />\r\n<em>Cookie期限</em> / 1年 <br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4fac3922-5d37-525a-98d1-46d695d7dfaf",
+                  "componentName": "SimpleText",
+                  "dataSource": "{403BDFC1-9BE2-5324-960C-3FE351B0B945}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "性能cookies"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "劳力士透过性能及追踪方案进一步改善我们的网站，以便时刻为阁下提供最佳的网上体验，尽力迎合阁下需要。\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "df275512-db87-5334-866f-19ba03f20e6c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8FC10BBD-3F81-5AF6-99FD-13231E042D9F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "分析工具\t"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<u>Adobe</u><br><br>\r\n<strong>Adobe Analytics</strong>有助劳力士了解用户如何使用rolex.com（例如访客浏览的页面、停留时间或是否再次浏览）。收集所得的数据将保持匿名。<br />\r\n<br />\r\n<strong>Adobe Advertising Cloud</strong>（以往称为Adobe Media Optimizer）有助劳力士整合搜索、社交、展示型及影片的所有付费广告。收集所得的数据将保持匿名。\r\n<p><em>Cookie名称</em> / AMCV_###@AdobeOrg<br />\r\n<em>Cookie目的</em> / 此cookie用于判断用户上次浏览网站至今的日数。<br />\r\n<em>Cookie期限</em> / 13个月<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / AMCVS_###@AdobeOrg<br />\r\n<em>Cookie目的</em> / 此cookie用于设定及保存Experience Cloud解决方案所需的唯一访客ID。此ID有助辨别用户。<br />\r\n<em>Cookie期限</em> / 会话cookie <br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / demdex<br />\r\n<em>Cookie目的</em> / Audience Manager设定此cookie，为网站访客分配唯一ID。Demdex cookie有助Audience Manger执行基本功能，例如识别访客、ID同步、细分、建模、报告等。<br />\r\n<em>Cookie期限</em> / 180天<br />\r\n<em>保存</em> / 此cookie保存在.demdex.net网域中。</p>\r\n<p><em>Cookie名称</em> / dpm<br />\r\n<em>Cookie目的</em> / DPM是Data Provider Match的简称。它告知内部Adobe系统Audience Manager或Adobe Experience Cloud ID Service正在传递客户数据，以进行同步或请求ID。<br />\r\n<em>Cookie期限</em> / 180天<br />\r\n<em>保存</em> / 此cookie保存在.dpm.demdex.net网域中。</p>\r\n<p><em>Cookie名称</em> / ev_sync_dd<br />\r\n<em>Cookie目的</em> / 第三方广告交易特定的cookie，用于同步Advertising Cloud浏览者ID与合作伙伴广告交易。它是为新浏览者创建的，并在过期时发送同步请求。<br />\r\n<em>Cookie期限</em> / 31天<br />\r\n<em>保存</em> / 此cookie保存在.everesttech.net网域中。</p>\r\n<p><em>Cookie名称</em> / everest_g_v2<br />\r\n<em>Cookie目的</em> / 此cookie在用户初次点击客户端广告后产生，通过用户ID追踪用户在网站的点击及互动。<br />\r\n<em>Cookie期限</em> / 1年<br />\r\n<em>保存</em> / 此cookie保存在.everesttech.net网域中。</p>\r\n<p><em>Cookie名称</em> / s_ecid<br />\r\n<em>Cookie目的</em> / 此cookie用于设定及保存Experience Cloud解决方案所需的唯一访客ID。此cookie容许第一方cookie持续追踪ID，AMCV cookie过期后用作参考ID。<br />\r\n<em>Cookie期限</em> / 13个月<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org网域中。</p>\r\n<p><em>Cookie名称</em> / s_cc<br />\r\n<em>Cookie目的</em> / 此cookie将由JavaScript编码设定及读取，判断cookies是否已启用。<br />\r\n<em>Cookie期限</em> / 会话cookie<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / s_sq<br />\r\n<em>Cookie目的</em> / 此cookie由JavaScript编码在ClickMap或Activity Map功能启用时设定及读取。它保存用户上次点击的链接信息。<br />\r\n<em>Cookie期限</em> / 会话cookie<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org网域中。</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fff493c1-36ed-5d7f-809b-ece280ff54ad",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9D0366B1-C206-5BE2-A7A0-7F2BD0BCECDE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Contentsquare Cookies"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p><strong>Contentsquare</strong>方案能结合使用及频率数据，藉此改善用户体验。建立所得的统计数据为匿名。</p>\r\n<p><em>Cookie名称</em> / _cs_c<br />\r\n<em>Cookie目的</em> / 此cookie由Contentsquare使用，保存用户同意被追踪的设定。<br />\r\n<em>Cookie期限</em> / 13个月<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / _cs_id<br />\r\n<em>Cookie目的</em> / 此cookie包含Contentsquare的用户认证。<br />\r\n<em>Cookie期限</em> / 13个月<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>\r\n<p><em>Cookie名称</em> / _cs_s<br />\r\n<em>Cookie目的</em> / 此cookie包含Contentsquare方案现时会话的页面浏览次数。<br />\r\n<em>Cookie期限</em> / 30分钟<br />\r\n<em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "d6e06cd0-9f0a-4e8a-ba4e-02aa1dbb2e14",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6A7902B1-CB9D-44C7-8AFA-5838AA055C5B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "InMobi Cookies"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p><b>InMobi</b>是同意管理平台（Consent Management Platform，CMP）解决方案，为劳力士用户提供多个选项，仔细管理他们的同意声明及合法利益。\r\n     </p>\r\n<p><em>Cookie名称</em> / euconsent-v2<br />\r\n    <em>Cookie目的</em> / 此cookie用于保存用户的“服务”同意声明，这将限制同意选项至目前网站，并不用套用其他网站的选项。\r\n     <br />\r\n    <em>Cookie期限</em> / 13个月<br />\r\n    <em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。\r\n</p>\r\n<p><em>Cookie名称</em> / IABGPP_HDR_GppString<br />\r\n    <em>Cookie目的</em> / 此cookie用于保存用户根据全球隐私保护平台（GPP）标准设定的隐私偏好。它有助于向广告商传达同意选择，并确保遵守GDPR及CCPA等数据保护法规。<br />\r\n    <em>Cookie期限</em> / 13个月<br />\r\n    <em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。\r\n</p>\r\n<p><em>Cookie名称</em> / usprivacy<br />\r\n    <em>Cookie目的</em> / 此cookie用于记录用户根据CCPA等美国隐私权法所做出的隐私权选择。它表示用户是否选择不出售其个人数据。<br />\r\n    <em>Cookie期限</em> / 13个月<br />\r\n    <em>保存</em> / 此cookie保存在.rolex.org及.rolex.cn网域中。\r\n</p>\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cfc7843e-13e4-49e2-acec-093e6cbae2c5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{269883BA-0AD1-5982-A3A9-8CCC88CB9C0F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "联系劳力士"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "若阁下就本使用条款或劳力士的联系有任何疑问，请以书面形式或致电与我们联系：<br /><br /><b>Rolex SA<br />Rue François-Dussaud, 3-5-7<br />1211 Genève 26 – Switzerland <br />+41 22 302 22 00</b><br /><br />查询：enquiries@rolex.com<br />\r\n<br />\r\n<a class=\"change-consent\" onclick=\"window.__tcfapi('displayConsentUi', 2, function() {} );\">管理我的同意选项</a>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "8e816def-dd18-471c-ae40-899316df390f",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "cb0ce632-ee1f-4b3a-bcc6-3d83552f8704",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯的“非洲大脊梁” - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "经过多次艰险的考察，探险家史蒂夫・博伊斯（Steve Boyes）与其团队成功证明：安哥拉高地是赞比西河的源头。在劳力士的支持下，他正运用研究成果切实保护这一重要区域。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "探险家史蒂夫・博伊斯与其团队证实赞比西河的源头位于安哥拉高地。于Rolex.org了解更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "保护水资源"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "探索发现"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与卡赛河考察活动 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "“非洲大脊梁”（Great Spine of Africa）考察旨在保护非洲大陆的水资源，而作为此考察的一部分，劳力士“保护地球・恒动不息”计划（Perpetual Planet Initiative）合作伙伴兼保育专家史蒂夫・博伊斯（Steve Boyes）追溯刚果河（Congo River）的主要水源至安哥拉高地（Angolan Highlands）。\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02分60秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "作为“非洲大脊梁”考察的一部分，保育专家史蒂夫・博伊斯研究刚果河的主要水源──卡赛河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "卡赛河"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与隆圭本古河 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士通过“保护地球・恒动不息”计划，支持“非洲大脊梁”探险，追溯从未获科学记录的数千公里河流。研究将有助保护仰赖非洲大河为生的社區及野生生物。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2分26秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "通过“保护地球・恒动不息”计划，劳力士支持史蒂夫・博伊斯展开探险，研究未经探索的隆圭本古河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "壮丽的赞比西河与其秘密"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）旨在表扬竭力保护地球的探险家，他们关注各种重要议题、积极探索发现并直面地球所面临的挑战。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "探索2019年劳力士国家地理年度探险家奖得主，奥卡万戈野外团队以及他们保护地球的承诺。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024年劳力士国家地理年度探险家奖得主 - 费尔南多・特鲁希略"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "哥伦比亚海洋生物学家费尔南多・特鲁希略（Fernando Trujillo）凭借保护亚马逊粉红江豚及它们栖息的河流系统，荣获2024年劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "海洋生物学家费尔南多・特鲁希略凭借保护亚马逊江豚，荣获2024年劳力士国家地理年度探险家奖。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "费尔南多・特鲁希略：为了喜爱的江豚"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,2120 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "pt-BR",
+      "wa": {
+        "contentTag": "film",
+        "pageType": "video page",
+        "pageSiteSection": "arts",
+        "pageSiteSubSection": "video",
+        "environmentName": "production",
+        "pageName": "arts:video:james-cameron-interview",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/arts/cinema-2019/interview/james-cameron/ci_letters_jc_bts_interview_web_19_35_en_pn_ly"
+      ],
+      "item": {
+        "datePublished": "2019-10-08T08:52:50Z",
+        "dateModified": "2020-03-25T11:02:24Z"
+      }
+    },
+    "route": {
+      "name": "james-cameron-interview",
+      "displayName": "james-cameron-interview",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "video"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Entrevista com James Cameron - Rolex e o cinema"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "James Cameron é conhecido por usar tecnologia de ponta em seus filmes, mas quando se trata de aconselhar cineastas emergentes, ele afirma que “é preciso tocar o coração das pessoas”. O diretor de <i>Titanic</i> e <i>Avatar</i> acredita que nada é mais importante do que “falar com uma voz autêntica e retratar a condição humana em seu nível mais elementar”. "
+        },
+        "Video": {
+          "value": true
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min08"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/arts/cinema/james-cameron/interview/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": "dark"
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+          "url": "/Content/PageType/video-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "An interview with James Cameron - Rolex and Cinema"
+        },
+        "metadescription": {
+          "value": "O aclamado cineasta James Cameron foi responsável por alguns dos filmes mais memoráveis dos últimos trinta anos. Assista à entrevista com James Cameron."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "arts"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag1": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1400"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": "01:08"
+        },
+        "previewTitle": {
+          "value": "Entrevista com James Cameron - Rolex e o cinema"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/arts/cinema/james-cameron/interview/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Film"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "f4c1a176-61b1-5bb8-9351-ba7a0ed1b63c",
+      "itemLanguage": "pt-BR",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "3f38aea7-f213-5729-b57e-c5f31bdbbf62",
+                  "componentName": "VideoPlaylist",
+                  "dataSource": "{5166AB91-1BCC-540F-BFF8-58E9765255B7}",
+                  "params": {},
+                  "fields": {
+                    "video_src": {
+                      "value": "/data/media/video/arts/cinema-2019/interview/james-cameron/ci_letters_jc_bts_interview_web_19_35_en_pn_ly.mp4"
+                    },
+                    "date": {
+                      "value": "2019"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/arts/cinema/james-cameron/desktop/rolex_org_arts_cinema_posterframe_cameron_1920x1080.jpg"
+                    },
+                    "title": {
+                      "value": "James Cameron"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "us_text": {
+                      "value": ""
+                    },
+                    "us_video_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "James Cameron é conhecido por usar tecnologia de ponta em seus filmes, mas quando se trata de aconselhar cineastas emergentes, ele afirma que “é preciso tocar o coração das pessoas”. O diretor de <i>Titanic</i> e <i>Avatar</i> acredita que nada é mais importante do que “falar com uma voz autêntica e retratar a condição humana em seu nível mais elementar”."
+                    },
+                    "time": {
+                      "value": "01:08"
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": [
+                      {
+                        "name": "martin-scorsese-interview",
+                        "id": "f534267cc01c52dd8368efebdb4ffc5e",
+                        "url": "/arts/video/martin-scorsese-interview",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Entrevista com Martin Scorsese - Rolex e o cinema"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Aos futuros cineastas, Martin Scorsese diz: “Não tenham medo de tentar absolutamente nada, não importa o quanto isso pareça insano para outros”. Estas são as palavras encorajadoras do diretor, produtor e roteirista responsável por muitos dos maiores clássicos da história do cinema. Scorsese sempre transpõe fronteiras e ajuda a despertar ideias criativas nas pessoas. "
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min10"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/cinema/martin-scorsese/interview/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "An interview with Martin Scorsese - Rolex and Cinema"
+                          },
+                          "metadescription": {
+                            "value": "Ao longo de uma carreira de mais de 50 anos, Martin Scorsese já produziu inúmeros filmes. Assista à entrevista com o diretor, produtor e roteirista."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "arts"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                            "url": "/Content/Category/Film",
+                            "fields": {
+                              "name": {
+                                "value": "Film"
+                              },
+                              "dictionaryKey": {
+                                "value": "film"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1400"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                            "url": "/Content/Category/Film",
+                            "fields": {
+                              "name": {
+                                "value": "Film"
+                              },
+                              "dictionaryKey": {
+                                "value": "film"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "01:10"
+                          },
+                          "previewTitle": {
+                            "value": "Entrevista com Martin Scorsese - Rolex e o cinema"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/cinema/martin-scorsese/interview/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Film"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "spike-lee-and-kyle-bell",
+                        "id": "5572d9200ec44dbfbe77acf0cdde17db",
+                        "url": "/rolex-mentor-protege/recent-mentorships/video/film/spike-lee-and-kyle-bell",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Spike Lee e Kyle Bell – Programa Rolex de mentoria – Vídeo"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Spike Lee, um dos cineastas atuais cuja filmografia mais aborda temas sociais, escolheu orientar Kyle Bell, um jovem cineasta de Thlopthlocco Creek Tribal Town, em Oklahoma, para expandir os limites de sua evocativa realização cinematográfica."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 46s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/film/spike-lee-and-kyle-bell/thumbnail-page-video.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Spike Lee and Kyle Bell - Video"
+                          },
+                          "metadescription": {
+                            "value": "O mestre Spike Lee ajudou seu discípulo Kyle Bell a verbalizar sua visão e a conduzir outras pessoas. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                            "url": "/Content/Category/Film",
+                            "fields": {
+                              "name": {
+                                "value": "Film"
+                              },
+                              "dictionaryKey": {
+                                "value": "film"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "900"
+                          },
+                          "tag2": {
+                            "id": "0348c4f8-f548-5397-9ec2-a892936935ea",
+                            "url": "/Content/Category/Arts",
+                            "fields": {
+                              "name": {
+                                "value": "Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "900"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": {
+                            "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                            "url": "/Content/Category/Film",
+                            "fields": {
+                              "name": {
+                                "value": "Film"
+                              },
+                              "dictionaryKey": {
+                                "value": "film"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "03:17"
+                          },
+                          "previewTitle": {
+                            "value": "Spike Lee e Kyle Bell – Programa Rolex de mentoria – Vídeo"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/film/spike-lee-and-kyle-bell/thumbnail-page-video.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Cinema"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "placeholders": {
+                    "jss-related-videos": [
+                      {
+                        "uid": "9c2e2c8c-de37-40e2-8068-85a9aee95557",
+                        "componentName": "RelatedItems",
+                        "dataSource": "{0D181020-A094-41CE-B1C3-E3BDAE54A552}",
+                        "params": {},
+                        "fields": {
+                          "title": {
+                            "value": "Descubra nossos vídeos relacionados"
+                          },
+                          "relatedItems": [
+                            {
+                              "id": "46b7e44f-01f4-517f-9861-e140eeac38e4",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Alfonso Cuarón e Chaitanya Tamhane – Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Para o discípulo indiano Chaitanya Tamhane, o ano de mentoria com o cineasta Alfonso Cuarón, cuja obra recebeu vários Oscars, foi como tirar a sorte grande. Chaitanya Tamhane compara o trabalho cinematográfico do mestre, que prioriza a imagem acima de tudo, a “um momento de pura magia”. O discípulo afirma que a sua visão em relação ao cinema nunca mais será a mesma."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 24s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Alfonso Cuarón and Chaitanya Tamhane - Video"
+                                },
+                                "metadescription": {
+                                  "value": "Para o discípulo indiano Chaitanya Tamhane, o ano de mentoria com o cineasta Alfonso Cuarón, cuja obra recebeu vários Oscars, foi como tirar a sorte grande. Chaitanya Tamhane compara o trabalho cinematográfico do mestre, que prioriza a imagem acima de tudo, a “um momento de pura magia”. O discípulo afirma que a sua visão em relação ao cinema nunca mais será a mesma."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-mentor-protege"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                  "url": "/Content/Hub/rolex-mentor-protege",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "url": {
+                                      "value": "rolex-mentor-protege"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                  "url": "/Content/Category/Film",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Film"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "film"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1600"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": "1600"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                  "url": "/Content/Hub/arts",
+                                  "fields": {
+                                    "name": {
+                                      "value": "arts"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-arts"
+                                    },
+                                    "url": {
+                                      "value": "arts"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "2da2b76f-64d7-4867-8557-47a7b40eec7f",
+                                  "url": "/Content/Category/Film-RMP",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Film RMP"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "film-rmp"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "04:00"
+                                },
+                                "previewTitle": {
+                                  "value": "Alfonso Cuarón e Chaitanya Tamhane – Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Cinema"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4152b81e-f4a6-54db-acd5-01ce96d6ab2f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Alejandro G. Iñárritu e Tom Shoval – Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O ano de tutoria do jovem cineasta israelita Tom Shoval foi marcado por um entusiasmo digno de Hollywood. Tom Shoval teve a oportunidade de passar várias semanas no set do filme <i>O Regresso</i>, de Alejandro G. Iñárritu. Durante essa experiência, o oscarizado cineasta revelou ao discípulo as “infinitas possibilidades” da arte de fazer filmes."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 25s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/film/2014-2015/alejandro-g-inarritu-and-tom-shoval/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Alejandro G. Iñárritu and Tom Shoval - Video"
+                                },
+                                "metadescription": {
+                                  "value": "O ano de tutoria do jovem cineasta israelita Tom Shoval foi marcado por um entusiasmo digno de Hollywood. Tom Shoval teve a oportunidade de passar várias semanas no set do filme <i>O Regresso</i>, de Alejandro G. Iñárritu. Durante essa experiência, o oscarizado cineasta revelou ao discípulo as “infinitas possibilidades” da arte de fazer filmes."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-mentor-protege"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                  "url": "/Content/Hub/rolex-mentor-protege",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "url": {
+                                      "value": "rolex-mentor-protege"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                  "url": "/Content/Category/Film",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Film"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "film"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1400"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                  "url": "/Content/Hub/arts",
+                                  "fields": {
+                                    "name": {
+                                      "value": "arts"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-arts"
+                                    },
+                                    "url": {
+                                      "value": "arts"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "2da2b76f-64d7-4867-8557-47a7b40eec7f",
+                                  "url": "/Content/Category/Film-RMP",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Film RMP"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "film-rmp"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:14"
+                                },
+                                "previewTitle": {
+                                  "value": "Alejandro G. Iñárritu e Tom Shoval – Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/film/2014-2015/alejandro-g-inarritu-and-tom-shoval/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Cinema"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "716dbf06-b1a0-5008-9618-c224a4aa57c5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Joan Jonas e Thao Nguyen Phan – Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "“A arte é uma prática espiritual”, diz Joan Jonas, pioneira em performances e videoarte. Para a discípula vietnamita Thao Nguyen Phan, a experiência de trabalhar com Joan Jonas e observar a forma como a mestra se nutre de constante experimentação lhe ensinou a abrir-se mais para os recursos que pode utilizar a fim de contar as histórias que fundamentam o seu trabalho."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": false
+                                },
+                                "duration": {
+                                  "value": "0min 29s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/visual-arts/2016-2017/joan-jonas_thao-nguyen-phan/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Joan Jonas and Thao Nguyen Phan - Video"
+                                },
+                                "metadescription": {
+                                  "value": "“A arte é uma prática espiritual”, diz Joan Jonas, pioneira em performances e videoarte. Para a discípula vietnamita Thao Nguyen Phan, a experiência de trabalhar com Joan Jonas e observar a forma como a mestra se nutre de constante experimentação lhe ensinou a abrir-se mais para os recursos que pode utilizar a fim de contar as histórias que fundamentam o seu trabalho."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-mentor-protege"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                  "url": "/Content/Hub/rolex-mentor-protege",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-mentor-protege"
+                                    },
+                                    "url": {
+                                      "value": "rolex-mentor-protege"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "0e5c1e98-a926-5d2c-8eb4-68af189cb7b5",
+                                  "url": "/Content/Category/Visual-Arts",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Visual Arts"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "visual-arts"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1800"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                  "url": "/Content/Hub/arts",
+                                  "fields": {
+                                    "name": {
+                                      "value": "arts"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-arts"
+                                    },
+                                    "url": {
+                                      "value": "arts"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "0e5c1e98-a926-5d2c-8eb4-68af189cb7b5",
+                                  "url": "/Content/Category/Visual-Arts",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Visual Arts"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "visual-arts"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:42"
+                                },
+                                "previewTitle": {
+                                  "value": "Joan Jonas e Thao Nguyen Phan – Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-mentor-protege/visual-arts/2016-2017/joan-jonas_thao-nguyen-phan/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Artes visuais"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes – Great Spine of Africa – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Após inúmeras e arriscadas expedições, o explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Com o apoio da Rolex, ele agora está usando essa descoberta para exigir a tomada de medidas concretas para proteger essa área vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "O explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protegendo nossas águas"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploração"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e a expedição ao rio Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte das expedições Great Spine of Africa para proteger a segurança hídrica do continente africano, Steve Boyes, conservacionista e parceiro da Iniciativa Perpetual Planet da Rolex, mapeou uma importante nascente do rio Congo às Terras Altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Como parte das expedições Great Spine of Africa, o conservacionista Steve Boyes examinou o rio Cassai, uma importante nascente do rio Congo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "O rio Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e o rio Lungué-Bungo – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Graças à Iniciativa Perpetual Planet, a Rolex tem o prazer de contribuir para as expedições do projeto Great Spine of Africa, que atravessam milhares de quilômetros de rios nunca antes documentados cientificamente. O trabalho realizado nessas expedições é crucial para proteger as comunidades locais e os animais selvagens que dependem dos grandes rios africanos para sobreviver."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Por meio de sua Iniciativa Perpetual Planet, a Rolex apoia Steve Boyes em sua expedição pelo inexplorado rio Lungué-Bungo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Os segredos do poderoso rio Zambeze"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O prêmio Rolex National Geographic Explorer of the Year agracia exploradores cujo compromisso com um planeta perpétuo mobiliza grande atenção para temas, descobertas e desafios importantes enfrentados pelo nosso planeta. "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra os vencedores do Rolex National Geographic Explorers of the Year: a equipe do Okavango Wilderness Project e o seu projeto em prol de um planeta perpétuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O biólogo marinho colombiano, Fernando Trujillo, foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa, uma espécie emblemática da Amazônia, e de seu habitat."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo marinho Fernando Trujillo foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: por paixão pelos botos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

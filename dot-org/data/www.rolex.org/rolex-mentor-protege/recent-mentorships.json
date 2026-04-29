@@ -1,0 +1,813 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "performing-arts",
+        "pageType": "content page",
+        "pageSiteSection": "rolex-mentor-protege",
+        "pageSiteSubSection": "latest-mentoring-pairs",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:recent-mentorships",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film"
+      ],
+      "item": {
+        "datePublished": "2020-01-21T13:30:47Z",
+        "dateModified": "2024-09-09T15:10:57Z"
+      }
+    },
+    "route": {
+      "name": "recent-mentorships",
+      "displayName": "recent-mentorships",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "latest-mentoring-pairs"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Recent mentorships - Rolex mentoring programme"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": ""
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1min 36s"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/thumbnail-combined-video.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "ea3c95c4-0952-4824-a627-ddae6be14661",
+          "url": "/Content/PageType/content-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Recent mentorships - Rolex mentoring programme"
+        },
+        "metadescription": {
+          "value": "The Rolex mentoring programme pairs gifted young artists with artistic masters for a period of two years. Discover the recent mentorships on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": "#fff"
+        },
+        "pageSiteSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+          "url": "/Content/Category/PerformingArts",
+          "fields": {
+            "name": {
+              "value": "Performing Arts"
+            },
+            "dictionaryKey": {
+              "value": "performing-arts"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Recent mentorships - Rolex mentoring programme"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/thumbnail-combined-video.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Performing Arts"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "cf99614b-0b6b-56e1-a3c8-87153dc1fb65",
+      "itemLanguage": "en",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b55b9967-b0a1-5f0b-a3dc-33c5db66a7e3",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{55743E89-FFAE-448C-8521-438EA052F4F6}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film.mp4"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "100vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Celebrating the 2020-2022 Cycle"
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film-posterframe.jpg"
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-posterframe_portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "2fdf78e7-832d-4b3f-96e7-97f8c02326f1",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{CCF54B67-D949-4A52-9B22-8560CC3D8C77}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#000"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#212121"
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Protégés in the 2020–2022 cycle of the Rolex mentoring programme, which has drawn to a close, collaborated with some of the greatest artists in their disciplines for a period of two years. The experience changed their lives and challenged some of their preconceptions about their future directions. For the mentors, it was an opportunity to pass on their wisdom to a younger generation of artists, to inspire their protégés and to be inspired in return.</b><br/><br/>World-renowned artists Spike Lee, Phyllida Lloyd, Carrie Mae Weems and Lin-Manuel Miranda worked closely with, respectively, filmmaker Kyle Bell, theatre-maker Whitney White, visual artist Camila Rodríguez Triana and filmmaker Agustina San Martín.\n<br/><br/>\nThe Rolex mentoring programme was established in 2002 to aid in the transmission of artistic knowledge and craft from one generation to the next. It exemplifies Rolex’s pursuit of excellence, symbolized by the word “Perpetual”."
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "294e7f3c-9653-40e9-9b5e-7eed09602756",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{65B0F437-A89D-4FFB-844A-E89DCA0CCEC4}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/film/spike-lee-and-kyle-bell"
+                    },
+                    "descriptionText": {
+                      "value": "Relating to the experience of Native Americans in his country, Spike Lee chose to mentor Kyle Bell, a young filmmaker from the Thlopthlocco Creek Tribal Town of Oklahoma, who needed to break out of his shell. During the mentoring period, Bell watched Lee at work, making a documentary, and spent time with him in the editing room. Bell says Lee’s greatest lesson has been in encouraging him to find and follow his voice in telling the stories of his people.\n\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-film.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-film-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Film"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "Spike Lee and Kyle Bell\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "8112d342-23e5-4c62-96fd-3991f752c565",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{676A9BFF-771A-4BA6-BE9D-0E7DB447D325}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/theatre/phyllida-lloyd-and-whitney-white"
+                    },
+                    "descriptionText": {
+                      "value": "Drawn together by a mutual love of Shakespeare and of music, as well as an interest in telling women’s stories, Phyllida Lloyd and her protégée Whitney White found that their relationship quickly grew, developing deeper synergies as they explored the influences shaping today’s stage. The process of asking for advice soon became a two-way process between the London-based director Lloyd and Chicago-born, New York-based White.\n\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-theatre.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-theatre-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Theatre"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "PHYLLIDA LLOYD AND WHITNEY WHITE\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "0fb2b8b7-fe91-4eb0-b4e6-500f5782ea7d",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{5566C43D-2A8A-49D1-BBC9-FE9C5E5A44CD}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/visual-arts/carrie-mae-weems-and-camila-rodriguez-triana"
+                    },
+                    "descriptionText": {
+                      "value": "Part of Camila Rodríguez Triana’s appeal as a protégée for Carrie Mae Weems was that she came from a different country and another world, yet their work is bound by ties of similarity. Both explore the impact of colonialism, displacement, identity and belonging, both have a strand of memory and remembrance in the pieces they make. Weems admires Triana’s act of “making”: she uses stitching and textiles to express her ideas about Colombia’s violent past and its struggle into a different future.\n\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-visual-arts.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-visual-arts-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Visual Arts"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "CARRIE MAE WEEMS AND CAMILA RODRÍGUEZ TRIANA\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "3854e04f-f1a9-47c0-af2f-b64bd1513e1d",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{DF433DCF-E9A3-4728-8124-DBE2D0660BA6}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/open-category/lin-manuel-miranda-and-agustina-san-martin"
+                    },
+                    "descriptionText": {
+                      "value": "Lin-Manuel Miranda and his protégée filmmaker Agustina San Martín met while he was making his film directorial debut after a string of award-winning musicals including <i>Hamilton</i> and <i>In the Heights</i>. There was a bolt of artistic recognition between the two artists that allowed a true collaboration. As a result of the mentorship, San Martín wants to move away from creating authorial, independent films and towards those with a more mainstream narrative.\n\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-open-category.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-open-category-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Open Category\n"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "LIN-MANUEL MIRANDA AND AGUSTINA SAN MARTÍN\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "498dc2f9-38b7-4cdc-a831-585f361d39d3",
+                  "componentName": "SimpleText",
+                  "dataSource": "{180ACC6E-ECFD-5B12-B5B1-21F8D9284526}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<br>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b833270f-dbc5-5a9a-8715-e63624823f37",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{82730CFE-E00A-518A-8324-BC625AD0B159}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-mentor-protege"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/rolex_org_mentor_and_protege_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Programme"
+                    },
+                    "title": {
+                      "value": "Rolex mentoring programme"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a53f07af-a2db-4220-b1d3-cc7bb13c2200",
+                  "componentName": "Sharing",
+                  "dataSource": "{F95175BC-1D1F-443C-B0CD-5198F18DFC1D}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,2281 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "it",
+      "wa": {
+        "contentTag": "",
+        "pageType": "video page",
+        "pageSiteSection": "science",
+        "pageSiteSubSection": "video",
+        "environmentName": "production",
+        "pageName": "science:video:science-health-technology-moment",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/perpetual-planet/science-health-technology-moment/long-film/rolex-org-environment-perpetual-planet-science-health-technology-moment-long-film"
+      ],
+      "item": {
+        "datePublished": "2025-01-16T08:43:48Z",
+        "dateModified": "2025-01-24T13:35:31Z"
+      }
+    },
+    "route": {
+      "name": "science-health-technology-moment",
+      "displayName": "science-health-technology-moment",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "video"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Science, Health and Technology Moment - Perpetual Planet - Film"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Da oltre 70 anni Rolex è al fianco di innovatori, ricercatori e organizzazioni scientifiche. Tramite la sua Iniziativa Perpetual Planet, il Marchio continua a sostenere individui che portano avanti le frontiere della conoscenza e migliorano le condizioni di vita dell’umanità."
+        },
+        "Video": {
+          "value": true
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "0min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/video/environment/perpetual-planet/science-health-technology-moment/rolex-org-environment-perpetual-planet-science-health-technology-moment-video-thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": "dark"
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+          "url": "/Content/PageType/video-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Science, Health and Technology Moment - Perpetual Planet - Video"
+        },
+        "metadescription": {
+          "value": "Rolex è fiera di sostenere e celebrare persone eccezionali che fanno progredire la scienza, la medicina e la tecnologia in tutto il mondo. Guarda il film su rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "science"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+          "url": "/Content/Hub/science",
+          "fields": {
+            "name": {
+              "value": "science"
+            },
+            "dictionaryKey": {
+              "value": "all-science"
+            },
+            "url": {
+              "value": "science"
+            }
+          }
+        },
+        "tag1": null,
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": {
+          "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+          "url": "/Content/Category/ScienceHealth",
+          "fields": {
+            "name": {
+              "value": "Science and Health"
+            },
+            "dictionaryKey": {
+              "value": "science-health"
+            }
+          }
+        },
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": "01:00"
+        },
+        "previewTitle": {
+          "value": "Science, Health and Technology Moment - Perpetual Planet - Film"
+        },
+        "previewImage_src": {
+          "value": "/data/media/video/environment/perpetual-planet/science-health-technology-moment/rolex-org-environment-perpetual-planet-science-health-technology-moment-video-thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Scienza"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "264b71f6-463b-4232-9d70-53473c4705ef",
+      "itemLanguage": "it",
+      "itemVersion": 8,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "82d038b8-821b-5de2-96ec-4ad3f0e8b4ba",
+                  "componentName": "VideoPlaylist",
+                  "dataSource": "{50B8F528-741B-4361-B2DB-45E1849F64FC}",
+                  "params": {},
+                  "fields": {
+                    "video_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/science-health-technology-moment/long-film/rolex-org-environment-perpetual-planet-science-health-technology-moment-long-film.mp4"
+                    },
+                    "date": {
+                      "value": "Gennaio 2025"
+                    },
+                    "description": {
+                      "value": "Iniziativa Perpetual Planet di Rolex"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/science-health-technology-moment/long-film/rolex-org-environment-perpetual-planet-science-health-technology-moment-long-film-posterframe.jpg"
+                    },
+                    "title": {
+                      "value": "Science, Health and Technology Moment"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "us_text": {
+                      "value": ""
+                    },
+                    "us_video_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Da oltre 70 anni Rolex è al fianco di innovatori, ricercatori e organizzazioni scientifiche. Tramite la sua Iniziativa Perpetual Planet, il Marchio continua a sostenere individui che portano avanti le frontiere della conoscenza e migliorano le condizioni di vita dell’umanità. I loro progetti spaziano da ricerche volte a svelare i segreti dell’universo allo sviluppo di tecnologie che aiutano le persone paralitiche a tornare a camminare, e molto altro. “Science, Health and Technology Moment” accende i riflettori su questi partner d’eccezione e sui Vincitori dei Rolex Awards che lavorano per trovare soluzioni alle problematiche sociali e ambientali più urgenti a cui dobbiamo far fronte."
+                    },
+                    "time": {
+                      "value": "01:00"
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": [
+                      {
+                        "name": "miranda-wang-novoloop",
+                        "id": "8d53b4d661fe4302b3c2d2ebc13aa959",
+                        "url": "/science/video/miranda-wang-novoloop",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Novoloop di Miranda Wang - Perpetual Planet - Film"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "La Vincitrice dei Rolex Awards for Enterprise Miranda Wang ha inventato un metodo per scindere plastiche precedentemente non riciclabili in elementi riutilizzabili. Ora ha dimostrato che è possibile implementarlo su scala industriale."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/science/miranda-wang-novoloop/rolex-org-science-miranda-wang-rethinking-plastic-thumbnail-video.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Miranda Wang's Novoloop - Perpetual Planet - Video"
+                          },
+                          "metadescription": {
+                            "value": "Con il sostegno di Rolex, Miranda Wang e la sua socia in affari Jeanny Yao stanno concretizzando un decennio di ricerca e innovazione. Guarda il film su rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "a4b759d7-f88a-556c-a54c-5988786e10ef",
+                            "url": "/Content/Category/Innovation",
+                            "fields": {
+                              "name": {
+                                "value": "Innovation"
+                              },
+                              "dictionaryKey": {
+                                "value": "innovation"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": ""
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "06:39"
+                          },
+                          "previewTitle": {
+                            "value": "Novoloop di Miranda Wang - Film"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/science/miranda-wang-novoloop/rolex-org-science-miranda-wang-rethinking-plastic-thumbnail-video.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Scienza"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "alexandra-lavrillier",
+                        "id": "ace0b978bbc354f798e3df119c9b356a",
+                        "url": "/rolex-awards/video/cultural-heritage/alexandra-lavrillier",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A scuola nella taiga - Film"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Nel sud-est della Siberia, una popolazione nomade sta cercando di preservare il suo stile di vita dall&rsquo;avvento della societ&agrave; moderna. Per otto anni Alexandra Lavrillier, brillante etnologa francese, ha lottato al fianco degli Evenk per salvarne il patrimonio, creando una scuola nomade che dar&agrave; ai bambini la possibilit&agrave; di ricevere un&rsquo;istruzione moderna senza dover sacrificare le proprie tradizioni ancestrali."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 41s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/alexandra-lavrillier/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "School on the taiga - Video"
+                          },
+                          "metadescription": {
+                            "value": "Nel sud-est della Siberia, una popolazione nomade sta cercando di preservare il suo stile di vita dall&rsquo;avvento della societ&agrave; moderna. Per otto anni Alexandra Lavrillier, brillante etnologa francese, ha lottato al fianco degli Evenk per salvarne il patrimonio, creando una scuola nomade che dar&agrave; ai bambini la possibilit&agrave; di ricevere un&rsquo;istruzione moderna senza dover sacrificare le proprie tradizioni ancestrali."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "1d8f84a8-e9f9-5b51-8e40-d1f52e156e36",
+                            "url": "/Content/Category/Cultural-Heritage",
+                            "fields": {
+                              "name": {
+                                "value": "Cultural Heritage"
+                              },
+                              "dictionaryKey": {
+                                "value": "cultural-heritage"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1062"
+                          },
+                          "tag2": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1062"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "04:40"
+                          },
+                          "previewTitle": {
+                            "value": "A scuola nella taiga - Film"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/alexandra-lavrillier/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Cultural Heritage"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "andrew-bastawrous-peek-vision",
+                        "id": "bdb67b2abcf74746af5a3818c9362272",
+                        "url": "/science/video/andrew-bastawrous-peek-vision",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Peek Vision di Andrew Bastawrous - Perpetual Planet - Film"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Da quando è stata fondata da Andrew Bastawrous, l’impresa sociale Peek Vision ha permesso a 10 milioni di persone di sottoporsi a esami della vista in 12 Paesi. Guarda il film su rolex.org."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/andrew-bastawrous-peek-vision/thumbnail-video-andrew_bastawrous.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Andrew Bastawrous' Peek Vision - Perpetual Planet - Video"
+                          },
+                          "metadescription": {
+                            "value": "Da quando è stata fondata da Andrew Bastawrous, l’impresa sociale Peek Vision ha permesso a 10 milioni di persone di sottoporsi a esami della vista in 12 Paesi. Guarda il film su rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "a4b759d7-f88a-556c-a54c-5988786e10ef",
+                            "url": "/Content/Category/Innovation",
+                            "fields": {
+                              "name": {
+                                "value": "Innovation"
+                              },
+                              "dictionaryKey": {
+                                "value": "innovation"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": ""
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "06:38"
+                          },
+                          "previewTitle": {
+                            "value": "Peek Vision di Andrew Bastawrous - Film"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/andrew-bastawrous-peek-vision/thumbnail-video-andrew_bastawrous.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Scienza"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "placeholders": {
+                    "jss-related-videos": [
+                      {
+                        "uid": "599c67e3-0168-4698-a316-aeaab9fab098",
+                        "componentName": "RelatedItems",
+                        "dataSource": "{79F492EF-9241-48CD-B3BB-2430FDDFAA57}",
+                        "params": {},
+                        "fields": {
+                          "title": {
+                            "value": "Scopri i nostri film correlati"
+                          },
+                          "relatedItems": [
+                            {
+                              "id": "bd7e234c-a1b4-4b3d-b934-4fb7a0628f82",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex Awards - Il futuro della cura delle paralisi - Film"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Circa venti milioni di persone in tutto il mondo hanno subito una lesione spinale, con gravi conseguenze sulla qualità della loro vita."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 02s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/milestones/science-health/gregoire-courtine/rolex-org-science-health-gregoire-courtine-the-future-of-paralysis-treatment-thumbnail-video-page.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Rolex Awards - The future of paralysis treatment - Video"
+                                },
+                                "metadescription": {
+                                  "value": "Il “ponte digitale” del neurologo Grégoire Courtine è una speranza per coloro che hanno subito una lesione del midollo spinale. Guarda il film su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1030"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                  "url": "/Content/Hub/science",
+                                  "fields": {
+                                    "name": {
+                                      "value": "science"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-science"
+                                    },
+                                    "url": {
+                                      "value": "science"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:02"
+                                },
+                                "previewTitle": {
+                                  "value": "Il futuro della cura delle paralisi - Film"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/milestones/science-health/gregoire-courtine/rolex-org-science-health-gregoire-courtine-the-future-of-paralysis-treatment-thumbnail-video-page.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Scienza e salute"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "522085b2-5a5f-41ec-a83c-f819a00c266c",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Film Rolex Awards - Uguaglianza in vista"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "L’oftalmologo Andrew Bastawrous sogna di poter dare la possibilità di “vederci chiaro” a milioni di persone nel mondo. Scopri il film su rolex.org."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 18s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/andrew-bastawrous/milestones/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Rolex Awards Video - Eye test brings equality"
+                                },
+                                "metadescription": {
+                                  "value": "Andrew Bastawrous si adopera per assistere coloro che hanno meno possibilità economiche o di accesso ai servizi oculistici. Guarda il film su rolex.org.\r\n"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "10"
+                                },
+                                "tag2": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "10"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                  "url": "/Content/Hub/science",
+                                  "fields": {
+                                    "name": {
+                                      "value": "science"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-science"
+                                    },
+                                    "url": {
+                                      "value": "science"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:18"
+                                },
+                                "previewTitle": {
+                                  "value": "Uguaglianza in vista - Film"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/andrew-bastawrous/milestones/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Tecnologia applicata"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "c88cf058-e208-4e65-b207-addd9817aca8",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Film - Vincitore dei Rolex Awards for Enterprise 2021: Felix Brooks‑church"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "La malnutrizione contribuisce a 15.000 decessi evitabili di bambini ogni giorno su scala mondiale. L’imprenditore sociale statunitense Felix Brooks‑church ha la soluzione: un ingegnoso sistema per garantire che ogni pasto consumato da mamme e bambini che vivono in una società svantaggiata contenga tutte le sostanze nutritive essenziali salvavita. Il suo progetto sta donando nuova vita e nuova speranza ai bambini della Tanzania ed è un modello per il mondo intero."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 28s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/felix-brooks-church/update/rolex-org-rae-2021-laureates-felix-brooks-church-thumbnail-video-page.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Felix Brooks-church - Video"
+                                },
+                                "metadescription": {
+                                  "value": "Felix Brooks-church combatte contro la malnutrizione in Tanzania fornendo cibo supernutriente alle mamme e ai bambini. Guarda il film su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1020"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                  "url": "/Content/Hub/science",
+                                  "fields": {
+                                    "name": {
+                                      "value": "science"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-science"
+                                    },
+                                    "url": {
+                                      "value": "science"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "02:58"
+                                },
+                                "previewTitle": {
+                                  "value": "Sconfiggere la malnutrizione in Tanzania con farina arricchita, sacco dopo sacco - Film"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/felix-brooks-church/update/rolex-org-rae-2021-laureates-felix-brooks-church-thumbnail-video-page.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Scienza e salute"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "d6c1927c-99c4-4b86-bfd4-9955951f178b",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa di Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dopo una serie di spedizioni rischiose, l’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Con il sostegno di Rolex, Boyes sta utilizzando questa scoperta per garantire una protezione concreta a questa zona di vitale importanza."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Proteggere l’acqua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Esplorazione"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e la spedizione sul fiume Kasai - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, che mirano a proteggere la sicurezza idrica nel continente africano, l’ambientalista e partner dell’Iniziativa Perpetual Planet di Rolex Steve Boyes ha localizzato un’importante sorgente del fiume Congo negli altipiani dell’Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, l’ambientalista Steve Boyes ha condotto ricerche sul fiume Kasai, un’importante sorgente del fiume Congo. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il fiume Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e il fiume Lungué‑Bungo - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene le spedizioni Great Spine of Africa, che attraversano migliaia di chilometri di fiumi mai documentati prima d’ora. Queste ricerche contribuiranno a proteggere le comunità e la fauna selvatica che dipendono dai grandi fiumi d’Africa."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene la spedizione di Steve Boyes mirata a studiare il fiume Lungué‑Bungo, finora inesplorato. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il possente fiume Zambesi e i suoi segreti"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il premio Rolex National Geographic Explorer of the Year è un riconoscimento assegnato a esploratori il cui impegno per un pianeta perpetuo contribuisce a far luce su importanti questioni, scoperte e sfide che la Terra si trova ad affrontare."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Scopri il vincitore del Rolex National Geographic Explorer of the Year 2019 e il suo impegno per un pianeta perpetuo: il team dell’Okavango Wilderness Project."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il biologo marino colombiano Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia del delfino rosa del Rio delle Amazzoni e dell’ecosistema fluviale in cui vive."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Il biologo marino Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia dei delfini del Rio delle Amazzoni. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: un amore per i delfini di fiume"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

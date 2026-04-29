@@ -1,0 +1,2350 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "pt-BR",
+      "wa": {
+        "contentTag": "exploration",
+        "pageType": "video page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "video",
+        "environmentName": "production",
+        "pageName": "rolex-awards:video:exploration:yves-moussallam",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/exploration/2019/yves_moussallam/associate-laureate-yves-moussallam-rae-2019"
+      ],
+      "item": {
+        "datePublished": "2019-05-02T16:01:20Z",
+        "dateModified": "2020-03-25T11:04:23Z"
+      }
+    },
+    "route": {
+      "name": "yves-moussallam",
+      "displayName": "yves-moussallam",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "video"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Explorar vulcões remotos que afetam o clima global - Vídeo"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Explorar vulc&otilde;es remotos que afetam o clima global"
+        },
+        "Video": {
+          "value": true
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "0min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/yves-moussallam/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": "dark"
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+          "url": "/Content/PageType/video-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Explore remote volcanoes affecting earth’s climate - Video"
+        },
+        "metadescription": {
+          "value": "Explorar vulc&otilde;es remotos que afetam o clima global"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1085"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag_video": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": "03:12"
+        },
+        "previewTitle": {
+          "value": "Explorar vulcões remotos que afetam o clima global - Vídeo"
+        },
+        "previewImage_src": {
+          "value": "/data/media/video/rolex-awards/exploration/2019/yves_moussallam/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Exploration"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "eeac6807-473c-5685-98a8-bc3ebe0c1109",
+      "itemLanguage": "pt-BR",
+      "itemVersion": 2,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "efae909c-c395-56e9-b348-03f2ccb865b6",
+                  "componentName": "VideoPlaylist",
+                  "dataSource": "{A7A1E8CD-3240-5E51-A62B-68BBC4AAF837}",
+                  "params": {},
+                  "fields": {
+                    "video_src": {
+                      "value": "/data/media/video/rolex-awards/exploration/2019/yves_moussallam/associate-laureate-yves-moussallam-rae-2019.mp4"
+                    },
+                    "date": {
+                      "value": "5 de maio de 2019"
+                    },
+                    "description": {
+                      "value": "Apresenta&ccedil;&atilde;o do projeto do laureado associado dos Pr&ecirc;mios Rolex de&nbsp;Empreendedorismo&nbsp;2019"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/rolex-awards/yves-moussallam/update/video_yves_moussallam.jpg"
+                    },
+                    "title": {
+                      "value": "Yves Moussallam"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "us_text": {
+                      "value": ""
+                    },
+                    "us_video_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards/exploration/yves-moussallam"
+                    },
+                    "text": {
+                      "value": "O vulcan&oacute;logo franc&ecirc;s Yves Moussallam deseja desvendar um mist&eacute;rio mal explorado pela ci&ecirc;ncia: de que forma os gases e aeross&oacute;is emitidos pelos 150 vulc&otilde;es mais ativos do planeta afetam as mudan&ccedil;as clim&aacute;ticas?"
+                    },
+                    "time": {
+                      "value": "03:12"
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": [
+                      {
+                        "name": "nusa-penida-episode-1",
+                        "id": "3ee9370330964c6dae0d9bab693fc009",
+                        "url": "/environment/video/mission-blue/hope-spots/nusa-penida-episode-1",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "video"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A Rolex e a Mission Blue – Hope Spot de Nusa Penida – Episódio 1"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Os Defensores da Mission Blue, Rili Djohani e Wira Sanjaya, estão trabalhando em estreita colaboração com comunidades de Bali para proteger alguns dos recifes de coral com maior biodiversidade do mundo."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 24s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-episode-01.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - Nusa Penida Hope Spot - Episode 1"
+                          },
+                          "metadescription": {
+                            "value": "A fundadora do Coral Triangle Center, Rili Djohani, dedicou sua vida à proteção dos recifes de coral de Nusa Penida. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1600"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "02:24"
+                          },
+                          "previewTitle": {
+                            "value": "Mission Blue: Hope Spot de Nusa Penida – Episódio 1"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-episode-01.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "kep-archipelago-episode-2",
+                        "id": "c369e9b99eee43cc9dfb97fb0664f6e4",
+                        "url": "/environment/video/mission-blue/hope-spots/kep-archipelago-episode-2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": ""
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex e Mission Blue – Hope Spot do arquipélago de Kep – Episódio 2"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Desde 2016, com a ajuda das comunidades locais, a Marine Conservation Cambodia já instalou mais de 300 recifes artificiais no arquipélago de Kep, um <i>Hope Spot</i> da Mission Blue."
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 12s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-episode-02.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - The Kep Archipelago Hope Spot - Episode 2"
+                          },
+                          "metadescription": {
+                            "value": "No Camboja, os conservacionistas estão trabalhando para restaurar o arquipélago de Kep e melhorar os meios de subsistência das populações que dependem dele. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "02:11"
+                          },
+                          "previewTitle": {
+                            "value": "Mission Blue: Hope Spot do arquipélago de Kep – Episódio 2"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-episode-02.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "name": "steve-boyes-cassai-river-expedition-episode-2",
+                        "id": "38e7f23dc95640c287053a20d8a82aa6",
+                        "url": "/environment/video/perpetual-planet/steve-boyes-cassai-river-expedition-episode-2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": ""
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Expedição ao rio Cassai – Episódio 2 – Perpetual Planet"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Steve Boyes, parceiro da Iniciativa Perpetual Planet e Explorador da National Geographic, partiu em uma jornada extraordinária pelas Terras Altas de Angola em direção à República Democrática do Congo, como parte das expedições Great Spine of Africa. Durante a etapa de documentação dos ecossistemas em territórios inexplorados, ele e sua equipe enfrentaram hipopótamos, crocodilos e corredeiras de intensa velocidade.\r\n"
+                          },
+                          "Video": {
+                            "value": true
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": ""
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-video-episode-02.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                            "url": "/Content/PageType/video-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Cassai River Expedition Episode 2 - Perpetual Planet"
+                          },
+                          "metadescription": {
+                            "value": "Para estabelecer as linhas de base ecológicas do rio Cassai, o conservacionista Steve Boyes e sua equipe desbravaram águas indômitas. Assista ao vídeo em rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": ""
+                          },
+                          "tag2": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": "03:12"
+                          },
+                          "previewTitle": {
+                            "value": "Expedições Great Spine of Africa: rio Cassai  – Episódio 2"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-video-episode-02.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "placeholders": {
+                    "jss-related-videos": [
+                      {
+                        "uid": "ec4fb771-d149-492a-b31f-d41f31618cd8",
+                        "componentName": "RelatedItems",
+                        "dataSource": "{AE8EF4D0-CC73-4648-9807-051605689FFC}",
+                        "params": {},
+                        "fields": {
+                          "title": {
+                            "value": "Descubra nossos vídeos relacionados"
+                          },
+                          "relatedItems": [
+                            {
+                              "id": "e28e3cdb-2588-596d-af27-3bc958ebe5ff",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Ouvir as florestas do planeta graças a “orelhas” eletrônicas - Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O especialista em tecnologia Topher White oferece a cientistas e ambientalistas uma visão única da vida selvagem nas florestas tropicais ao redor do mundo, graças a seu sistema de alerta para detectar a exploração ilegal de madeira por meio de telefones celulares antigos."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 19s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/topher-white/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Electronic ears to listen to the rainforests - Video"
+                                },
+                                "metadescription": {
+                                  "value": "O especialista em tecnologia Topher White oferece a cientistas e ambientalistas uma visão única da vida selvagem nas florestas tropicais ao redor do mundo, graças a seu sistema de alerta para detectar a exploração ilegal de madeira por meio de telefones celulares antigos."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1680"
+                                },
+                                "tag2": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1680"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                  "url": "/Content/Hub/science",
+                                  "fields": {
+                                    "name": {
+                                      "value": "science"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-science"
+                                    },
+                                    "url": {
+                                      "value": "science"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:12"
+                                },
+                                "previewTitle": {
+                                  "value": "Ouvir as florestas do planeta graças a “orelhas” eletrônicas - Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/video/rolex-awards/applied-technology/2019/topher_white/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Tecnologia aplicada"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "49407e31-4d77-5902-97cb-9939e95160d6",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Visão para a África - Video"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O sonho de Andrew Bastawrous, oftalmologista ingl&ecirc;s, era oferecer tratamento a milh&otilde;es de pessoas portadoras de defici&ecirc;ncia visual que vivem em pa&iacute;ses de baixa renda. Seu projeto come&ccedil;ou a ser desenvolvido em regi&otilde;es isoladas do Qu&ecirc;nia, pa&iacute;s onde os servi&ccedil;os oftalmol&oacute;gicos s&atilde;o prec&aacute;rios, mas que disp&otilde;e de uma boa infraestrutura de telefonia m&oacute;vel.&nbsp;A solu&ccedil;&atilde;o encontrada foi usar smartphones como equipamento port&aacute;til de exame oftalmol&oacute;gico. A ideia &eacute; que a tecnologia por ele desenvolvida seja disponibilizada para outros pa&iacute;ses."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 33s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/andrew-bastawrous/video-thumbnail/andrew_bastawrous_thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Vision for Africa - Video"
+                                },
+                                "metadescription": {
+                                  "value": "O sonho de Andrew Bastawrous, oftalmologista ingl&ecirc;s, era oferecer tratamento a milh&otilde;es de pessoas portadoras de defici&ecirc;ncia visual que vivem em pa&iacute;ses de baixa renda. Seu projeto come&ccedil;ou a ser desenvolvido em regi&otilde;es isoladas do Qu&ecirc;nia, pa&iacute;s onde os servi&ccedil;os oftalmol&oacute;gicos s&atilde;o prec&aacute;rios, mas que disp&otilde;e de uma boa infraestrutura de telefonia m&oacute;vel.&nbsp;A solu&ccedil;&atilde;o encontrada foi usar smartphones como equipamento port&aacute;til de exame oftalmol&oacute;gico. A ideia &eacute; que a tecnologia por ele desenvolvida seja disponibilizada para outros pa&iacute;ses."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1680"
+                                },
+                                "tag2": {
+                                  "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                  "url": "/Content/Category/ScienceHealth",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Science and Health"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "science-health"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1680"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                  "url": "/Content/Hub/science",
+                                  "fields": {
+                                    "name": {
+                                      "value": "science"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-science"
+                                    },
+                                    "url": {
+                                      "value": "science"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                  "url": "/Content/Category/Applied-Technology",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Applied Technology"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "applied-technology"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:56"
+                                },
+                                "previewTitle": {
+                                  "value": "Visão para a África - Video"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/andrew-bastawrous/video-thumbnail/andrew_bastawrous_thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Applied Technology"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "f274be90-f7df-5c89-af47-e3c33f616369",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "video"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "A floresta tropical que veio do gelo - Vídeo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Para o especialista em microbiologia polar Joseph Cook, a camada superficial do manto de gelo do &Aacute;rtico se assemelha a uma &ldquo;floresta tropical congelada&rdquo;. A camada superior de gelo constitui um formid&aacute;vel bi&oacute;topo, mas suas dimens&otilde;es, sua fun&ccedil;&atilde;o e seu impacto ainda s&atilde;o um mist&eacute;rio para a ci&ecirc;ncia. Com o nome de \"Ice Alive\", a miss&atilde;o de Joseph Cook consiste em descobrir de que forma esse ecossistema contribui para determinar as mudan&ccedil;as clim&aacute;ticas, os ciclos de nutrientes e o ciclo de carbono &ndash; fatores que, por sua vez, t&ecirc;m um impacto sobre a humanidade."
+                                },
+                                "Video": {
+                                  "value": true
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 32s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/rolex-awards/joseph-cook/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": "dark"
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                  "url": "/Content/PageType/video-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The frozen rainforest - Video"
+                                },
+                                "metadescription": {
+                                  "value": "Para o especialista em microbiologia polar Joseph Cook, a camada superficial do manto de gelo do &Aacute;rtico se assemelha a uma &ldquo;floresta tropical congelada&rdquo;. A camada superior de gelo constitui um formid&aacute;vel bi&oacute;topo, mas suas dimens&otilde;es, sua fun&ccedil;&atilde;o e seu impacto ainda s&atilde;o um mist&eacute;rio para a ci&ecirc;ncia. Com o nome de \"Ice Alive\", a miss&atilde;o de Joseph Cook consiste em descobrir de que forma esse ecossistema contribui para determinar as mudan&ccedil;as clim&aacute;ticas, os ciclos de nutrientes e o ciclo de carbono &ndash; fatores que, por sua vez, t&ecirc;m um impacto sobre a humanidade."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "rolex-awards"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                  "url": "/Content/Hub/rolex-awards",
+                                  "fields": {
+                                    "name": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "rolex-awards"
+                                    },
+                                    "url": {
+                                      "value": "rolex-awards"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "1650"
+                                },
+                                "tag2": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "1650"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag_video": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": "03:25"
+                                },
+                                "previewTitle": {
+                                  "value": "A floresta tropical que veio do gelo - Vídeo"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/rolex-awards/joseph-cook/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploration"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "216ca161-3e99-4b41-86a9-57578f444384",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes – Great Spine of Africa – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Após inúmeras e arriscadas expedições, o explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Com o apoio da Rolex, ele agora está usando essa descoberta para exigir a tomada de medidas concretas para proteger essa área vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "O explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protegendo nossas águas"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploração"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e a expedição ao rio Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte das expedições Great Spine of Africa para proteger a segurança hídrica do continente africano, Steve Boyes, conservacionista e parceiro da Iniciativa Perpetual Planet da Rolex, mapeou uma importante nascente do rio Congo às Terras Altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Como parte das expedições Great Spine of Africa, o conservacionista Steve Boyes examinou o rio Cassai, uma importante nascente do rio Congo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "O rio Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e o rio Lungué-Bungo – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Graças à Iniciativa Perpetual Planet, a Rolex tem o prazer de contribuir para as expedições do projeto Great Spine of Africa, que atravessam milhares de quilômetros de rios nunca antes documentados cientificamente. O trabalho realizado nessas expedições é crucial para proteger as comunidades locais e os animais selvagens que dependem dos grandes rios africanos para sobreviver."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Por meio de sua Iniciativa Perpetual Planet, a Rolex apoia Steve Boyes em sua expedição pelo inexplorado rio Lungué-Bungo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Os segredos do poderoso rio Zambeze"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O prêmio Rolex National Geographic Explorer of the Year agracia exploradores cujo compromisso com um planeta perpétuo mobiliza grande atenção para temas, descobertas e desafios importantes enfrentados pelo nosso planeta. "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra os vencedores do Rolex National Geographic Explorers of the Year: a equipe do Okavango Wilderness Project e o seu projeto em prol de um planeta perpétuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O biólogo marinho colombiano, Fernando Trujillo, foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa, uma espécie emblemática da Amazônia, e de seu habitat."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo marinho Fernando Trujillo foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: por paixão pelos botos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,1531 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "it",
+      "wa": {
+        "contentTag": "performing-arts",
+        "pageType": "content page",
+        "pageSiteSection": "rolex-mentor-protege",
+        "pageSiteSubSection": "latest-mentoring-pairs",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:recent-mentorships",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film"
+      ],
+      "item": {
+        "datePublished": "2020-01-21T13:30:47Z",
+        "dateModified": "2024-09-09T14:43:16Z"
+      }
+    },
+    "route": {
+      "name": "recent-mentorships",
+      "displayName": "recent-mentorships",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "latest-mentoring-pairs"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Mentorati recenti - Programma di mentorato Rolex"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": ""
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1min 36s"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/thumbnail-combined-video.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "ea3c95c4-0952-4824-a627-ddae6be14661",
+          "url": "/Content/PageType/content-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Recent mentorships - Rolex mentoring programme"
+        },
+        "metadescription": {
+          "value": "Il programma di mentorato Rolex affianca giovani talenti ad artisti di fama internazionale per un periodo di due anni. Scopri i mentorati recenti su rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": "#fff"
+        },
+        "pageSiteSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+          "url": "/Content/Category/PerformingArts",
+          "fields": {
+            "name": {
+              "value": "Performing Arts"
+            },
+            "dictionaryKey": {
+              "value": "performing-arts"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Mentorati recenti - Programma di mentorato Rolex"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/thumbnail-combined-video.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Arti dello spettacolo"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "cf99614b-0b6b-56e1-a3c8-87153dc1fb65",
+      "itemLanguage": "it",
+      "itemVersion": 26,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b55b9967-b0a1-5f0b-a3dc-33c5db66a7e3",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{55743E89-FFAE-448C-8521-438EA052F4F6}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film.mp4"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "100vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Un omaggio all’edizione 2020‑2022"
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/rolex-org-rmp-2022-recent-mentorships-combined-pairs-long-film-posterframe.jpg"
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/recent-mentorships/combined-pairs/cover-autoplay/rolex-org-rmp-2022-recent-mentorships-combined-pairs-cover-autoplay-posterframe_portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "2fdf78e7-832d-4b3f-96e7-97f8c02326f1",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{CCF54B67-D949-4A52-9B22-8560CC3D8C77}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#000"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#212121"
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Gli Allievi dell’edizione 2020‑2022 del programma di mentorato Rolex, che volge ormai al termine, hanno collaborato con alcuni dei più grandi artisti delle loro discipline per un periodo di due anni. Quest’esperienza ha cambiato le vite degli Allievi e li ha portati a mettere in discussione alcuni dei preconcetti che nutrivano in merito alla traiettoria delle loro carriere future. Per i Maestri, si è trattata di un’occasione per trasmettere la propria saggezza a una nuova generazione di artisti, ispirare gli Allievi e riceverne a loro volta ispirazione.</b><br/><br/>Gli artisti di fama mondiale Spike Lee, Phyllida Lloyd, Carrie Mae Weems e Lin‑Manuel Miranda hanno lavorato in stretto contatto rispettivamente con il regista cinematografico Kyle Bell, la regista teatrale Whitney White, l’artista figurativa Camila Rodríguez Triana e la regista cinematografica Agustina San Martín.\r\n<br/><br/>\r\nIl programma di mentorato Rolex è stato avviato nel 2002 per favorire la trasmissione delle conoscenze e delle abilità artistiche tra le generazioni. È un esempio della costante ricerca dell’eccellenza portata avanti da Rolex, incarnata dal termine “Perpetual”."
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "294e7f3c-9653-40e9-9b5e-7eed09602756",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{65B0F437-A89D-4FFB-844A-E89DCA0CCEC4}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/film/spike-lee-and-kyle-bell"
+                    },
+                    "descriptionText": {
+                      "value": "Sensibile all’esperienza dei nativi americani nel suo Paese, Spike Lee ha scelto di fare da mentore a Kyle Bell, un giovane regista della città tribale Thlopthlocco Creek, in Oklahoma, cui serviva una spinta per uscire dal guscio. Durante il periodo di mentorato Bell ha potuto vedere Lee al lavoro, lo ha seguito mentre girava un documentario e ha trascorso del tempo con lui in sala di montaggio. Per Bell, la più grande lezione di Lee è stata l’incoraggiamento a trovare e seguire la propria strada raccontando le storie del suo popolo.\r\n\r\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-film.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-film-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Cinema"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "Spike Lee e Kyle Bell\r\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "8112d342-23e5-4c62-96fd-3991f752c565",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{676A9BFF-771A-4BA6-BE9D-0E7DB447D325}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/theatre/phyllida-lloyd-and-whitney-white"
+                    },
+                    "descriptionText": {
+                      "value": "Riunite dalla passione comune per Shakespeare e per la musica e dall’interesse nel raccontare storie di donne, Phyllida Lloyd e la sua Allieva Whitney White affermano che il loro rapporto è cresciuto rapidamente grazie alla profonda sintonia scoperta esplorando le influenze che plasmano la scena teatrale odierna. Tra la regista londinese Lloyd e White, artista di Chicago che vive a New York, le richieste di consigli sono ben presto cominciate ad arrivare da entrambe le parti.\r\n\r\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-theatre.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-theatre-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Teatro"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "PHYLLIDA LLOYD E WHITNEY WHITE\r\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "0fb2b8b7-fe91-4eb0-b4e6-500f5782ea7d",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{5566C43D-2A8A-49D1-BBC9-FE9C5E5A44CD}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/visual-arts/carrie-mae-weems-and-camila-rodriguez-triana"
+                    },
+                    "descriptionText": {
+                      "value": "Per Carrie Mae Weems, Camila Rodríguez Triana era una scelta interessante come Allieva in parte perché, pur provenendo da un Paese diverso e da un mondo diverso, i loro lavori presentano diverse somiglianze. Entrambe esplorano infatti l’impatto di colonialismo, spostamenti, identità e appartenenza; entrambe creano opere legate dal filo della memoria. Weems ammira l’approccio concreto alla creazione di Triana: la giovane artista si avvale infatti di cuciture e tessuti per esprimere le sue idee sul violento passato della Colombia e sulla lotta di questo Paese verso un futuro diverso.\r\n\r\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-visual-arts.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-visual-arts-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Arti visive"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "CARRIE MAE WEEMS E CAMILA RODRÍGUEZ TRIANA\r\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "3854e04f-f1a9-47c0-af2f-b64bd1513e1d",
+                  "componentName": "ParallaxedSection",
+                  "dataSource": "{DF433DCF-E9A3-4728-8124-DBE2D0660BA6}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": ""
+                    },
+                    "ctaLabel": {
+                      "value": "discover-more"
+                    },
+                    "ctaUrl": {
+                      "value": "/rolex-mentor-protege/recent-mentorships/open-category/lin-manuel-miranda-and-agustina-san-martin"
+                    },
+                    "descriptionText": {
+                      "value": "Lin-Manuel Miranda e la sua Allieva, la regista cinematografica Agustina San Martín, si sono incontrati quando Miranda stava facendo il suo debutto alla regia dopo una serie di musical premiati, tra cui <i>Hamilton</i> e <i>Sognando a New York – In The Heights</i>. Tra i due si è verificato un vero e proprio colpo di fulmine artistico, che ha dato vita a una solida collaborazione. A seguito del mentorato San Martín desidera allontanarsi da un cinema d’autore e indipendente per lanciarsi in una narrativa più popolare.\r\n\r\n"
+                    },
+                    "descriptionTitle": {
+                      "value": ""
+                    },
+                    "imageLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-open-category.jpg"
+                    },
+                    "imagePortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/recent-mentorships/landing-page/rolex-mentor-and-protege-2020-2022-open-category-portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Categoria aperta\r\n"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "title": {
+                      "value": "LIN-MANUEL MIRANDA E AGUSTINA SAN MARTÍN\r\n"
+                    }
+                  }
+                },
+                {
+                  "uid": "498dc2f9-38b7-4cdc-a831-585f361d39d3",
+                  "componentName": "SimpleText",
+                  "dataSource": "{180ACC6E-ECFD-5B12-B5B1-21F8D9284526}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<br>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b833270f-dbc5-5a9a-8715-e63624823f37",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{82730CFE-E00A-518A-8324-BC625AD0B159}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-mentor-protege"
+                    },
+                    "anchorText": {
+                      "value": "Scopri"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/rolex_org_mentor_and_protege_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Il programma"
+                    },
+                    "title": {
+                      "value": "Programma di mentorato Rolex"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a53f07af-a2db-4220-b1d3-cc7bb13c2200",
+                  "componentName": "Sharing",
+                  "dataSource": "{F95175BC-1D1F-443C-B0CD-5198F18DFC1D}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa di Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dopo una serie di spedizioni rischiose, l’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Con il sostegno di Rolex, Boyes sta utilizzando questa scoperta per garantire una protezione concreta a questa zona di vitale importanza."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Proteggere l’acqua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Esplorazione"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e la spedizione sul fiume Kasai - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, che mirano a proteggere la sicurezza idrica nel continente africano, l’ambientalista e partner dell’Iniziativa Perpetual Planet di Rolex Steve Boyes ha localizzato un’importante sorgente del fiume Congo negli altipiani dell’Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, l’ambientalista Steve Boyes ha condotto ricerche sul fiume Kasai, un’importante sorgente del fiume Congo. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il fiume Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e il fiume Lungué‑Bungo - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene le spedizioni Great Spine of Africa, che attraversano migliaia di chilometri di fiumi mai documentati prima d’ora. Queste ricerche contribuiranno a proteggere le comunità e la fauna selvatica che dipendono dai grandi fiumi d’Africa."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene la spedizione di Steve Boyes mirata a studiare il fiume Lungué‑Bungo, finora inesplorato. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il possente fiume Zambesi e i suoi segreti"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il premio Rolex National Geographic Explorer of the Year è un riconoscimento assegnato a esploratori il cui impegno per un pianeta perpetuo contribuisce a far luce su importanti questioni, scoperte e sfide che la Terra si trova ad affrontare."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Scopri il vincitore del Rolex National Geographic Explorer of the Year 2019 e il suo impegno per un pianeta perpetuo: il team dell’Okavango Wilderness Project."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il biologo marino colombiano Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia del delfino rosa del Rio delle Amazzoni e dell’ecosistema fluviale in cui vive."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Il biologo marino Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia dei delfini del Rio delle Amazzoni. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: un amore per i delfini di fiume"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

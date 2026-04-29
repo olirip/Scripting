@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.rolex.com)",
+      "WebFetch(domain:rolex.com)",
+      "WebSearch",
+      "WebFetch(domain:builtwith.com)",
+      "WebFetch(domain:newsroom.rolex.com)",
+      "WebFetch(domain:www.panoramata.co)",
+      "WebFetch(domain:www.similarweb.com)",
+      "WebFetch(domain:www.seoptimer.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:www.wikidata.org)",
+      "WebFetch(domain:almanac.httparchive.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:relevance.digital)",
+      "mcp__obsidian__write_note"
+    ]
+  }
+}

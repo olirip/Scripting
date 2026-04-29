@@ -1,0 +1,4067 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "fr",
+      "wa": {
+        "contentTag": "oceans/mission-blue",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "mission-blue",
+        "environmentName": "production",
+        "pageName": "environment:mission-blue:hope-spots:kep-archipelago",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-1/rolex-org-mission-blue-hope-spot-kep-archipelago-episode-01-long-film",
+        "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-2/long-film/rolex-org-mission-blue-kep-archipelago-hope-spot-episode-02-long-film"
+      ],
+      "item": {
+        "datePublished": "2024-07-16T13:24:59Z",
+        "dateModified": "2024-08-16T09:23:34Z"
+      }
+    },
+    "route": {
+      "name": "kep-archipelago",
+      "displayName": "kep-archipelago",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "mission-blue"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex et Mission Blue - Le Hope Spot de l’archipel de Kep"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Des défenseurs de l’environnement collaborent avec les communautés locales pour réparer les habitats marins dégradés au Cambodge. Avec le soutien de l’Initiative Perpetual Planet de Rolex, ils restaurent les herbiers marins pour faire revenir dans les eaux cambodgiennes le plus grand herbivore de l’océan."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "4 min 10 s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex and Mission Blue - The Kep Archipelago Hope Spot"
+        },
+        "metadescription": {
+          "value": "Des défenseurs de l'environnement cambodgiens travaillent à redonner vie aux prairies sous-marines de l’archipel de Kep pour qu’elles attirent de nouveau la faune marine menacée. En savoir plus sur rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+          "url": "/Content/Category/mission-blue",
+          "fields": {
+            "name": {
+              "value": "Mission Blue"
+            },
+            "dictionaryKey": {
+              "value": "mission-blue"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "2000"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2000"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+          "url": "/Content/Hub/Minisites/missionblue",
+          "fields": {
+            "name": {
+              "value": "missionblue"
+            },
+            "dictionaryKey": {
+              "value": "view-mission-blue"
+            },
+            "url": {
+              "value": "/environment/mission-blue"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Le super-héros des océans"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Environnement "
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "69b7449a-1e2c-4511-9092-413341fd65e4",
+      "itemLanguage": "fr",
+      "itemVersion": 18,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b2a7bd71-3bda-4293-8033-210bf64711f5",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{9AD5DBB6-4D63-4975-900B-D7FB78789EAE}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago/cover/rolex-org-mission-blue-hope-spots-kep-archipelago-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago/cover/rolex-org-mission-blue-hope-spots-kep-archipelago-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "85vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago/cover/rolex-org-mission-blue-hope-spots-kep-archipelago-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "LE SUPER-HÉROS DES OCÉANS"
+                    },
+                    "subtitle": {
+                      "value": "Mission Blue"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago/cover/rolex-org-mission-blue-hope-spots-kep-archipelago-cover-autoplay-posterframe-portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "ecba82a9-b1e2-4fd9-bdad-e0dc8caa6443",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{2A00969A-429A-41A9-83C5-B68606326928}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": "#08223A"
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "4 min 25 s"
+                    },
+                    "date": {
+                      "value": "juillet 2024"
+                    },
+                    "text": {
+                      "value": "<b>Des défenseurs de l’environnement collaborent avec les communautés locales pour réparer les habitats marins dégradés au Cambodge. Avec le soutien de l’Initiative Perpetual Planet de Rolex, ils restaurent les herbiers marins pour faire revenir dans les eaux cambodgiennes le plus grand herbivore de l’océan.</b>"
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "62baa25a-e90b-46f0-9b91-372f0bd06c93",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{7CD3B38C-224F-4360-BF3A-18260B1808DA}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>MISSION BLUE</b> <I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "rollerTitle": {
+                      "value": "<b>TOUS LES</b> ÉPISODES"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "videos": [
+                      {
+                        "id": "87a06348-e842-40a1-a4da-be4a2f41f5ff",
+                        "fields": {
+                          "date": {
+                            "value": "Juillet 2024"
+                          },
+                          "title": {
+                            "value": "<i>Hope Spot</i> de l’archipel de Kep : épisode&nbsp;1<br>À la racine"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-1/rolex-org-mission-blue-hope-spot-kep-archipelago-episode-01-long-film.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:44"
+                          },
+                          "link": {
+                            "id": "69b7449a-1e2c-4511-9092-413341fd65e4",
+                            "url": "/environment/mission-blue/hope-spots/kep-archipelago",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Rolex et Mission Blue - Le Hope Spot de l’archipel de Kep"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Des défenseurs de l’environnement collaborent avec les communautés locales pour réparer les habitats marins dégradés au Cambodge. Avec le soutien de l’Initiative Perpetual Planet de Rolex, ils restaurent les herbiers marins pour faire revenir dans les eaux cambodgiennes le plus grand herbivore de l’océan."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "4 min 10 s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Kep Archipelago Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "Des défenseurs de l'environnement cambodgiens travaillent à redonner vie aux prairies sous-marines de l’archipel de Kep pour qu’elles attirent de nouveau la faune marine menacée. En savoir plus sur rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "2000"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "2000"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Le super-héros des océans"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Environnement "
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-1/long-film/rolex-org-mission-blue-kep-archipelago-hope-spot-posterframe-episode-01.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "e7bdaf88-444c-4ea0-a276-888ab9062da1",
+                        "fields": {
+                          "date": {
+                            "value": "Juillet 2024"
+                          },
+                          "title": {
+                            "value": "<i>Hope Spot</i> de l’archipel de Kep : épisode&nbsp;2<br>Une côte interconnectée"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-2/long-film/rolex-org-mission-blue-kep-archipelago-hope-spot-episode-02-long-film.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:11"
+                          },
+                          "link": {
+                            "id": "69b7449a-1e2c-4511-9092-413341fd65e4",
+                            "url": "/environment/mission-blue/hope-spots/kep-archipelago",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Rolex et Mission Blue - Le Hope Spot de l’archipel de Kep"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Des défenseurs de l’environnement collaborent avec les communautés locales pour réparer les habitats marins dégradés au Cambodge. Avec le soutien de l’Initiative Perpetual Planet de Rolex, ils restaurent les herbiers marins pour faire revenir dans les eaux cambodgiennes le plus grand herbivore de l’océan."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "4 min 10 s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Kep Archipelago Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "Des défenseurs de l'environnement cambodgiens travaillent à redonner vie aux prairies sous-marines de l’archipel de Kep pour qu’elles attirent de nouveau la faune marine menacée. En savoir plus sur rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "2000"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "2000"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Le super-héros des océans"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Environnement "
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/kep-archipelago-episode-2/long-film/rolex-org-mission-blue-kep-archipelago-hope-spot-posterframe-episode-02.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "#08223A"
+                    }
+                  }
+                },
+                {
+                  "uid": "c8d3dc88-939b-43a9-9177-45a3959d49cb",
+                  "componentName": "TextSection",
+                  "dataSource": "{0AFF2A6D-6C28-4371-80A7-5C5338536F04}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "title": {
+                      "value": "DE L’ESPOIR POUR LES DUGONGS DU CAMBODGE\r\n"
+                    },
+                    "text": {
+                      "value": "Les efforts considérables des défenseurs de l’environnement pour restaurer les fragiles prairies sous-marines autour de l’archipel de Kep, au Cambodge, ont été fructueux : de majestueux animaux marins comme les dugongs et les tortues vertes repeuplent ces eaux paradisiaques."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "5d4ee69b-bb44-4afd-97fb-ae3a2788acdc",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F71EFBBE-E453-4A83-A627-91E748A9996B}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-dugong_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-dugong.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "083e05e6-58e2-4773-8be6-8c2b8852ed38",
+                  "componentName": "SimpleText",
+                  "dataSource": "{92055B39-BB40-463C-970A-C4D7DA1674FF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "L’équipe dédiée de Marine Conservation Cambodia (MCC) a construit des récifs artificiels pour restaurer l’écosystème et empêcher les pratiques de pêche néfastes.\r\n<br><br>\r\nMission Blue, partenaire de l’Initiative Perpetual Planet de Rolex, a ajouté l’archipel de Kep à son réseau de <i>Hope Spots</i> après avoir constaté le succès de MCC dans la restauration des prairies sous-marines et la préservation des espèces marines vulnérables. Les <i>Hope Spots</i> sont des endroits particuliers, essentiels pour la santé des océans. Ils sont représentés par des « Champions », des défenseurs de l’environnement locaux qui bénéficient d’un soutien en communication et d’un accompagnement scientifique.\r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "310554e7-6f41-47da-9e17-6b092dc57ad5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{9AFB6E1D-BD42-4AA3-94CE-62D1309D7710}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-diver-in-seagrass-meadow_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-diver-in-seagrass-meadow.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cca643b5-86bf-4034-b820-45c16f967037",
+                  "componentName": "TextSection",
+                  "dataSource": "{1D5CB136-89D6-444F-94CF-09CF80DE8E01}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "title": {
+                      "value": "DES PRAIRIES SOUS-MARINES"
+                    },
+                    "text": {
+                      "value": "Les prairies sous-marines du Cambodge comptent parmi les plus grandes qui subsistent en Asie du Sud-Est. Elles constituent un habitat vital pour de nombreuses espèces menacées et en danger. Le sympathique dugong, le plus grand herbivore marin, dépend des herbiers marins pour brouter."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "b2e5e2f2-b860-4a3d-bbea-4c194c39ddcd",
+                  "componentName": "Quote",
+                  "dataSource": "{E2929021-58D7-4B19-AC6B-124EC41D16AE}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Après avoir laissé l’océan tranquille pendant sept ans, l’écosystème commence à se régénérer."
+                    },
+                    "author": {
+                      "value": "Rachana Thap"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "fc4a8431-4df1-48db-86cc-d7703684f470",
+                  "componentName": "SimpleText",
+                  "dataSource": "{960D1A00-B99A-4E4C-8EAD-617EADF60838}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "« Les herbiers marins sont les super-héros des océans », déclare Rachana Thap, directrice de MCC et « Championne » du <i>Hope Spot</i> de l’archipel de Kep. Ces vastes prairies sous-marines relâchent de l’oxygène et sont des puits de carbone essentiels, capables d’absorber plus de dioxyde de carbone que n’importe quelle forêt terrestre.\r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "868a43be-8f79-42db-92ce-b4895f7cada5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{9450848D-A0E6-46C6-8D1B-F89A3B66DA46}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-rachana-thap_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-rachana-thap.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b9b0e753-9cb1-4be9-bcd9-f5525dfa2895",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1BF3FF2B-3249-4064-A3BB-11B74050CF20}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Malheureusement, ces habitats fragiles ont été considérablement abîmés par les méthodes de pêche industrielle comme le chalutage de fond, qui peut dévaster des pans entiers d’herbiers marins en l’espace de quelques minutes. Les chalutiers sont « très destructeurs » pour la vie marine, explique Rachana Thap. \r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dd9b0580-b41b-42ef-80fb-5b5c4cd6c3dd",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{2B507707-F79B-4E6C-8F2A-A8C93327E3CC}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-aerial-island-view_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-aerial-island-view.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "9925c267-24e5-4dac-b193-e95f2ae7d8b6",
+                  "componentName": "TextSection",
+                  "dataSource": "{12397ADB-D1E7-4283-9739-9856D6179BCF}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "title": {
+                      "value": "DES RÉCIFS ARTIFICIELS"
+                    },
+                    "text": {
+                      "value": "Paul Ferber, défenseur de l’environnement, a fondé MCC sur Koh Rong Samloem en 2008 dans le but de restaurer les écosystèmes marins, d’empêcher la pêche illégale et non-réglementée et d’améliorer les conditions de vie des communautés locales.\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "09c887e2-51a8-4835-88c4-15c510348bc4",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{07539753-D0B2-4A35-ADFD-C6BC90A99364}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-artificial-reef_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-artificial-reef.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f4bbb782-a304-49b2-8e55-65305a78b1f0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CE11B1BE-A581-4719-A1BB-C26A72582E0B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rachana Thap indique que MCC est née « d’un amour sincère pour l’océan ». Elle a rejoint l’organisation à but non lucratif comme stagiaire pendant ses études universitaires et s’est rapidement intégrée à l’équipe, jusqu’à imaginer d’innovants récifs artificiels dans le cadre de son projet de fin d’études. En 2016, MCC a commencé à installer des récifs artificiels sur le plancher océanique de l’archipel de Kep, un groupe d’une douzaine d’îles au sud-est du Cambodge. Ces structures ont deux fonctions pour la restauration de l’écosystème. D’une part, elles fournissent une surface de colonisation aux espèces comme les coraux ou les éponges et, d’autre part, elles protègent l’habitat du chalutage, laissant ainsi le temps à la vie marine de se régénérer et de se développer."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7bffefef-105c-4a5b-8c95-92fe87564775",
+                  "componentName": "Roller",
+                  "dataSource": "{70796C6D-3D9A-4236-B60B-B45E2694C6DC}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "aeb7afa3-5131-455d-ba76-52b2090c87ea",
+                        "componentName": "RollerCard",
+                        "dataSource": "{4449DC89-2EB6-49CC-B606-BFDF3FF0AFAE}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-01/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-01-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "21f73292-054d-4061-a299-f39adb21071c",
+                        "componentName": "RollerCard",
+                        "dataSource": "{1F5CFE7F-6946-44D3-921B-454D1085F116}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-01/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-01-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "59dbb2db-3d29-4fa6-a685-3633392fe849",
+                        "componentName": "RollerCard",
+                        "dataSource": "{84F987B4-09EB-4491-B9BB-8AE391C7A504}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-01/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-01-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "6610b7ba-a6da-4a85-ba17-8d7cc9fb45ae",
+                        "componentName": "RollerCard",
+                        "dataSource": "{1DA1EB02-7ED7-4099-8DA8-6B3E9D979474}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-01/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-01-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "1ec95227-57cb-4df6-b6e5-8106e317079d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7443641B-5BAD-4936-BB57-0E87F24E8DBD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "En 2018, le gouvernement cambodgien a déclaré l’archipel de Kep deuxième aire marine de gestion de la pêche (<i>Marine Fisheries Management Area</i>, MFMA) du pays et a par conséquent interdit le chalutage ainsi que les autres pratiques de pêche néfastes dans cette zone.\r\n<br><br>\r\nCette MFMA s’étend sur plus de 11 000 hectares de récifs coralliens, de mangroves et d’herbiers marins qui représentent d’importantes sources d’alimentation et voies migratoires pour de nombreuses espèces menacées, comme le dauphin de l’Irrawaddy, la tortue verte, la tortue imbriquée, le requin-baleine, le tridacne géant et l’hippocampe.\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1b4371aa-72ef-4959-9b1c-bb3d4f37ddf5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6B96815A-CF9C-4369-B77B-B1A3A09A3571}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-sea-animal_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-sea-animal.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0ab20a4a-d699-44ed-a7df-3eb44dd8d1b3",
+                  "componentName": "TextSection",
+                  "dataSource": "{5789CE11-896B-46EE-B280-A83FDF26856A}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "title": {
+                      "value": "UN PROMPT RÉTABLISSEMENT"
+                    },
+                    "text": {
+                      "value": "Grâce à la vigilance de MCC, les écosystèmes marins de l’archipel de Kep se sont rapidement reconstitués. L’équipe a constaté que 1 000 hectares de prairies sous-marines ont repoussé dans la MFMA. En 2022, ses efforts ont été récompensés par le retour des premiers dugongs, une mère et son petit. Depuis, on peut apercevoir des dugongs plus régulièrement. La surveillance acoustique des récifs artificiels a également révélé que de grands bancs de dauphins se nourrissent la nuit dans l’aire protégée. « Après avoir laissé l’océan tranquille pendant sept ans, l’écosystème commence à se régénérer », déclare Rachana Thap.\r\n\r\n\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "04d2a825-e0d0-4d94-be6a-3f97b0441c52",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{C5716B53-8F8C-46EB-B108-FF8C2DF5D440}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-seahorse-in-seagrass-meadow_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-seahorse-in-seagrass-meadow.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "620cfc9e-beb0-4355-93c7-93820df9056c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{E4EC2BF2-FEBD-492E-8F47-FDC99149F0CA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Tanguy Freneat, <i>Island Manager</i> de MCC, a été surpris par la vitesse de la transformation. « J’ai toujours pensé que de nombreuses années seraient nécessaires pour que l’environnement se remette des dommages causés par les humains. Constater sa régénération de mes propres yeux me donne de l’espoir pour l’océan et le monde en général. »"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9610766e-da72-469d-a072-0e2d353b62eb",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{214AEDBE-E3D6-4B7E-957A-8216C4FC3450}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-tanguy-freneat_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-tanguy-freneat.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "bae91e5d-02f3-4996-901a-bd8090cadd47",
+                  "componentName": "Quote",
+                  "dataSource": "{6ACE9155-1415-473D-9CD8-EA41805BC89D}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Pour atténuer la pression sur cet écosystème, il faut proposer des sources de revenus alternatives aux communautés qui en dépendent."
+                    },
+                    "author": {
+                      "value": "Tanguy Freneat"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "e93312c9-e35f-4cc0-83ab-8d50052bd119",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{7FD432E0-1ACA-485B-825A-95D7CD2CA55F}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-illustration-morphology-of-seagrass_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-illustration-morphology-of-seagrass.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "94dee2af-ec5a-4726-a82c-ce8c4fd785a4",
+                  "componentName": "TextSection",
+                  "dataSource": "{A8EE19C3-63B4-4F62-8FC4-40B1DF1E8ABA}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE L’ARCHIPEL DE KEP"
+                    },
+                    "title": {
+                      "value": "PROTÉGER LES SOURCES DE REVENUS LOCALES"
+                    },
+                    "text": {
+                      "value": "Avant que MCC ne commence à travailler dans l’archipel de Kep, de nombreuses populations de poissons avaient presque disparu. Grâce à la protection de la MFMA et aux récifs artificiels, l’habitat marin s’est régénéré et les communautés locales qui pratiquent la pêche durable ont vu leurs prises augmenter. « Les gens sont vraiment enthousiastes, c’est très inspirant », affirme Tanguy Freneat.\r\n<br><br>\r\nEn démontrant les bienfaits de la conservation, Rachana Thap a réussi à collaborer avec les communautés côtières qui dépendent de la santé de ces écosystèmes pour subsister. Son but est d’encourager les habitants à comprendre et à aimer leur environnement marin pour qu’ils veuillent le préserver et « le transmettre aux générations futures ».\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f843fb09-fe46-43e8-8cb3-f67970062335",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{A0D426CA-27E4-4381-BB0D-D6B50F6E691F}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-rachana-thap-with-locals_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium "
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-rachana-thap-with-locals.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "db7fb2bc-9af2-43d6-8462-f2a804397289",
+                  "componentName": "SimpleText",
+                  "dataSource": "{96B2A618-B81B-48FE-B442-C74E886E9013}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rachana Thap a recruté des pêcheurs de la région pour participer à un recensement des mammifères marins. Ils ont trouvé des dauphins de l’Irrawaddy dans les eaux de l’archipel de Kep. Les animaux, tels que les dugongs ou les dauphins, sont des « indicateurs de la santé de l’écosystème », ajoute-t-elle.\r\n<br><br>\r\nMCC incite les pêcheurs côtiers à adopter des moyens de subsistance plus durables, comme l’ostréiculture. L’organisation leur fournit des radeaux en bambou qu’ils peuvent utiliser pour cultiver et récolter des coquillages, contribuant ainsi à augmenter la population d’huîtres qui filtrent les polluants de l’eau. « Pour atténuer la pression sur cet écosystème, il faut proposer d’autres moyens de subsistance aux communautés qui en dépendent », explique Tanguy Freneat."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1ce27778-d15b-4a2b-9588-1dd5ae46548f",
+                  "componentName": "Roller",
+                  "dataSource": "{5292F5ED-93DC-44E2-B9CE-A7B04299068E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "1174a0da-7725-4eb8-94ca-187cb64d9c32",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7457F35A-CB52-4BC4-8A77-39B38A651CD8}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-02/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-02-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "e6551ad7-e83e-424c-a888-636b8290e237",
+                        "componentName": "RollerCard",
+                        "dataSource": "{A5D83DBA-6D6E-474E-BD9E-FBEC3B3AC4F2}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-02/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-02-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "d296d21f-0622-449f-a786-300398a668a6",
+                        "componentName": "RollerCard",
+                        "dataSource": "{0901DF0F-F3F4-4414-8E24-50B58F505538}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-02/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-02-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "70325813-5fe6-48ba-97d2-db64db784f1f",
+                        "componentName": "RollerCard",
+                        "dataSource": "{0F6BD246-94C1-4B63-AF72-D2EAD2946089}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/roller-02/rolex-org-mission-blue-kep-archipelago-hope-spot-roller-02-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "97b30af1-bff5-4dbe-b258-6c73fe986e31",
+                  "componentName": "SimpleText",
+                  "dataSource": "{56BD70CF-7B5D-40D6-AFDA-58A651D2AB2E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "La collaboration avec les communautés locales est la clé du succès de MCC, qui propose aux pêcheurs des sources de revenus alternatives et reçoit en échange des connaissances locales uniques. « Leur connaissance de l’océan cambodgien fait d’eux les personnes les mieux placées pour le protéger », affirme Tanguy Freneat.\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "28461b27-2b3c-4e94-a610-cfd1d5db8772",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6126DC5C-E0CB-4A48-ADD4-62CA75C321AA}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-coastal-view.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium "
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-coastal-view.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "45c238ac-fd1d-4c40-8dde-a114e86f4cf9",
+                  "componentName": "SimpleText",
+                  "dataSource": "{4A1F2643-7879-4C7D-9E62-C0AA092C87B8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Constatant l’efficacité manifeste des récifs artificiels de Rachana Thap, le gouvernement cambodgien a conclu un contrat avec MCC pour installer 5 000 récifs artificiels le long du littoral cambodgien au cours des cinq prochaines années. « Cela va transformer toute la côte du Cambodge, déclare Rachana Thap. Le potentiel de restauration et de retour de la faune et de la flore est énorme. »"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "02e04cd5-7fb9-42d9-bcd0-d35c769bb8c5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{5F5DB1E4-077B-493B-A014-7A5B6E9FB387}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-tanguy-freneat-launching-a-drone_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big "
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-tanguy-freneat-launching-a-drone.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5b2cc0f0-8e10-4452-afbc-fd08620c95bd",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{3BC810D4-ECE2-4027-B049-37FA21496770}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/fr/environment/mission-blue/hope-spots"
+                    },
+                    "anchorText": {
+                      "value": "En savoir plus"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/mission-blue/saving-the-oceans/mission_blue_saving_the_oceans_link_watching_over_the_earths_blue_heart.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Mission Blue"
+                    },
+                    "title": {
+                      "value": "Veiller sur le poumon bleu de la planète"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "e7062042-9bcb-4c53-97bc-3034a58774fb",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6B2A5A3B-6044-4E21-AB2F-6699E44CECA6}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<i>Créée en 2009, Mission Blue a pour mission de constituer un réseau d’aires marines protégées (AMP) baptisées <i>Hope Spots</i>. Ces « lieux d’espoir » sont essentiels à la santé des océans car ils abritent des espèces menacées ou assurent la subsistance de communautés dont la survie dépend d’un environnement marin sain. À ce jour, Mission Blue a déjà créé plus de 160 <i>Hope Spots</i> dans le monde. L’un des principaux objectifs du programme est de donner aux communautés locales les outils pour devenir vecteurs de changement.</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c578e743-7b6c-4867-a8a4-8bc59ed78301",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{CB3CBD85-735D-4AB2-B8F8-849B7983831D}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-banner_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big "
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-banner.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "60a06b4c-ba67-4154-9197-8137bd557c3a",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "d3b32962-d94c-46ed-b097-032f469e0de4",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{C7C7F7C3-894A-4722-A5E0-7F40FC04EC3E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Articles associés"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "0a92db90-32d2-49a7-b66b-901b8a8d6a6e",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Hope Spot de la côte de Ningaloo et du golfe d’Exmouth"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "La côte australienne de Ningaloo se caractérise par une vie marine foisonnante, mais la survie de cette dernière dépend du golfe d’Exmouth, à proximité, et de sa biodiversité."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 10 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/exmouth-gulf-ningaloo-coast/rolex-org-environment-mission-blue-exmouth-gulf-and-ningaloo-coast-hope-spot-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Uncharted Waters"
+                          },
+                          "metadescription": {
+                            "value": "Ben Fitzpatrick, « champion » du Hope Spot, protège le golfe d’Exmouth, en Australie, et démontre ses liens étroits avec la côte de Ningaloo. En savoir plus sur rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "300"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "300"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Des eaux inexplorées"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/exmouth-gulf-ningaloo-coast/rolex-org-environment-mission-blue-exmouth-gulf-and-ningaloo-coast-hope-spot-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "e04fe730-ead7-42a7-aefa-df014dcc8993",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Le Hope Spot de l’île de Malpelo"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Sandra Bessudo a consacré sa vie aux eaux vives de l’île de Malpelo. Aujourd’hui, elle travaille sans relâche pour étendre la surface des aires marines protégées autour de l’île afin de préserver son incroyable biodiversité, avec le soutien de l’Initiative Perpetual Planet de Rolex et de Mission Blue."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 10 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/malpelo-island/rolex-org-environment-mission-blue-malpelo-island-hope-spot-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - The Malpelo Island Hope Spot"
+                          },
+                          "metadescription": {
+                            "value": "La « championne » Sandra Bessudo œuvre à étendre la surface des aires marines protégées autour de l’île de Malpelo afin de préserver son incroyable biodiversité. En savoir plus sur rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "200"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "200"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Une île pleine d’espoir"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/malpelo-island/rolex-org-environment-mission-blue-malpelo-island-hope-spot-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "1d1e192c-0557-43aa-ae90-cc18359fe28e",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Le Hope Spot des îles Galápagos"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Avec l’Initiative Perpetual Planet, Rolex soutient l’organisation Mission Blue dans son objectif de créer un réseau mondial de <i>Hope Spots</i>, des zones qui abritent des écosystèmes marins dont la protection est vitale pour la santé et l’avenir des océans."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2 min 26 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - The Galápagos Islands Hope Spot"
+                          },
+                          "metadescription": {
+                            "value": "<p>Les eaux des îles Galápagos, appelées <i>Hope Spot</i> par Mission Blue, sont un laboratoire à ciel ouvert unique sur de nombreuses espèces endémiques. En savoir plus sur rolex.org.</p>"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "5"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Penser comme un océan"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "3f678cb0-eb25-4a7f-863d-3d9f23b3c107",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "En savoir plus"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Environnement"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a4f113fc-bae8-40e0-9d6e-720f7d44bd36",
+                  "componentName": "Sharing",
+                  "dataSource": "{D9E2C461-BC26-4197-A0EF-43CAC8750FDF}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e888cd6a-c40c-42b3-9196-dbc7347b5766",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Après de nombreuses expéditions périlleuses, l’explorateur Steve Boyes et son équipe ont réussi à établir que les hauts plateaux angolais sont bel et bien la source du grand Zambèze. Avec le soutien de Rolex, il s’appuie sur ces conclusions pour que cette zone stratégique bénéficie de la meilleure protection possible."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’explorateur Steve Boyes et son équipe ont réussi à établir que les hauts plateaux angolais sont bel et bien la source du grand Zambèze. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protéger notre eau"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploration"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes et l’expédition sur la rivière Kasaï - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dans le cadre des expéditions Great Spine of Africa, qui visent à protéger l’approvisionnement en eau du continent, le biologiste Steve Boyes, partenaire de l’Initiative Perpetual Planet, a exploré un affluent majeur du fleuve Congo qui prend sa source sur les hauts plateaux angolais.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 60 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Dans le cadre des expéditions Great Spine of Africa, le biologiste Steve Boyes a étudié la rivière Kasaï, une source importante du fleuve Congo. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "La rivière Kasaï"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes et la rivière Lungwebungu - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Grâce à son Initiative Perpetual Planet, Rolex soutient les expéditions Great Spine of Africa qui traversent des milliers de kilomètres de cours d’eau n’ayant encore jamais fait l’objet d’une étude scientifique. Cette étude va aider à protéger les communautés ainsi que la faune et la flore qui dépendent des grandes étendues d’eau d’Afrique."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 26 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Dans le cadre de son Initiative Perpetual Planet, Rolex soutient Steve Boyes dans son expédition pour mener la première étude jamais réalisée sur la rivière Lungwebungu. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Le majestueux fleuve Zambèze et ses secrets"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Le Rolex National Geographic Explorer of the Year 2019 - L’équipe de l’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Le prix Rolex National Geographic Explorer of the Year récompense les explorateurs dont l’engagement pour une planète perpétuelle offre un regard nouveau sur les dernières découvertes et les problématiques inhérentes à notre monde."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 3 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Découvrez le Rolex National Geographic Explorer of the Year de cette année : l'équipe du Okavango Wilderness Project et son engagement pour une planète perpétuelle.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Le Rolex National Geographic Explorer of the Year 2019 - L’équipe de l’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Le biologiste colombien Fernando Trujillo a été nommé Rolex National Geographic Explorer of the Year en 2024 en reconnaissance de ses efforts pour protéger les dauphins roses de l’Amazone et leur écosystème fluvial."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Fernando Trujillo, biologiste marin, est nommé Rolex National Geographic Explorer of the Year 2024 en reconnaissance de ses efforts pour protéger les dauphins roses de l’Amazone. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo : par amour pour les dauphins d’eau douce"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

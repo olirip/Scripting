@@ -1,0 +1,2315 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "es",
+      "wa": {
+        "contentTag": "oceans/mission-blue",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "mission-blue",
+        "environmentName": "production",
+        "pageName": "environment:mission-blue:hope-spots",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/mission-blue/watching-over-the-earths/2025/rolex-org-environment-mission-blue-hope-spots-cover-long-film"
+      ],
+      "item": {
+        "datePublished": "2021-05-31T13:24:12Z",
+        "dateModified": "2023-06-22T09:10:59Z"
+      }
+    },
+    "route": {
+      "name": "hope-spots",
+      "displayName": "hope-spots",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "mission-blue"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex y Mission Blue - Cuidar del corazón azul de la Tierra"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "La Iniciativa Perpetual Planet de Rolex apoya a aquellos que utilizan la ciencia para comprender los desafíos medioambientales del mundo y que están buscando maneras de restablecer el equilibrio en nuestros ecosistemas, particularmente en los océanos, que se ven asediados por un sinfín de presiones."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "0 min 14 s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Watching over the Earth’s Blue Heart"
+        },
+        "metadescription": {
+          "value": "Rolex se ha asociado con la iniciativa Mission Blue de Sylvia Earle para establecer una red de áreas marinas protegidas por todo el planeta. Más en rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+          "url": "/Content/Category/mission-blue",
+          "fields": {
+            "name": {
+              "value": "Mission Blue"
+            },
+            "dictionaryKey": {
+              "value": "mission-blue"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "5"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "150"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+          "url": "/Content/Hub/Minisites/missionblue",
+          "fields": {
+            "name": {
+              "value": "missionblue"
+            },
+            "dictionaryKey": {
+              "value": "view-mission-blue"
+            },
+            "url": {
+              "value": "/environment/mission-blue"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Cuidar del corazón azul de la Tierra"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Medio ambiente"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "d41cd79d-a3eb-4a8a-b13b-3f3b3ece4e32",
+      "itemLanguage": "es",
+      "itemVersion": 17,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "3f622028-9c4d-4ab2-841d-a27b2345f311",
+                  "componentName": "CoverVideoScroll",
+                  "dataSource": "{5FF88CF2-5762-4F1D-8E47-33EB1784A717}",
+                  "params": {},
+                  "fields": {
+                    "desktopVideoBackground": {
+                      "value": "/data/media/video/environment/mission-blue/watching-over-the-earths/mission_blue_watching_over_the_earths_blue_heart_cover_video_1920x1080.mp4"
+                    },
+                    "title": {
+                      "value": "Cuidar del corazón azul de la Tierra \r\n"
+                    },
+                    "desktopVideoPoster": {
+                      "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/mission_blue_watching_over_the_earths_blue_heart_cover_video_posterframe_1920x1080.jpg"
+                    },
+                    "mobileVideoBackground": {
+                      "value": "/data/media/video/environment/mission-blue/watching-over-the-earths/mission_blue_watching_over_the_earths_blue_heart_cover_video_750x1400_portrait.mp4"
+                    },
+                    "mobileVideoPoster": {
+                      "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/mission_blue_watching_over_the_earths_blue_heart_cover_video_posterframe_750x1400_portrait.jpg"
+                    },
+                    "suptitle": {
+                      "value": "Mission Blue"
+                    },
+                    "text": {
+                      "value": "La iniciativa <b>Perpetual Planet</b> de Rolex apoya a aquellos que utilizan la ciencia para comprender los <b>desafíos medioambientales</b> del mundo y que están buscando maneras de <b>restablecer el equilibrio</b> en nuestros <b>ecosistemas</b>, particularmente en los <b>océanos</b>, que se ven asediados por un sinfín de presiones."
+                    },
+                    "text_bis": {
+                      "value": "La iniciativa <b>Mission Blue</b> enciende la chispa del espíritu <b>comunitario</b> para incentivar a las personas que viven en lugares fundamentales para la <b>salud</b> y para el <b>futuro</b> de los océanos a luchar por su protección. Estos santuarios de vida marina, que la fundadora de la organización, <b>Sylvia Earle</b>, denomina mágicamente <b><i>Hope Spots</i></b>, se encuentran dispersos en la inmensidad del <b>corazón azul de la Tierra</b>."
+                    },
+                    "video_src": {
+                      "value": "/data/media/video/environment/mission-blue/watching-over-the-earths/2025/rolex-org-environment-mission-blue-hope-spots-cover-long-film.mp4"
+                    },
+                    "ctaLabel": {
+                      "value": ""
+                    },
+                    "videoPoster_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/mission_blue_watching_over_the_earths_blue_heart_posterframe.jpg"
+                    },
+                    "title_video": {
+                      "value": "Cuidar del corazón azul de la Tierra \r\n"
+                    },
+                    "suptitle_video": {
+                      "value": "Mission Blue"
+                    }
+                  }
+                },
+                {
+                  "uid": "2f1992fe-fd86-49fd-bf87-3f224def181f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FE8585A1-FC60-4C84-80BF-9379269BAFAA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Liderada por la legendaria exploradora de los mares Sylvia Earle, Mission Blue está luchando por establecer una red mundial de áreas marinas protegidas a lo largo y ancho del planeta, que proteja especies y ecosistemas clave, inspire y potencie la actividad local y despierte el interés y el apoyo de la opinión pública mundial a la acción oceánica. Cada uno de los <i>Hope Spots</i> es un lugar especial, identificados científicamente como vitales para la salud de los océanos: algunos ya son áreas protegidas, otros todavía necesitan una protección oficial. Bajo el liderazgo de Earle, el equipo de Mission Blue ha organizado expediciones para localizar y estudiar estos ecosistemas vitales, y encontrar maneras y personas que los protejan para el futuro."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "bc68aba3-67b3-40ac-bfc7-eaaf89e0e5fe",
+                  "componentName": "Roller",
+                  "dataSource": "{81FE2D4F-E4A1-4E90-8792-040E702B2A36}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "cc785738-587c-44d3-9191-e706319e2609",
+                        "componentName": "RollerCard",
+                        "dataSource": "{ACD19A38-1743-413A-9BD8-BA923D60DDA4}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_01_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "cc101fb0-1d59-4bdf-bab2-433592c2c800",
+                        "componentName": "RollerCard",
+                        "dataSource": "{170D6708-9BE6-4683-B21F-C535756DEBFF}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_02_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "32df424d-7d60-4e27-80f4-1555b3eaff40",
+                        "componentName": "RollerCard",
+                        "dataSource": "{9C7DC70C-4370-4173-A88E-CCF68D2AE5EC}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_03_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "6dbcec0d-af20-482c-ad6c-28fdf8fb577e",
+                        "componentName": "RollerCard",
+                        "dataSource": "{FAE2615F-F4AD-43BE-B807-324F0F6B4E58}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_04_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "05ad91e0-692d-4549-b690-24bf916c7812",
+                        "componentName": "RollerCard",
+                        "dataSource": "{1124BB12-9B76-4B31-916B-B11E5B1E1DA9}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_05_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "7b1de8e3-3301-4e38-8510-4c89591d4358",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7E9E0B09-A7AB-44BE-A304-C44C050D1C7B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller01_06_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "7eadbfd2-f811-4c60-9188-310a1691d962",
+                  "componentName": "SimpleText",
+                  "dataSource": "{4D4FE04A-1F7B-4455-AEAB-D43B97D452A1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Los <i>Hope Spots</i> oscilan desde la ayuda para reducir el impacto humano en el golfo de California, los mares Egeo, Caribe y Caspio hasta la protección de la vida salvaje en peligro en las islas Galápagos​, Andamán y Canarias, pasando por la exploración de las profundidades del océano y su vida en la Antártida, Palaos y muchos otros atolones y arrecifes desprotegidos en los remotos océanos del mundo."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7c8e6690-967a-4b7c-8227-25d5fc5fbbc3",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{864DB18F-44B7-4F27-AB99-6F8ED95960AF}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_earl_675_800_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_earl_960_1150.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a2b4688e-db4b-484e-a0c0-116183b14959",
+                  "componentName": "TextSection",
+                  "dataSource": "{D01EE6EC-D3CD-43C9-A0D6-070256CBA0AC}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>Desde hace casi un siglo, Rolex también ha apoyado la exploración de nuestro planeta, enviando sus cronómetros a las montañas más altas y a las regiones más remotas y oscuras del reino azul.  Ahora la era del afán de descubrimiento se está convirtiendo en una exploración vinculada a la protección de los ecosistemas de la Tierra. La empresa lleva mucho tiempo colaborando en el descubrimiento de los océanos con Earle y con muchos otros científicos marinos indómitos que se encuentran entre los Laureados de los Premios Rolex a la Iniciativa. </p>\r\n\r\n<p>En 2019, Rolex lanzó su iniciativa Perpetual Planet, ofreciendo apoyo a individuos y organizaciones extraordinarios, como National Geographic, que trabajan para comprender, compartir y conservar el mundo natural. La colaboración entre Mission Blue y Rolex es hoy uno de los pilares de Perpetual Planet. Es una unión de razones, voluntades y recursos en el nombre de un futuro mejor y más seguro, tanto para la humanidad como para la Tierra que habitamos.</p>\r\n"
+                    },
+                    "linkLabel": {
+                      "value": "Descubra más"
+                    },
+                    "link": {
+                      "value": "/environment/perpetual-planet"
+                    },
+                    "linkName": {
+                      "value": "Perpetual Planet"
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "01afeef8-936a-444f-94e5-5819358a237d",
+                  "componentName": "ImageReveal",
+                  "dataSource": "{514FD7DD-0E64-4955-B391-6ED1D313760B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_background_reveal_1920_1080.jpg"
+                    },
+                    "image_src": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>En los <i>Hope Spots</i>, los «Valedores» y las comunidades locales trabajan mano a mano con los científicos para comprender sus océanos, establecer nuevas áreas marinas protegidas o mejorar las existentes, y compartir con el mundo el conocimiento de la milagrosa vida que albergan y cómo cuidarla. </p>\r\n\r\n<p>Los <i>Hope Spots</i> pueden ser grandes o pequeños, pero todos ofrecen esperanza debido a:<br/><br/>\r\n<b>— Una abundancia o diversidad particular de vida marina, especies, hábitats y ecosistemas inusuales o representativos<br/><br/>\r\n\r\n— Poblaciones notables de especies raras, amenazadas o endémicas<br/><br/>\r\n\r\n— Su potencial para demostrar maneras de revocar el daño causado por la actividad humana<br/><br/>\r\n\r\n— La existencia de activos naturales vitales, como los principales corredores de migración o las zonas de desove<br/><br/>\r\n\r\n— Su significado histórico, cultural o espiritual para la gente, local y mundialmente<br/><br/>\r\n— Su importancia económica para la comunidad</b>\r\n</p>"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_background_reveal_750_1450_portrait.jpg"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f205e43d-8118-46c7-ba37-fa27cfdc944b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{EE116D2B-DE25-484C-A381-6A8135053CFD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "\r\n<p>El objetivo de Mission Blue es ayudar a proteger el 30 % de los océanos para 2030, que es el propósito recomendado por la UICN (Unión Internacional para la Conservación de la Naturaleza) para salvaguardar la salud de los océanos. Con el apoyo de Rolex, Mission Blue busca asegurar que los ecosistemas marinos en todo su esplendor y repleta diversidad no se pierdan para las generaciones futuras.</p>\r\n\r\n<p>Para lograrlo, Mission Blue fusiona la ciencia internacional de vanguardia con asociaciones con más de 200 organizaciones de conservación locales y mundiales y un esfuerzo de divulgación mundial que lleva las maravillas de los océanos directamente a los hogares y las vidas de la gente común y los estudiantes.</p>\r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "94315173-5c09-471e-9ccb-527786c40143",
+                  "componentName": "Roller",
+                  "dataSource": "{19BA5B95-127E-4608-9EFF-9AB161164FFB}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "7f393ffe-2a5c-4719-9453-0dded81dc4d9",
+                        "componentName": "RollerCard",
+                        "dataSource": "{94F1F3DD-D5D5-4523-B771-C2AA240C6AFE}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller02_01_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "f81859d3-1be7-4a39-9653-a18ab8f8e371",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3EC1E76D-786B-47FC-8C4C-4FB496496654}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller02_02_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "746e39f8-e63a-4490-ac76-850953b9b0d6",
+                        "componentName": "RollerCard",
+                        "dataSource": "{F101AF99-4F8C-47FA-A347-27EA04BD69A8}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_image_reef_mg_9052-kip-evans_1568x1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "affee95e-9a8d-4120-9aa3-b4004f323001",
+                        "componentName": "RollerCard",
+                        "dataSource": "{4BDA4735-A9F1-4BE1-ADC9-3BE57F39274B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_image_schooling-reef-fisha53i7035-kip-evans_1568x1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "eb0e87c2-1e81-4796-8e6b-67439cedeabb",
+                        "componentName": "RollerCard",
+                        "dataSource": "{788982D4-A1E0-4BCA-9793-3A581744812A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller02_05_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "a42a9f48-0fcb-4bac-a5a6-18ea86ad97d5",
+                        "componentName": "RollerCard",
+                        "dataSource": "{24CAC228-FB92-4951-B133-408C6B16EF53}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_roller02_06_1568_1100.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "2797c81c-4c63-4f03-b8e4-9cd6de19d8f3",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{E43D69B5-F113-45AC-8D74-B6653BD6F692}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_675_450_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_1728_1150.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "47982a74-bef6-4b93-8bb4-33442ba0f75a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B108F3DB-FF45-4638-B7AC-23E7860EB030}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Desde de que se fundó en 2009, se han declarado en todo el mundo más de 130 <i>Hope Spots</i>, de los cuales 21 se crearon en 2019 y 12 en 2020. Mission Blue trabaja ahora directamente con las comunidades en más de 69&nbsp;países para recuperar y proteger sus extraordinarios entornos marinos. Comunica sus descubrimientos y campañas mediante documentales, redes sociales, medios de comunicación tradicionales, <i>webcams</i> bajo el mar y tecnología de visualización, seminarios web y otros métodos de educación y de divulgación modernos. Permite a las personas alrededor del mundo, a muchas de ellas por primera vez, observar, explorar y sorprenderse con las maravillas de las profundidades y participar en su conservación."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "494c702e-1401-472a-a494-827a374325cc",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{A113E6CD-F564-4425-B1CC-94850097A77E}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Los océanos son la cuna de la vida en la Tierra. Le debemos nuestro asombro, amor y cuidado."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_image_hawksbill-turtle-a53i7013-kip-evans_750x1440.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_imge_hawksbill-turtle-a53i7013-kip-evans_1920x1080.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "0b0788cc-cfce-4883-86b1-ba10a579e1ed",
+                  "componentName": "SimpleText",
+                  "dataSource": "{718D495A-741F-4056-88E6-DC9142C664DB}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Siendo una exploradora marina dedicada desde siempre, Earle ha pasado más de 7000 horas bajo el agua, ha liderado más de cien expediciones, ha descubierto cientos de nuevas especies acuáticas, ha recibido el premio <i>Living Legend</i> (Leyenda Viva) de la Biblioteca del Congreso y ha sido nombrada <i>Hero of the Planet</i> (Héroe del Planeta) por la revista <i>Time</i>. Explica: «A veces la gente me pregunta: “¿Cuáles son los mayores problemas a los que se enfrenta el océano?” Es, por supuesto, lo que metemos en el mar, [y] lo que sacamos del océano, pero creo que el mayor problema es la ignorancia, la gente no sabe por qué tiene que preocuparse por el océano».\r\n<br/><br/>\r\n«Los océanos son la cuna de la vida en la Tierra. Le debemos nuestro asombro, amor y cuidado»."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c4e77321-5866-4f2c-8942-99369e0dacc4",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6845085E-87BB-4761-AC4D-946AD14402AD}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_earl_02_650_800_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/watching_over_the_earths_blue_heart_earl_02_960_1150.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b90172d9-e436-4a42-97de-783ac8f99a20",
+                  "componentName": "VideoPushSlideshow",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "videoPushList": [
+                      {
+                        "uid": "d919a069-99b7-4ac1-988b-0b7cc8ffe948",
+                        "componentName": "VideoPushSlide",
+                        "dataSource": "{FF064E77-9D9D-4726-83C5-AD0A01A19503}",
+                        "params": {},
+                        "fields": {
+                          "description": {
+                            "value": "Descubra las nuevas generaciones de héroes que nos muestran lo que debemos hacer para conservar los océanos, creando un planeta perpetuo para todos."
+                          },
+                          "desktopVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_desktop_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "desktopVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe.jpg"
+                          },
+                          "mobileVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_mobile_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "ctaExternalUrl": {
+                            "value": ""
+                          },
+                          "ctaLabel": {
+                            "value": "watch-the-video"
+                          },
+                          "ctaUrl": {
+                            "value": "/environment/video/heroes-of-the-oceans"
+                          },
+                          "mobileVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe_portrait.jpg"
+                          },
+                          "suptitle": {
+                            "value": "Perpetual Planet"
+                          },
+                          "title": {
+                            "value": "Heroes of the Oceans"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "c27853b9-09d2-5d03-8152-a3bad12cee5b",
+                  "componentName": "Sharing",
+                  "dataSource": "{6EF857ED-7FFE-4082-B4AB-058BFE991E60}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "123e2c59-ce4f-4e0b-8bcb-457099812950",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "cb0ce632-ee1f-4b3a-bcc6-3d83552f8704",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Tras muchas expediciones peligrosas, el explorador Steve Boyes y su equipo han demostrado que las tierras altas de Angola son la fuente del gran río Zambeze. Con el apoyo de Rolex, está utilizando estos hallazgos para garantizar protecciones reales para esta zona vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "El explorador Steve Boyes y su equipo han demostrado que las tierras altas de Angola son la fuente del gran río Zambeze. Descubra más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "La protección de nuestra agua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploración"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Expedición al río Kasai de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "En el marco de las expediciones Great Spine of Africa, cuyo objetivo es proteger la seguridad de los recursos hídricos del continente, el conservacionista y socio de la Iniciativa Perpetual Planet de Rolex Steve Boyes ha seguido el rastro de uno de los principales suministros del río Congo llegando hasta las tierras altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 60 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "En el marco de las expediciones Great Spine of Africa, el conservacionista Steve Boyes estudió el río Kasai, uno de los principales suministros del río Congo. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "El río Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes y el río Lungwebungu - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "A través de su Iniciativa Perpetual Planet, Rolex apoya las expediciones Great Spine of Africa que atraviesan miles de kilómetros de ríos, nunca antes documentados científicamente. La investigación protegerá a las comunidades y la fauna que dependen de los grandes ríos de África."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 26 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "A través de su Iniciativa Perpetual Planet, Rolex apoya a Steve Boyes en su expedición para estudiar el inexplorado río Lungwebungu. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "El caudaloso río Zambeze y sus secretos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 - Okavango Wilderness Project Team"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "El premio Rolex National Geographic Explorer of the Year reconoce a un explorador cuyo compromiso con un planeta perpetuo proyecta una luz crítica sobre cuestiones importantes, descubrimientos y retos a los que se enfrenta nuestro planeta."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra el Rolex National Geographic Explorers of the Year de este año: el Okavango Wilderness Team y su proyecto comprometido con un planeta perpetuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 - Okavango Wilderness Project Team"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year de 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "El biólogo marino colombiano Fernando Trujillo es el Rolex National Geographic Explorer of the Year de 2024 por su trabajo protegiendo a los delfines rosados del Amazonas y al sistema fluvial donde habitan."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "El biólogo marino Fernando Trujillo es el Rolex National Geographic Explorer of the Year de 2024 por su trabajo protegiendo a los delfines rosados del Amazonas. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: Por amor a los delfines de río"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

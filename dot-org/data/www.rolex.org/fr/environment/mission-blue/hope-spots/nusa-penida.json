@@ -1,0 +1,4093 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "fr",
+      "wa": {
+        "contentTag": "oceans/mission-blue",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "mission-blue",
+        "environmentName": "production",
+        "pageName": "environment:mission-blue:hope-spots:nusa-penida",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-1/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-episode-01-long-film",
+        "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-2/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-episode-02-long-film"
+      ],
+      "item": {
+        "datePublished": "2024-07-30T09:39:28Z",
+        "dateModified": "2024-09-04T14:19:21Z"
+      }
+    },
+    "route": {
+      "name": "nusa-penida",
+      "displayName": "nusa-penida",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "mission-blue"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex et Mission Blue - Le Hope Spot de Nusa Penida"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Rili Djohani, « championne Mission Blue », se consacre depuis des décennies à la protection du milieu marin foisonnant autour de « son » île de Bali. Avec le soutien de Rolex dans le cadre de l’Initiative Perpetual Planet, elle aide les populations locales à restaurer ce <i>Hope Spot</i> constitué de récifs coralliens dont leur survie dépend."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "4 min 10 s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex and Mission Blue - The Nusa Penida Hope Spot"
+        },
+        "metadescription": {
+          "value": "Les « champions » de Hope Spot Rili Djohani et Wira Sanjaya protègent et restaurent les habitats marins autour de l’île balinaise de Nusa Penida. En savoir plus sur rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+          "url": "/Content/Category/mission-blue",
+          "fields": {
+            "name": {
+              "value": "Mission Blue"
+            },
+            "dictionaryKey": {
+              "value": "mission-blue"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "2000"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2000"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+          "url": "/Content/Hub/Minisites/missionblue",
+          "fields": {
+            "name": {
+              "value": "missionblue"
+            },
+            "dictionaryKey": {
+              "value": "view-mission-blue"
+            },
+            "url": {
+              "value": "/environment/mission-blue"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Harmonie entre la terre et l’océan"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Environnement "
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "97c7d783-cfaf-4429-aae0-c1aad3cc25ae",
+      "itemLanguage": "fr",
+      "itemVersion": 13,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "24114122-05b4-4f2e-958b-885f215a9b79",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{18588392-26CB-43FA-BB5B-CEE083746C78}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/cover/rolex-org-environment-mission-blue-nusa-penida-hope-spot-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/cover/rolex-org-environment-mission-blue-nusa-penida-hope-spot-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "85vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/cover/rolex-org-mission-blue-nusa-penida-hope-spot-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "HARMONIE ENTRE LA TERRE ET L’OCÉAN"
+                    },
+                    "subtitle": {
+                      "value": "Mission Blue"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/cover/rolex-org-mission-blue-nusa-penida-hope-spot-cover-autoplay-posterframe-portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "f986456d-afc9-41a9-affc-eb842e72477d",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{45998CFF-D037-417C-9755-A00A7B537438}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": "#08223A"
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "4 min 25 s"
+                    },
+                    "date": {
+                      "value": "août 2024"
+                    },
+                    "text": {
+                      "value": "<b>Rili Djohani, « championne Mission Blue », se consacre depuis des décennies à la protection du milieu marin foisonnant autour de « son » île de Bali. Avec le soutien de Rolex dans le cadre de l’Initiative Perpetual Planet, elle aide les populations locales à restaurer ce <i>Hope Spot</i> constitué de récifs coralliens dont leur survie dépend. </b>"
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "f4a9e5a6-9c0b-4afa-8fc0-7761974e72ac",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{FE3011F5-7FD1-462C-A80F-02372316B2FC}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>MISSION BLUE</b> <I>HOPE SPOT</I> DE NUSA PENIDA"
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "rollerTitle": {
+                      "value": "<b>TOUS LES</b> ÉPISODES"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "videos": [
+                      {
+                        "id": "63da05ee-9793-481c-bbff-7384678acb1f",
+                        "fields": {
+                          "date": {
+                            "value": "Août 2024"
+                          },
+                          "title": {
+                            "value": "<i>Hope Spot</i> de Nusa Penida : épisode&nbsp;1<br>Protéger le Triangle de corail"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-1/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-episode-01-long-film.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:24"
+                          },
+                          "link": {
+                            "id": "97c7d783-cfaf-4429-aae0-c1aad3cc25ae",
+                            "url": "/environment/mission-blue/hope-spots/nusa-penida",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Rolex et Mission Blue - Le Hope Spot de Nusa Penida"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Rili Djohani, « championne Mission Blue », se consacre depuis des décennies à la protection du milieu marin foisonnant autour de « son » île de Bali. Avec le soutien de Rolex dans le cadre de l’Initiative Perpetual Planet, elle aide les populations locales à restaurer ce <i>Hope Spot</i> constitué de récifs coralliens dont leur survie dépend."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "4 min 10 s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Nusa Penida Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "Les « champions » de Hope Spot Rili Djohani et Wira Sanjaya protègent et restaurent les habitats marins autour de l’île balinaise de Nusa Penida. En savoir plus sur rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "2000"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "2000"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Harmonie entre la terre et l’océan"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Environnement "
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-1/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-posterframe-episode-01.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "31b36f89-ba96-4744-ba2a-1ff56c38e517",
+                        "fields": {
+                          "date": {
+                            "value": "Août 2024"
+                          },
+                          "title": {
+                            "value": "<i>Hope Spot</i> de Nusa Penida : épisode&nbsp;2<br>Les protecteurs de l’océan"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-2/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-episode-02-long-film.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:21"
+                          },
+                          "link": {
+                            "id": "97c7d783-cfaf-4429-aae0-c1aad3cc25ae",
+                            "url": "/environment/mission-blue/hope-spots/nusa-penida",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Rolex et Mission Blue - Le Hope Spot de Nusa Penida"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Rili Djohani, « championne Mission Blue », se consacre depuis des décennies à la protection du milieu marin foisonnant autour de « son » île de Bali. Avec le soutien de Rolex dans le cadre de l’Initiative Perpetual Planet, elle aide les populations locales à restaurer ce <i>Hope Spot</i> constitué de récifs coralliens dont leur survie dépend."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "4 min 10 s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Nusa Penida Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "Les « champions » de Hope Spot Rili Djohani et Wira Sanjaya protègent et restaurent les habitats marins autour de l’île balinaise de Nusa Penida. En savoir plus sur rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "2000"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "2000"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Harmonie entre la terre et l’océan"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Environnement "
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/mission-blue/hope-spots/nusa-penida/nusa-penida-episode-2/long-film/rolex-org-mission-blue-nusa-penida-hope-spot-posterframe-episode-02.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "#08223A"
+                    }
+                  }
+                },
+                {
+                  "uid": "42a6c30c-08bf-4a8c-8af3-334ceac3915a",
+                  "componentName": "TextSection",
+                  "dataSource": "{40C7F9F0-1988-4428-9368-797E0901F96D}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA"
+                    },
+                    "title": {
+                      "value": "UN HAVRE POUR LES CORAUX"
+                    },
+                    "text": {
+                      "value": "L’étendue de mer entre l’Australie et l’Asie continentale regorge de vie. Les quelque six millions de kilomètres carrés d’océan, connus comme le Triangle de corail, sont parsemés d'îles entourées de récifs coralliens et abritent la plus grande diversité d'espèces de coraux et de poissons sur Terre. Et pourtant, alors que plus de 120 millions de personnes dépendent de ces récifs pour leur subsistance, ces écosystèmes vulnérables sont menacés par le réchauffement des eaux, l’acidification des océans et des méthodes de pêche destructrices."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1a4ab574-9c10-408e-a87d-aad4bfc273e4",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{C9404612-3AD1-4CE8-9498-816CA8B56812}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-rili-djohani-and-wira-sanjaya_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-rili-djohani-and-wira-sanjaya.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e7550e82-b02b-49aa-a8d3-a756fb47da6b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{001DDC5F-C2F6-4C7E-B92F-567C9E4CB4AC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Au cœur du Triangle de corail, sur l’île balinaise de Nusa Penida, les « champions Mission Blue » du <i>Hope Spot</i>, Rili Djohani et Wira Sanjaya travaillent étroitement avec les communautés locales pour protéger et restaurer la santé des habitats marins autour de leur île. Ils ont contribué à la création d’une aire marine protégée (AMP) de 20 000 hectares autour de l’île, qui a été intégrée en 2020 au réseau mondial de <i>Hope Spots</i> Mission Blue, des sites marins essentiels d’un point de vue écologique du fait de leur biodiversité. \r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5fac8776-7beb-43aa-ad5c-69866d47c7c0",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{4826094E-12DA-4A27-8486-AB90B9362A90}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-cultivation-area_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-cultivation-area.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "121e8232-d3ae-40b8-ac7a-a0d04756749d",
+                  "componentName": "TextSection",
+                  "dataSource": "{FC07B52A-8969-4E45-B37D-CF0ABF81BB34}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA"
+                    },
+                    "title": {
+                      "value": "LES GARDIENS DE L’OCÉAN"
+                    },
+                    "text": {
+                      "value": "Rili Djohani a passé des années à travailler en tant qu’océanographe. Elle a obtenu un Master of Science aux Pays-Bas et a beaucoup plongé dans la mer du Nord, en Méditerranée et dans les Caraïbes. Mais après avoir grandi aux Pays-Bas, lorsqu’elle s'est installée en Indonésie, au cœur du Triangle de corail, elle a découvert un monde sous-marin d’une richesse inédite à ses yeux."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "8d9868a4-fd83-40b8-8057-2fbd3f0a39f6",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{74CA13D2-3E86-4FBE-AEC7-7ADD0DCD24D5}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-divers-cleaning-algae-off-coral-reef_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-divers-cleaning-algae-off-coral-reef.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "73635c1d-b8fc-4ce3-94ed-f73f63789ce5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{54219124-9CA6-4D54-B1AD-418AA3CFE446}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": " \r\n"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "« J’ai plongé dans toute l’Indonésie, et je suis toujours aussi fascinée par la beauté des fonds marins, la grande diversité de coraux, les couleurs, les poissons de récif, les espèces emblématiques. C’est tout simplement époustouflant. J’ai réalisé que ma place se trouvait ici », déclare-t-elle.\r\n<br><br>\r\nLorsqu’elle a constaté que les couleurs vives et la vie foisonnante des récifs indonésiens s’estompaient, Rili Djohani a décidé de passer à l’action. En 2010, elle fonde le Coral Triangle Center (CTC).\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "47d6ad20-1f3b-497b-b05a-25d8a95ef1df",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{A7689976-9A55-497C-94FD-0F7DC5691776}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-divers-on-coral-reef_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-divers-on-coral-reef.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "63e25f4d-7860-498e-9476-5c7d5eb82420",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6A95E041-7161-4A2A-ABF4-B7D47AF2D9B6}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Un an seulement après la création de cette association à but non lucratif, l’équipe de Rili Djohani est entrée en pourparlers avec le gouvernement indonésien et les communautés locales pour établir l’AMP autour des îles de Nusa Penida, Nusa Lembongan et Nusa Ceningan, au large de la côte sud de Bali. L’AMP abrite environ 570 espèces de poissons de récif, telles que les raies mantas et le majestueux poisson-lune, et près de 300 espèces de coraux, soit plus de 76 % des espèces de coraux répertoriées."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0a897b0a-05c3-4a98-96bd-265cd00e6996",
+                  "componentName": "Roller",
+                  "dataSource": "{6C359568-64C6-433B-89D2-D764322435F3}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "3da6cbd2-e04f-465a-8203-d2ebb767dcfa",
+                        "componentName": "RollerCard",
+                        "dataSource": "{26A2BEBE-E54A-4FD6-A277-05321726A74A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-1/rolex-org-mission-blue-nusa-penida-hope-spot-roller-01-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "a11c069a-aa95-4ed6-86fc-966df27a472a",
+                        "componentName": "RollerCard",
+                        "dataSource": "{E46D8910-CA17-4A5F-B484-287870FF77E2}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-1/rolex-org-mission-blue-nusa-penida-hope-spot-roller-01-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "bfd2c043-4a17-4929-842e-a563723952fd",
+                        "componentName": "RollerCard",
+                        "dataSource": "{CC4E5F73-958B-4C15-B689-1788EDCD713B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-1/rolex-org-mission-blue-nusa-penida-hope-spot-roller-01-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "f508dc14-065f-4ce5-b876-a4990970bbec",
+                        "componentName": "RollerCard",
+                        "dataSource": "{4F84AEEF-FCCE-4D40-9C34-4D7A651A7D05}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-1/rolex-org-mission-blue-nusa-penida-hope-spot-roller-01-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "9f41cf29-b804-49c3-bdcd-40d9a6dab5dd",
+                        "componentName": "RollerCard",
+                        "dataSource": "{995BFDC1-33AF-41F7-86AC-EAD3E1A38A49}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-1/rolex-org-mission-blue-nusa-penida-hope-spot-roller-01-05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "8565f97d-cd4f-46e1-8250-82679e7f85c7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{23C2D1B5-4A11-455F-85CC-2B85E39CD897}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Le travail de Rili Djohani s’étend toutefois bien au-delà de son archipel. Elle qualifie les récifs coralliens de « poumons de la mer » puisqu’ils fournissent plus de 50 % de l’oxygène des océans à l’échelle mondiale. Alors même que les coraux sont en train de disparaître dans le monde, les récifs de Nusa Penida apportent une lueur d’espoir. Ils semblent résister de façon inhabituelle au réchauffement des océans, ce qui pourrait s’expliquer par les remontées d’eaux froides, riches en nutriments, qui proviennent des profondeurs de l’océan Indien. Quelle qu'en soit la raison, la protection et l'étude de ces récifs pourraient apporter des réponses indispensables aux efforts de conservation des coraux à l'échelle mondiale."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a79a61e6-f2d8-441f-b042-63b042c50b0e",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{77C923E3-FB33-470D-80CD-3DBB33967EF1}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "top"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Elle [Rili Djohani] qualifie les récifs coralliens de « poumons de la mer » puisqu’ils fournissent plus de 50 % de l’oxygène des océans à l’échelle mondiale. Alors même que les coraux sont en train de disparaître dans le monde, les récifs de Nusa Penida apportent une lueur d’espoir."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-quote_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-quote.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "4e85b17d-d6ba-455b-8d3f-d92ae7a9862f",
+                  "componentName": "TextSection",
+                  "dataSource": "{BA765405-897B-44B7-9834-C896C2D4E97C}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA"
+                    },
+                    "title": {
+                      "value": "TRAVAILLER ENSEMBLE"
+                    },
+                    "text": {
+                      "value": "Depuis la création du CTC, Rili Djohani a mis un point d’honneur à collaborer étroitement avec les résidents, car elle sait l’importance de leur implication dans les stratégies de conservation à long terme. « Dès le départ, nous avons reçu un grand soutien de la part des communautés locales ; ce qui a été décisif pour cette aire marine protégée », souligne-t-elle.\r\n<br><br>\r\nNombre des 48 000 habitants que compte Nusa Penida dépendent de l’océan, qui leur fournit nourriture et revenus. Le CTC forme les habitants à la gestion de l'AMP, à l'observation de la faune et à l'organisation de visites guidées pour protéger leur mode de vie.\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c8b6627f-762f-45b3-bb31-76e3db904c8b",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{B3B41315-A618-4204-B23B-CBFA359A47D7}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-farmer_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-farmer.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d4852ee3-8208-40ea-aa55-56c8f7a84265",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9B175671-6283-4F49-8FEB-A5306CC8BCEC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Le CTC fournit également aux communautés locales des sources de revenus alternatives et durables pour leur permettre de cohabiter avec l’océan en renouant avec la pratique traditionnelle de la culture d’algues et en créant des zones spécifiques au sein de l’AMP pour le tourisme maritime durable. \r\n<br><br>\r\n« Les plus touchées par la perte de ces écosystèmes seront les communautés locales et ce sont elles qui, par là même, bénéficieront le plus d'une gestion efficace de l'aire de conservation marine », explique Wira Sanjaya.\r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "22912eb8-e3b0-4d1d-80e7-b176012303b9",
+                  "componentName": "Roller",
+                  "dataSource": "{FE74A84B-F9EA-4B61-A4B5-603A0B4A381D}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "7227a81d-59c6-43fa-a9fb-00d64e7c58d3",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5907A579-EB2E-49A8-9CB6-C4DDCAAFDF8F}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-2/rolex-org-mission-blue-nusa-penida-hope-spot-roller-02-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "916bb6f7-e0d7-4398-bfcc-a04abba6990d",
+                        "componentName": "RollerCard",
+                        "dataSource": "{311622DA-D225-4767-9005-B7BF74678BAF}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-2/rolex-org-mission-blue-nusa-penida-hope-spot-roller-02-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "345cb882-a7df-4def-8854-a517192b9ed6",
+                        "componentName": "RollerCard",
+                        "dataSource": "{92E908D3-019A-436B-9A75-938B4FF4E7EA}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-2/rolex-org-mission-blue-nusa-penida-hope-spot-roller-02-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "f9619473-b835-43b1-bb96-4c2d2327885a",
+                        "componentName": "RollerCard",
+                        "dataSource": "{6D125661-E726-4B12-BC42-C7F0E35B008C}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-2/rolex-org-mission-blue-nusa-penida-hope-spot-roller-02-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "6b775640-3698-4064-b943-cb8d11b7c5a2",
+                        "componentName": "RollerCard",
+                        "dataSource": "{C4EFDA83-F0A4-41B0-AAEB-B1832D18667C}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/roller-2/rolex-org-mission-blue-nusa-penida-hope-spot-roller-02-05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "af1da108-6016-41e9-a3a0-a9a8607c8189",
+                  "componentName": "Quote",
+                  "dataSource": "{DAFAB208-3330-499C-BB23-BF2FB23B607D}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Les plus touchées par la perte de ces écosystèmes seront les communautés locales et ce sont elles qui, par là même, bénéficieront le plus d'une gestion efficace de l'aire de conservation marine."
+                    },
+                    "author": {
+                      "value": "Wira Sanjaya"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "f2cd6ff3-e804-4c44-995d-702fc0619952",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{DE082D6B-D8A2-4816-BE84-5B92DFCAF3E7}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-aerial-view-of-seaweed-cultivation-area_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-aerial-view-of-seaweed-cultivation-area.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e4e6dde9-98bb-429e-9fb6-b5a1d2c06a73",
+                  "componentName": "TextSection",
+                  "dataSource": "{57E5FC9E-BDB6-4144-82DE-6EE8687A4419}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA"
+                    },
+                    "title": {
+                      "value": "INSPIRER LE CHANGEMENT"
+                    },
+                    "text": {
+                      "value": "Depuis des générations, les Balinais vouent un culte à Dewa Baruna, dieu de la mer, qui veille sur l’harmonie entre la terre et l’océan. De nos jours, le CTC s’intéresse à ce patrimoine culturel par le biais d’un art indonésien ancestral : le <i>Wayang Samudra</i>, des marionnettes de théâtre d’ombres.\r\n<br><br>\r\nEn rappelant aux populations locales, en particulier aux enfants, leur patrimoine culturel et la manière dont il est intrinsèquement lié à l'océan, l’organisation entend inspirer la prochaine génération de gardiens de l'océan.\r\n\r\n\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d2c774cd-57d8-4315-a0f5-5e7135033b43",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{2E9969DA-7F89-4D04-903B-A58D871B7BE9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-wayang-samudra-performance_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-wayang-samudra-performance.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f30946da-ba13-4be0-bf18-2cda352f3feb",
+                  "componentName": "TextSection",
+                  "dataSource": "{247C2DD8-8F87-418C-821A-3EB22F0BC4BA}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA\r\n"
+                    },
+                    "title": {
+                      "value": "RESTAURER LES ÉCOSYSTÈMES"
+                    },
+                    "text": {
+                      "value": "Le CTC ne se contente pas de protéger les écosystèmes de Nusa Penida, mais il les restaure également. En installant au fond de l’océan des cadres en acier recouverts de sable, sur lesquels des fragments de corail vivant sont attachés, Rili Djohani et son équipe aident les récifs coralliens disparus à se reconstituer."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "7fc83247-f2fb-4840-83bc-b48e90ee7c54",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{CDE9E16A-A069-43AF-BA36-381BD047341B}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-team-travelling-through-mangroves_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-team-travelling-through-mangroves.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "17c78b70-e2c1-49cc-b560-3d2d9fd4129c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{67890B13-9133-4784-8047-5BAFC3226010}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Récemment, le CTC a travaillé avec le groupe communautaire local Satya Posana Nusa pour planter 10 000 palétuviers dans l’AMP et aider ainsi la mangrove à se régénérer. Les mangroves constituent un espace relativement protégé qui sert de nurserie pour les poissons des récifs et de l'océan. Cela en fait un élément essentiel de l'écosystème marin au sens large. Les arbres retiennent les sédiments, qui protègent les îles contre les tempêtes, et absorbent le dioxyde de carbone présent dans l'atmosphère, ce qui les rend indispensables dans la lutte contre le changement climatique, au niveau tant local qu’international."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b1b68501-2ad3-4939-a1e4-b3b364e40ce7",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{207F3D87-5BB5-44D2-8C60-85BE8AA70878}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": true
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-farmer-harvesting-seaweed_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-seaweed-farmer-harvesting-seaweed.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "b7d57efb-35aa-4404-9361-638f4adef6b0",
+                  "componentName": "TextSection",
+                  "dataSource": "{9F22321F-B4E0-4568-8EAC-5AE0C8B05E69}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "<I>HOPE SPOT</I> DE NUSA PENIDA\r\n"
+                    },
+                    "title": {
+                      "value": "PROTÉGER LES OCÉANS DE LA PLANÈTE"
+                    },
+                    "text": {
+                      "value": "La réussite du CTC à Nusa Penida a débouché sur des opérations dans sept AMP, protégeant 387 000 hectares d’habitats marins essentiels, un axe crucial de la mission du gouvernement indonésien qui consiste à préserver 30 % de son environnement océanique, soit plus de 96 millions d’hectares."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "efdfe37e-1d62-41e3-bef0-592f7ca10cfd",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{47112107-8784-4E2A-BD20-728BCE95132C}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-schools-of-fish_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-schools-of-fish.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c5fddb47-5524-4e62-a5ef-fbc8ab4bfeab",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1D08087F-76CB-4881-BD69-AA246F380371}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rili Djohani et Wira Sanjaya espèrent qu’avec le soutien de Mission Blue et de l’Initiative Perpetual Planet, le <i>Hope Spot</i> de Nusa Penida pourra servir d’exemple aux défenseurs de l’environnement du monde entier, en montrant comment protéger les écosystèmes marins tout en assurant des moyens de subsistance durables pour les populations locales.\r\n <br><br>\r\n« Au vu du nombre croissant de personnes qui s’impliquent, je suis de plus en plus optimiste quant à notre capacité à plaider pour des mers en meilleure santé », ajoute Wira Sanjaya.\r\n\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fcbbd999-5d53-4b60-9dfa-0466b901d9bf",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{FAFA39E2-6F62-49C3-8B22-612A447AD391}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-aerial-view-of-mangrove-forest_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-aerial-view-of-mangrove-forest.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9cd6e0ab-622f-4736-911b-8717ee6c2757",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{A1EDB7C1-7573-447A-9DFC-A7343CA403C2}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/fr/environment/mission-blue/hope-spots"
+                    },
+                    "anchorText": {
+                      "value": "En savoir plus"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/mission-blue/saving-the-oceans/mission_blue_saving_the_oceans_link_watching_over_the_earths_blue_heart.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Mission Blue"
+                    },
+                    "title": {
+                      "value": "Veiller sur le poumon bleu de la planète"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "11d35294-835f-4841-b4ba-da8b671a8d7a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{AC67007D-1F78-4CF5-978F-4F943871CE71}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<i>Créée en 2009, Mission Blue a pour mission de constituer un réseau d’aires marines protégées (AMP) baptisées <i>Hope Spots</i>. Ces « lieux d’espoir » sont essentiels à la santé des océans car ils abritent des espèces menacées ou assurent la subsistance de communautés dont la survie dépend d’un environnement marin sain. À ce jour, Mission Blue a déjà créé plus de 160 <i>Hope Spots</i> dans le monde. L’un des principaux objectifs du programme est de donner aux communautés locales les outils pour devenir vecteurs de changement.</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b04d00e9-c66e-4083-8d3a-c94a5fc23f0f",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F5464119-5D3B-40DC-BBCD-45EF9C46D7EF}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-banner_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big "
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/hope-spots/nusa-penida/rolex-org-mission-blue-nusa-penida-hope-spot-banner.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "44c0754b-cb41-4561-b808-88cdd3f970fa",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "0f897474-33f0-4f9b-8548-fd3a9aa26ea3",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{808190F4-60A9-4B11-BED0-AA6E4EFC2CAA}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Articles associés"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "69b7449a-1e2c-4511-9092-413341fd65e4",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Le Hope Spot de l’archipel de Kep"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Des défenseurs de l’environnement collaborent avec les communautés locales pour réparer les habitats marins dégradés au Cambodge. Avec le soutien de l’Initiative Perpetual Planet de Rolex, ils restaurent les herbiers marins pour faire revenir dans les eaux cambodgiennes le plus grand herbivore de l’océan."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4 min 10 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - The Kep Archipelago Hope Spot"
+                          },
+                          "metadescription": {
+                            "value": "Des défenseurs de l'environnement cambodgiens travaillent à redonner vie aux prairies sous-marines de l’archipel de Kep pour qu’elles attirent de nouveau la faune marine menacée. En savoir plus sur rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "2000"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Le super-héros des océans"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/kep-archipelago/rolex-org-mission-blue-kep-archipelago-hope-spot-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement "
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "0a92db90-32d2-49a7-b66b-901b8a8d6a6e",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Hope Spot de la côte de Ningaloo et du golfe d’Exmouth"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "La côte australienne de Ningaloo se caractérise par une vie marine foisonnante, mais la survie de cette dernière dépend du golfe d’Exmouth, à proximité, et de sa biodiversité."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 10 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/exmouth-gulf-ningaloo-coast/rolex-org-environment-mission-blue-exmouth-gulf-and-ningaloo-coast-hope-spot-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Uncharted Waters"
+                          },
+                          "metadescription": {
+                            "value": "Ben Fitzpatrick, « champion » du Hope Spot, protège le golfe d’Exmouth, en Australie, et démontre ses liens étroits avec la côte de Ningaloo. En savoir plus sur rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "300"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "300"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Des eaux inexplorées"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/exmouth-gulf-ningaloo-coast/rolex-org-environment-mission-blue-exmouth-gulf-and-ningaloo-coast-hope-spot-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "e04fe730-ead7-42a7-aefa-df014dcc8993",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex et Mission Blue - Le Hope Spot de l’île de Malpelo"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Sandra Bessudo a consacré sa vie aux eaux vives de l’île de Malpelo. Aujourd’hui, elle travaille sans relâche pour étendre la surface des aires marines protégées autour de l’île afin de préserver son incroyable biodiversité, avec le soutien de l’Initiative Perpetual Planet de Rolex et de Mission Blue."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 10 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/malpelo-island/rolex-org-environment-mission-blue-malpelo-island-hope-spot-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and Mission Blue - The Malpelo Island Hope Spot"
+                          },
+                          "metadescription": {
+                            "value": "La « championne » Sandra Bessudo œuvre à étendre la surface des aires marines protégées autour de l’île de Malpelo afin de préserver son incroyable biodiversité. En savoir plus sur rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "200"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "200"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Une île pleine d’espoir"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/hope-spots/malpelo-island/rolex-org-environment-mission-blue-malpelo-island-hope-spot-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environnement"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "fdc901d9-b906-4b53-aafc-a949eb425ce1",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "En savoir plus"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Environnement"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "8ce85bd8-d502-4873-b8a7-643f8c3fe8b3",
+                  "componentName": "Sharing",
+                  "dataSource": "{A60FF698-DCD4-4CD3-9C7E-0F09E52CF44A}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a5105194-c213-4eea-96d3-e668a65552c3",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Après de nombreuses expéditions périlleuses, l’explorateur Steve Boyes et son équipe ont réussi à établir que les hauts plateaux angolais sont bel et bien la source du grand Zambèze. Avec le soutien de Rolex, il s’appuie sur ces conclusions pour que cette zone stratégique bénéficie de la meilleure protection possible."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’explorateur Steve Boyes et son équipe ont réussi à établir que les hauts plateaux angolais sont bel et bien la source du grand Zambèze. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protéger notre eau"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploration"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes et l’expédition sur la rivière Kasaï - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dans le cadre des expéditions Great Spine of Africa, qui visent à protéger l’approvisionnement en eau du continent, le biologiste Steve Boyes, partenaire de l’Initiative Perpetual Planet, a exploré un affluent majeur du fleuve Congo qui prend sa source sur les hauts plateaux angolais.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 60 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Dans le cadre des expéditions Great Spine of Africa, le biologiste Steve Boyes a étudié la rivière Kasaï, une source importante du fleuve Congo. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "La rivière Kasaï"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes et la rivière Lungwebungu - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Grâce à son Initiative Perpetual Planet, Rolex soutient les expéditions Great Spine of Africa qui traversent des milliers de kilomètres de cours d’eau n’ayant encore jamais fait l’objet d’une étude scientifique. Cette étude va aider à protéger les communautés ainsi que la faune et la flore qui dépendent des grandes étendues d’eau d’Afrique."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 26 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Dans le cadre de son Initiative Perpetual Planet, Rolex soutient Steve Boyes dans son expédition pour mener la première étude jamais réalisée sur la rivière Lungwebungu. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Le majestueux fleuve Zambèze et ses secrets"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Le Rolex National Geographic Explorer of the Year 2019 - L’équipe de l’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Le prix Rolex National Geographic Explorer of the Year récompense les explorateurs dont l’engagement pour une planète perpétuelle offre un regard nouveau sur les dernières découvertes et les problématiques inhérentes à notre monde."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 3 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Découvrez le Rolex National Geographic Explorer of the Year de cette année : l'équipe du Okavango Wilderness Project et son engagement pour une planète perpétuelle.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Le Rolex National Geographic Explorer of the Year 2019 - L’équipe de l’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Le biologiste colombien Fernando Trujillo a été nommé Rolex National Geographic Explorer of the Year en 2024 en reconnaissance de ses efforts pour protéger les dauphins roses de l’Amazone et leur écosystème fluvial."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Fernando Trujillo, biologiste marin, est nommé Rolex National Geographic Explorer of the Year 2024 en reconnaissance de ses efforts pour protéger les dauphins roses de l’Amazone. En savoir plus sur rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo : par amour pour les dauphins d’eau douce"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Environnement "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

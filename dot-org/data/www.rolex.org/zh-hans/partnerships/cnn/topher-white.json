@@ -1,0 +1,2308 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "zh-Hans",
+      "wa": {
+        "contentTag": "cnn",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "cnn",
+        "environmentName": "production",
+        "pageName": "partnerships:cnn:topher-white",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/cnn/topher-white-answering-the-call/topher-white_1"
+      ],
+      "item": {
+        "datePublished": "2020-11-04T11:23:25Z",
+        "dateModified": "2021-02-09T13:29:51Z"
+      }
+    },
+    "route": {
+      "name": "topher-white",
+      "displayName": "topher-white",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "cnn"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "劳力士合作关系 - 保护雨林的崭新方式"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "旧手机如何监察非法伐木者"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 15s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/cnn/topher-white/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "New plastic recycling method"
+        },
+        "metadescription": {
+          "value": "技术专家托普・怀特（Topher White）找到了保护雨林，免受非法伐木及偷猎破坏的方法。于Rolex.org探索更多。\r\n"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+          "url": "/Content/Category/cnn",
+          "fields": {
+            "name": {
+              "value": "CNN"
+            },
+            "dictionaryKey": {
+              "value": "cnn"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "120"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "10"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+          "url": "/Content/Hub/Minisites/cnn",
+          "fields": {
+            "name": {
+              "value": "cnn"
+            },
+            "dictionaryKey": {
+              "value": "view-cnn"
+            },
+            "url": {
+              "value": "/partnerships/cnn"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "侦察非法伐木者"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/cnn/topher-white/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "合作关系"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "dbf89cfe-07f7-45e7-b794-8b2fd9950387",
+      "itemLanguage": "zh-Hans",
+      "itemVersion": 7,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{F8671905-4539-497E-943D-85D83B3A8803}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher_white_cover_750x1140_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "侦察非法伐木者"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/align-left/rolex_partners_logo_CNN_align_left_white.svg"
+                    },
+                    "suptitle": {
+                      "value": "Call to Earth"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher_white_cover_1920x900.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "65c97ce2-8cf2-4f5a-b5be-6e2eeea34615",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{50DB97D8-F8C4-4690-A493-D6E4BDC70384}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/cnn/topher-white-answering-the-call/topher-white_1.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#214932"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#5B7C45"
+                    },
+                    "time": {
+                      "value": "3分15秒"
+                    },
+                    "date": {
+                      "value": "2020年2月"
+                    },
+                    "text": {
+                      "value": "<b>旧手机如何监察非法伐木者</b><br/>\r\n（CNN） - 2011年夏季，托普・怀特（Topher White）到访印尼的长臂猿保护区，随即被雨林的声音深深吸引。<br/><br/>\r\n撰文：斯蒂芬妮・贝利（Stephanie Bailey）"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_posterframe_topher_white_1920x1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{959CE380-2D00-4290-9B56-95D4F8FA39AF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "雀鸟的啼叫、昆虫的嗡鸣、猴子的吵声。<br/>\r\n\r\n但这位美国工程师却听不见链锯噪音及非法伐木者的叫嚣，尽管他深知他们正粗暴地砍伐树林，危害长臂猿的天然栖息地。\r\n<br/><br/>\r\n\r\n这让他忽发奇想。他能否修改旧手机，设计出可以接收破坏声的装置，并立即警示护林员前往该处呢？<br/>\r\n\r\n一年后，怀特重回印尼雨林，测试其研究成果。装置不仅奏效，而且他亦表示团队于48小时成功找到一组非法伐木者。\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{C0A4CDD6-BAF9-432D-8F9C-4295A6F8C1E5}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_portrait_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_portrait_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "TextSection",
+                  "dataSource": "{7B751F12-0E4A-4171-8B27-962E55F9BCF3}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "强力装置\r\n"
+                    },
+                    "text": {
+                      "value": "通过其非营利组织Rainforest Connection，怀特以回收胶盒覆盖旧式Android智能手机，再加装额外话筒、电池组及太阳能板。完成改造的装置形如机械花朵，并会固定在树冠以上，通常高至150英尺。\r\n<br/><br/>\r\n升级再造的手机采用现有电话网络，怀特指丛林深处亦可接收得到。它们每天24小时记录远至1英里的声音。<br/>\r\n怀特解释：“它们捕捉雨林的所有声音，并串流至云端。我们软件的不同人工智能程序再会从中筛取链锯、伐木车、人声及枪鸣等。然后我们便可以在手机网络发出实时警报，通知当地人士。”\r\n<br/><br/>\r\n\r\n怀特指出，护林员在各自手机收到警报后，将基于位置决定活动是否可疑。<br/>\r\nRainforest Connection现有超过150个可用装置，让秘鲁、喀麦隆及巴西等五个国家的当地伙伴能够保护雨林。\r\n<br/>\r\n侦察非法伐本一般依赖飞行搜索或人造卫星，以及护林员巡逻，前者或会花上数天，甚至数周才可通知护林员收复失地。\r\n<br/><br/>\r\n\r\nRainforest Connection表示其手机系统更为快捷便宜。但此技术亦会遇难关，有时候更是来自大自然的挑战。<br/>\r\n怀特举例说明自然界的反复无常：“您永不能由衷感受森林的生命力，直到您看到昆虫如何重重覆盖物件。” <br/>“装置一切正常，将它带到秘鲁后，我们却发现有种白蚁喜爱拆解各种塑胶。”\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{A26FF03E-DC30-4AAD-9C33-6C4D9864FA44}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_big-visual_675x1000_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_big-visual_1728x1290.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "TextSection",
+                  "dataSource": "{185135E4-EA43-44B3-86C8-DD36BC2FE05F}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "森林与地球的守护者"
+                    },
+                    "text": {
+                      "value": "森林是地球80%陆栖生物的家园，超过10亿人赖以为生。森林亦可以吸收二氧化碳，减轻全球暖化。然而，世界自然基金会估计我们每年丧失1,870万公顷的森林，即每分钟27个足球场。\r\n<br/><br/>\r\n\r\n联合国亦推算毁林和森林退化占全球碳排放约11%。<br/>\r\n\r\n怀特说：“每避免砍伐1平方公里的森林，相当于一年内减少1,000辆汽车行驶。世上有数以百万计平方公里的森林，可算是延缓气候变化的最便宜方式。”<br/>\r\n\r\n但非法伐木仍然有利可图。联合国及国际刑警的报告指出，全球非法木材交易额每年达300亿至1,000亿美元。\r\n<br/>\r\n<br/>\r\n\r\n毁林的元凶大多是销售木材，但亦有不少清空林地耕作或居住的个案。<br/>\r\n\r\n怀特解释：“伐木的利润实是丰厚，他们会在森林开辟道路，直达贵价木材。这些道路又会引来更多砍伐森林的机会。只要阻止开发道路，便可以避免出现全面毁林。”\r\n"
+                    },
+                    "linkLabel": {
+                      "value": "森林是地球80%陆栖生物的家园，超过10亿人赖以为生。森林亦可以吸收二氧化碳，减轻全球暖化。然而，世界自然基金会估计我们每年丧失1,870万公顷的森林，即每分钟27个足球场。<br/><br/>\r\n\r\n联合国亦推算毁林和森林退化占全球碳排放约11%。<br/>\r\n怀特说：“每避免砍伐1平方公里的森林，相当于一年内减少1,000辆汽车行驶。世上有数以百万计平方公里的森林，可算是延缓气候变化的最便宜方式。”<br/>\r\n但非法伐木仍然有利可图。联合国及国际刑警的报告指出，全球非法木材交易额每年达300亿至1,000亿美元。\r\n<br/><br/>\r\n毁林的元凶大多是销售木材，但亦有不少清空林地耕作或居住的个案。<br/>\r\n怀特解释：“伐木的利润实是丰厚，他们会在森林开辟道路，直达贵价木材。这些道路又会引来更多砍伐森林的机会。只要阻止开发道路，便可以避免出现全面毁林。”\r\n"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "7fcd6c5c-4aed-4c3f-8758-a187da4c6cc9",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{FC6C1E14-B2EE-4FC1-8D31-F5D595051A3E}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_square1_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_square1_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a608a167-9e15-49a3-a6d3-7e4a1a4a4505",
+                  "componentName": "TextSection",
+                  "dataSource": "{3620B83F-6BDE-422F-8052-DBEBD8DF5F2A}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "赋予土著社群力量\r\n"
+                    },
+                    "text": {
+                      "value": "Rainforest Connection并非和政府合作，而是与其他非营利组织、部落及当地社群通力。<br/>\r\n怀特说：“所有保育计划都是本地发展的。虽然我们的大部分工作都涉及技术，但我们在社区建设和不同地方工作的适应上亦投入了许多工夫。”\r\n<br/><br/>\r\n权利与资源行动组织（Rights and Resources Initiative）是争取土著人民权益的全球组织，根据他们的报告，土著部落管理热带及亚热带森林最少五分之一的碳生物。<br/>\r\n然而，保护森林可以非常危险。怀特说：“当地居民感到十分害怕。这些利润极为丰厚的大型黑市组织遍及非洲及拉丁美洲，不时会发生暴力事件。”<br/>\r\n他表示，在砍伐初期交涉会比较安全，因为他们并未违法，可以就此离开。<br/>\r\n他解释：“愈早警示当地人，便可以愈快阻止伐木车驶入或链锯起动。伐木者和制止者的风险亦会大大减低。”<br/>\r\n怀特补充指，非法伐木的行动必须隐秘，因此这些组织不会回到已知受监控的地点。"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "fe185e84-a0e2-4e7f-9783-bfab2988c867",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F38AA8CF-3045-4D5A-9808-2C6CC65924D5}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_square2_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_square2_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6f22c940-1718-4c01-9dcc-c3da783df919",
+                  "componentName": "TextSection",
+                  "dataSource": "{C63ECCEA-D730-45AF-B2FB-74DD0036E66B}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "守护生物多样性\r\n"
+                    },
+                    "text": {
+                      "value": "除了避免非法伐木，此非政府组织亦开始涉猎生物声学，建立生物原声的数据库，希望能够协助保育工作。<br/>\r\n怀特说：“至今我们已搜集总长超过100年的持续声带，声源均来自偏远的无人踏足处。我们使用学习筛取链锯声的相同人工智能及机械，并加以调整，有望搜索不同动物和物种。”<br/>\r\n他补充：“我们从未试过如此大规模进行这种研究。生物声学确是一大改革，在了解生态及大自然的层面而言，其重要性堪比显微镜。”\r\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{B534AD7E-BFD6-4F87-9DFE-560E95A2C470}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>本文章由CNN与劳力士合力制作，为Call to Earth系列的一部分。\r\n</b>\r\n"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": ""
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://edition.cnn.com/interactive/call-to-earth/#/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "CNN网站"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "600b54c6-449d-4be7-b735-8b1031b1a335",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E03D0642-2E41-4D26-AA16-E94E5BFB4937}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher-white_banner_750x500_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/topher-white/rolex_org_cnn_topher_white_landscape-bottom_1920x1080.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b0133cec-4f00-405e-9998-028070d41207",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{579F5D68-4C60-46DC-B376-D0B71FB86C88}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "相关文章"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "10d6a116-3028-4fbe-b639-03cc21cf718c",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士合作关系 - 探索智利巴塔哥尼亚的新物种 "
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "野性深海：在生物灭绝前探索智利巴塔哥尼亚的新物种"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/vreni-haussermann/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Discovering new species in Chilean Patagonia"
+                          },
+                          "metadescription": {
+                            "value": "逾20年来，生物学家芙芮妮・豪泽曼（Vreni Häussermann）一直致力探索及保护智利巴塔哥尼亚的海洋生物。于Rolex.org阅读更多。\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "140"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "探索智利巴塔哥尼亚的新物种"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/vreni-haussermann/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "合作关系"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "67283425-9880-4f91-9c75-52dec01ee2ab",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士合作关系 - 清洁印度湖泊"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "从Google到垃圾处理：环保主义者清洁印度湖泊\r\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 10s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/arun-krishnamurthy/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Cleaning up India's Lakes"
+                          },
+                          "metadescription": {
+                            "value": "劳力士大奖得主阿伦・克里希纳默西（Arun Krishnamurthy）与其非营利组织，正协助应对印度的水资源问题。于Rolex.org探索更多。\r\n\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "170"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "清洁印度湖泊"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/arun-krishnamurthy/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "合作关系"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "3cf2f736-70ad-4468-9697-39b6252b405b",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士合作关系 - 巴塔哥尼亚一个世纪的气候变化"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "视拍摄巴塔哥尼亚一个世纪气候变化为己任的探险家"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 2s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/cristian-donoso/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A century of climate change in Patagonia"
+                          },
+                          "metadescription": {
+                            "value": "智利籍劳力士大奖得主克里斯蒂安・多诺索（Cristian Donoso）花上超过20年时间，捕捉气候变化对巴塔哥尼亚的影响。于Rolex.org了解更多。\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "150"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "巴塔哥尼亚一个世纪的气候变化"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/cristian-donoso/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "合作关系"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "91bf6008-1bba-4bfd-8a5e-34cef1e201c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{44B1F742-4216-4F76-BEBC-0EC46CA81DE8}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/partnerships/cnn"
+                    },
+                    "anchorText": {
+                      "value": "探索"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "合作关系系列"
+                    },
+                    "title": {
+                      "value": "Call to Earth"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "posterPortrait": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_750x1000_mobile.jpg"
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{17A63501-9E7C-45B7-A86B-22A36EA44112}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "167c3cca-fbf8-4636-887c-401189daaaca",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "f3aa8ff4-989e-41b1-8676-a41e493ed144",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯的“非洲大脊梁” - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "经过多次艰险的考察，探险家史蒂夫・博伊斯（Steve Boyes）与其团队成功证明：安哥拉高地是赞比西河的源头。在劳力士的支持下，他正运用研究成果切实保护这一重要区域。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "探险家史蒂夫・博伊斯与其团队证实赞比西河的源头位于安哥拉高地。于Rolex.org了解更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "保护水资源"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "探索发现"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与卡赛河考察活动 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "“非洲大脊梁”（Great Spine of Africa）考察旨在保护非洲大陆的水资源，而作为此考察的一部分，劳力士“保护地球・恒动不息”计划（Perpetual Planet Initiative）合作伙伴兼保育专家史蒂夫・博伊斯（Steve Boyes）追溯刚果河（Congo River）的主要水源至安哥拉高地（Angolan Highlands）。\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02分60秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "作为“非洲大脊梁”考察的一部分，保育专家史蒂夫・博伊斯研究刚果河的主要水源──卡赛河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "卡赛河"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与隆圭本古河 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士通过“保护地球・恒动不息”计划，支持“非洲大脊梁”探险，追溯从未获科学记录的数千公里河流。研究将有助保护仰赖非洲大河为生的社區及野生生物。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2分26秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "通过“保护地球・恒动不息”计划，劳力士支持史蒂夫・博伊斯展开探险，研究未经探索的隆圭本古河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "壮丽的赞比西河与其秘密"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）旨在表扬竭力保护地球的探险家，他们关注各种重要议题、积极探索发现并直面地球所面临的挑战。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "探索2019年劳力士国家地理年度探险家奖得主，奥卡万戈野外团队以及他们保护地球的承诺。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024年劳力士国家地理年度探险家奖得主 - 费尔南多・特鲁希略"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "哥伦比亚海洋生物学家费尔南多・特鲁希略（Fernando Trujillo）凭借保护亚马逊粉红江豚及它们栖息的河流系统，荣获2024年劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "海洋生物学家费尔南多・特鲁希略凭借保护亚马逊江豚，荣获2024年劳力士国家地理年度探险家奖。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "费尔南多・特鲁希略：为了喜爱的江豚"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

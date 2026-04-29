@@ -1,0 +1,1375 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "cntraveller",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "cntraveller",
+        "environmentName": "production",
+        "pageName": "partnerships:cntraveller:sylvia-earle-hope-spots",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2021-05-31T14:46:27Z",
+        "dateModified": "2023-02-27T16:58:03Z"
+      }
+    },
+    "route": {
+      "name": "sylvia-earle-hope-spots",
+      "displayName": "sylvia-earle-hope-spots",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "cntraveller"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Partnerships - Mission Blue"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Sylvia Earle has received more than 32 honorary degrees and has over 225 scientific and technical publications to her name."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 24s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/cntraveller/these_protected_marine_spots/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "These protected marine spots around the world are giving hope to Planet Earth"
+        },
+        "metadescription": {
+          "value": "Sylvia Earle’s Mission Blue initiative, supported by Rolex, is all about making the ocean healthy again. Read about it on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "384c7c93-1e8c-43a8-9731-c1b2b5111c60",
+          "url": "/Content/Category/cntraveller",
+          "fields": {
+            "name": {
+              "value": "CN Traveller"
+            },
+            "dictionaryKey": {
+              "value": "cntraveller"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "100"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "10"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "893c2d4d-c6a2-4ee0-953f-2a7e12edd035",
+          "url": "/Content/Hub/Minisites/cntraveler",
+          "fields": {
+            "name": {
+              "value": "cntraveler"
+            },
+            "dictionaryKey": {
+              "value": "view-cntraveler"
+            },
+            "url": {
+              "value": "/partnerships/cntraveller"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "These protected marine spots around the world are giving hope to Planet Earth"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/cntraveller/these_protected_marine_spots/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Media Partnerships"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "3b1ced15-5ca3-48aa-9ced-42c3fbaf259d",
+      "itemLanguage": "en",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{EEAFF95B-65AE-47E2-B3B2-21F6FD388E1A}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_cover_750x1140_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "THESE PROTECTED MARINE SPOTS AROUND THE WORLD ARE GIVING HOPE TO PLANET EARTH"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/rolex_partners_logo_CNT.svg"
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet Initiative"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_cover_1920x900.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b8646911-8a37-49f0-bc7e-686cfa4bf4bb",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{2E9F9B14-2163-4352-8A26-C8DE08D2ABFD}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#135C62"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#7FB9AD"
+                    },
+                    "time": {
+                      "value": "2min 16s"
+                    },
+                    "date": {
+                      "value": "March 2020"
+                    },
+                    "text": {
+                      "value": "<b>Sylvia Earle’s Mission Blue initiative, supported by Rolex, is all about making the ocean healthy again.\n</b>"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_posterframe_1920x1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8CFB9886-DCFE-487F-B81F-967C884E7A64}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "If you’ve been to the Andamans, gone diving in the Great Barrier Reef or sailed around the British Virgin Islands – chances are you’ve probably been to a Marine Protected Area (MPA) but you never knew it. Across the world, there are dozens of MPAs, earmarked with the aim to conserve marine life and limit human interference."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "60600d8f-b3b4-48db-8a62-8d5b72c2360d",
+                  "componentName": "TextSection",
+                  "dataSource": "{C23E8E55-99F7-4B0E-927A-1963D93AB788}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Pretty with a purpose"
+                    },
+                    "text": {
+                      "value": "Establishing a marine protected area has two-fold benefits – to marine life and local communities. If you protect a mangrove forest and coral reefs, you not only get a beautiful coastline and an abundance of happy, healthy fish but also a shoreline that’s protected against erosion. They also give scientists a living lab to study marine life and collect data.\n<br/><br/>\nIt’s the job of local governments to manage these MPAs. But unfortunately, not all are well looked after because of a lack of funding or expertise. Here’s where organizations like Rolex help by championing marine conservation efforts for the good of the planet. Rolex supports the Mission Blue initiative, founded by legendary oceanographer, marine biologist and National Geographic explorer, Dr. Sylvia Earle. The initiative recognizes Hope Spots around the world – these are ecologically sensitive areas in the ocean that include marine protected areas that are in need of more action, as well as new areas not yet protected. In fact, if you’re passionate about a part of the ocean and want it to be saved, you can even nominate your own Hope Spot. \n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{C525B4A6-8FB6-45F2-84A3-B3C7D72542A5}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_balearic_islands_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_balearic_islands_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1cc80cb9-5186-4715-aed0-1e47eaa77c79",
+                  "componentName": "SimpleText",
+                  "dataSource": "{546B6CD4-DD3E-4630-97BD-F31372D95A1E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Here are some beautiful Hope Spots around the world:"
+                    },
+                    "titleColor": {
+                      "value": "black"
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "TextSection",
+                  "dataSource": "{85B3E53B-60F4-468B-B24F-A7D7A326BA32}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Balearic Islands"
+                    },
+                    "text": {
+                      "value": "Located in the western Mediterranean sea, this archipelago is home to the very valuable ‘Posidonia oceanica seagrass’ meadows between the islands of Ibiza and Formentera, that were declared a UNESCO World Heritage Site in 1999. The area is home to a large population of sea turtles and marine birds and serves as the spawning area for the endangered bluefin tuna.  Overfishing has been a stress point here, but with careful management, it now serves as inspiration for other parts of the Mediterranean where overfishing and pollution have reached an alarming level. There are seven declared marine reserves in the islands, setting a great example of how fishing and marine conservation can coexist. A local NGO called Asociacion Ondine has been set up here to conduct scientific research, conservation initiatives and educational programs."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f523f4f8-6913-445c-b6f7-3cda45eafa6b",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{941F2612-A284-4572-A3FB-0EED0358174E}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_bocas_del_toro_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_bocas_del_toro_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b6cd73a1-44c8-44c6-ac63-9025be65fd7f",
+                  "componentName": "TextSection",
+                  "dataSource": "{6D9B0CAE-EB3D-409E-9CEB-584A976B8F3F}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Bocas del Toro"
+                    },
+                    "text": {
+                      "value": "From an unknown paradise island, these islands have emerged into a buzzing tourist hotspot. The influx of people on its sandy shores has led to problems like sedimentation and eutrophication that’s badly affected the coral species and mangroves here. The Mission Blue initiative supports a movement known as the ‘Bocas del Toro Coalition’, which consist of a group of conservation groups and activists who aim to make Bocas a top ecotourism destination. Plans include ocean conservation for tour guides and boat drivers and working to revive the marine ecosystem of Bocas del Toro. “No ocean, no Bocas,” they say."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "b48f4f56-b13c-4a18-8fca-9efb95b4e764",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{498B5946-F106-4F3F-99CE-859FD1593085}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_gulf_of_california_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_gulf_of_california_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad1d350e-a4f0-40f8-a13d-3c9feb94fd8f",
+                  "componentName": "TextSection",
+                  "dataSource": "{A3B1573E-C0FA-42B4-8CD8-454D7E41C3A4}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Gulf of California"
+                    },
+                    "text": {
+                      "value": "This 1,000-km stretch of narrow sea between Baja and mainland Mexico was declared a World Heritage Site in 2005 because of its great marine biodiversity. The sea is home to over 800 species of fish as well as whales, dolphins, sea turtles, sea lions and the critically endangered vaquita porpoise that’s endemic to the region. The species here are under threat due to overfishing and net entanglements. But several non-profits have been educating local fisheries on safely removing animals caught in fishing nets and replacing existing nets with less harmful ones."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "941f037e-9001-46cd-b789-9009105284a7",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{05D09DB2-9F72-44EB-9211-3A9A14DA95DB}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_central_artic_dome_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_central_artic_dome_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ce8861ba-a3d8-4d54-8e8a-986fbdea3838",
+                  "componentName": "TextSection",
+                  "dataSource": "{D0134558-7F2B-4BFA-9813-18374379D473}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Central Arctic Dome"
+                    },
+                    "text": {
+                      "value": "The Central Arctic Dome, also known as the ‘Arctic Donut Hole’, is a region that lies beyond any nation’s jurisdiction. As the Arctic sea ice continues to melt rapidly in the summer months, there is a growing concern that the central Arctic Ocean could become a free-for-all fishing zone as the waters become more accessible. Scientists are particularly concerned about the population of Arctic cod that’s crucial to the ecosystem here. Bordered by water controlled by the United States, Norway, Russia, Greenland and Canada, these five nations have come to an agreement to stop all forms of commercial fishing in the region. But the agreement still needs participation from the rest of the world, including China, Korea and Japan."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{73D9EAA1-0E64-4259-9888-EF1B452F54EB}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_tasman_sea_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_tasman_sea_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "TextSection",
+                  "dataSource": "{C70631FA-267B-4344-A611-0C040B90A995}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Tasman Sea"
+                    },
+                    "text": {
+                      "value": "The Tasman Sea extends about 2,000km between Australia and New Zealand and has been identified as a global ‘hotspot’. Over the past 60 years, temperatures have risen by 2℃ – three times the average rate of ocean warming. This has affected vulnerable species like the Antipodean Albatross and at least five other species of threatened seabirds. The sea is also home to critically important coral reefs, endangered black cod, Galapagos sharks and hundreds of species of reef fish. As a huge resource for fish, the Tasman Sea has been a bone of contention between Australia and New Zealand, and an agreement has been drawn up to control fishing from both sides."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{0814C7CA-14A0-4AB8-8CFA-2940882FCE52}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>Published by Condé Nast Traveller.</b>\n"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": "cntraveller"
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://www.cntraveller.in/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "CN traveller"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "23f71eed-091d-41e3-a12a-224693336a56",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{2CFF912F-BC00-49E1-9772-38FC81303420}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_banner_750x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cntraveller/these_protected_marine_spots/rolex_org_cn_traveller_these_potected_marine_spots_banner_1920x600.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "534eae4d-631c-4e4d-8372-8bda954ba431",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{1B9BA5C7-35B7-4343-AA58-114A00D0246A}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "a60e0d34-7dae-42eb-9465-8f733d20d0a9",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cntraveller"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - Saving the oceans, one spot at a time"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Backed by Rolex, the Mission Blue initiative by Sylvia Earle is giving new life to sensitive parts of the marine world."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 45s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cntraveller/saving_the_oceans/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Saving the oceans, one hope spot at a time"
+                          },
+                          "metadescription": {
+                            "value": "Backed by Rolex, the Mission Blue initiative by Sylvia Earle is giving new life to sensitive parts of the marine world. Learn more on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": {
+                            "id": "384c7c93-1e8c-43a8-9731-c1b2b5111c60",
+                            "url": "/Content/Category/cntraveller",
+                            "fields": {
+                              "name": {
+                                "value": "CN Traveller"
+                              },
+                              "dictionaryKey": {
+                                "value": "cntraveller"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "384c7c93-1e8c-43a8-9731-c1b2b5111c60",
+                            "url": "/Content/Category/cntraveller",
+                            "fields": {
+                              "name": {
+                                "value": "CN Traveller"
+                              },
+                              "dictionaryKey": {
+                                "value": "cntraveller"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "893c2d4d-c6a2-4ee0-953f-2a7e12edd035",
+                            "url": "/Content/Hub/Minisites/cntraveler",
+                            "fields": {
+                              "name": {
+                                "value": "cntraveler"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cntraveler"
+                              },
+                              "url": {
+                                "value": "/partnerships/cntraveller"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Saving the oceans, one hope spot at a time"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cntraveller/saving_the_oceans/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "5f4a4a3c-f36a-45a6-9362-900764da1f4c",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{66440135-A73C-457E-9EC0-361EC25D9980}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/partnerships/cntraveller"
+                    },
+                    "anchorText": {
+                      "value": "Discover more"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/cntraveller/rolex_org_cn_traveller_hub_cover_1920x900.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet Initiative"
+                    },
+                    "title": {
+                      "value": "CN Traveller"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{FB8778CD-9152-4392-81AC-95904AF3A6D4}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9fc5af02-0719-4ffa-8ce3-42959d4a8358",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

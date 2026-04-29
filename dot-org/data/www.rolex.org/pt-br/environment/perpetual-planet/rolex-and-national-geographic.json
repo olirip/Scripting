@@ -1,0 +1,2988 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "pt-BR",
+      "wa": {
+        "contentTag": "exploration",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "perpetual-planet",
+        "environmentName": "production",
+        "pageName": "environment:perpetual-planet:rolex-and-national-geographic",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2019-05-20T16:51:17Z",
+        "dateModified": "2023-06-14T09:19:09Z"
+      }
+    },
+    "route": {
+      "name": "rolex-and-national-geographic",
+      "displayName": "rolex-and-national-geographic",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "perpetual-planet"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex e a National Geographic – Perpetual Planet"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "A Rolex e a National Geographic, parceiras na descoberta e na proteção do nosso planeta"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 42s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/rolex-and-national-geographic/img/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex and National Geographic - Perpetual Planet"
+        },
+        "metadescription": {
+          "value": "A Rolex e a National Geographic formaram uma parceria para ajudar cientistas a explorar e a proteger o planeta. Descubra a sua iniciativa para ajudar a tornar o planeta sustentável."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "870"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex e a National Geographic – Perpetual Planet"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/perpetual-planet/perpetual_planet_extreme_expeditions/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Exploração"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "d157a6b5-94e0-53de-85ca-57b3bb8ba9b3",
+      "itemLanguage": "pt-BR",
+      "itemVersion": 29,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "17421e4e-b11c-4e36-a260-2aa14f075d38",
+                  "componentName": "CoverImage",
+                  "dataSource": "{60F00291-F595-4AD9-9487-68187A8F8EC9}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_cover_750x1624.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_cover_1920_1080.jpg"
+                    },
+                    "title": {
+                      "value": "Rolex e a National Geographic"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_cover_1920_1080.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "19f86339-5d36-5c64-a13e-18965495ace6",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{C86A26BD-2167-582C-A87C-393EE17F4F78}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#121C3D"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#253B68"
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Juntos, a Rolex e a National Geographic Society apoiam a pesquisa científica nos ambientes mais extremos do planeta, com o objetivo de fornecer novos conhecimentos para salvar os principais sistemas responsáveis pela vida na Terra.</b><br /><br />O apoio a indivíduos e organizações que buscam soluções aos desafios ambientais — como a National Geographic — é parte integrante do compromisso assumido pela Rolex em favor da preservação do meio ambiente e concretizado por meio da iniciativa Perpetual Planet. Paralelamente à parceria com a National Geographic, a Rolex participa ativamente do projeto Mission Blue, desenvolvido por Sylvia Earle, e promove os Prêmios Rolex de Empreendedorismo."
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": "logo natgeo"
+                    },
+                    "logoSrc": {
+                      "value": "/data/media/img/static/logo_rolex_and_natgeo_light.svg"
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "0baf1fb6-9239-5232-a5c3-acc3878125fb",
+                  "componentName": "TextSection",
+                  "dataSource": "{8BB28496-277F-5CC6-BA88-4EA80C81953D}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Uma relação de longa data"
+                    },
+                    "text": {
+                      "value": "A parceria entre a Rolex e a National Geographic foi criada em 1954, pouco tempo depois da primeira expedição bem-sucedida ao pico do Everest, em 1953. Na época, a Rolex equipou os pioneiros Sir Edmund Hillary e Tensing Norgay com cronômetros Oyster Perpetual.<br /><br />O pioneirismo é um componente essencial da identidade da Rolex. Base da criação dos relógios da marca, o espírito pioneiro está presente no design de seus produtos desde a década de 1930, quando Hans Wilsdorf, fundador da Rolex, começou a testar o seu uso em condições extremas. Ao longo da história, os relógios Oyster Perpetual têm estado ao lado de exploradores em suas aventuras nas profundezas abissais do oceano, nos picos das mais altas montanhas, em florestas densas e inexploradas, nos desertos mais áridos, nos longínquos polos terrestres ou nas mais profundas cavernas.<br /><br />Por mais de 130 anos, a National Geographic tem investido em indivíduos extraordinários, cujas ideias inovadoras superam os limites da exploração, permitindo-nos entender o nosso mundo e criar soluções em prol de um futuro mais saudável e sustentável para as futuras gerações."
+                    },
+                    "linkLabel": {
+                      "value": "&nbsp;"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "25627c55-b220-5130-b8b4-de81dea64706",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{C601C0A0-3962-5DEB-96BF-AEE9FC83C0D3}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_a_long_standing_partnership_674x1462_01.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_a_long_standing_partnership_1728_1080.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f377286c-48f9-5165-834a-a4abc7700eba",
+                  "componentName": "TextSection",
+                  "dataSource": "{A9830DBE-2A6A-592D-ADD8-5272602202A6}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Unidos pela exploração"
+                    },
+                    "text": {
+                      "value": "Uma mesma paixão pela descoberta de novos horizontes estreitou os laços entre a Rolex e a National Geographic ao longo dos anos.<br /><br />Vários cientistas da National Geographic Society já participaram dos Prêmios Rolex como membros do júri. Atualmente, a Rolex patrocina o trabalho de alguns dos mais arrojados e visionários pioneiros do planeta. Nada menos que 16 Laureados dos <a href=\"/environment/perpetual-planet/inspired-individuals-changing-the-world\">Prêmios Rolex de Empreendedorismo</a> foram também Exploradores Residentes da National Geographic ou receberam prêmios pelo importante trabalho que desenvolvem."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "385b1671-c489-4243-91c6-7195ba22b2ad",
+                  "componentName": "Roller",
+                  "dataSource": "{18A3963B-451D-4204-8E18-A5632A7D246B}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "d9f07e33-a514-4348-b076-452eeb413b73",
+                        "componentName": "RollerCard",
+                        "dataSource": "{224C0A6D-6262-4B59-80D8-4BC6087B17C5}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/slideshow/rolex_and_national_geographic_0003_1543x1080.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Sylvia Earle</b> — A bióloga marinha de renome internacional Sylvia Earle é uma pioneira na exploração submarina por mais de quarenta anos."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "22130028-20a2-4ce0-b6fd-7dba7a43a686",
+                        "componentName": "RollerCard",
+                        "dataSource": "{00464460-06A4-40A3-B6A2-F2AB58116287}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/slideshow/rolex_and_national_geographic_0004_1543x1080.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>James Cameron</b> — Em 2012, o diretor e explorador James Cameron realizou um mergulho solo recorde na Fossa das Marianas."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "f8a55266-20f6-43f4-b8cb-c63df0f6a194",
+                        "componentName": "RollerCard",
+                        "dataSource": "{9EA8CAF5-8FC5-469F-82F8-EF63210AF006}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/slideshow/rolex_and_national_geographic_0005_1543x1080.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Brian Skerry</b> — O fotojornalismo de Brian Skerry lançou luz sobre a beleza e a fragilidade do oceano e de seus habitantes.\r\n"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "5e825209-fdf8-5f8f-b1ef-8cc3bfdec478",
+                  "componentName": "SimpleText",
+                  "dataSource": "{46EA3904-0F5F-5968-AA99-ADC1618794D7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<a href=\"/rolex-awards/exploration/johan-g-reinhard\">Johan Reinhard</a>, por exemplo, conquistou um Prêmio Rolex em 1987 por seu projeto de preservação do patrimônio cultural dos povos andinos por meio de antropologia cultural de altas altitudes Alguns anos mais tarde, em 1999, tornou-se Explorador da National Geographic. Mais recentemente, <a href=\"/rolex-awards/environment/erika-cuellar\">Erika Cuéllar</a>, Laureada Rolex em 2012, tornou-se Emerging Explorer da National Geographic no ano seguinte. Bióloga conservacionista, ela capacita as populações locais para proteger a extraordinária biodiversidade de uma das últimas regiões verdadeiramente selvagens da América do Sul: o Gran Chaco.<br /><br />A Rolex e a National Geographic também cultivam parcerias duradouras com grandes pioneiros da exploração marinha, entre os quais <a href=\"/perpetual/trieste-the-deepest-dive\">Don Walsh</a> e <a href=\"/environment/deepsea-challenge\">James Cameron</a> (que exploraram a Fossa das Marianas, região mais profunda do planeta, situada no oceano Pacífico) e a bióloga marinha <a href=\"/environment/an-ocean-of-hope\">Sylvia Earle</a>, sem esquecer os fotógrafos subaquáticos e <a href=\"/environment/explorer-of-the-year\">Brian Skerry</a>.<br /><br />Com o projeto The National Geographic and Rolex Perpetual Planet Expeditions, a Rolex e a National Geographic compartilham experiências, recursos e ideais em relação ao que talvez venha a ser a sua mais importante missão — um extenso trabalho que objetiva documentar, durante cinco anos, as mudanças que estão ocorrendo nos ambientes mais extremos, remotos e inexplorados da Terra."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3e7df361-9ae4-5a94-ba27-93ccec369bc7",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{974486F7-8BBB-59EE-9D2A-EB301A1578FF}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0002_674x1462.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_a_commonality_of_interest_1728_1080.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "493d1040-8721-5628-988f-666eafac99b7",
+                  "componentName": "TextSection",
+                  "dataSource": "{075A0912-6969-5E5D-89E2-BD46F04D808E}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "The National Geographic and Rolex Perpetual Planet Expeditions"
+                    },
+                    "text": {
+                      "value": "Por meio de uma série de expedições, iremos estudar três dos ambientes mais extremos e essenciais à vida: as montanhas, as florestas e os oceanos. O objetivo é levar tecnologias de última geração para algumas das regiões menos acessíveis e menos conhecidas pela ciência, a fim de observar de que forma elas estão sendo afetadas por atividades humanas desenvolvidas em outras regiões do planeta e quais são as consequências dessas mudanças para toda a humanidade.<br /><br />No âmbito dessa visão compartilhada, é igualmente importante o desenvolvimento de soluções que contribuam para conter os efeitos nefastos das mudanças que forem identificadas durante esse trabalho. Por isso, a Rolex e a National Geographic convidam os mais arrojados cientistas e profissionais especializados nessas regiões isoladas a apresentarem propostas."
+                    },
+                    "linkLabel": {
+                      "value": " "
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "dd11890a-7cfe-5967-af2e-be189c712519",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{9ABD5FD4-56BE-5923-AEE0-6EA7E834860B}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "Altas Montanhas<br />Torres de água do planeta"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0001_600x380.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_high_mountains_quote_1728_750.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "b5f8f048-b93b-5465-bb6d-f4b05d0a122f",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{9981CB83-C7FA-5777-9F3A-A93C55F31FC1}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "Florestas tropicais<br />\nPulm&atilde;o do planeta"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0002_600x380.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_rainforest_quote_1728_1080.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "5b4951be-bfc1-546d-bfa1-fc098ee673b3",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{C01F115E-4E45-51F9-AB2C-5550DF2E7AE1}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "Oceanos<br />\nTerm&oacute;stato da Terra"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0003_600x380.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_oceans_quote_1728_1080.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "bc0f3360-1363-5288-8808-81d840e9eecd",
+                  "componentName": "TextSection",
+                  "dataSource": "{1836C2AB-44BE-5BE0-9074-6AC99969E879}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Documentar mudanças nos pontos mais altos do planeta"
+                    },
+                    "text": {
+                      "value": "A título de exemplo, um dos principais desafios para o futuro da humanidade é compreender as mudanças atualmente observadas na manta de gelo que recobre as montanhas mais altas, considerada uma fonte inestimável de água para o planeta. As zonas altas das montanhas, à semelhança do Hindu Kush-Himalaia, são tipicamente mais propícias à formação de geleiras, fornecendo assim água para mais de um bilhão de pessoas. O principal objetivo da The National Geographic and Rolex Perpetual Planet Everest Expedition, iniciada em abril de 2019, foi compreender melhor os impactos das mudanças climáticas nos glaciares do Himalaia, assim como as consequências para as comunidades dependentes das mantas de gelo.\r\n"
+                    },
+                    "linkLabel": {
+                      "value": "Ler o artigo"
+                    },
+                    "link": {
+                      "value": "/environment/mt-everest-sensors-new-insights-climate-change"
+                    },
+                    "linkName": {
+                      "value": "Sensores no Everest para compreender melhor as mudanças climáticas "
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "79b6efab-d86e-51a6-8085-6d434ba4b4af",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{56FF69FB-891E-5323-9521-D929180AD452}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_674_450_mobile.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/perpetual_planet_natgeo_1728_1153.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d96eb2f2-7a9c-4567-b364-a293ec5f768a",
+                  "componentName": "TextSection",
+                  "dataSource": "{DB931B29-DD8D-45F1-A937-7315A17B2E44}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "The National Geographic and Rolex Perpetual Planet Tupungato Volcano Expedition"
+                    },
+                    "text": {
+                      "value": "<p>Em 2021, no âmbito da iniciativa The National Geographic and Rolex Perpetual Planet Expeditions, a National Geographic, com o apoio da Rolex, liderou uma expedição ao vulcão chileno de Tupungato, nos Andes, para instalar a estação meteorológica mais alta dos hemisférios sul e ocidental.</p>\r\n\r\n<p>Equipados com Oyster Perpetual Explorer II, o relógio-ferramenta ideal para a exploração, a equipe de especialistas construiu a estação meteorológica no topo de Tupungato e investigou a torre de água mais vulnerável da América do Sul, que fornece água de maneira ineficaz para mais de cinco milhões de pessoas em Santiago, a capital do Chile. A missão foi realizada após a bem-sucedida The National Geographic and Rolex Perpetual Planet Everest Expedition de 2019, que resultou na instalação da estação meteorológica mais alta do mundo no Himalaia.</p>\r\n\r\n<p>Os dados coletados das estações meteorológicas serão usados para examinar o impacto das mudanças climáticas em um dos ambientes mais frágeis e estimar o tempo e gestão de recursos hídricos. Por meio dessas expedições, a National Geographic, uma parceira essencial da iniciativa Perpetual Planet da Rolex, estuda o estado e as condições das montanhas para preencher lacunas de conhecimento.</p>"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "98e5df73-567c-4156-96a1-d5ef9b420688",
+                  "componentName": "Roller",
+                  "dataSource": "{CE774D74-B52D-43DF-B6BD-87A324F78988}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "b1211b3d-7ed3-4c83-a464-d5881512759f",
+                        "componentName": "RollerCard",
+                        "dataSource": "{CB35B7BF-2B6B-4693-82C6-2ECDFD50F79A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller1_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "0980c55e-e9a8-4d20-a297-d91b763de9f0",
+                        "componentName": "RollerCard",
+                        "dataSource": "{B48BCE14-5EEC-47A3-94EE-0EF8BA7E4F34}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller2_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "03736a02-d194-4d8a-88d2-835c2ba81145",
+                        "componentName": "RollerCard",
+                        "dataSource": "{6551F797-0158-4BF5-91A8-5E5EDA1820AE}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller3_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "bef9922a-511b-47b1-b8d0-7edbc46ce1b7",
+                        "componentName": "RollerCard",
+                        "dataSource": "{B0FDC402-C8DD-4743-8687-40605C9DB077}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller4_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "c882a640-0bd5-4b0f-82af-eea0cee68737",
+                        "componentName": "RollerCard",
+                        "dataSource": "{46E81053-6DE9-45E8-B66D-A4944FA01D37}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller5_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "d53b23f5-1e50-41a0-8602-a2d39bb5b062",
+                        "componentName": "RollerCard",
+                        "dataSource": "{12712345-C58C-41CB-B7E4-30BE43D46AE0}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller6_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "b32f0260-95ff-4ede-94d3-0b56a3182b00",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5A0A9BBD-1575-4443-BD6A-AEACC95A6FEB}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/roller-chile/rolex_org_national_geographic_chile_roller7_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "02c1e096-62df-5888-a216-858054aae263",
+                  "componentName": "TextSection",
+                  "dataSource": "{DBD0E6F3-97FC-5062-B3B2-C82F20BC3B07}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Um planeta em equilíbrio"
+                    },
+                    "text": {
+                      "value": "Referindo-se ao projeto, Tracy R. Wolstencroft, presidente e CEO da National Geographic Society, declarou: “Junto com nossos parceiros da Rolex, vamos mobilizar o poder da ciência, exploração e narrativa para revelar descobertas críticas sobre o nosso mundo em transformação, desenvolver o conhecimento e ampliar as soluções para que possamos ter um planeta em equilíbrio”. <br /><br />A Rolex e a National Geographic sempre buscaram inspiração nos recônditos da Terra e em suas maravilhas, bem como na coragem, na competência e na tenacidade necessárias para chegar até eles. Com o projeto Perpetual Planet, conectamos todos esses atributos a fim de servir a humanidade e o próprio planeta Terra, graças às descobertas realizadas por nossos exploradores e cientistas."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "9951dc96-413a-5500-9f02-0f45d5ef6157",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{DAA00802-C319-5AB8-A93C-98298C74EBBB}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0001_1920x960.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/rolex-and-national-geographic/img/rolex_national_geographic_0001_1920x960.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "e778e067-8b1d-5cd7-98fb-a926c11d4626",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "aa81a980-b367-42f9-99f8-8bc12780ecbc",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{13F0BE90-6EAD-4159-98AD-025FAAC77B19}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Artigos relacionados"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "2c0ca160-8f44-5c1b-9396-6da143108e66",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "perpetual-planet"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Indivíduos inspiradores que transformam o mundo - Prêmios Rolex de Empreendedorismo"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Há mais de 40 anos, os Prêmios Rolex vêm selecionando indivíduos com coragem, habilidades e determinação excepcionais aos quais proporciona apoio em sua jornada incansável de exploração, compreensão, proteção e apreço pelo planeta em que vivemos e por tudo o que ele abriga."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 28s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual-planet/inspired_individuals_changing_the_world/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Inspired individuals changing the world - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Os Prêmios Rolex de Empreendedorismo apoiam indivíduos em sua missão de proteger o nosso planeta. Descubra os projetos dos Laureados, um pilar central do projeto Perpetual Planet."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "100"
+                          },
+                          "tag2": {
+                            "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                            "url": "/Content/Category/RolexAwards",
+                            "fields": {
+                              "name": {
+                                "value": "Rolex Awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "100"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Indivíduos inspiradores que transformam o mundo - Prêmios Rolex de Empreendedorismo"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual-planet/inspired_individuals_changing_the_world/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "3b472048-a7b3-539f-96f6-d64da129eae1",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "an-ocean-of-hope"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Um oceano de esperança – Meio ambiente"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "A bióloga marinha Sylvia Earle, Embaixadora Rolex desde 1982, ocupa a vanguarda das pesquisas oceanográficas há mais de quatro décadas, desenvolvendo incansavelmente sua missão de explorar, estudar e proteger as águas do planeta. Com seu projeto Mission Blue, ela vem mobilizando o público para preservar regiões marinhas conhecidas como <em>Hope Spots</em>, ou lugares de esperança."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6min 40s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/an-ocean-of-hope/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "An ocean of hope - Environment"
+                          },
+                          "metadescription": {
+                            "value": "Descubra como a bióloga marinha e Embaixadora Rolex Sylvia Earle trabalha há anos para explorar, estudar e proteger os oceanos do planeta."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2500"
+                          },
+                          "tag2": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2500"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Um oceano de esperança"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/an-ocean-of-hope/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Oceanos"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "ca44bfa6-206f-5901-8253-76373a63b767",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "deepsea-challenge"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Viagem ao fundo do mar – Meio ambiente"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Em 26 de março de 2012, o diretor e explorador James Cameron realizou um mergulho solo recorde a uma profundidade de 10.908 metros abaixo da superfície do Oceano Pacífico, a bordo do submersível <i>DEEPSEA CHALLENGER</i>, atingindo a região mais profunda do mundo."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 16s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/journey-to-the-bottom-of-the-sea/deepsea-challenge_thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": "dark"
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Journey to the bottom of the sea - Environment"
+                          },
+                          "metadescription": {
+                            "value": "Em 26 de março de 2012, o diretor e explorador James Cameron realizou um mergulho solo recorde a uma profundidade de 10.908 metros abaixo da superfície do Oceano Pacífico, a bordo do submersível <i>DEEPSEA CHALLENGER</i>, atingindo a região mais profunda do mundo."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "320"
+                          },
+                          "tag2": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "650"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Viagem ao fundo do mar"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/journey-to-the-bottom-of-the-sea/deepsea-challenge_thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Meio ambiente"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "f2b7f29d-c2a8-5d62-8964-3eeaf42973b7",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "Descubra"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Meio ambiente"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "cf104e8d-1c0c-50e3-8a6f-b740b1da50e4",
+                  "componentName": "Sharing",
+                  "dataSource": "{7A51A264-5F1C-5BAD-A01B-57CB5CD65C44}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b842f11d-00be-485a-91b7-6ced77ea3a28",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2aae9a94-3ec9-4567-aeb3-69953f31662e",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes – Great Spine of Africa – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Após inúmeras e arriscadas expedições, o explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Com o apoio da Rolex, ele agora está usando essa descoberta para exigir a tomada de medidas concretas para proteger essa área vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "O explorador Steve Boyes e sua equipe apresentaram a prova de que o imponente rio Zambeze nasce nas Terras Altas de Angola. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Protegendo nossas águas"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploração"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e a expedição ao rio Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Como parte das expedições Great Spine of Africa para proteger a segurança hídrica do continente africano, Steve Boyes, conservacionista e parceiro da Iniciativa Perpetual Planet da Rolex, mapeou uma importante nascente do rio Congo às Terras Altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Como parte das expedições Great Spine of Africa, o conservacionista Steve Boyes examinou o rio Cassai, uma importante nascente do rio Congo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "O rio Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e o rio Lungué-Bungo – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Graças à Iniciativa Perpetual Planet, a Rolex tem o prazer de contribuir para as expedições do projeto Great Spine of Africa, que atravessam milhares de quilômetros de rios nunca antes documentados cientificamente. O trabalho realizado nessas expedições é crucial para proteger as comunidades locais e os animais selvagens que dependem dos grandes rios africanos para sobreviver."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Por meio de sua Iniciativa Perpetual Planet, a Rolex apoia Steve Boyes em sua expedição pelo inexplorado rio Lungué-Bungo. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Os segredos do poderoso rio Zambeze"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O prêmio Rolex National Geographic Explorer of the Year agracia exploradores cujo compromisso com um planeta perpétuo mobiliza grande atenção para temas, descobertas e desafios importantes enfrentados pelo nosso planeta. "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra os vencedores do Rolex National Geographic Explorers of the Year: a equipe do Okavango Wilderness Project e o seu projeto em prol de um planeta perpétuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019: a equipe do Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "O biólogo marinho colombiano, Fernando Trujillo, foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa, uma espécie emblemática da Amazônia, e de seu habitat."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "O biólogo marinho Fernando Trujillo foi nomeado Rolex National Geographic Explorer of the Year 2024 por seu trabalho na proteção dos botos-cor-de-rosa. Saiba mais em rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: por paixão pelos botos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Meio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

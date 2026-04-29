@@ -1,0 +1,19 @@
+---
+title: "네팔 트랜스-히말라야의 생물 다양성 보호를 위한 지역 이니셔티브를 추진하는 일 - 동영상"
+url: "https://www.rolex.org/ko/rolex-awards/video/environment/rinzin-phunjok-lama"
+---
+
+[바닥글로 이동](#footer)
+
+언어
+
+- [Français](https://www.rolex.org/fr/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [Português](https://www.rolex.org/pt-br/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [English](https://www.rolex.org/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [简体中文](https://www.rolex.org/zh-hans/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [Deutsch](https://www.rolex.org/de/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [繁體中文](https://www.rolex.org/zh-hant/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [Italiano](https://www.rolex.org/it/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [日本語](https://www.rolex.org/ja/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [Español](https://www.rolex.org/es/rolex-awards/video/environment/rinzin-phunjok-lama)
+- [한국어](https://www.rolex.org/ko/rolex-awards/video/environment/rinzin-phunjok-lama)

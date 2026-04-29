@@ -1,0 +1,2282 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "it",
+      "wa": {
+        "contentTag": "education/perpetual",
+        "pageType": "article page",
+        "pageSiteSection": "science",
+        "pageSiteSubSection": "an-education-in-precision",
+        "environmentName": "production",
+        "pageName": "science:an-education-in-precision",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:28:09Z",
+        "dateModified": "2021-06-01T09:52:11Z"
+      }
+    },
+    "route": {
+      "name": "an-education-in-precision",
+      "displayName": "an-education-in-precision",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "an-education-in-precision"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Una formazione all’insegna della precisione - Scienza"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Per far fronte alla carenza di orologiai qualificati negli Stati Uniti, Rolex ha creato nel 2001 una scuola di formazione per i giovani che vogliono imparare a revisionare gli orologi meccanici di alto livello."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "4min 8s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "An education in precision - Science"
+        },
+        "metadescription": {
+          "value": "Per far fronte alla carenza di orologiai qualificati negli Stati Uniti, Rolex ha creato nel 2001 una scuola di formazione per i giovani che vogliono imparare a revisionare gli orologi meccanici di alto livello."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "science"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+          "url": "/Content/Hub/science",
+          "fields": {
+            "name": {
+              "value": "science"
+            },
+            "dictionaryKey": {
+              "value": "all-science"
+            },
+            "url": {
+              "value": "science"
+            }
+          }
+        },
+        "tag1": {
+          "id": "27b0575f-fe8b-55be-9d2f-55c751f8abba",
+          "url": "/Content/Category/Education",
+          "fields": {
+            "name": {
+              "value": "Education"
+            },
+            "dictionaryKey": {
+              "value": "education"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2100"
+        },
+        "tag2": {
+          "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+          "url": "/Content/Category/Perpetual",
+          "fields": {
+            "name": {
+              "value": "Perpetual"
+            },
+            "dictionaryKey": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "1650"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Una formazione all’insegna della precisione"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Formazione"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "b3b4822a-aba1-5a8f-ac14-b30a68c0fca7",
+      "itemLanguage": "it",
+      "itemVersion": 23,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "6c9753ff-9d05-56a3-ae9a-f61d57fe0ab9",
+                  "componentName": "Cover",
+                  "dataSource": "{5B240B37-26DE-5A8A-AD8A-063EAD6DC720}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "UNA FORMAZIONE ALL’INSEGNA DELLA PRECISIONE"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": "maggio 2016"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": "Lititz Watch Technicum"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c6f4eb57-71ed-5763-935e-2f4f0ef42268",
+                  "componentName": "ImageTextBackground",
+                  "dataSource": "{6CB06B22-6D3C-558E-9468-950FD0B04630}",
+                  "params": {},
+                  "fields": {
+                    "author": {
+                      "value": ""
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0002.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0003.jpg"
+                    },
+                    "imageFirst": {
+                      "value": false
+                    },
+                    "imageMode": {
+                      "value": "landscape"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Per far fronte alla carenza di orologiai qualificati negli Stati Uniti, Rolex ha creato nel 2001 una scuola di formazione per i giovani che vogliono imparare a revisionare gli orologi meccanici di alto livello."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "75b8eecc-5ab6-5d6c-97ed-1194b5b18f02",
+                  "componentName": "Paragraph",
+                  "dataSource": "{3477DE68-EDFF-504F-9640-D36C22AFB5E7}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>I dintorni di Lititz, caratterizzati dal paesaggio collinare, con fattorie e boschetti, potrebbero tranquillamente essere scambiati per alcune zone del massiccio del Giura, la culla dell’orologeria svizzera. E il parallelismo con la Svizzera non si ferma qui. La regione si trova in pieno territorio Amish, una comunità tradizionalista e religiosa di coloni provenienti dalla Svizzera. Inoltre, la zona di Lancaster, capitale della contea, è un’importante area orologiera degli Stati Uniti sin dal XIX secolo.</p><p>Osservando, però, i rivestimenti in legno bianco delle case e delle fattorie della “Pennsylvania tedesca” e i centri commerciali, il visitatore realizza immediatamente di trovarsi negli Stati Uniti. Il complesso di pietra di 4.274 m² che ospita il Lititz Watch Technicum è stato progettato dal pluripremiato architetto Michael Graves e riesce a conciliare questi due mondi. Con il profilo a ogiva che ricorda lo stile tradizionale delle fattorie della regione, l’edificio si fonde perfettamente nell’ambiente rurale circostante. Le alte finestre laterali ricordano quelle delle manifatture orologiere svizzere e inondano di luce gli spazi interni che ospitano i moderni laboratori di formazione per giovani orologiai e il centro di assistenza Rolex.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "c8780f9f-2cb7-5f3f-9839-6075c27a0936",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7F48DB69-7EB4-526C-9145-1C1B1CA0B7BE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Far fronte alla carenza di orologiai"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Il Lititz Watch Technicum è interamente finanziato e attrezzato da Rolex, che si fa carico anche della retta scolastica degli studenti. Unica condizione, questi ultimi devono acquistare l’attrezzatura da orologiai; a questo stadio si tratta di un investimento importante, ma di cui potranno beneficiare per tutta la loro carriera."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0405f793-ba3b-5a94-b4c2-dc22596671a0",
+                  "componentName": "Paragraph",
+                  "dataSource": "{B49356F0-A35D-5559-BDC1-51F7F8BBD177}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Il Technicum ha aperto i battenti nel 2001 per far fronte alla carenza generalizzata di esperti in grado di revisionare orologi meccanici di lusso. Questa tendenza ha origini negli anni ’80 ed è la conseguenza dell’avvento degli orologi al quarzo, i cui movimenti elettronici nella maggior parte dei casi non richiedevano alcuna revisione. Il mestiere di orologiaio ne ha sofferto e le scuole di orologeria hanno progressivamente cessato la loro attività. Tra il 1973 e il 2000, il numero di orologiai negli Stati Uniti è sceso da trentaduemila a circa seimilacinquecento; nei servizi post-vendita i rappresentanti di questa professione si sono fatti sempre più rari, man mano che la generazione precedente raggiungeva l’età della pensione, con il conseguente rischio che s’interrompesse la trasmissione delle conoscenze in questo settore. Negli anni ’90, però, a seguito dell’impennata delle vendite di orologi meccanici di qualità, si è fatta sentire l’urgenza di formare esperti in revisione e riparazione.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "3e607aec-90b3-5cc9-8d4d-46a29a54309c",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{05C7A127-8D10-5385-B06E-8E20685C9C45}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": "Sin dal primo anno a Lititz, gli studenti fabbricano componenti orologieri che richiedono finiture di estrema precisione."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "62497c18-0b69-5dba-83e1-3ab50ded248b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3A20AC4A-5D0B-581C-88A8-46C661058BF8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "La rinascita della tradizione"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Dalla sua apertura, la scuola di Lititz ha contribuito a ripristinare la tradizione orologiera negli Stati Uniti. A oggi, vi si sono diplomati circa centoquindici orologiai del servizio post-vendita e metà di loro lavora per i rivenditori autorizzati Rolex nel Paese oppure direttamente per il Marchio. L’altra metà ha seguito una strada diversa ed è stata assunta dai dettaglianti indipendenti o da altre aziende orologiere di lusso. Il successo del Technicum è tale che i rivenditori americani aprono nuovi laboratori per il servizio post-vendita. Il database della scuola contiene un centinaio di offerte di lavoro di cui circa trenta corrispondono a nuovi posti. Rolex sostiene altri due corsi di studio con un programma identico a quello del Lititz, il primo presso il North Seattle College e il secondo alla Oklahoma State University. Oggi, i diplomati che escono da queste scuole lavorano su tutto il territorio degli Stati Uniti, fin sull’isola di Guam, nel Pacifico, e alcuni sono diventati dirigenti.<br><br>Ormai, il Lititz Watch Technicum mantiene un sito web, ma non ricerca più attivamente nuovi studenti. Ogni anno vengono prese in considerazione dalle 70 alle 100 candidature; tra queste, 40 candidati vengono invitati a sottoporsi a un rigoroso test di otto ore e ai colloqui. Soltanto 14 di loro riusciranno a indossare il camice da laboratorio blu degli studenti del primo anno, pronti a iniziare il biennio di formazione. <br><br> “Non si tratta di un lavoro, ma di uno stile di vita”, sottolinea Herman Mayer, direttore del Lititz Watch Technicum. “Gli studenti devono capire bene chi siamo e cosa li aspetta per due anni”."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "783425d7-3243-5bbc-80ac-63ff3b5e546a",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{CD85BBA3-B7A4-5583-BBD0-453EC0EC05DC}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0005.jpg"
+                    },
+                    "legend": {
+                      "value": "L’orologio da parete creato da alcuni studenti del Lititz Watch Technicum nell’ambito di un progetto di studio."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7d285379-1c3e-504b-939f-819c98da76dc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D397697C-2F6E-5078-964C-3C38CCA247C1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Far nascere la vocazione"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Dalla sua apertura quattordici anni fa, il Technicum ha saputo risvegliare il potenziale di una generazione attratta più dai videogiochi che dal Lego o dal Meccano. Gli studenti che giungono in questa zona rurale della Pennsylvania arrivano da lontano, addirittura dai centri urbani della California. Molti non hanno ancora compiuto vent’anni e hanno appena concluso le superiori; altri invece possiedono diplomi universitari, qualche volta in ingegneria meccanica, mentre altri ancora sono trentenni che hanno deciso di riconvertirsi professionalmente. Durante la rigorosa giornata di selezione si testano le capacità dei candidati nel risolvere un problema; l’obiettivo non è tanto quello di valutare le loro competenze meccaniche, bensì la loro attitudine nei confronti di questa materia. Durante i test e le interviste, Herman Mayer e i suoi tre insegnanti cercano soprattutto candidati dotati di una buona capacità di ragionamento e in grado di gestire la frustrazione, senza dimenticare la passione e una grande motivazione."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "613484b7-91f1-546d-9ea1-fc489d57f9a9",
+                  "componentName": "Quote",
+                  "dataSource": "{FFCDFF25-890B-501B-892D-8AB0E66D1FF1}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "In classe nascono idee e si vorrebbe poter riflettere all’infinito, anche se si tratta di micromeccanica e anche dovendo lavorare dopo gli orari di scuola. È molto gratificante."
+                    },
+                    "author": {
+                      "value": "Alexa Tumas, studente di secondo anno"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "88df1261-a3dc-5980-b6d9-7fd77681c02f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CED664D3-CF07-5552-AA3B-594E7ED270EF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Per il direttore, la manualità non è la qualità principale e la si può acquisire attraverso una buona formazione. Il risultato è lì da vedere: la sera tardi, al Technicum, una moltitudine di lampadine brilla nel buio. Le lezioni si sono concluse da tempo e riprenderanno l’indomani alle sette e mezza, ma gli studenti lavorano ai loro progetti di orologeria. La scuola fa nascere la vocazione. Il successo presuppone entusiasmo e dedizione e, anche se non è un argomento di cui si parla molto, chiunque entri nei laboratori se ne rende immediatamente conto. “In classe nascono idee e si vorrebbe poter riflettere all’infinito, anche se si tratta di micromeccanica e anche dovendo lavorare dopo gli orari di scuola. È molto impegnativo ma così gratificante”, confessa Alexa Tumas, studente del secondo anno. <br><br>I diplomati della scuola sono perfettamente consapevoli dell’importanza di aver imparato questo senso della disciplina e queste competenze. “L’esame riserva sempre una parte di sorprese. Il livello è alto”, afferma William Harbison, che oggi lavora per un rivenditore nei pressi di Filadelfia. Gli studenti escono trasformati da questa esperienza. Pochi mesi sono trascorsi da quando era stato chiesto loro, durante i test di selezione, di spiegare semplicemente e con l’aiuto di uno stuzzicadenti il funzionamento di un motore a pompa, e oggi eccoli lanciati nella fabbricazione di un orologio perfettamente funzionante a partire da un modello di movimento. <br><br>Con questo progetto individuale ogni studente del primo anno fabbrica tutti i componenti necessari e li assembla. Secondo la scuola, mettere velocemente in pratica i corsi di base, per esempio sulle tecniche di segatura, taglio e tornitura, e creare da zero i componenti funzionali favorisce il talento individuale ed è fonte di orgoglio per i ragazzi, che hanno la sensazione di aver portato a termine il lavoro. A volte, alcuni studenti del secondo anno aggiungono anche complicazioni o elementi decorativi ai loro orologi."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e325f5d6-d2fa-5796-941e-b82a72653f16",
+                  "componentName": "Quote",
+                  "dataSource": "{BBCB4FA9-FD08-54DA-BD3B-4B4D6D01109A}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Non è un lavoro, è uno stile di vita."
+                    },
+                    "author": {
+                      "value": "Herman Mayer, direttore del Lititz Watch Technicum"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "8f2f1d3a-2675-51eb-b8db-19b46454cbae",
+                  "componentName": "SimpleText",
+                  "dataSource": "{4827B5B5-50C0-5E8B-90CE-5F0F2D51ED1D}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Per Ben Kuriloff, studente del secondo anno, l’orologio che ha fabbricato è il pezzo forte del suo primo anno: “Anche se il professore era presente per aiutarci e rispondere alle nostre domande, siamo stati noi a portare avanti il progetto e abbiamo dovuto arrangiarci. Che soddisfazione vedere il proprio orologio terminato e funzionare per la prima volta, nel rispetto di tutti i criteri! E sappiamo di esserci riusciti grazie alle nostre competenze”, aggiunge. I risultati di questi progetti sono straordinariamente riusciti e molti ragazzi indossano con orgoglio il loro orologio al polso. Uno studente ha messo a punto un movimento tanto degno di nota, sia tecnicamente sia esteticamente, che la Federazione dell’industria orologiera svizzera ha deciso di esporlo a Baselworld, la grande kermesse annuale dell’orologeria. Tra i progetti è prevista anche la realizzazione di un orologio da parete. “I voti che assegniamo agli studenti non sono dati in funzione dell’orologio realizzato bensì del cammino percorso”, spiega Gary Biscelli, uno dei professori."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "bd03258e-41db-5f8b-806d-26204804f476",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{3A97A017-D382-5002-B528-16F4AACCB91E}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "small"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/science/an-education-in-precision/desktop_0006.jpg"
+                    },
+                    "legend": {
+                      "value": "Gli studenti del secondo anno lavorano sui movimenti e imparano a valutare e a sottoporre a manutenzione tutti i componenti di un orologio."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fb143376-3b17-5dfd-8343-24622cd8974a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{08F2C3F7-BA3D-5DF4-A537-AB2EDF78EE10}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Una qualità riconosciuta"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Il Lititz Watch Technicum presenta tutti i vantaggi di una prestigiosa scuola di orologeria svizzera di tradizione. In questi ultimi anni si è aggiunto un ulteriore vantaggio, con la possibilità di seguire la filiera di studi certificata dalla Swiss American Watchmakers Training Alliance (SAWTA) che, oltre ai corsi sull’arte dell’orologeria, si focalizza sulle relazioni con la clientela e sulla gestione dei componenti. L’American Watchmakers-Clockmakers Institute (AWCI) ne garantisce il controllo in modo indipendente. Ovviamente, tutti gli studenti ambiscono a un posto di lavoro presso un rivenditore Rolex, ma il loro principale obiettivo rimane quello di costruire solide basi per poter entrare nel mondo del servizio post-vendita di alto livello. Al primo piano del Technicum si trova il centro di assistenza Rolex. Nei laboratori inondati di luce passano migliaia di orologi l’anno, sia modelli storici del dopoguerra che orologi più recenti ad alto contenuto tecnico. Questo centro, nonostante si trovi all’interno della scuola, funziona in modo totalmente autonomo. Un esempio da seguire per gli studenti. <br><br>Il Lititz Watch Technicum concilia i rigorosi criteri di Rolex e i bisogni del mercato americano in evoluzione. Per Herman Mayer non vi sono dubbi: il futuro si annuncia radioso per il Technicum e i suoi studenti. “La cosa bella di questo mestiere è che è infinito”, dice sorridendo."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "29d5dc50-37cc-50b5-9426-5084b0eab716",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "b3d9644e-0fb5-4955-bc9c-193904a269fa",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{43F87EA7-D575-42B4-9C68-876578572F0F}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Articoli correlati"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "d068ba32-aaa5-5f16-8fec-696bf4d68378",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "chasing-the-secrets-of-the-universe"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Alla scoperta dei segreti dell’universo - Scienza"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "L’obiettivo comune dell’eccellenza ha creato un legame tra Rolex e il laboratorio europeo di fisica nucleare CERN sin dalla fine degli anni ’50."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 52s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/science/chasing-the-secrets-of-the-universe/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Chasing the secrets of the universe - Science"
+                          },
+                          "metadescription": {
+                            "value": "L’obiettivo comune dell’eccellenza ha creato un legame tra Rolex e il laboratorio europeo di fisica nucleare CERN sin dalla fine degli anni ’50."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "a4b759d7-f88a-556c-a54c-5988786e10ef",
+                            "url": "/Content/Category/Innovation",
+                            "fields": {
+                              "name": {
+                                "value": "Innovation"
+                              },
+                              "dictionaryKey": {
+                                "value": "innovation"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Alla scoperta dei segreti dell’universo"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/science/chasing-the-secrets-of-the-universe/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Scienza e salute"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "52426979-96e6-5633-ad97-8c574015d1b6",
+                        "fields": {
+                          "pageClass": {
+                            "value": "rlxr-page-raefinalist"
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Grégoire Courtine - Aiutare i paralitici a tornare a camminare - Rolex.org"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Secondo il ricercatore Grégoire Courtine, un danno alla spina dorsale non sarà più un ostacolo per continuare a camminare. Scopri come il suo “ponte” neuroprotesico stia aiutando pazienti paralitici a camminare di nuovo."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 48s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/gregoire-courtine/update/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Gregoire Courtine - Help paralysed people walk again - Rolex.org"
+                          },
+                          "metadescription": {
+                            "value": "Secondo il ricercatore Grégoire Courtine, un danno alla spina dorsale non sarà più un ostacolo per continuare a camminare. Scopri come il suo “ponte” neuroprotesico stia aiutando pazienti paralitici a camminare di nuovo."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "250"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Aiutare i paralitici a tornare a camminare"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/gregoire-courtine/update/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Scienza e salute"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "6fa80bc3-5360-5f1e-923c-0254170120fd",
+                        "fields": {
+                          "pageClass": {
+                            "value": "rlxr-page-raefinalist"
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Effettuare test rapidi per la malaria senza campioni di sangue - Rolex Awards"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Lo specialista IT ugandese Brian Gitta ha sviluppato un dispositivo trasportabile che rileva la malaria senza campioni di sangue. Scopri di più su questa innovativa tecnologia medica."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 29s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/brian-gitta/update/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rapid malaria testing with no blood sample - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Lo specialista IT ugandese Brian Gitta ha sviluppato un dispositivo trasportabile che rileva la malaria senza campioni di sangue. Scopri di più su questa innovativa tecnologia medica."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": ""
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Effettuare test rapidi per la malaria senza campioni di sangue"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/brian-gitta/update/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Scienza e salute"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "0ce46e5d-508e-5191-9993-3ff28b6e211b",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{36BACF51-D04C-504B-984C-80628A3F086C}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/perpetual"
+                    },
+                    "anchorText": {
+                      "value": "Scopri"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/rolex_org_perpetual_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "La nostra visione fondatrice"
+                    },
+                    "title": {
+                      "value": "Perpetual"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d2dd88ec-f334-5d19-8112-57d67b13d8d6",
+                  "componentName": "Sharing",
+                  "dataSource": "{5413E218-2FBE-59BD-B5DE-ABEA1AB0A425}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8f6f9643-21c8-4a85-a994-c96501b821cd",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "7ea9e210-0755-43a5-8604-532cea50ba3b",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "d6c1927c-99c4-4b86-bfd4-9955951f178b",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa di Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dopo una serie di spedizioni rischiose, l’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Con il sostegno di Rolex, Boyes sta utilizzando questa scoperta per garantire una protezione concreta a questa zona di vitale importanza."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Proteggere l’acqua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Esplorazione"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e la spedizione sul fiume Kasai - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, che mirano a proteggere la sicurezza idrica nel continente africano, l’ambientalista e partner dell’Iniziativa Perpetual Planet di Rolex Steve Boyes ha localizzato un’importante sorgente del fiume Congo negli altipiani dell’Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, l’ambientalista Steve Boyes ha condotto ricerche sul fiume Kasai, un’importante sorgente del fiume Congo. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il fiume Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e il fiume Lungué‑Bungo - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene le spedizioni Great Spine of Africa, che attraversano migliaia di chilometri di fiumi mai documentati prima d’ora. Queste ricerche contribuiranno a proteggere le comunità e la fauna selvatica che dipendono dai grandi fiumi d’Africa."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene la spedizione di Steve Boyes mirata a studiare il fiume Lungué‑Bungo, finora inesplorato. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il possente fiume Zambesi e i suoi segreti"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il premio Rolex National Geographic Explorer of the Year è un riconoscimento assegnato a esploratori il cui impegno per un pianeta perpetuo contribuisce a far luce su importanti questioni, scoperte e sfide che la Terra si trova ad affrontare."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Scopri il vincitore del Rolex National Geographic Explorer of the Year 2019 e il suo impegno per un pianeta perpetuo: il team dell’Okavango Wilderness Project."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il biologo marino colombiano Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia del delfino rosa del Rio delle Amazzoni e dell’ecosistema fluviale in cui vive."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Il biologo marino Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia dei delfini del Rio delle Amazzoni. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: un amore per i delfini di fiume"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

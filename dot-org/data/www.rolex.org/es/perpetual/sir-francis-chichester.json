@@ -1,0 +1,2447 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "es",
+      "wa": {
+        "contentTag": "perpetual",
+        "pageType": "article page",
+        "pageSiteSection": "perpetual",
+        "pageSiteSubSection": "sir-francis-chichester",
+        "environmentName": "production",
+        "pageName": "perpetual:sir-francis-chichester",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2019-08-08T16:19:36Z",
+        "dateModified": "2021-05-11T08:35:23Z"
+      }
+    },
+    "route": {
+      "name": "sir-francis-chichester",
+      "displayName": "sir-francis-chichester",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "sir-francis-chichester"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Sir Francis Chichester - La hora de las inmensidades del mar"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Pocas personas representan el espíritu audaz que ha marcado la historia de la vela como Sir Francis Chichester. Su vuelta al mundo en solitario de 1966 a 1967 trazó el rumbo para las posteriores generaciones de regatistas."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3 min 20 s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/sir-francis-chichester/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Sir Francis Chichester - Time on the high seas"
+        },
+        "metadescription": {
+          "value": "Descubra la increíble odisea de Sir Francis Chichester alrededor del mundo en tiempo récord y cómo dejó su huella en la historia de la vela."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "perpetual"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+          "url": "/Content/Hub/perpetual",
+          "fields": {
+            "name": {
+              "value": "perpetual"
+            },
+            "dictionaryKey": {
+              "value": "all-perpetual"
+            },
+            "url": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1": {
+          "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+          "url": "/Content/Category/Perpetual",
+          "fields": {
+            "name": {
+              "value": "Perpetual"
+            },
+            "dictionaryKey": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2050"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Sir Francis Chichester - La hora de las inmensidades del mar"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/sir-francis-chichester/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Océanos"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "d95b0c1a-60de-5d29-96c3-59691ccec0a7",
+      "itemLanguage": "es",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "361abcce-7849-5861-b989-2a11b543f356",
+                  "componentName": "Cover",
+                  "dataSource": "{7512DB33-1655-5CC5-B05C-ECFF1D6E8349}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_cover_0001_1920x1080.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:03min"
+                    },
+                    "title": {
+                      "value": "La hora de las inmensidades del mar"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_cover_0001_1920x1080_portrait.jpg"
+                    },
+                    "date": {
+                      "value": "2015"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": "Sir Francis Chichester"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "35e19979-5e07-5062-a134-d17dc2871ef1",
+                  "componentName": "ImageTextBackground",
+                  "dataSource": "{2C08965B-F2B0-5BAA-A5F0-D8DF4E7DA77F}",
+                  "params": {},
+                  "fields": {
+                    "author": {
+                      "value": ""
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_Plymouth-Bay_1140x757.jpg"
+                    },
+                    "legend": {
+                      "value": "El <strong>28 de mayo de 1967</strong>, Francis Chichester llega a la bah&iacute;a de Plymouth a bordo del <em>Gipsy Moth IV</em>, tras haber dado la vuelta al mundo en solitario de oeste a este."
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_introduction_0001_1920x648.jpg"
+                    },
+                    "imageFirst": {
+                      "value": false
+                    },
+                    "imageMode": {
+                      "value": "landscape"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Sir Francis Chichester representa perfectamente el esp&iacute;ritu audaz propio de los apasionados del oc&eacute;ano. Este navegante dej&oacute; su huella en la historia de la vela realizando en 1966-1967 una vuelta al mundo en solitario que ha inspirado muchas vocaciones de patr&oacute;n. Entre sus instrumentos de navegaci&oacute;n figuraban un sextante y un Cron&oacute;metro Oyster Perpetual de Rolex.\n<p>por Pierre Chambonnet</p>"
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f39c8196-08ca-5dfc-b6af-175394ef919b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{96A3C12C-1634-57EF-9C71-5F98AD575796}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Brisa favorable del sudoeste y mar en calma. Esa tarde en el puerto de Plymouth la multitud s&iacute; que est&aacute; agitada. En los muelles de la ciudad inglesa, 250 000 almas alborozadas se han reunido este d&iacute;a hist&oacute;rico. En la ensenada, 300 barcos hacen sonar todas sus sirenas para rendir homenaje a un maestro del mar. En medio del gent&iacute;o, que le observa con avidez, un caballero de aspecto enclenque se muestra atareado, impasible, sobre la cubierta de un velero blanco de pintura desconchada. Diecis&eacute;is metros de caoba vuelven de las inmensidades del mar. Y dos m&aacute;stiles, a&uacute;n en pie, con velas recubiertas de suturas."
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0a4b76b9-ad89-5821-aea6-f1f4044fd19f",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{45A1FAEE-C37B-5C8F-A576-C853F87A98F9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": ""
+                    },
+                    "legend": {
+                      "value": "<b>3 cabos.</b> La primera circunnavegación en solitario rodeando los tres grandes cabos: Hornos, Leeuwin y Buena Esperanza. "
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_map_0001_1140x527_es.jpg"
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad598549-74f0-5576-825b-5482fba87853",
+                  "componentName": "SimpleText",
+                  "dataSource": "{941F9938-FFAC-50F4-B428-9B33EA8C0D7F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Un golpe de timón a estribor, el queche vira por avante. En el momento de concluir su odisea, la frágil silueta arría una a una las cuatro velas, con el respeto con el que se arría una bandera. Fin del viaje. Este 28 de mayo de 1967, sir Francis Chichester se ha convertido en el primer hombre en dar la vuelta al mundo de oeste a este en solitario a bordo de un barco de vela, con una sola escala. En total, 54 850 kilómetros y 226 días en el mar. Es el más rápido, hasta la fecha, en la cumbre de este Everest de los mares. En el cabo de Hornos afrontó ráfagas de viento de hasta 185 km/h y olas de 15 metros. ¿Sus herramientas de navegación esenciales a bordo? Tablas náuticas, un sextante y un reloj. Un Rolex Oyster Perpetual."
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9d004f46-e6a3-5182-bf53-be3d0b7b8e96",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{5DC920AB-2631-5E67-9FDF-3065AA9676CD}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_heros_welcome_1920x1277.jpg"
+                    },
+                    "legend": {
+                      "value": "<strong>Tras pasar 226 días en el mar y recorrer 54 850 kilómetros en la ruta de los clippers, Francis Chichester recibe una acogida triunfal.</strong> En su muñeca: un Rolex Oyster Perpetual."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6eeba0d5-ba7c-5729-9528-d0c8989fb9cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{19E0C554-D02B-5DEA-B2F4-147CF0614663}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "EL VIEJO Y EL MAR"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Al abordar la tradicional ruta de los <em>clippers</em> por los grandes cabos de los mares del sur &ndash;Buena Esperanza y Hornos a babor&ndash;, el navegante brit&aacute;nico acaba de cubrir la distancia en un tiempo apenas inferior al empleado por los grandes veleros del siglo precedente, que transportaban lana australiana, n&iacute;quel canaco y hasta t&eacute; chino. &Eacute;l solo a bordo del <em>Gipsy Moth IV</em>, un queche previsto en teor&iacute;a para una tripulaci&oacute;n de ocho personas, alcanz&oacute; la ilustre clase de tres y cuatro m&aacute;stiles, barcos ultrarr&aacute;pidos maniobrados por una cincuentena de hombres..."
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "79f5e8cf-84e8-56c7-aee8-39c20eebd4f5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{DABAA44F-089F-5AF3-9089-531ECBF48B5F}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_portrait_0001_1140x757.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1f1d04a0-cde7-5b62-8d2d-545faee6c6e5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{12F1E21A-DF88-5842-9243-D4BF32B95550}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Y algo a&uacute;n m&aacute;s dif&iacute;cilmente concebible: este ingl&eacute;s que acaba de batir varios r&eacute;cords importantes tiene 65 a&ntilde;os. Esta prueba, en solitario, habr&iacute;a agotado a cualquier otra persona con la mitad de su edad. Chichester, adem&aacute;s, hab&iacute;a empezado a navegar menos de diez a&ntilde;os atr&aacute;s. Este hombre hecho a s&iacute; mismo que hab&iacute;a ejercido todos los oficios o casi &ndash;agente inmobiliario que se convertir&iacute;a en aviador, carnicero que se convertir&iacute;a en navegante&ndash; dirig&iacute;a una sociedad de cartograf&iacute;a antes de levar anclas."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "d3cb1e62-00e4-5017-ad92-bda88561e1c2",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{01C6EF4B-03D8-5DE5-BC63-767813488856}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "small"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_cover-magazine-life_0001_1140x1530.jpg"
+                    },
+                    "legend": {
+                      "value": "<strong>La revista estadounidense <i>Life</i> celebra la hazaña de Francis Chichester</strong> consagrándole su portada del 9 de junio de 1967, tras haber completado 12 días antes la primera navegación en solitario con velero, rodeando los tres grandes cabos: el cabo de Buena Esperanza, el cabo Leeuwin y el cabo de Hornos."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e6a83546-8108-52d4-abc5-76adfbcbb728",
+                  "componentName": "SimpleText",
+                  "dataSource": "{90EEEFFB-262B-5A5F-BD04-D0B9D8C68F34}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ocho a&ntilde;os antes ya hab&iacute;a superado un temible obst&aacute;culo, reponi&eacute;ndose de una larga enfermedad que casi se lo lleva. &laquo;Un impulso irresistible&raquo; lo lleva a embarcarse solo en esta circunnavegaci&oacute;n, unas ganas de aventura tan potentes como los vientos de los mares del sur. Algunas semanas despu&eacute;s de su regreso y con la espada que hab&iacute;a servido para ennoblecer al corsario Francis Drake cerca de cuatrocientos a&ntilde;os antes, la reina nombrar&aacute; caballero a Francis Chichester por su logro."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "18fbb277-f6e9-5166-b75e-abac12713d52",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{8DA07028-92EC-5EB4-8A1E-0170340D4D87}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": "Francis Chichester <br />\n<em>Gipsy Moth circles the world</em>"
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "No pod&iacute;a evitar los nervios al acercarme a tierra fi&aacute;ndome de la navegaci&oacute;n astron&oacute;mica. [&hellip;] Supongamos hubiera un error importante en las observaciones astron&oacute;micas, la lectura del sextante, o en la medida del tiempo, de mi reloj, de las tablas, del almanaque..."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_feeling_nervy_1920x128_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_feeling_nervy_1920x1283.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "cee31833-30d1-51ce-8050-1ead660bb3f2",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1FD9734A-0621-5AE5-B6F6-5734F160A364}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "UN OYSTER PERPETUAL COMO GU&Iacute;A"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Sir Francis, el m&aacute;s grande de los navegantes de su generaci&oacute;n, es un h&eacute;roe de otro tiempo. Un tiempo en que no hab&iacute;a sofisticados dispositivos electr&oacute;nicos a bordo: ni radar, ni GPS, ni tel&eacute;fono v&iacute;a sat&eacute;lite. La navegaci&oacute;n se llevaba a cabo esencialmente con el sextante y el reloj. Para tener &eacute;xito en su aventura, era vital para &eacute;l poseer un instrumento de medida del tiempo preciso, fiable y robusto, sin el cual hubiera navegado ciego, incapaz de determinar su posici&oacute;n exacta. Con su Oyster en la mu&ntilde;eca y el sextante en la mano, Francis Chichester estaba bien equipado para orientarse en el mar. El ejercicio exig&iacute;a definir la hora con una precisi&oacute;n extrema, gracias a un cron&oacute;metro de marina situado en el interior del barco, cerca de la mesa de cartas. Para la navegaci&oacute;n en solitario, los navegantes prefer&iacute;an llevar la hora permanentemente con ellos, para no tener que desplazarse desde la cubierta hasta la cabina (del sextante al cron&oacute;metro) y arriesgarse a obtener una lectura imprecisa de la posici&oacute;n."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "98b844ad-e2f0-5ba7-8132-d65e41a3ee2b",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F9FF9D34-49A3-5D7A-ABF2-8049837F1BA9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_Watch_1140x757.jpg"
+                    },
+                    "legend": {
+                      "value": "<strong>Después de dar la vuelta al mundo, el Rolex Oyster Perpetual de Francis Chichester</strong> está en perfecto estado de funcionamiento. Su boletín de revisión indica: «Estanqueidad excelente, amplitud del volante normal. […] Movimiento limpio y en buen estado»."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "906bc6de-7e45-5952-96a5-0b110bae68f5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{0AF5806B-DB1E-50FD-A6B4-4129EC82F413}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "El hecho de que Francis Chichester eligiera un Rolex, uno de los signos distintivos de los grandes profesionales del mar, no carece de importancia. Unos cincuenta a&ntilde;os antes de su vuelta al mundo, en 1914, el Observatorio de Kew, en Gran Breta&ntilde;a, hab&iacute;a concedido por primera vez el prestigioso certificado de cron&oacute;metro de clase &laquo;A&raquo; a un reloj de pulsera. Un Rolex. Hasta entonces, el exigente certificado, prueba de m&aacute;xima precisi&oacute;n, hab&iacute;a estado reservado a los imponentes cron&oacute;metros de marina. Al menos a aquellos que superaban las pruebas, extremadamente rigurosas y exigentes. Gracias a su logro, Rolex se convertir&iacute;a en el mayor fabricante del mundo de relojes de pulsera con certificado de cronometr&iacute;a, instrumentos con la precisi&oacute;n necesaria para navegar por el mar y de una fiabilidad legendaria, protegidos por la caja herm&eacute;tica Oyster. &laquo;Durante mi viaje alrededor del mundo a bordo del <em>Gipsy Moth IV</em>, mi reloj Rolex sufri&oacute; en numerosas ocasiones golpes violentos, sin resultar da&ntilde;ado &ndash;escribi&oacute; Chichester en una carta en 1968&ndash;. No puedo imaginarme un reloj m&aacute;s robusto. Cuando lo utilizaba para establecer mi posici&oacute;n en el mar con ayuda de mi sextante a menudo sufr&iacute;a las sacudidas y mojaduras de las olas que romp&iacute;an sobre la cubierta, cosa que nunca pareci&oacute; afectarle&raquo;. Este reconocimiento cobra todav&iacute;a m&aacute;s valor al venir de un hombre discreto, encarnaci&oacute;n misma del <em>understatement</em> brit&aacute;nico."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3b440c18-b423-52dd-badf-bc6a244ba95b",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{8BD2692E-6798-5522-8180-D796FA0523A4}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/sir-francis-chichester/rolex_chichester_on_his_boat_1140x757.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "bee59999-aa39-52fb-8b97-fcb0939292a4",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FA32D59D-02BD-5BC5-8E42-6235EDDCA3AF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Con su Oyster, sir Francis Chichester llev&oacute; a cabo una gran haza&ntilde;a. &iexcl;Y adem&aacute;s con estilo! Como esta tarde de septiembre, en pleno oc&eacute;ano Atl&aacute;ntico. Bien afeitado, como todas las ma&ntilde;anas, el navegante celebra en solitario sus 65 a&ntilde;os, vestido de esmoquin y bebiendo champagne. En su mu&ntilde;eca, el Rolex que le acompa&ntilde;a sobre la cubierta y bajo la bruma y que no le ha fallado nunca."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "34b44a7b-bbad-52c1-b188-f70f35b3db4a",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "b029c07b-db1e-46a3-a0f2-53ad19c9612a",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{F369482A-CA90-4A88-B471-270B70A3CA40}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Artículos relacionados"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "723c69ec-f846-50dc-956f-3d3a7a29c451",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "trieste-the-deepest-dive"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "«Trieste»: La inmersión más profunda"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "En 1960, Jacques Piccard y Don Walsh navegaron el <em>Trieste</em> en un descenso al punto más profundo de la Tierra —una depresión de 10&nbsp;916&nbsp;metros (35&nbsp;800&nbsp;pies) de profundidad conocida como el abismo Challenger."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 56s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Trieste: The deepest dive"
+                          },
+                          "metadescription": {
+                            "value": "En 1960, Jacques Piccard y Don Walsh navegaron el <i>Trieste</i> en un descenso al punto más profundo de la Tierra —una depresión de 10&nbsp;916&nbsp;metros (35&nbsp;800&nbsp;pies) de profundidad conocida como el abismo Challenger."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1100"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "«Trieste»: La inmersión más profunda"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d7655ec1-74af-5922-8b13-cfa9e6f1131f",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "built-to-last"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Creados para perdurar - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "«Perpetual». Esa es la palabra grabada en cada esfera de un Oyster. En la actualidad significa mucho más que un movimiento automático de un reloj."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 3 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Built to last - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "«Perpetual». Esa es la palabra grabada en cada esfera de un Oyster. En la actualidad significa mucho más que un movimiento automático de un reloj."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2300"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1700"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Creados para perdurar"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "7580b1cb-11b6-5ac0-96ad-9ee70c2470d3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "making-history-with-rolex"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Haciendo historia con Rolex - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "La historia de Rolex está íntimamente relacionada con el el logro humano. Hans Wilsdorf, fundador de la marca, vio un beneficio mutuo en equipar con un reloj Oyster a personas que han batido un récord: la primera de una larga lista de atletas y exploradores fue Mercedes Gleitze, la primera mujer británica en cruzar el canal de la Mancha a nado."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3 min 3 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Making history with Rolex - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "La historia de Rolex está íntimamente relacionada con el el logro humano. Hans Wilsdorf, fundador de la marca, vio un beneficio mutuo en equipar con un reloj Oyster a personas que han batido un récord: la primera de una larga lista de atletas y exploradores fue Mercedes Gleitze, la primera mujer británica en cruzar el canal de la Mancha a nado."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1600"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Haciendo historia con Rolex"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "8a429d24-5d96-5ab9-a14b-5e96e9e759d1",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{36BACF51-D04C-504B-984C-80628A3F086C}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/perpetual"
+                    },
+                    "anchorText": {
+                      "value": "Descubrir"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/rolex_org_perpetual_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Nuestro espíritu fundador"
+                    },
+                    "title": {
+                      "value": "Perpetual"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "db3b7c44-d0fd-58cc-a2df-4a108b33147c",
+                  "componentName": "Sharing",
+                  "dataSource": "{E64B528B-4D2F-5480-83DC-F58D5120BDED}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "464e4e25-d892-40a2-bea2-4acadfb1c6c5",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "2d83ad05-67c3-458c-954b-d4ad08dd784e",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Tras muchas expediciones peligrosas, el explorador Steve Boyes y su equipo han demostrado que las tierras altas de Angola son la fuente del gran río Zambeze. Con el apoyo de Rolex, está utilizando estos hallazgos para garantizar protecciones reales para esta zona vital."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "El explorador Steve Boyes y su equipo han demostrado que las tierras altas de Angola son la fuente del gran río Zambeze. Descubra más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "La protección de nuestra agua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Exploración"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Expedición al río Kasai de Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "En el marco de las expediciones Great Spine of Africa, cuyo objetivo es proteger la seguridad de los recursos hídricos del continente, el conservacionista y socio de la Iniciativa Perpetual Planet de Rolex Steve Boyes ha seguido el rastro de uno de los principales suministros del río Congo llegando hasta las tierras altas de Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 60 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "En el marco de las expediciones Great Spine of Africa, el conservacionista Steve Boyes estudió el río Kasai, uno de los principales suministros del río Congo. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "El río Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes y el río Lungwebungu - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "A través de su Iniciativa Perpetual Planet, Rolex apoya las expediciones Great Spine of Africa que atraviesan miles de kilómetros de ríos, nunca antes documentados científicamente. La investigación protegerá a las comunidades y la fauna que dependen de los grandes ríos de África."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 26 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "A través de su Iniciativa Perpetual Planet, Rolex apoya a Steve Boyes en su expedición para estudiar el inexplorado río Lungwebungu. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "El caudaloso río Zambeze y sus secretos"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 - Okavango Wilderness Project Team"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "El premio Rolex National Geographic Explorer of the Year reconoce a un explorador cuyo compromiso con un planeta perpetuo proyecta una luz crítica sobre cuestiones importantes, descubrimientos y retos a los que se enfrenta nuestro planeta."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Descubra el Rolex National Geographic Explorers of the Year de este año: el Okavango Wilderness Team y su proyecto comprometido con un planeta perpetuo.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 - Okavango Wilderness Project Team"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year de 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "El biólogo marino colombiano Fernando Trujillo es el Rolex National Geographic Explorer of the Year de 2024 por su trabajo protegiendo a los delfines rosados del Amazonas y al sistema fluvial donde habitan."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "El biólogo marino Fernando Trujillo es el Rolex National Geographic Explorer of the Year de 2024 por su trabajo protegiendo a los delfines rosados del Amazonas. Más en rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: Por amor a los delfines de río"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Medio ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

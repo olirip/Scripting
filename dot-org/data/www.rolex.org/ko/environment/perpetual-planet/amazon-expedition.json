@@ -1,0 +1,2666 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "ko",
+      "wa": {
+        "contentTag": "exploration",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "perpetual-planet",
+        "environmentName": "production",
+        "pageName": "environment:perpetual-planet:amazon-expedition",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/long-film/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-long-film"
+      ],
+      "item": {
+        "datePublished": "2023-06-06T10:46:41Z",
+        "dateModified": "2023-06-14T09:19:03Z"
+      }
+    },
+    "route": {
+      "name": "amazon-expedition",
+      "displayName": "amazon-expedition",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "perpetual-planet"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "롤렉스와 내셔널 지오그래픽 퍼페츄얼 플래닛 아마존 탐험"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "명성 높은 내셔널 지오그래픽 탐험가 겸 사진작가인 토마스 페샤크(Thomas Peschak)는 평생 광활한 대양과 해양 환경의 아름다움을 기록으로 담아냈습니다."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3분 50초"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thumbnail-article.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex and National Geographic Perpetual Planet Amazon Expedition"
+        },
+        "metadescription": {
+          "value": "롤렉스와 내셔널 지오그래픽은 파트너십을 통해 2년간 아마존강 유역을 아우르는 과학 연구를 지원합니다. rolex.org에서 자세히 보기"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "21"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "안데스 산맥에서 대서양까지"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thumbnail-article.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "환경"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "349d14f4-0ed0-4a33-b47c-da5b3eadcf62",
+      "itemLanguage": "ko",
+      "itemVersion": 31,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "82d038b8-821b-5de2-96ec-4ad3f0e8b4ba",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{B5AA4E8E-C7F2-4238-AE6A-50326ABA89D3}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/autoplay/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/autoplay/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "85vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/autoplay/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "안데스 산맥에서 대서양까지"
+                    },
+                    "subtitle": {
+                      "value": "롤렉스와 내셔널 지오그래픽 퍼페츄얼 플래닛 아마존 탐험"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/autoplay/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-autoplay-posterframe-portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "887df2e3-e3e8-4e43-94c4-87f9dbb295f7",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{07FB0076-58CC-426E-AECF-B9D2973DCEB8}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/environment/perpetual-planet/from-the-andes-to-the-atlantic/long-film/rolex-org-environment-perpetual-planet-from-the-andes-to-the-atlantic-long-film.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#214932"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#5B7C45"
+                    },
+                    "time": {
+                      "value": "3분 39초"
+                    },
+                    "date": {
+                      "value": "2023년 6월"
+                    },
+                    "text": {
+                      "value": "<b>명성 높은 내셔널 지오그래픽 탐험가 겸 사진작가인 토마스 페샤크(Thomas Peschak)는 평생 광활한 대양과 해양 환경의 아름다움을 기록으로 담아냈습니다. 그는 작년 롤렉스 퍼페츄얼 플래닛 이니셔티브와 내셔널 지오그래픽 협회의 지원을 받아 아마존 열대우림의 담수를 탐험했습니다.</b>"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-posterframe.jpg"
+                    },
+                    "logoAlt": {
+                      "value": "logo natgeo"
+                    },
+                    "logoSrc": {
+                      "value": "/data/media/img/static/logo_rolex_and_natgeo_light.svg"
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "84cdfda3-bd87-48ab-a608-1df6012c515f",
+                  "componentName": "TextSection",
+                  "dataSource": "{60FD70DF-B8EF-4724-B54F-18D0CA39F77E}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "아마존 유역"
+                    },
+                    "title": {
+                      "value": "지구의 심장을 탐험하다"
+                    },
+                    "text": {
+                      "value": "2022년 4월, 롤렉스 퍼페츄얼 플래닛 이니셔티브와 내셔널 지오그래픽 협회는 2년간 아마존 유역을 아우르는 과학적 연구인 퍼페츄얼 플래닛 아마존 탐험을 시작했습니다. “지구의 심장”과도 같은 이곳은 생물 다양성이 풍부한 지역으로, 3백만여 종의 동식물, 그리고 4천만 명의 보금자리입니다. 이 지역의 강들은 지구에서 가장 많은 양의 빗물을 흘려보냅니다. 아마존강과 그 지류는 수자원 순환을 통해 인근 지역에 양분을 공급할 뿐 아니라 지구 전체에도 영향을 줍니다.<br><br>\r\n수상 경력에 빛나는 야생동물 사진작가이자 내셔널 지오그래픽 탐험가인 토마스 페샤크는 롤렉스와 내셔널 지오그래픽 퍼페츄얼 플래닛 아마존 탐험의 일환으로 아마존 유역을 연구하는 내셔널 지오그래픽 탐험가 및 다양한 분야의 과학자로 구성된 7개 팀과 함께했습니다. 이들은 아마존을 보금자리로 삼은 현지 및 원주민 공동체와 손을 잡고 이곳의 복잡한 수상 생태계와 지구의 핵심과도 같은 생명력을 품은 공간으로서의 역할을 이해하고자 합니다."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "6b86d554-ebfa-40df-ac90-6e2e2abe14d3",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E61FA799-CE8F-4CE2-BB7C-47B922189E19}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thomas-peschak_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thomas-peschak.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3f8a8563-1896-43a0-be42-bea6981cfaa8",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D493321E-EBF2-46EB-82B5-F225C4503ADE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "해양생물학자로서 커리어를 시작했던 페샤크는 메시지를 전달하고 공감을 불러일으키는 스토리와 이미지의 영향력을 깨달으면서 사진 보도 부문으로 전환하게 되었습니다. 그는 많은 이들의 심금을 울리는 사진을 통해 더욱 많은 이들에게 과학적인 발견을 소개한다는 점에서 아마존 유역의 이야기를 전할 완벽한 인물로 낙점되었습니다. 해양 야생동물을 촬영했던 경험을 발판 삼아, 이제 나무가 울창한 열대우림의 물속을 향합니다. “지금까지 익숙했던 상어, 고래, 바다거북 대신에 아나콘다, 피라냐, 나무늘보와 함께하는 거죠.” 그는 이렇게 전합니다.<br><br>\r\n\r\n일반적으로 아마존에 대한 토론에서 주로 화두로 등장하는 것은 열대우림이지만, 산림 파괴는 단순히 수목 한계선에만 영향을 미치는 것은 아닙니다. 수상 생태계는 숲의 생명선과 같은 존재인 만큼, 생태학, 생물학, 수문학, 기후학, 지질학, 지구 화학을 비롯한 다양한 분야의 전문가로 구성된 팀은 아마존의 수로에 집중하고자 합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6ef172fb-50a9-44eb-aa53-38efbfb24261",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{BC8F891E-A63A-4C60-976D-FFA54E28D5CD}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "top"
+                    },
+                    "name": {
+                      "value": "토마스 페샤크"
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "탐험팀은 안데스 산맥 꼭대기부터 대서양과 맞닿은 아마존강 하구 곳곳의 장소를 연구할 것입니다. 이를 통해 기후 변화, 산림 파괴, 생물 다양성 소실이 열대우림의 수자원에 어떤 영향을 미치는지에 대한 가장 중대한 과학적 의문에 답할 수 있을 것입니다."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thomas-peschak-quote_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-thomas-peschak-quote.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "3d1985c0-aa50-416f-8035-85a1500f3f6b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1186FEEA-B435-42FE-88C3-607D9C89BD6E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "페샤크는 이렇게 말합니다. “페루 지역 빙하에 쌓이는 눈부터 아마존 유역에 사는 사람들의 생계를 책임지는 어장에 이르기까지, 탐험팀은 안데스 산맥 꼭대기부터 대서양과 맞닿은 아마존강 하구 곳곳의 장소를 연구할 것입니다. 이를 통해 기후 변화, 산림 파괴, 생물 다양성 소실이 열대우림의 수자원에 어떤 영향을 미치는지에 대한 가장 중대한 과학적 의문에 답할 수 있을 것입니다.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9c993fb1-4e99-42e7-b4fe-705ef10c4b72",
+                  "componentName": "TextSection",
+                  "dataSource": "{BA7CB580-F60F-406A-B9AC-031A51A57C2F}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "아마존 유역"
+                    },
+                    "title": {
+                      "value": "지금까지의 탐험: 연구 & 결과"
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "eb1a2cd3-eb08-42e2-a8f5-29fc48bac1a4",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6B0C485D-9CC8-47BD-A24D-A2BF0F85072A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-baker-perry-tom-matthews_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-baker-perry-tom-matthews.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "359f1b41-17e1-4528-93c1-a42602368463",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C1901219-C49C-4B66-9628-0FEB28EF44E0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스와 내셔널 지오그래픽 퍼페츄얼 플래닛 아마존 탐험팀은 만 1년 동안 프로젝트를 추진해 왔고, 그중 다수는 이미 결과를 창출하기 시작했습니다.<br><br>\r\n내셔널 지오그래픽 탐험가 베이커 페리(Baker Perry)와 톰 매튜스(Tom Matthews)는 열대 안데스 산맥, 고도 6,349m 지점에 가장 높은 기상 관측소를 설립했습니다. 이는 아마존 대부분의 수원이기도 한 빌카노타 유역의 가장 높은 산인 네바도 아우상가테(Nevado Ausangate) 정상에서 단 35m 떨어진 지점에 해당합니다. 이곳 관측소에서는 아마존의 날씨 패턴에 대한 귀중한 실시간 데이터를 제공하여 기후 변화가 이 지역에 어떤 영향을 미치는지, 그리고 이 지역의 변화가 전 세계 기후에 어떤 영향을 미치는지 이해하는 데 기여합니다. “아마존은 대기의 순환, 특히 수자원 측면에서 영향을 미친다는 점에서 전 세계적으로 가장 중요한 지역으로 손꼽힙니다.” 페리는 이렇게 설명합니다. “남아메리카를 뛰어넘어 폭넓은 지역의 생태계, 사람, 빙하에 이르기까지 아마존이 대단한 영향을 미친다는 점을 실감하게 되죠.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ea66e32f-ab54-44a6-862c-78292a3e93a1",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{B090F574-0396-491C-8E31-661C0EDC6C0F}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "middle"
+                    },
+                    "name": {
+                      "value": "베이커 페리"
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "남아메리카를 뛰어넘어 폭넓은 지역의 생태계, 사람, 빙하에 이르기까지 아마존이 대단한 영향을 미친다는 점을 실감하게 되죠."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-baker-perry-quote_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-baker-perry-quote.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "93e63d69-9076-4ff4-b8e4-bed42080b88e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{49BA01D0-12D8-4926-9A01-E658AEFCFA36}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "초기에 성과를 거둔 것은 이들뿐만이 아닙니다. 이 탐험은 수많은 발견과 세계 최초의 기록으로 가득합니다. 내셔널 지오그래픽 탐험가 안젤로 베르나르디노(Angelo Bernardino)는 담수 맹그로브림을 처음으로 기록했고, 롤렉스 어워드 수상자 주앙 캄포스-시우바(João Campos-Silva)와 동료 내셔널 지오그래픽 탐험가인 안드레사 스카빈(Andressa Scabin)은 최초로 세계에서 가장 거대한 민물고기인 아라파이마에 GPS(위치정보 시스템) 태그를 부착하였으며, 내셔널 지오그래픽 탐험가 페르난도 트루히요(Fernando Trujillo)는 4개국 1,270km에 이르는 강을 조사하여 해당 지역에 상징적인 1,366마리의 핑크 아마존강 돌고래가 서식한다는 점을 밝혀냈습니다. 또한 내셔널 지오그래픽 탐험가 티아고 시우바(Thiago Silva)는 최초로 아마존강의 범람원을 3D 모델로 구현하여 사람들이 온라인으로 직접 방문하고 탐험할 수 있는 상호작용적 환경을 만들고자 합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e87a6c50-19be-4241-82d6-cc4a22dc7d97",
+                  "componentName": "Roller",
+                  "dataSource": "{48E9EC10-6060-44F5-B951-77BD7719F88B}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "43898a7e-2833-4d29-b4fb-1642bb1ebaa2",
+                        "componentName": "RollerCard",
+                        "dataSource": "{4E4D1AFA-2C93-434E-9FBF-EE9198F00BDD}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/roller/rolex-org-environment-national-geographic-amazon-expedition-roller-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "내셔널 지오그래픽 탐험가 <b>안젤로 베르나르디노</b>는 담수 맹그로브림을 처음으로 기록했습니다."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "ca5e6428-f01b-4b38-a4ff-c1f6ca67ef1c",
+                        "componentName": "RollerCard",
+                        "dataSource": "{FB8E8485-94A2-4DFB-9926-89D32B24559F}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/roller/rolex-org-environment-national-geographic-amazon-expedition-roller-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "롤렉스 어워드 수상자 <b>주앙 캄포스-시우바</b>와 동료 내셔널 지오그래픽 탐험가인 <b>안드레사 스카빈</b>은 최초로 세계에서 가장 거대한 민물고기인 아라파이마에 GPS(위치정보 시스템) 태그를 부착하였습니다."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "c07bbdeb-076e-4bfd-8655-ddaf564c4c70",
+                        "componentName": "RollerCard",
+                        "dataSource": "{135946ED-C084-4F8C-BBE7-B03CC04176D7}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/roller/rolex-org-environment-national-geographic-amazon-expedition-roller-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "내셔널 지오그래픽 탐험가 <b>페르난도 트루히요</b>는 4개국 1,270km에 이르는 강을 조사하여 해당 지역에 상징적인 1,366마리의 핑크 아마존강 돌고래가 서식한다는 점을 밝혀냈습니다."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "eff589a3-e0f6-47bd-a52b-3e97437d15a9",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7358C0E2-360F-4356-B23E-6216F01F0BA6}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/roller/rolex-org-environment-national-geographic-amazon-expedition-roller-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "내셔널 지오그래픽 탐험가 <b>티아고 시우바</b>는 최초로 아마존강의 범람원을 3D 모델로 구현하여 사람들이 온라인으로 직접 방문하고 탐험할 수 있는 상호작용적 환경을 만들고자 합니다."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "cbac37c7-5069-4ff5-9d61-52df718c1384",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A63C292D-1889-4077-880B-98379767F613}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "이같은 결과는 단지 팀의 노력으로만 일궈낸 것이 아니라 현지 및 원주민과의 협업이 있었기에 가능했습니다. 캄포스-시우바는 말합니다. “아마존의 지속가능한 미래는 지역 주민을 중심으로 할 때만 가능합니다. 지역 주민들이 수천 년간 해왔던 보존 활동에 어떻게 함께할 수 있을지 물어봐야 하죠.” 탐험의 핵심 목표 중 하나는 원주민과 밀접하게 협업하는 것이었으며, 탐험 팀은 바로 이 목표를 달성해 냈습니다. 현지인들이 제공한 정보가 있었기에 베르다르디노와 내셔널 지오그래픽 탐험가 마가렛 오워(Margaret Owuor )는 맹그로브림을 발견해낼 수 있었고, 캄포스-시우바와 스카빈이 물고기들의 위치를 파악해 태그를 부착할 수 있었으며, 페리와 매튜스가 네바도 아우상가테 정상에 등반할 수 있었습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7419233f-1ccc-4654-a744-9db6c0fee106",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{AB06118D-BF90-4F5F-968C-18C5F6CBF905}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-collaborating-with-local-people_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-collaborating-with-local-people.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "3af11726-888e-4fc9-b072-473510c4f2f2",
+                  "componentName": "SimpleText",
+                  "dataSource": "{42D406AE-5BD1-46C0-8879-CBBAF82C1286}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "이들이 발견한 내용은 열대우림의 상태 전반에 영향을 미칠 것이며, 아직도 탐험이 끝나기까지는 절반의 여정이 남아 있습니다. “퍼페츄얼 플래닛 아마존 탐험을 통해 다양한 전공 및 연구 분야의 사람들이 함께하면서 더욱 풍성한 여정이 되었습니다.”라고 베르나르디노는 말합니다. 롤렉스와 내셔널 지오그래픽의 오랜 파트너십을 기반으로 한 지원을 통해, 탐험팀은 다양한 분야의 지식과 전문성을 결합하여 세계 최대 규모의 담수 유역에 끊임없이 생명력을 불어넣는 정교하고 복잡한 생태계의 비밀을 발견하고자 합니다. 페샤크는 과학자와 전문가로 이루어진 팀과 함께하며 발견해 낸 것들을 기록하고, 아마존을 바라보는 시각에 변화를 불러일으키고자 합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4d1d482b-5940-43b4-a648-efbe28d15412",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{DB099B97-31E6-4836-8488-5A249AF3375B}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-banner_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/from-the-andes-to-the-atlantic/rolex-org-environment-national-geographic-amazon-expedition-banner.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9141ef36-5327-4c57-b5d6-cd14e116306c",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "3a0e8750-13e9-447a-a2a2-f3a550325559",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{6366479B-6FF2-4DB4-BC4D-B2E34C482A80}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "관련 기사"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "f13a9464-3b47-4247-994f-5da3a85236d9",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "perpetual-planet"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스와 내셔널 지오그래픽 협회 - 페퍼츄얼 플래닛"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "롤렉스는 퍼페츄얼 플래닛(Perpetual Planet) 이니셔티브의 파트너인 내셔널 지오그래픽 협회(National Geographic Society)가 아마존강 유역에서 새롭게 착수해 2년간 진행하는 매우 중요한 연구를 지원합니다."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3분 42초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/amazon-rainforest-expeditions/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A Health report on the Amazon - Perpetual Planet"
+                          },
+                          "metadescription": {
+                            "value": "롤렉스는 내셔널 지오그래픽과 함께 세계 최대 규모의 우림을 보호하기 위해 아마존으로 떠나는 원정을 지원합니다. rolex.org에서 자세히 보기"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "880"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "건강한 아마존을 위한 노력 - 퍼페츄얼 플래닛"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/amazon-rainforest-expeditions/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "탐험"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d157a6b5-94e0-53de-85ca-57b3bb8ba9b3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "perpetual-planet"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스와 내셔널 지오그래픽 - 페퍼츄얼 플래닛"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "롤렉스와 내셔널 지오그래픽(National Geographic)은 우리의 세계를 발견하고 보호하기 위한 협력 관계를 이어오고 있습니다."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3분 42초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/rolex-and-national-geographic/img/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Rolex and National Geographic - Perpetual Planet"
+                          },
+                          "metadescription": {
+                            "value": "롤렉스와 내셔널 지오그래픽은 과학자들의 탐험을 지원하며 지구 환경을 보호하기 위해 노력합니다. 지구를 보존하기 위한 이들의 헌신에 대해 자세히 살펴보세요."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "870"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "롤렉스와 내셔널 지오그래픽 - 페퍼츄얼 플래닛"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual-planet/perpetual_planet_extreme_expeditions/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "탐험"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "75132546-c15f-5719-a25c-b1781c0bbd13",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mt-everest-sensors-new-insights-climate-change"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "기후 변화에 대한 새로운 관점을 제시할 에베레스트 산의 센서들"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "2019년 5월, 내셔널 지오그래픽(National Geographic)은 롤렉스와 맺은 퍼페츄얼 플래닛 파트너십의 일환으로 세계에서 가장 높은 에베레스트 산에 기상 관측소를 설치하기 위해 탐험대를 성공적으로 출범했습니다."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2분 54초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mt-everest-sensors-new-insights-climate-change/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Mt Everest sensors give new insights into climate change"
+                          },
+                          "metadescription": {
+                            "value": "퍼페츄얼 플래닛 파트너십의 일환으로 롤렉스와 내셔널 지오그래픽은 탐험대를 성공적으로 출범했습니다. 세계에서 가장 높은 산에 기상 관측소를 설치하기 위한 탐험대의 여정에 대해 자세히 알아보시기 바랍니다."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2500"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "기후 변화에 대한 새로운 관점을 제시할 에베레스트 산의 센서들"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mt-everest-sensors-new-insights-climate-change/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "환경"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "03539f88-66b9-4bcd-a6a2-a80727e98e3b",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "자세히 보기"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "퍼페츄얼 플래닛"
+                    },
+                    "title": {
+                      "value": "환경"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c201a95e-97d9-445c-9d2a-9773f958ce1c",
+                  "componentName": "Sharing",
+                  "dataSource": "{C7A7F3D0-AC13-441E-93A1-968992EE5D54}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1da6f7b0-3ed6-4fee-b07d-5d38a486af11",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈의 아프리카의 위대한 척추 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "수많은 위험한 탐험 끝에, 탐험가 스티브 보이즈(Steve Boyes)와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 증명했습니다. 롤렉스의 지원을 받은 그는 이러한 연구 결과를 바탕으로 이 중요한 지역에 대한 실질적인 보호 조치를 마련하고 있습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "탐험가 스티브 보이즈와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 밝혀냈습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "우리의 물 보호하기"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "탐험"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 카사이강 탐험"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 퍼페츄얼 플래닛 이니셔티브의 파트너이자 환경 보호 운동가인 스티브 보이즈(Steve Boyes)가 아프리카 대륙의 수자원을 보호하기 위한 아프리카 대하 탐험(Great Spine of Africa Expeditions)의 일환으로 콩고강의 수원을 찾아 앙골라 고원으로 향했습니다.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 24초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": ""
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "카사이강"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 렁웨봉구 강 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스는 퍼페츄얼 플래닛 이니셔티브를 통해 이전까지 과학적으로 기록된 적 없었던 수천 킬로미터의 강을 횡단하는 아프리카 대하 탐험(Great Spine of Africa expeditions)을 지원합니다. 이들의 연구는 아프리카의 거대한 강에 의존하는 사람들과 야생 동물들을 보호하는 데 도움이 될 것입니다 "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 26초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "롤렉스가 퍼페츄얼 플래닛 이니셔티브를 통해 아직 사람의 발길이 닿지 않은 렁웨봉구강을 연구하는 스티브 보이즈의 탐험을 지원합니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "거대한 잠베지강의 비밀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 내셔널 지오그래픽 올해의 탐험가(The Rolex National Geographic Explorer of the Year)는 환경 보존에 대한 기여를 바탕으로 지구의 중대한 문제와 도전과제 그리고 새로운 발견을 조명한 탐험가들을 위한 시상식입니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 3초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "2019년 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정된 오카방고 야생 프로젝트 팀(Okavango Wilderness Team)과 퍼페츄얼 플래닛을 향한 그들의 프로젝트에 대해 알아보시기 바랍니다.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024 롤렉스 내셔널 지오그래픽 올해의 탐험가 – 페르난도 트루히요"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "콜롬비아 출신의 해양 생물학자 페르난도 트루히요(Fernando Trujillo)가 아마존의 분홍강돌고래와 돌고래의 보금자리인 아마존강의 체계를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "해양 생물학자 페르난도 트루히요가 아마존강돌고래를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "페르난도 트루히요: 강돌고래를 위하여"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

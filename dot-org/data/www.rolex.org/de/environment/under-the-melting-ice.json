@@ -1,0 +1,2436 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "de",
+      "wa": {
+        "contentTag": "mountains-and-poles",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "under-the-melting-ice",
+        "environmentName": "production",
+        "pageName": "environment:under-the-melting-ice",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:16:50Z",
+        "dateModified": "2023-02-16T08:55:00Z"
+      }
+    },
+    "route": {
+      "name": "under-the-melting-ice",
+      "displayName": "under-the-melting-ice",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "under-the-melting-ice"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Unter schwindendem Polareis – Umwelt"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Ein Jahrhundert nachdem Forscher zum ersten Mal den Nordpol erreichten, drang das Team Deepsea Under The Pole in eine neue Dimension vor – die Tiefe. Deepsea Under The Pole by Rolex war eine bahnbrechende Expedition im Jahr 2010, die Einblicke in den unter Wasser liegenden Teil der Arktis verschaffen sollte. Bei Trekkingtouren auf Skiern und Tauchgängen in einem der rauesten Klimagebiete unseres Planeten führten die acht Expeditions­mitglieder wissenschaftliche Untersuchungen durch."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "7 min 17 s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/under-the-melting-ice/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Under the melting ice - Environment"
+        },
+        "metadescription": {
+          "value": "2010 führte Rolex eine bahnbrechende Expedition durch, die Einblicke in den unter Wasser liegenden Teil der Arktis verschaffen sollte. Erfahren Sie mehr auf rolex.org"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "6e293733-dc69-5d8f-a2e6-80aeacfb1cfb",
+          "url": "/Content/Category/Mountains-Poles",
+          "fields": {
+            "name": {
+              "value": "Mountains and Poles"
+            },
+            "dictionaryKey": {
+              "value": "mountains-and-poles"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2300"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Unter schwindendem Polareis"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/under-the-melting-ice/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Berge und Pole"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "a43bd860-8c49-58d2-9464-7cee7887bacf",
+      "itemLanguage": "de",
+      "itemVersion": 18,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "cbb8f975-1d70-5f50-910f-5e814f91d8b3",
+                  "componentName": "Cover",
+                  "dataSource": "{04E24ACD-1788-5E96-A093-F4FB58D5B4C1}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "Unter schwindendem Polareis"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": "5. März 2012"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": "Deepsea Under The Pole"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8ae2a920-3a16-5b8a-8705-0b0dcc257b0a",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{884A8B6A-A667-41F1-9D40-F1DF37617C19}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/environment/deep_sea_under_the_pole_exploration_2020-re-edit_v3.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#0A1E32"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": "#0A1E32"
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#0A1E32"
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>Deepsea Under The Pole by Rolex war eine bahnbrechende Expedition im Jahr 2010, die Einblicke in den unter Wasser liegenden Teil der Arktis verschaffen sollte. Bei Trekkingtouren auf Skiern und Tauchgängen in einem der rauesten Klimagebiete unseres Planeten führten die acht Expeditions­mitglieder wissenschaftliche Untersuchungen durch. </p>\r\n\r\n<p>Das Team sammelte einmaliges akustisches, fotografisches und filmisches Material einer verschwindenden Welt aus Schnee, Eis und einer einzigartigen und erstaunlich reichen Meeresfauna. Rolex war stolz, das Team auch 2017 bei der Expedition Under The Pole III zu unterstützen und so zu neuen Entdeckungen und zum weiteren Verständnis unseres Planeten beizutragen. </p>"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/poster_frame_1920_1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "b3b6ae86-3055-546c-9281-ec4d1ff9e92e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{734F91A4-D343-5A0B-AA26-40A8D75109F3}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Die Expedition Deepsea Under The Pole von 2010 führte das Team unter der Leitung von Ghislain Bardout zum Nordpol – und dann durch die Eisschicht hinunter in die eisigen Gewässer unter der polaren Eiskappe. Die Idee zu dieser Expedition begann als Kindheitstraum des damals 15 Jahre alten Franzosen."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "07e1b7ee-93ca-5536-82f8-f3e24357360c",
+                  "componentName": "Paragraph",
+                  "dataSource": "{5E061922-6D4A-5143-A9CF-D361A0B8FEDC}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Der in Ferney-Voltaire, in der Nähe der Schweizer Grenze, aufgewachsene Ghislain Bardout war schon als Jugendlicher vom Nordpol fasziniert. In seiner Fantasie malte er sich Eisbären auf endlosen, glitzernden Schneeflächen und die majestätische Schönheit des kristallklaren Wassers unter den bizarren Eisformationen aus. Seine Suche nach Aufnahmen von der polaren Unterwasserwelt blieb allerdings ergebnislos, weil bis zu diesem Zeitpunkt noch niemand unter den Eiskappen getaucht war.</p><p>Fünfzehn Jahre später, am Ende der Welt, verstand er den Grund dafür.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "5f64aab1-a60a-5a4a-a56c-854ae525f4bb",
+                  "componentName": "Quote",
+                  "dataSource": "{CE3CCBB8-460A-5D65-AFD2-07313011FACB}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Wir hatten mit extremen Temperaturen gerechnet, aber es war trotzdem ein Schock. Die Kälte kroch durch unsere Kleidung, direkt bis auf die Haut. Unser schlimmster Feind waren Erfrierungen."
+                    },
+                    "author": {
+                      "value": "Ghislain Bardout"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "17a7cef2-909b-56e3-a360-7e98869bb719",
+                  "componentName": "Paragraph",
+                  "dataSource": "{C82451B5-B6EB-5610-944A-CE6BF1030622}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Es war bereits eine Herkulesaufgabe gewesen, seine Expedition Deepsea Under the Pole by Rolex überhaupt zum Nordpol zu bringen. Fast drei Jahre intensivster Planung, Finanzierung, Forschung, logistischer Vorbereitungen sowie ein körperliches und mentales Training waren dafür nötig gewesen. In den Wintermonaten hatte das Team in den französischen Alpen und im nordfinnischen Meereis der zugefrorenen Ostsee trainiert, um die Ausrüstung und die Belastbarkeit der Expeditionsmitglieder zu testen.</p><p>Die letzten Expeditionsvorbereitungen und die lange Anreise von Frankreich über Montreal in die kanadische Hocharktis waren derart kräftezehrend, dass sich Bardout einen kurzen Moment der unbändigen Freude gestattete, nachdem das achtköpfige Team am 26. März 2010 in Polnähe abgesetzt worden war. „Als ich dort stand und das Flugzeug abfliegen sah, fühlte es sich an, als wäre die erste Expedition damit beendet“, sagt er rückblickend. „Allein schon so weit zu kommen, war eine echte Meisterleistung.“</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "08a519a3-681b-5e10-bba6-01a59834b398",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{03890C94-6B85-516E-993F-3966BB7BA34D}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "small"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": "Die fünf Rolex Deepsea Armbanduhren funktionierten trotz der extremen Kälte einwandfrei, sodass die Tauchzeiten exakt eingehalten werden konnten."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "88b1b093-c391-59cc-b4e0-6ad603507193",
+                  "componentName": "Paragraph",
+                  "dataSource": "{E518DFAF-3F69-562F-AD07-E7A48609216B}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Und der zweite Teil der Expedition verfolgte sogar noch ehrgeizigere Ziele. Auf dem Programm stand eine zweimonatige Trekkingtour auf Skiern, bei der das Team 800 Kilometer weit auf Skiern über das Packeis nach Ellesmere Island zurücklegen und unterwegs häufige Tauchstopps einlegen sollte. Ziel war es, die Situation des Meereises zu dokumentieren und bisher einmalige Aufnahmen von der polaren Unterwasserwelt zu liefern sowie mehrere Hunderte wissenschaftliche Beobachtungen zur menschlichen Physiologie und zum Klimawandel durchzuführen. Als das Team auf 89°19’ N ankam, musste Bardout jedoch ernüchtert feststellen, dass die größte unmittelbare Herausforderung die Anpassung an die extremen Witterungsbedingungen sein würde.</p><p>Sie hatten ihre Ankunft extra auf den Beginn des arktischen Frühlings Ende März gelegt, wenn die Eisschicht noch dick und das Wasser klar ist und die Sonne täglich höher über den Horizont steigt. Das arktische Wetter ist jedoch unberechenbar, sodass eisige Außentemperaturen von -40°C das Vorwärtskommen mit den vollgepackten Nansenschlitten und die ersten Tauchversuche einschränkten.</p><p>„Die ersten paar Tage waren die Hölle“, erinnert sich Bardout. „Wir hatten mit extremen Temperaturen gerechnet, aber es war trotzdem ein Schock. Die Kälte kroch durch unsere Kleidung, direkt bis auf die Haut. Unser schlimmster Feind waren Erfrierungen.“</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "f598956a-a72b-50c3-850f-c86a7cf4a05a",
+                  "componentName": "Quote",
+                  "dataSource": "{F7858B60-1841-5379-9EE7-00369C6A4705}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Die Bedingungen waren einfach extrem hart.  Mit unserer Ausrüstung war eigentlich alles in Ordnung, aber trotzdem ging alles kaputt."
+                    },
+                    "author": {
+                      "value": "Ghislain Bardout"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "50060e96-2e5d-5d29-b760-60647536e0e0",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{54E6D9F0-D353-5130-A72B-8EBF09475B33}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0005.jpg"
+                    },
+                    "legend": {
+                      "value": "<b>Zwei Schlitten</b> können jeweils vereint zum Boot umfunktioniert werden. Expeditionsleiter und Unterwasserkameramann Bardout filmt die Szenerie aus der Taucherperspektive."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a877967d-a37f-54b8-99ec-f97f3635906f",
+                  "componentName": "Paragraph",
+                  "dataSource": "{EBC6CB04-189C-55BA-96B4-1BC431E7DF7C}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Zu allem Überfluss versagte auch noch die Ausrüstung. Aufgrund der Kälte zerbarst Metall, Kunststoff wurde porös und selbst die einfachsten Mechanismen funktionierten nicht richtig. Ausrüstung, die den Härtetest im finnischen Ostseeeis unbeschadet überstanden hatte, erwies sich am Nordpol als brüchig wie Glas.</p><p>Bei einem der ersten Tauchgänge unter das Eis drang eisiges Wasser in den Trockenanzug von Emmanuelle Périé, der einzigen Frau im Team, weil sich Eis im Einlassventil gebildet hatte. Und das war erst der Anfang.</p><p>„Versuchen Sie mal, wieder trocken und warm zu werden, wenn Ihnen der Wind mit ‑45°C ins Gesicht bläst“, kommentiert Périé die dramatischen Minuten, als sie wieder an die Oberfläche kam und das Team die einstudierten Notfallmaßnahmen durchführte. „Und als wir dann die nassen Sachen im Abluftstrom des Generators trocknen wollten, fing auch noch mein Anorak Feuer. Das war beileibe kein angenehmes Gefühl, dass mein Hauptschutzschild gegen die arktische Kälte plötzlich durchlöchert war.  Mit solchen Dingen hatten wir vom ersten Tag an zu kämpfen. Das war hart.“</p><p>Nach jedem Tauchgang dauerte es Stunden, bis die Atemregler, Kameras und sonstige Unterwasser­ausrüstung wieder vom Eis befreit waren, und die Reparatur der defekten Teile nahm sogar noch mehr Zeit in Anspruch. „Die einzigen Tauchinstrumente, die die ganze Zeit über einwandfrei funktionierten“, fügt sie hinzu, waren ihre Armbanduhren – Modell Oyster Perpetual Rolex Deepsea.</p><p>Mit seiner Erfahrung aus mehreren Arktis­expeditionen wusste Bardout die Warnsignale zu deuten. Er setzte alle weiteren Tauchgänge aus, bis sich das Team wieder gefangen und an die extremen Bedingungen angepasst hatte. In den nächsten zehn Tagen kämpfte sich die Gruppe also weiter Richtung Süden über das Packeis, schlug ihre Zelte auf und reparierte die Ausrüstung, bis sie mit den widrigen Umständen fertig wurde und sieben bis acht Stunden täglich auf Skiern durchhielt.</p><p>„Das war vermutlich unsere wichtigste Entscheidung“, meint Bardout. „Die Bedingungen waren einfach extrem hart.  Mit unserer Ausrüstung war eigentlich alles in Ordnung, aber trotzdem ging alles kaputt – Kameras, Kabel, Skier, Beleuchtung. Solche Dinge fordern ihren Tribut. Wir waren alle gut vorbereitet, aber ich wusste aus Erfahrung, dass jene ersten zehn bis zwölf Tage den Erfolg oder Misserfolg einer Expedition bedeuten konnten. Wenn wir es nicht geschafft hätten, alles wieder unter Kontrolle zu bringen, hätte unsere Expedition katastrophal enden können.“</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "10dcd305-6a37-57af-8e26-89f176eb1345",
+                  "componentName": "ImageReveal",
+                  "dataSource": "{57A64781-0D29-578E-901E-6BBBBA93E026}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0008.jpg"
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0006.jpg"
+                    },
+                    "text": {
+                      "value": "<p>Außerdem schweißte die Tauchpause die Gruppe noch enger zusammen. Neben Expeditionsleiter Bardout (30) und seiner Partnerin Périé (31), Skipperin und Tauchlehrerin, bestand das Team aus: Benoît Poyelle (32), Unterwasseringenieur und Fotograf, Alban Michon (32), Tauchprofi und Experte für Tauchausrüstungen, Samuel Audrain (31), Berufstaucher und Marinemechaniker, Clément Infante (25), Bergsteiger, Vincent Berthet (28), Kameramann, sowie Pascal Rey (34), Bergführer und Rettungssanitäter. Und schließlich war da auch noch Kayak (ein Jahr alt), ein Siberian Husky mit schneeweißem Fell, der bei Eisbäralarm anschlagen sollte. Außerdem hielt Valentine Ribadeau Dumas vom kanadischen Resolute Bay aus engen Funkkontakt zum Expeditionsteam auf dem Eis.</p>"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0008.jpg"
+                    },
+                    "image_alt": {
+                      "value": "Der einjährige Kayak hat sich als neuntes Teammitglied bewährt. Obwohl er offiziell nur vor Eisbären warnen sollte, leistete er bald auch wichtige emotionale Unterstützung. Emmanuelle Périé entwickelte eine besonders enge Bindung zu dem Hund und kümmerte sich während der Expedition hauptverantwortlich um sein Wohlergehen."
+                    }
+                  }
+                },
+                {
+                  "uid": "3841164d-6da7-59fe-92d3-b300be775597",
+                  "componentName": "Paragraph",
+                  "dataSource": "{E0E77FC2-D993-5C91-BB1D-1CBC1F409E79}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Obwohl sich in der zehntägigen Wartezeit auf den nächsten Tauchgang auch der erhoffte Temperaturanstieg einstellte, wurde die Situation zunächst eher schlimmer als besser.</p><p>Anfang April kletterte das Thermometer innerhalb von 24 Stunden von ‑40°C auf vergleichsweise milde ‑1°C, dafür tobten aber zwei Tage lang orkanartige Böen durch das Camp und verwandelten die relativ ebene Eisfläche in eine zerklüftete Trümmerlandschaft mit haushoch aufgetürmten Eisblöcken und Gischt spuckenden Spalten. Ein weiterer Sturm sorgte für neue Verwerfungen und trieb die riesige Eisscholle, auf der sie sich befanden, über 30 Kilometer nach Westen ab, wodurch die Kraftanstrengungen mehrerer Tage zunichtegemacht wurden. Die Wetterkapriolen vereitelten auch die Landung des Versorgungsflugzeugs, sodass der Nachschub weit entfernt von ihrem Standort per Fallschirm abgeworfen werden musste, damit er nicht in Risse oder ins offene Meer fiel.</p><p>Schließlich hatte sich das Wetter – und die Zusammenarbeit in der Gruppe – so weit stabilisiert, dass Bardout grünes Licht für weitere Tauchversuche geben konnte. Damit hatte die Expedition endlich ihren Rhythmus gefunden und war wieder auf Zielkurs.</p><p>Diesmal funktionierte alles wie geplant. Zwischen den einzelnen Tauchpunkten lagen jeweils mehrere Tagesetappen von acht bis zehn Kilometern, auf denen sich das Team mühsam auf Skiern über das Packeis vorarbeitete und die Nansenschlitten immer wieder über Eisstöße und größere Verwerfungen getragen werden mussten, bevor das Lager aufgeschlagen werden konnte. Nach einem morgendlichen Tauchgang durch ein in das Eis geschnittenes Einstiegsloch folgten dann die Mittagspause und ein zweiter Tauchgang am späten Nachmittag, normalerweise in einiger Entfernung zum ersten Loch.</p><p>So gelangen den Fotografen der Expedition auf ihrem langsamen Weg nach Süden eindrucksvolle Bilder der Meereisbedeckung aus der Taucherperspektive, während die übrigen Teammitglieder über und unter Wasser wissenschaftliche Daten sammelten.</p><p>Im Auftrag der Geo Scaph Association überwachte das Team beispielsweise die Auswirkungen des eisigen Polarwassers auf die menschliche Physiologie, insbesondere auf die Körpertemperatur, indem die Expeditions­mitglieder vor jedem Tauchgang „Funkpillen“ einnahmen, die alle körperlichen Reaktionen aufzeichneten. Und für den Klimatologen Christian Haas von der kanadischen Alberta University sammelten sie Daten zu Schneehöhe, Dichte und Auftriebskräften, die Rückschlüsse auf die Dicke des Meereises erlauben.</p><p>Darüber hinaus dokumentierten die Expeditionsmitglieder auch alarmierende Anzeichen für den fortschreitenden Klimawandel in der Arktis: Nach Aussage von Bardout und Périé, die bereits in den Jahren 2007 und 2008 am Nordpol waren, ist die polare Eiskappe durch das Abschmelzen von unten deutlich dünner und brüchiger als noch vor wenigen Jahren.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "7444576b-f770-5054-95b9-c3e19c6fb025",
+                  "componentName": "Quote",
+                  "dataSource": "{2EFA7B25-EE53-5619-AB34-E56A165FF0A0}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Heute ist der Nordpol bereits zu Beginn des Frühlings in weiten Teilen eisfrei und Eisbären müssen weite Strecken durchs offene Meer schwimmen, und das ist nicht normal.  Die Eiskappe schmilzt direkt vor unseren Augen und baut sich nicht wieder auf."
+                    },
+                    "author": {
+                      "value": "Ghislain Bardout"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "b7a7afe2-b5b0-5adb-b05b-3c0d829b6076",
+                  "componentName": "Paragraph",
+                  "dataSource": "{BBC14EF2-AFC7-51F8-96F7-C3C07462F7F8}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Zu diesem Schluss kommt auch der Meteorologe Wayne Davidson, der die Veränderungen der arktischen Meereisbedeckung seit 1985 von einer Forschungsstation auf Ellesmere Island aus beobachtet. Laut Davidson hat die Dicke der Eisschicht seit 1998 kontinuierlich abgenommen, was zu einem alarmierenden Anstieg der Oberflächentemperaturen geführt hat.</p><p>„Wenn die Sonne über den Horizont aufsteigt, schmilzt das Eis – das ist ein ganz natürliches Phänomen“, erklärt Bardout. „Dieses Schauspiel wiederholt sich seit Tausenden von Jahren jedes Frühjahr in der Arktis. Heute ist der Nordpol aber bereits zu Beginn des Frühlings in weiten Teilen eisfrei und Eisbären müssen weite Strecken durchs offene Meer schwimmen, und das ist nicht normal.  Die Eiskappe schmilzt direkt vor unseren Augen und baut sich nicht wieder auf. Auf unserer Expedition haben wir beobachtet und auch gefilmt, wie sehr, sehr viel Eis von unten abschmilzt und nicht von oben, wo die meisten Forscher suchen. Ich habe das mit eigenen Augen gesehen.“</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "961313d9-783d-5854-b5f7-d2eb929eef60",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{C4424FF4-A52C-55A0-A50A-D08898BD8B7F}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/under-the-melting-ice/desktop_0007.jpg"
+                    },
+                    "legend": {
+                      "value": "Das achtköpfige Team."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2e9e2944-c3a0-54e1-aaec-db3d8d468b81",
+                  "componentName": "Paragraph",
+                  "dataSource": "{B7894429-73C4-5826-ADBE-20392398ED37}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Das Terrain wurde mit jedem Expeditionstag schwieriger und tückischer, weil sich das Eis immer mehr auftürmte und Schnee und Eis in der Aprilsonne zu tauen begannen. Bald wurde allen Beteiligten klar, dass es unrealistisch war, die Tauchgänge fortzusetzen und zudem die Küste von Ellesmere Island zu Fuß zu erreichen, wie es der ursprüngliche Plan vorsah. Das Team entschied sich also gegen die Küste und für die Tauchgänge und beschloss, die verbleibende Zeit für die weitere Erkundung der polaren Eiskappe von oben und von unten zu nutzen und dabei mehr arktische Unterwasseraufnahmen zu machen, als je zuvor zusammengetragen wurden.</p><p>Die Gruppe absolvierte insgesamt 51 Tauchgänge und hätte sicher noch weitergemacht, wenn sich die Witterungsbedingungen nicht noch weiter verschlechtert hätten. In der dritten Aprilwoche waren die Temperaturen 10 bis 15°C über den Normalwert gestiegen, auf einen Wert, bei dem die Eismassen immer schneller tauen und „täglich in immer kleinere Eisschollen zerbrechen“, wie Bardout schrieb, als er die Entscheidung ankündigte, den Nordpol früher zu verlassen als geplant. „Beim Tauchen haben wir unter Wasser das Knacken der Eismassen gehört und wir hören es auch nachts im Zelt. Man kann förmlich fühlen, wie das Eis instabil wird. Du fühlst nackte Angst.“</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "3b9673f3-51de-54da-9a5e-8526c3315a2a",
+                  "componentName": "Roller",
+                  "dataSource": "{4F38D86F-630F-5711-9F55-36ACC51B1930}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "2339c0f6-6689-587e-9e4b-9645df0d9f94",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3169E8F7-51F2-5D32-A9D9-3A6B75B24F45}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/under-the-melting-ice/roller_0001.jpg"
+                          },
+                          "legend": {
+                            "value": "Das Team muss zusammenarbeiten, um sicher durch die Eismassen zu steuern. Jedes Teammitglied zieht einen Nansenschlitten und folgt dem Vordermann in der vom Expeditionsleiter gespurten Loipe. Dieser kümmert sich auch um die Navigation."
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "c41d387a-1ad5-5072-a4ca-3631a7ea76b1",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5D5C1240-595A-5160-A603-BC00299C76EF}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/under-the-melting-ice/roller_0002.jpg"
+                          },
+                          "legend": {
+                            "value": "Organisation ist im Camp überlebenswichtig. Die drei Zelte und acht vertäuten Nansenschlitten schützen Expeditionsmitglieder, Essensbereich, Tauchausrüstung und Satellitentelefone vor den extremen arktischen Witterungsbedingungen."
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "51c8f106-69b0-51c4-9bb3-69865445a5ab",
+                        "componentName": "RollerCard",
+                        "dataSource": "{D8D54511-FB97-57BA-95AC-1D1736816A4F}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/under-the-melting-ice/roller_0003.jpg"
+                          },
+                          "legend": {
+                            "value": "Eine voll beladene DC3 landete am 26. März 2010 bei 89°19’ N und 76°12’ W, in 76 Kilometer Entfernung vom geografischen Nordpol. Das Bild zeigt das Ende der ersten Expedition – der Vorbereitung – und den Beginn der zweiten: der eigentlichen Expedition auf der Eisfläche."
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "ac5d87b6-8c47-4aa8-9269-0b7b3768bb1e",
+                  "componentName": "TextSection",
+                  "dataSource": "{9E9AFE5B-E512-4BCA-9652-E74867B5C30B}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>Sofort nachdem das Wetter aufgeklart hatte, wurden das Team und Kayak vom schwindenden Eis geholt und samt der Ausrüstung nach Ellesmere Island geflogen. Zurück in Frankreich planten Bardout und Périé bereits ihre nächste Expedition mit ausgedehnten Tauchgängen in große Tiefen. Diesmal wollten sie den aktuellen Zustand des arktischen Meereises und der Flora und Fauna näher an der grönländischen West- und Nordküste dokumentieren, wo der Jagderfolg der Inuit vom langsamen Wechsel der Jahreszeiten und von einer dicken, geschlossenen Eisdecke abhängt.</p><p>„Die polare Unterwasserwelt unter dem Meereis ist noch weitestgehend unerforscht“, erklärt Bardout seine Leidenschaft für die frostige Polarregion. „Es gibt so gut wie keine veröffentlichten Bilder und wenn überhaupt, wurden sie alle mehr oder weniger im selben Gebiet aufgenommen, in Reichweite einer Basisstation mit Flugplatz. Aber es gibt enorme Unterschiede im arktischen Eis und auch die Unterwasser­landschaften verändern sich stark, je nachdem, wo man taucht. Wir wollen einfach die Schönheit dieser schwindenden Lebensräume zeigen.“</p>"
+                    },
+                    "linkLabel": {
+                      "value": "Video in voller Länge ansehen"
+                    },
+                    "link": {
+                      "value": "/environment/video/deepsea_under_the_pole_complete"
+                    },
+                    "linkName": {
+                      "value": "Deepsea Under The Pole by Rolex"
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "24c46836-c07b-52cb-8c62-ddfc33c6bc95",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "9cf5e1f2-8494-440c-8363-c042c9021d50",
+                  "componentName": "VideoPushSlideshow",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "videoPushList": [
+                      {
+                        "uid": "d693a58b-762e-46dc-97a9-f71cae5bf71a",
+                        "componentName": "VideoPushSlide",
+                        "dataSource": "{256188EB-B09A-4CB1-BFA6-159CAFE8DA8B}",
+                        "params": {},
+                        "fields": {
+                          "description": {
+                            "value": "Entdecken Sie Ghislain Bardout im BBC-Dokumentarfilm <i>Heroes of the Oceans</i>"
+                          },
+                          "desktopVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_desktop_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "desktopVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe.jpg"
+                          },
+                          "mobileVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_mobile_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "ctaExternalUrl": {
+                            "value": ""
+                          },
+                          "ctaLabel": {
+                            "value": "watch-the-video"
+                          },
+                          "ctaUrl": {
+                            "value": "/environment/video/heroes-of-the-oceans"
+                          },
+                          "mobileVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe_portrait.jpg"
+                          },
+                          "suptitle": {
+                            "value": "Perpetual Planet"
+                          },
+                          "title": {
+                            "value": "Heroes of the Oceans"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "46dbd8e9-92db-4565-8b28-74def2c2b312",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{A6A2C075-B862-4300-8561-634DD1D60AAA}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Ähnliche Artikel"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "9c58db97-89ab-5cce-849b-a4d08a302676",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-long-standing-passion-for-adventure"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Langjähriges Engagement – Umwelt"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Rolex ist mit einigen der größten Abenteuer des vergangenen Jahrhunderts verbunden. Oyster Armbanduhren waren auf dem Dach der Welt und am tiefsten Punkt der Weltmeere. Seit Jahrzehnten stellen Forscher und Entdecker immer wieder fest, dass diese Uhren auch unter widrigsten Bedingungen absolut zuverlässig sind."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6 min 48 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/a-long-standing-passion-for-adventure/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A long-standing commitment - Environment"
+                          },
+                          "metadescription": {
+                            "value": "Entdecken Sie die inspirierende Rolex Geschichte von solider Innovation, in enger Verbindung mit den größten Gebirgs-, Polar- und Tauch­expeditionen des vergangenen Jahrhunderts."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "320"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Langjähriges Engagement"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/a-long-standing-passion-for-adventure/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Umwelt"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "04ef7f23-ec54-52fc-bf22-51d77145180d",
+                        "fields": {
+                          "pageClass": {
+                            "value": "rlxr-page-raefinalist"
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Vom Aussterben bedrohte Pinguine retten – Rolex Preise"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Pablo García Borboroglu erforscht Pinguine auf der ganzen Welt, um deren Erhaltung zu ermöglichen. Erfahren Sie mehr über seine Pläne zur Einbindung lokaler Gemein­­schaften bei der Rettung dieser Seevögel."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1 min 52 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/pablo-garcia-borboroglu/update/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Saving the world’s threatened penguins - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Pablo García Borboroglu erforscht Pinguine auf der ganzen Welt, um deren Erhaltung zu ermöglichen. Erfahren Sie mehr über seine Pläne zur Einbindung lokaler Gemein­­schaften bei der Rettung dieser Seevögel."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2000"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1780"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Vom Aussterben bedrohte Pinguine retten – Rolex Preise"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/pablo-garcia-borboroglu/update/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Umwelt"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "7a749604-69de-5219-a61d-3c71990851f7",
+                        "fields": {
+                          "pageClass": {
+                            "value": "rlxr-page-raefinalist"
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Korallenriffe durch wider­stands­fähige Korallen retten – Rolex Preise"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Die Meeres­biologin Emma Camp sucht nach den wider­stands­fähigsten Korallen der Welt. Erfahren Sie, wie sie Riffe angesichts des Klima­wandels und menschlicher Einflüsse retten will."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2 min 7 s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/emma-camp/2020/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Reef rescue with the toughest corals - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Die Meeres­biologin Emma Camp sucht nach den wider­stands­fähigsten Korallen der Welt. Erfahren Sie, wie sie Riffe angesichts des Klima­wandels und menschlicher Einflüsse retten will."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1900"
+                          },
+                          "tag2": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2100"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Korallenriffe durch wider­stands­fähige Korallen retten"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/emma-camp/2020/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Umwelt"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "722cee6f-73b7-599c-8cd9-483c46babc98",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "Erfahren Sie mehr"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Die Umwelt erhalten – Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Umwelt"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "cb83c9ab-87b6-52c2-a33e-c76f78fec434",
+                  "componentName": "Sharing",
+                  "dataSource": "{400EE7C0-BA3B-5660-8EA6-39C3C64F52A4}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b94e7623-66e1-4c5c-b76d-8df3ea98c850",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "127c2c79-ce4b-4e96-a736-f7f5bef7cda6",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "cb0ce632-ee1f-4b3a-bcc6-3d83552f8704",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa von Steve Boyes – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nach vielen gefährlichen Expeditionen haben Forscher Steve Boyes und sein Team bewiesen, dass der gewaltige Sambesi im angolanischen Hochland entspringt. Mit der Unterstützung von Rolex nutzt er seine Ergebnisse dafür, dieses lebenswichtige Gebiet wirksam zu schützen."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Forscher Steve Boyes und sein Team haben bewiesen, dass der gewaltige Sambesi im angolanischen Hochland entspringt. Erfahren Sie mehr auf rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Für den Schutz unseres Wassers"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Erforschung und Entdeckung"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes und die Expedition auf dem Fluss Cassai – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Im Rahmen seiner Expeditions­reihe Great Spine of Africa, die dem Schutz der Wassersicherheit des Kontinents dient, verfolgt Steve Boyes, Naturschützer und Partner der Initiative Perpetual Planet von Rolex, eine wichtige Quelle des Kongo-Flusses bis ins Hochland Angolas.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 60 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Im Rahmen seiner Expeditions­reihe Great Spine of Africa erforschte der Naturschützer Steve Boyes den Fluss Cassai, eine wichtige Quelle des Kongo-Flusses. Mehr auf rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Der Fluss Cassai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Umwelt"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes und der Fluss Lungwebungu – Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Im Rahmen der Perpetual Planet Initiative unterstützt Rolex die Expeditions­reihe Great Spine of Africa, bei denen Flüsse, die nie zuvor wissenschaftlich dokumentiert wurden, über Tausende von Kilometern durchquert werden. Diese Forschungs­arbeiten sollen dazu beitragen, die Einwohner und die Tierwelt zu schützen, deren Lebensgrundlage die großen Flüsse Afrikas sind."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 26 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Im Rahmen der Perpetual Planet Initiative unterstützt Rolex Steve Boyes bei seiner Expedition zur Untersuchung des bislang unerforschten Flusses Lungwebungu. Mehr auf rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Der mächtige Fluss Sambesi und seine Geheimnisse"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Umwelt"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 – Die Okavango Wilderness Projektgruppe"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Der Rolex National Geographic Explorer of the Year Award würdigt Forscher, die sich für die Erhaltung unseres Planeten engagieren und drängende Anliegen, Aufschlüsse und Heraus­forderungen beleuchten, denen wir heute gegenüberstehen."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2 min 3 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Erfahren Sie mehr über die diesjährigen Rolex National Geographic Explorers of the Year: die Okavango Wilderness Projektgruppe und deren Projekt zur Erhaltung des Planeten.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Rolex National Geographic Explorers of the Year 2019 – Die Okavango Wilderness Projektgruppe"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Umwelt"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 – Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Der kolumbianische Meeresbiologe Fernando Trujillo wurde für seine Arbeit zum Schutz des Amazonasdelfins und des Flusssystems, in dem dieser angesiedelt ist, zum National Geographic Explorer of the Year 2024 ernannt."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3 min 10 s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Der Meeresbiologe Fernando Trujillo wurde für seine Arbeit zum Schutz des Amazonasdelfins zum National Geographic Explorer of the Year 2024 ernannt. Mehr auf rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: Aus Liebe zu den Flussdelfinen"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Umwelt "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

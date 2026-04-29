@@ -1,0 +1,2591 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "applied-technology/science-health/sciences",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "applied-technology",
+        "environmentName": "production",
+        "pageName": "rolex-awards:applied-technology:beth-koigi",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-1/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-01",
+        "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-2/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-02",
+        "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-3/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-03"
+      ],
+      "item": {
+        "datePublished": "2024-02-07T15:08:01Z",
+        "dateModified": "2024-06-14T15:23:25Z"
+      }
+    },
+    "route": {
+      "name": "beth-koigi",
+      "displayName": "beth-koigi",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "applied-technology"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "2023 Rolex Awards for Enterprise Laureate - Beth Koigi"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Kenyan entrepreneur Beth Koigi is deploying a piece of technology that is addressing one of the world’s most pressing and complex problems: water scarcity."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 43s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-thumbnail-article-rae23_koigi_23ed_5158.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "2023 Rolex Awards for Enterprise Laureate - Beth Koigi"
+        },
+        "metadescription": {
+          "value": "Entrepreneur Beth Koigi is revolutionizing the way clean water is supplied to communities in need through her start-up, Majik Water. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+          "url": "/Content/Category/Applied-Technology",
+          "fields": {
+            "name": {
+              "value": "Applied Technology"
+            },
+            "dictionaryKey": {
+              "value": "applied-technology"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "970"
+        },
+        "tag2": {
+          "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+          "url": "/Content/Category/ScienceHealth",
+          "fields": {
+            "name": {
+              "value": "Science and Health"
+            },
+            "dictionaryKey": {
+              "value": "science-health"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "970"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": "970"
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": {
+          "id": "098fbeda-39c2-4ffc-91da-ac3302d21129",
+          "url": "/Content/Category/Sciences",
+          "fields": {
+            "name": {
+              "value": "Sciences"
+            },
+            "dictionaryKey": {
+              "value": "sciences"
+            }
+          }
+        },
+        "hub2": {
+          "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+          "url": "/Content/Hub/science",
+          "fields": {
+            "name": {
+              "value": "science"
+            },
+            "dictionaryKey": {
+              "value": "all-science"
+            },
+            "url": {
+              "value": "science"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Extracting water from the air"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-thumbnail-article-rae23_koigi_23ed_5158.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Applied Technology"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "b1b41825-ebc1-45c7-a018-7659a605361d",
+      "itemLanguage": "en",
+      "itemVersion": 10,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "82d038b8-821b-5de2-96ec-4ad3f0e8b4ba",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{5CF3D450-F828-44B3-8EB6-583E62B57BD4}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/cover/rolex-org-rae-latest-laureates-2023-beth-koigi-cover-autoplay.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/cover/rolex-org-rae-latest-laureates-2023-beth-koigi-cover-autoplay-portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/cover/rolex-org-rae-latest-laureates-2023-beth-koigi-cover-autoplay-posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Beth Koigi"
+                    },
+                    "subtitle": {
+                      "value": "2023 Rolex Awards Laureate"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/cover/rolex-org-rae-latest-laureates-2023-beth-koigi-cover-autoplay-posterframe-portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "c9eda970-c248-4505-9f27-4908f16506de",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{162EED2C-7EAE-487D-97DF-D57F3A18E782}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#F6F6F6"
+                    },
+                    "textColor": {
+                      "value": "black"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": "#F6F6F6"
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#F6F6F6"
+                    },
+                    "time": {
+                      "value": "1min 43s"
+                    },
+                    "date": {
+                      "value": "June 2024"
+                    },
+                    "text": {
+                      "value": "<p style=color:black><i>A part of the Perpetual Planet Initiative, the Rolex Awards for Enterprise support exceptional individuals who have the courage and conviction to take on major challenges, initiating extraordinary projects that make the world a better place.</i><br><br><b>Extracting water from the air</b>\n<br/><br/>\nKenyan entrepreneur Beth Koigi is deploying a piece of technology that is addressing one of the world’s most pressing and complex problems: water scarcity. Her atmospheric water generators (AWGs) draw, filter and mineralize water from the air, all in one unit, powered by solar energy. Her company, Majik Water, is installing the machine in arid and semi-arid regions, providing a crucial resource to those who need it most.</p>"
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": "/data/media/img/static/logo_perpetual_planet_02.svg"
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "56a1e7aa-320f-4a04-b52e-f31c67130758",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{5303939D-E854-4D00-A779-383C3261F574}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>2023 Rolex Awards Laureate</b> Beth Koigi"
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "rollerTitle": {
+                      "value": "<b>All</b> episodes"
+                    },
+                    "textColor": {
+                      "value": "#000000"
+                    },
+                    "videos": [
+                      {
+                        "id": "8ae57a97-965d-4208-8ed0-10afd189359d",
+                        "fields": {
+                          "date": {
+                            "value": "June 2024"
+                          },
+                          "title": {
+                            "value": "Beth Koigi: Episode&nbsp;1<br>Something in the air"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-1/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-01.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:34"
+                          },
+                          "link": {
+                            "id": "893f1c45-33d5-4fb5-abfb-bfd633102f68",
+                            "url": "/rolex-awards/video/applied-technology/beth-koigi-episode-1",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 1"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Growing up in Limuru, Kenya, entrepreneur Beth Koigi was surrounded by the lush greenery of wetland swamps and rain-blessed hills.&nbsp;"
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "0min 10s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-01-thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 1"
+                              },
+                              "metadescription": {
+                                "value": "Entrepreneur Beth Koigi is combating water scarcity in Kenya&rsquo;s most arid regions with her social enterprise Majik Water. Watch the video on rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-awards"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                "url": "/Content/Hub/rolex-awards",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "url": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                "url": "/Content/Category/Applied-Technology",
+                                "fields": {
+                                  "name": {
+                                    "value": "Applied Technology"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "applied-technology"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": ""
+                              },
+                              "tag2": {
+                                "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                "url": "/Content/Category/ScienceHealth",
+                                "fields": {
+                                  "name": {
+                                    "value": "Science and Health"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "science-health"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                "url": "/Content/Hub/science",
+                                "fields": {
+                                  "name": {
+                                    "value": "science"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-science"
+                                  },
+                                  "url": {
+                                    "value": "science"
+                                  }
+                                }
+                              },
+                              "tag_video": {
+                                "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                "url": "/Content/Category/RolexAwards",
+                                "fields": {
+                                  "name": {
+                                    "value": "Rolex Awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:34"
+                              },
+                              "previewTitle": {
+                                "value": "2023 Rolex Awards Laureate: Beth Koigi - Episode 1"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-01-thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Applied Technology"
+                              },
+                              "isLink": {
+                                "value": false
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-1/rolex-org-rae-2023-laureates-beth-koigi-episode-01-posterframe.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "653a4727-a0dd-43b4-b8f1-727c9d0e8550",
+                        "fields": {
+                          "date": {
+                            "value": "June 2024"
+                          },
+                          "title": {
+                            "value": "Beth Koigi: Episode&nbsp;2<br>A desert oasis"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-2/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-02.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:35"
+                          },
+                          "link": {
+                            "id": "0270a895-088e-45e2-90c0-266e2f791e47",
+                            "url": "/rolex-awards/video/applied-technology/beth-koigi-episode-2",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 2"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Earth&rsquo;s atmosphere contains six times as much water as all the planet&rsquo;s rivers combined.&nbsp;"
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "0min 10s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-02-thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 2"
+                              },
+                              "metadescription": {
+                                "value": "Entrepreneur Beth Koigi's atmospheric water generators are alleviating water scarcity in one of Africa's largest refugee camps. Watch the video on rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-awards"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                "url": "/Content/Hub/rolex-awards",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "url": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                "url": "/Content/Category/Applied-Technology",
+                                "fields": {
+                                  "name": {
+                                    "value": "Applied Technology"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "applied-technology"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": ""
+                              },
+                              "tag2": {
+                                "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                "url": "/Content/Category/ScienceHealth",
+                                "fields": {
+                                  "name": {
+                                    "value": "Science and Health"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "science-health"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                "url": "/Content/Hub/science",
+                                "fields": {
+                                  "name": {
+                                    "value": "science"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-science"
+                                  },
+                                  "url": {
+                                    "value": "science"
+                                  }
+                                }
+                              },
+                              "tag_video": {
+                                "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                "url": "/Content/Category/RolexAwards",
+                                "fields": {
+                                  "name": {
+                                    "value": "Rolex Awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:35"
+                              },
+                              "previewTitle": {
+                                "value": "2023 Rolex Awards Laureate: Beth Koigi - Episode 2"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-02-thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Applied Technology"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-2/rolex-org-rae-2023-laureates-beth-koigi-episode-02-posterframe.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "b65ef0fe-8dbd-47eb-a12e-6e0053d9f8e4",
+                        "fields": {
+                          "date": {
+                            "value": "June 2024"
+                          },
+                          "title": {
+                            "value": "Beth Koigi: Episode&nbsp;3<br>Untapped potential"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-3/rolex-org-rae-latest-laureates-2023-beth-koigi-episode-03.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:13"
+                          },
+                          "link": {
+                            "id": "a2cfde09-c60b-458b-97eb-dc2b4defd5d6",
+                            "url": "/rolex-awards/video/applied-technology/beth-koigi-episode-3",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 3"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "As a 2023 Rolex Awards Laureate, Beth Koigi is scaling up her project delivering solar-powered air-to-water technology to off-grid communities.&nbsp;"
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "0min 10s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-03-thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "2023 Rolex Awards Laureate - Beth Koigi - Episode 3"
+                              },
+                              "metadescription": {
+                                "value": "Entrepreneur Beth Koigi's atmospheric water generators are helping climate-vulnerable communities adapt for the future. Watch the video on rolex.org."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-awards"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                                "url": "/Content/Hub/rolex-awards",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  },
+                                  "url": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                                "url": "/Content/Category/Applied-Technology",
+                                "fields": {
+                                  "name": {
+                                    "value": "Applied Technology"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "applied-technology"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": ""
+                              },
+                              "tag2": {
+                                "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                                "url": "/Content/Category/ScienceHealth",
+                                "fields": {
+                                  "name": {
+                                    "value": "Science and Health"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "science-health"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                                "url": "/Content/Hub/science",
+                                "fields": {
+                                  "name": {
+                                    "value": "science"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-science"
+                                  },
+                                  "url": {
+                                    "value": "science"
+                                  }
+                                }
+                              },
+                              "tag_video": {
+                                "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+                                "url": "/Content/Category/RolexAwards",
+                                "fields": {
+                                  "name": {
+                                    "value": "Rolex Awards"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-awards"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:13"
+                              },
+                              "previewTitle": {
+                                "value": "2023 Rolex Awards Laureate: Beth Koigi - Episode 3"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-episode-03-thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Applied Technology"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/rolex-awards/laureates/2023/beth-koigi/episode-3/rolex-org-rae-2023-laureates-beth-koigi-episode-03-posterframe.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "#F6F6F6"
+                    }
+                  }
+                },
+                {
+                  "uid": "0e96d4e4-0a0f-4e1d-bc35-b4ea987428e8",
+                  "componentName": "SimpleText",
+                  "dataSource": "{27CE215C-ED57-417D-9A5F-E16AA12126B4}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Growing up in the lush greenery of Limuru, Kenya, Koigi was surrounded by abundant fresh water. When she left home to attend university, she was shocked to find much of the country arid, and its people struggling for water. She designed a simple and affordable water filtration system and began travelling around Kenya selling it. However, she soon realized the extent of the problem was far beyond her home-made water filter as more than 50 per cent of people in the East African nation do not have access to clean drinking water."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c95d498c-b758-4c70-9ff9-e8943d3814b2",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{17750537-746E-4106-9D96-086BCE41CB75}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_ed_002-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_ed_002.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "82d133bb-ed6c-4186-b290-6dc8b9e46bd4",
+                  "componentName": "SimpleText",
+                  "dataSource": "{2995EBDE-8F22-455D-895E-D1D7ECBCBB4A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In 2017, alongside Canadian environmental scientist Anastasia Kaschenko and Oxford economist Clare Sewell, Koigi co-founded Majik Water, a social enterprise which installs AWGs in off-grid communities. Today, Majik Water has deployed 20 high volume and 10 small scale machines that produce over 200,000 litres of water a month.<br><br>\n\nThe atmosphere contains six times as much water as all of the Earth’s rivers combined, and Koigi’s AWGs take advantage of this. A fan pulls in air and passes it over a cold surface. Like a cool glass of lemonade on a hot day, water droplets condense on the surface. The water is then filtered and essential minerals like calcium and magnesium are added to make it drinkable."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "92e5349b-9245-4b45-8ede-55f1b8324978",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{AAD55A54-E2DF-4DFD-9D06-CA502E716C90}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_23ed_5004_r-portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_23ed_5004_r.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "3a71e7a4-219a-4c83-9bc8-460b19c2c140",
+                  "componentName": "Quote",
+                  "dataSource": "{F19CBDA3-E82F-4608-A4E4-62B3BAB6AA39}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "There is always some level of humidity in the air."
+                    },
+                    "author": {
+                      "value": "Beth Koigi"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "d5531849-db56-4749-8f36-94e2bb1f7baf",
+                  "componentName": "SimpleText",
+                  "dataSource": "{E40F036F-5595-469A-BF49-24F312A01E18}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Although the technology works best in higher humidity, Majik Water deploys its machines in semi-arid and arid regions, where they are most needed. According to Koigi, “there is always some level of humidity in the air”. Even at just 30 per cent humidity, the AWGs can collect enough water for people to drink."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "11eb7d41-6db3-4768-9e23-5de10e341727",
+                  "componentName": "Roller",
+                  "dataSource": "{26D15B34-EE66-4FEF-A916-3BD4652D1DFF}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "bfc3f673-4e70-4ff2-86a7-7bbe82ee8a65",
+                        "componentName": "RollerCard",
+                        "dataSource": "{BAF79DE4-5AD9-492E-8E6E-5B0A6D7407E8}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/roller/rolex-org-rae-2023-laureates-beth-koigi-roller-01-rae23_koigi_23ed_5045.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "a9104f2b-2121-486d-90e3-46880e61be5e",
+                        "componentName": "RollerCard",
+                        "dataSource": "{9B14C014-9BB5-463A-B93F-13E6AFEDBA2E}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/roller/rolex-org-rae-2023-laureates-beth-koigi-roller-02-rae23_koigi_23ed_5078.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "f0fc0ce5-1e43-40ae-a9ba-9ca2d959955f",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5BC8D13E-77FA-4A03-81A7-0573A22430FA}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/roller/rolex-org-rae-2023-laureates-beth-koigi-roller-03-rae23_koigi_23ed_5071_r.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "3a0407df-7d4b-438d-acde-ef19e47ce675",
+                        "componentName": "RollerCard",
+                        "dataSource": "{8485AEBD-B94C-4CFC-9BE2-150457130DD7}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/roller/rolex-org-rae-2023-laureates-beth-koigi-roller-04-rae23_koigi_23ed_5057.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "30b48ed4-2a81-405e-aebb-bbdfaeecb4db",
+                        "componentName": "RollerCard",
+                        "dataSource": "{FBC977BA-F018-49A9-9236-F2C380173584}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/roller/rolex-org-rae-2023-laureates-beth-koigi-roller-06-rae23_koigi_23ed_5056.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "1c2b817d-9f87-4faa-9d2b-e3ad90f113a7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{507E3AF1-25CD-42CB-B950-53FC7939A007}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Koigi’s next venture is a series of “water kiosks” planned for the heart of one of the largest refugee camps in Africa, Kakuma Refugee Camp and Kalobeyei Integrated Settlement in northern Kenya’s extremely arid region of Turkana. Majik Water has already set up a local shopkeeper with the first AWG to sell the water it generates at a fair price. The start-up has also partnered with a solar farm to power the machine and trained two electricians in basic maintenance. With this model, each AWG should pay for its own operating costs while providing 50 households with clean drinking water daily."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3b43aa78-74f8-47ac-867f-95b87a44383f",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6CBAD753-B64F-4FBA-8232-C03627FD7F3A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_23ed_5075-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-rae23_koigi_23ed_5075.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0b2b4764-c1ed-48b2-a199-ea9283c0950d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BE350039-F9D3-45B1-AF1B-273F7B3CBE75}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ultimately, Koigi wants communities to become self-sufficient and resilient against the warming climate. She recognizes that the time is now to implement solutions, having seen the lush waterways of her hometown dry up during a recent drought. Creating a future where people can adapt is a key part of her work, and there is no resource more needed than clean water."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "01a41fa5-09c2-4c89-8018-e923eddc79f1",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{483A6081-D7A1-4983-8F03-AE8C14867EA2}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-banner-rae23_koigi_23ed_5019-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/beth-koigi/rolex-org-rae-2023-laureates-beth-koigi-banner-rae23_koigi_23ed_5019.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad9ee13d-a2ef-4d1e-b931-44086f304bed",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "a31e978b-01ca-4ff6-b556-8e7e5ca1053d",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{3DC82216-9511-4943-AA65-AF9F43C8190E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "260e5a2b-874a-4106-85ad-0aa77d7d796a",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Inza Koné"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Inza Koné, Côte d’Ivoire’s first primatologist, has spent almost 20 years working in Tanoé-Ehy, one of West Africa’s last primary rainforests."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 26s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/inza-kone/rolex-org-rae-2023-laureates-inza-kone-thumbnail-article-rae23-kone-23nq-5041.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Inza Koné"
+                          },
+                          "metadescription": {
+                            "value": "Primatologist Inza Kon&eacute; is leading community-based conservation efforts to protect the biodiversity of C&ocirc;te d'Ivoire's Tano&eacute;-Ehy forest. More on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "980"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "980"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Protecting Africa’s forests"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/inza-kone/rolex-org-rae-2023-laureates-inza-kone-thumbnail-article-rae23-kone-23nq-5041.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environment"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "9142308d-24f3-4040-a297-60ae28e589cb",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Liu Shaochuang"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Remote sensing specialist Liu Shaochuang is trying to save critically endangered wild camels using space technology."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 40s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/liu-shaochuang/rolex-org-rae-2023-laureates-liu-shaochuang-thumbnail-article-rae23_liu_23lx_5031_r.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Liu Shaochuang"
+                          },
+                          "metadescription": {
+                            "value": "Remote sensing specialist Liu Shaochuang is using space technology to help save the Gobi Desert's critically endangered wild camels. More on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "970"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "970"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Tracking wild camels with satellites"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/liu-shaochuang/rolex-org-rae-2023-laureates-liu-shaochuang-thumbnail-article-rae23_liu_23lx_5031_r.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environment"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "3e626478-7ac7-47fb-9d5c-95814b47354b",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Constantino Aucca Chutas"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "As the descendent of Quechuan farmers, Peruvian biologist Constantino Aucca Chutas felt a responsibility to act when he saw how the forests of his ancestral Andean home were disappearing because of human activity."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 44s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-thumbnail-article-rae23_aucca-chutas_23slm_026.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2023 Rolex Awards for Enterprise Laureate - Constantino Aucca Chutas"
+                          },
+                          "metadescription": {
+                            "value": "Biologist Constantino Aucca Chutas is leading reforestation efforts in the Andes by involving local and indigenous communities. More on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "970"
+                          },
+                          "tag2": {
+                            "id": "6e293733-dc69-5d8f-a2e6-80aeacfb1cfb",
+                            "url": "/Content/Category/Mountains-Poles",
+                            "fields": {
+                              "name": {
+                                "value": "Mountains and Poles"
+                              },
+                              "dictionaryKey": {
+                                "value": "mountains-and-poles"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "970"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Community-led reforestation in the Andes"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/laureates/2023/constantino-aucca-chutas/rolex-org-rae-2023-laureates-constantino-aucca-chutas-thumbnail-article-rae23_aucca-chutas_23slm_026.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environment"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "113f4712-7e74-41a7-9086-5553de8bf8e8",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{3028FA69-C62B-4BA0-90CA-AEC49A2119D2}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards/latest-laureates"
+                    },
+                    "anchorText": {
+                      "value": "Discover more"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-awards/laureates/2023/rolex-org-rae-2023-laureates-push.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet Initiative"
+                    },
+                    "title": {
+                      "value": "Celebrating the 2023 Laureates"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d5aec1f8-c9d4-4fa2-92c7-1a26c05b5aaa",
+                  "componentName": "Sharing",
+                  "dataSource": "{84E65BF1-A2B9-48CD-9423-7F1350AB955D}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6e53e3be-47f8-46de-acc3-fd3aab339028",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

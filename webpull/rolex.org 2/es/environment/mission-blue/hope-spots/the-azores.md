@@ -1,0 +1,19 @@
+---
+title: "Rolex y Mission Blue - El «Hope Spot» de las Azores"
+url: "https://www.rolex.org/es/environment/mission-blue/hope-spots/the-azores"
+---
+
+[Ir directamente al pie de página](#footer)
+
+Idiomas
+
+- [Français](https://www.rolex.org/fr/environment/mission-blue/hope-spots/the-azores)
+- [Português](https://www.rolex.org/pt-br/environment/mission-blue/hope-spots/the-azores)
+- [English](https://www.rolex.org/environment/mission-blue/hope-spots/the-azores)
+- [简体中文](https://www.rolex.org/zh-hans/environment/mission-blue/hope-spots/the-azores)
+- [Deutsch](https://www.rolex.org/de/environment/mission-blue/hope-spots/the-azores)
+- [繁體中文](https://www.rolex.org/zh-hant/environment/mission-blue/hope-spots/the-azores)
+- [Italiano](https://www.rolex.org/it/environment/mission-blue/hope-spots/the-azores)
+- [日本語](https://www.rolex.org/ja/environment/mission-blue/hope-spots/the-azores)
+- [Español](https://www.rolex.org/es/environment/mission-blue/hope-spots/the-azores)
+- [한국어](https://www.rolex.org/ko/environment/mission-blue/hope-spots/the-azores)

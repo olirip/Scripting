@@ -1,0 +1,228 @@
+---
+title: "Arte"
+url: "https://www.rolex.org/it/arts"
+---
+
+- ### [Anne Lacaton e Arine Aprahamian - Programma di mentoring Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/architecture/anne-lacaton-and-arine-aprahamian)
+	La giovane architetta armeno-libanese Arine Aprahamian ambisce a creare edifici innovativi, economicamente accessibili e sostenibili. La sua filosofia si sposa perfettamente con quella dell’architetta francese Anne Lacaton, vincitrice del Premio Pritzker, che propugna la ristrutturazione contro la demolizione.
+- ### [Jia Zhang-Ke e Rafael Manuel - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/film/jia-zhang-ke-and-rafael-manuel)
+	Il giovane regista filippino Rafael Manuel ha collaborato per due anni con il famoso regista cinese Jia Zhang‑Ke tramite il programma di mentorato Rolex.
+- ### [Bernardine Evaristo e Ayesha Harruna Attah - Programma di mentoring Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/literature/bernardine-evaristo-and-ayesha-harruna-attah)
+	Dopo aver terminato gli studi negli Stati Uniti, la scrittrice Ayesha Harruna Attah è ritornata in Africa con una missione: scrivere storie africane per lettori africani. Cinque libri dopo, ambisce ad ampliare il suo pubblico.
+- ### [Dianne Reeves e Song Yi Jeon - Programma di mentoring Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/music/dianne-reeves-and-song-yi-jeon)
+	Per la cantante jazz Dianne Reeves, vincitrice di diversi Grammy, il modo migliore per fare da mentore alla compositrice e cantante jazz sudcoreana Song Yi Jeon è stato quello di invitarla ad esibirsi con la sua band.
+- ### [El Anatsui e Bronwyn Katz - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/visual-arts/el-anatsui-and-bronwyn-katz)
+	El Anatsui e l’artista sudafricana Bronwyn Katz condividono l’interesse per la reinvenzione dei materiali di scarto, per offrire una riflessione sull’umanità, sulla storia e sul pianeta.
+- ### [Uscire dalla zona di comfort - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/film/spike-lee-and-kyle-bell)
+	Sensibile all’esperienza dei nativi americani nel suo Paese, Spike Lee ha scelto di fare da mentore a Kyle Bell, un giovane regista della città tribale Thlopthlocco Creek, in Oklahoma, cui serviva una spinta per uscire dal guscio.
+- ### [Un viaggio simbolico - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/theatre/phyllida-lloyd-and-whitney-white)
+	Riunite dalla passione comune per Shakespeare, Phyllida Lloyd e la sua Allieva Whitney White raccontano di un rapporto cresciuto rapidamente grazie alla profonda sintonia scoperta esplorando le influenze che plasmano la scena teatrale odierna.
+- ### [Intessere l’attivismo artistico - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/visual-arts/carrie-mae-weems-and-camila-rodriguez-triana)
+	Un interesse condiviso nella politica dell’identità etnica ha creato una profonda connessione tra Carrie Mae Weems e la sua Allieva Camila Rodríguez Triana.
+- ### [Pura energia creativa - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/open-category/lin-manuel-miranda-and-agustina-san-martin)
+	L’incontro tra Lin‑Manuel Miranda e la sua Allieva Agustina San Martín è avvenuto quando Miranda stava facendo il suo debutto alla regia.
+- ### [Vivere insieme in modo sostenibile](https://www.rolex.org/it/arts/venice-biennale-living-together-sustainably)
+	Rolex sostiene la Mostra Internazionale di Architettura – La Biennale di Venezia per la quarta volta dal 2014. L’evento, che rientra nell’impegno di Rolex a sostegno dell’arte e della cultura, è una fucina di idee che riflettono un’epoca di intenso cambiamento.
+- ### [Una serie di concerti infonde nuova vita al mondo della musica](https://www.rolex.org/it/arts/perpetual-music)
+	L’iniziativa “Perpetual Music”, guidata dai Testimonial Rolex, non intrattiene solo il pubblico di tutto il mondo, ma dà anche agli artisti la possibilità di fare ciò che più amano: esibirsi e condividere il loro talento.
+- ### [La libertà di muoversi - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/dance/the-freedom-of-movement)
+	Da quando è stata proiettata all’interno del mondo anticonformista del coreografo israeliano Ohad Naharin per un anno, la capacità della ballerina sudafricana Londiwe Khoza di interpretare il proprio corpo è stata trasformata.
+- ### [Trasformarsi passo dopo passo - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/dance/khoudia-toure-and-crystal-pite)
+	“Se dovessi riassumere gli ultimi due anni in una parola, sarebbe ‘trasformazione’”, dice Khoudia Touré con un sorriso a trentadue denti.
+- ### [Gli illusionisti - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/film/the-illusionists)
+	L’ultimo film del regista messicano Alfonso Cuarón è avvolto nel mistero, eppure lui è felice di condividere i suoi segreti con il suo Allievo Chaitanya Tamhane.
+- ### [Una ricerca condivisa all’insegna della letteratura - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/literature/colm-toibin-and-colin-barrett)
+	“Riusciamo a parlare in un modo che semplicemente non sarebbe possibile con i nostri cari”, dice lo scrittore Colm Tóibín.
+- ### [Il potere delle percussioni attraversa le frontiere - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/music/marcus-gilmore-and-zakir-hussain)
+	“Lo vedo un po’ come un saggio. Davvero, è una specie di Yoda”, dice Marcus Gilmore a proposito del suo Maestro, il leggendario percussionista Zakir Hussain.
+- ### [L’acustica perfetta - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/music/the-right-acoustics)
+	La compositrice peruviana di origini giapponesi Pauchi Sasaki ha trovato la sua anima gemella artistica in Philip Glass, che le ha offerto la saggezza di tutta una vita da compositore innovativo di una musica che sembra sgorgare direttamente dalla sua grande umanità.
+- ### [Far riemergere il passato - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/visual-arts/recovering-the-past)
+	Thao Nguyen Phan fa riemergere la poesia della storia dimenticata del Vietnam attraverso quadri e opere video. È la sua Maestra, l’artista newyorkese Joan Jonas, che l’ha ispirata ad andare oltre le difficoltà legate all’essere artista nel suo Paese.
+- ### [L’architetto-poeta del Giappone - Arte](https://www.rolex.org/it/arts/japans-architectural-poet)
+	Il minimalismo elegante dello stile di Kazuyo Sejima ha ridefinito l’edilizia pubblica. Il suo progetto ondulato per il Rolex Learning Center e altri importanti edifici le hanno assicurato un seguito a livello globale, nonché una grande mole di lavoro per il suo studio. Eppure, ha ancora tempo per dedicarsi a un architetto emergente nell’ambito dell’iniziativa Rolex Maestro e Allievo.
+- ### [Perpetual Spirit, la storia di Rolex](https://www.rolex.org/it/)
+	Perpetual Spirit
+- ### [Anne Lacaton e Arine Aprahamian - Film](https://www.rolex.org/it/rolex-mentor-protege/video/architecture/anne-lacaton-and-arine-aprahamian)
+	Programma di mentoring Rolex, 2023-2024
+- ### [Bernardine Evaristo e Ayesha Harruna Attah - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/bernardine-evaristo-and-ayesha-harruna-attah)
+	Autrice di cinque romanzi, la scrittrice ghanese Ayesha Harruna Attah desidera scrivere storie africane per lettori africani, e che i suoi libri raggiungano un pubblico più ampio. L’autrice vincitrice del Booker Prize Bernardine Evaristo le ha offerto i propri consigli su come costruire una carriera internazionale.
+- ### [Dianne Reeves e Song Yi Jeon - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/dianne-reeves-and-song-yi-jeon)
+	La cantante e compositrice sudcoreana di jazz Song Yi Jeon, rinomata per la sua voce ipnotica, ha celebrato la fine dei due anni di collaborazione con Dianne Reeves, vincitrice di cinque Grammy, nell’ambito del programma di mentoring Rolex con un’esibizione all’EFG London Jazz Festival 2024.
+- ### [Costruire l’Africa a sua immagine - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/architecture/mariam-issoufou-and-david-adjaye)
+	Una visita in Niger, il Paese d’origine di Mariam Issoufou, ha segnato una svolta nel suo rapporto con il famoso architetto ghanese-britannico David Adjaye.
+- ### [David Adjaye e Mariam Issoufou - Film](https://www.rolex.org/it/rolex-mentor-protege/video/architecture/mariam-issoufou-and-david-adjaye)
+	Con la convinzione che lo scopo dell’architettura sia quello di trasformare, l’architetto britannico‑ghanese Sir David Adjaye, Maestro per l’architettura, e la sua Allieva, la nigerina Mariam Issoufou, hanno iniziato a collaborare per dare un contributo concreto alla società, attraverso il progetto di Issoufou per la realizzazione di un centro culturale a Niamey, la capitale del suo Paese.
+- ### [Trasmettere il patrimonio artistico - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/video/about)
+	Nel 2002 Rolex ha creato il programma di mentorato Rolex per incoraggiare la trasmissione delle conoscenze in ambito artistico.
+- ### [Maestri e Allievi 2023‑2024 - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/current-pairs)
+	L’edizione 2023‑2024 del programma di mentorato Rolex ha portato a due anni di eccezionali scambi artistici tra cinque giovani artisti e alcuni dei maggiori esponenti mondiali delle rispettive discipline.
+- ### [Mentorati recenti - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships)
+- ### [Formare le future generazioni di registi](https://www.rolex.org/it/rolex-mentor-protege/cinema)
+	Rolex crede fermamente nell’importanza di trasmettere l’eccellenza di generazione in generazione.
+- ### [La comunità del programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/about/community)
+	Il programma di mentorato Rolex è diventato un’occasione di dialogo unica fra artisti appartenenti a generazioni, culture e discipline diverse, dando vita a una comunità globale della cultura e delle arti. Dal 2002 più di 1.100 persone provenienti da 105 Paesi sono state nominate per partecipare a questo programma. Il Comitato consultivo è composto da 123 artisti e creatori di rilievo, mentre 253 figure influenti del mondo dell’arte hanno nominato i giovani artisti e selezionato i finalisti. Oltre 50 dei massimi artisti al mondo hanno preso parte al programma in qualità di Maestri.
+- ### [Rolex.org - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege)
+	Il programma di mentorato Rolex contribuisce alla cultura mondiale, favorendo la trasmissione del patrimonio artistico alle generazioni future.
+- ### [Jia Zhang‑Ke e Rafael Manuel - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/jia-zhang-ke-and-rafael-manuel)
+	Il regista filippino emergente Rafael Manuel ha collaborato per due anni con il famoso regista cinese Jia Zhang‑Ke tramite il programma di mentorato Rolex.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/music)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/visual-arts)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/literature)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/film)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/current-pairs/architecture)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Spike Lee e Kyle Bell - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/video/film/spike-lee-and-kyle-bell)
+	Spike Lee, uno dei registi più socialmente impegnati di oggi, ha scelto di fare da Maestro a Kyle Bell, un giovane regista della città tribale Thlopthlocco Creek, in Oklahoma, per aiutarlo a espandere i confini del suo cinema evocativo.
+- ### [Lin-Manuel Miranda e Agustina San Martín - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/video/open-category/lin-manuel-miranda-and-agustina-san-martin)
+	Nell’ambito dell’edizione 2020-2022 del programma di mentorato Rolex, Lin‑Manuel Miranda e la sua Allieva, la regista argentina Agustina San Martín, si sono incontrati quando Miranda stava debuttando come regista cinematografico dopo una serie di musical premiati ai Tony Awards, tra i quali <i>Hamilton</i> e <i>Sognando a New York – In The Heights</i>.
+- ### [Phyllida Lloyd e Whitney White - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/video/theatre/phyllida-lloyd-and-whitney-white)
+	Riunite dalla passione comune per Shakespeare e per la musica e dall’interesse nel raccontare storie di donne, Phyllida Lloyd, regista londinese che ha diretto successi mondiali come il musical e il film <i>Mamma Mia!</i>, e la regista, attrice e musicista statunitense Whitney White affermano che il loro rapporto è cresciuto rapidamente nel corso dell’edizione 2020‑2022 del programma di mentorato Rolex.
+- ### [Carrie Mae Weems e Camila Rodríguez Triana - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/video/visual-arts/carrie-mae-weems-and-camila-rodriguez-triana)
+	Carrie Mae Weems ha scelto Camila Rodríguez Triana come Allieva nell’edizione 2020‑2022 del programma di mentorato Rolex perché, nonostante la giovane artista figurativa colombiana provenisse da un Paese diverso e da un mondo diverso dalla sua Maestra, c’era una connessione profonda tra le due.
+- ### [Mentorati recenti - Programma di mentorato Rolex - Film](https://www.rolex.org/it/rolex-mentor-protege/video/recent-mentorships)
+	Alcuni giovani artisti emergenti hanno ricevuto l’opportunità unica di collaborare con maestri di fama mondiale nelle loro discipline durante l’edizione 2020‑2022 del programma di mentorato Rolex.
+- ### [Uomini dai mille talenti - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/theatre/men-of-many-parts)
+	Artisti dalle innumerevoli affinità che rifiutano le classificazioni, Robert Lepage e il suo Allievo Matías Umpierrez attingono a varie discipline per realizzare le loro produzioni eclettiche e anticonformiste.
+- ### [Colonie della mente - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/literature/colonies-of-the-mind)
+	Una sensazione comune di esilio ereditato è una delle affinità fra Mia Couto e il suo Allievo Julián Fuks, che gli ha chiesto una mano per passare dalla storia familiare a mondi immaginari.
+- ### [Un’architettura di concetto - Programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/architecture/an-architecture-of-thought)
+	Anziché lavorare insieme alla progettazione di un edificio, durante l’anno di mentorato Sir David Chipperfield e il suo Allievo svizzero Simon Kretz hanno deciso di esaminare come la progettazione dà forma alle città e voce alle aspirazioni di quanti le abitano.
+- ### [Il programma di mentorato Rolex](https://www.rolex.org/it/rolex-mentor-protege/about)
+	Il programma di mentorato Rolex contribuisce alla cultura mondiale, favorendo la trasmissione del patrimonio artistico alle generazioni future.
+- ### [Álvaro Siza e Sahel Alhiyari - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/alvaro-siza-sahel-al-hiyari)
+	Per il Maestro portoghese Álvaro Siza la professione di architetto non consiste nella mera copia di progetti del passato. Il suo Allievo, Sahel Alhiyari, afferma “con Siza... è molto più di questo”. Alhiyari spiega che “l’architettura coincide con l’esistenza umana. È la nostra seconda pelle”.
+- ### [Sir Colin Davis e Josep Caballé Domenech - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/sir-colin-davis-and-josep-caballe-domenech)
+	Sir Colin Davis è stato uno dei più importanti direttori d’orchestra del mondo ed era solito affermare che “non si controlla un’orchestra, si lascia solo che le cose accadano”. Ciò di cui ha bisogno un direttore d’orchestra sono una buona preparazione e una profonda conoscenza culturale: ecco la lezione che Sir Colin ha impartito al suo brillante Allievo spagnolo Josep Caballé Domenech.
+- ### [Gilberto Gil e Dina Elwedidi - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/gilberto-gil-and-dina-el-wedidi)
+	Per la cantante egiziana Dina Elwedidi e il suo Maestro, l’icona musicale brasiliana Gilberto Gil, nel portare a termine un mentorato fruttuoso le differenze culturali non costituiscono un ostacolo, ma piuttosto una ricchezza. “Voleva esplorare i contrasti tra Egitto e Brasile”, afferma Gil.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/film)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/recent-mentorships/visual-arts)
+	La pagina che stai cercando di visualizzare non &egrave; disponibile.
+- ### [Alfonso Cuarón e Chaitanya Tamhane - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/alfonso-cuaron-and-chaitanya-tamhane)
+	Per l’Allievo indiano Chaitanya Tamhane, l’anno di mentorato con il regista premio Oscar® Alfonso Cuarón è stato un vero colpo di fortuna. Tamhane descrive la regia basata sulle immagini del suo Maestro come “pura magia” e dichiara che il suo approccio al mondo del cinema non sarà più lo stesso.
+- ### [Joan Jonas e Thao Nguyen Phan - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/joan-jonas-and-thao-nguyen-phan)
+	“L’arte è una pratica spirituale”, afferma Joan Jonas, pioniera delle arti video e performative. Per la sua Allieva vietnamita Thao Nguyen Phan, lavorare con Joan Jonas e osservare le sue continue sperimentazioni le ha insegnato ad adottare una mentalità più aperta per quanto riguarda gli strumenti da utilizzare per raccontare le storie all’origine del suo lavoro.
+- ### [Imparare da un maestro - Arte](https://www.rolex.org/it/arts/learning-from-a-master)
+	Tom Shoval ha scoperto l’arte teneramente feroce di Alejandro G. Iñárritu, regista premio Oscar per Birdman, in un cinema di Tel Aviv. Quindici anni dopo è diventato il suo Allievo nell’ambito dell’iniziativa Rolex Maestro e Allievo e, sotto la sua egida, ha imparato come diventare un regista compiuto. Tom Shoval ci confida in queste pagine qualche momento saliente di questo anno di collaborazione (2014‑2015) costellato da lezioni di vita.
+- ### [Non sono più un giovane direttore d’orchestra - Arte](https://www.rolex.org/it/arts/i-m-not-a-young-conductor-anymore)
+	Il Testimonial Rolex Gustavo Dudamel ha il mondo intero ai suoi piedi. Il carismatico direttore d’orchestra venezuelano ha scosso i fondamenti della musica classica con la sua apertura di spirito e le sue nuove e audaci interpretazioni.
+- ### [L’innovativa torre di Dallas - Arte](https://www.rolex.org/it/arts/a-dynamic-tower-for-dallas)
+	Estetica, innovazione e altissima qualità fanno parte del DNA di Rolex; questa filosofia contagia anche gli edifici che il Marchio fa costruire nel mondo intero. Ne è testimonianza la torre elicoidale di Dallas, firmata dall’architetto Kengo Kuma, che sembra fuoriuscire dalla terra.
+- ### [Walter Murch e Sara Fgaier - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/walter-murch-and-sara-fgaier)
+	Cosa fa un montatore? Walter Murch, montatore di numerosi film iconici, e la sua Allieva, la montatrice italiana Sara Fgaier, forniscono una breve descrizione delle complesse abilità richieste per il montaggio di un lungometraggio, il fulcro del loro anno di mentorato.
+- ### [Alejandro G. Iñárritu e Tom Shoval - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/alejandro-g-inarritu-and-tom-shoval)
+	L’anno di mentorato del giovane regista israeliano Tom Shoval si è evoluto con l’entusiasmo degno di una sceneggiatura hollywoodiana. Shoval ha trascorso diverse settimane con Alejandro G. Iñárritu sul set di <i>Revenant - Redivivo</i>, dove il premio Oscar gli ha rivelato le “possibilità infinite” della regia.
+- ### [Martin Scorsese e Celina Murga - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/martin-scorsese-and-celina-murga)
+	Secondo il cineasta statunitense Martin Scorsese, per essere un buon regista bisogna diventare parte del mondo che si sta filmando. La sua Allieva, la regista argentina Celina Murga, lo fa con grande passione e, a detta di Scorsese, è una cineasta nata. L’ammirazione è reciproca. “Martin è un Maestro eccezionale”, afferma Murga.
+- ### [Mira Nair e Aditya Assarat - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/mira-nair-and-aditya-assarat)
+	Seguendo la sua Maestra Mira Nair sul set mentre dirige <i>Il destino nel nome</i> a Calcutta, in India, il regista thailandese Aditya Assarat scopre alcuni dei segreti che stanno dietro la sua arte cinematografica: “È come l’ospite di una festa. Molto sta nel sapere tenere insieme la troupe cinematografica”. Mira Nair la descrive diversamente: “Si tratta di saper orchestrare il caos”, afferma.
+- ### [Kaija Saariaho e Vasco Mendonça - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/kaija-saariaho-and-vasco-mendonca)
+	Comporre musica è un lavoro solitario. Per la finlandese Kaija Saariaho e il suo Allievo portoghese Vasco Mendonça, il mentorato è stato una preziosa opportunità per “arricchirsi” a vicenda disquisendo di musica nelle sale da concerto d’Europa e degli Stati Uniti.
+- ### [Una serie di concerti infonde nuova vita al mondo della musica - Film](https://www.rolex.org/it/arts/video/perpetual-music)
+	L’iniziativa “Perpetual Music”, guidata dai Testimonial Rolex, non intrattiene solo il pubblico di tutto il mondo, ma dà anche agli artisti la possibilità di fare ciò che più amano: esibirsi e condividere il loro talento.
+- ### [Margaret Atwood e Naomi Alderman - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/margaret-atwood-and-naomi-alderman)
+	La romanziera canadese Margaret Atwood paragona il mentorato all’apertura di nuove porte. “Parliamo la stessa lingua”, ha dichiarato Atwood in merito alla sua Allieva, la giovane autrice britannica Naomi Alderman. La loro collaborazione si è estesa alla stesura di un romanzo a tema zombie a quattro mani.
+- ### [Jessye Norman e Susan Platts - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/jessye-norman-and-susan-platts)
+	Maestro e Allievo Rolex per la Musica, 2004-2005
+- ### [Stephen Frears e Josué Méndez - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/stephen-frears-and-josue-mendez)
+	“Per un peruviano lavorare con \[Stephen\] Frears, è un sogno irrealizzabile”, afferma il giovane regista di Lima Josué Méndez in merito al noto regista britannico. Ma questo è esattamente ciò che è successo quando Frears ha scelto Méndez come Allievo e hanno iniziato a condividere la “meticolosa arte” della regia, mentre Méndez dirigeva il suo secondo lungometraggio.
+- ### [La passione per l’architettura - Arte](https://www.rolex.org/it/perpetual/a-passion-for-architecture)
+	Quando Rolex costruisce o amplia la propria Sede o gli stabilimenti produttivi, lo fa con la stessa attenzione al dettaglio e all’estetica che caratterizza la produzione dei suoi preziosi Cronometri.
+- ### [Jennifer Tipton e Sebastián Solórzano Rodríguez - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/jennifer-tipton-and-sebastian-solorzano-rodriguez)
+	La lighting designer di fama mondiale Jennifer Tipton afferma che “la luce è la sostanza della nostra esistenza”. In completo accordo con questa visione, il suo Allievo, il messicano Sebastián Solórzano Rodríguez, ha assistito Tipton nella creazione di sistemi di illuminazione per performance in teatri e teatri d’opera di tutto il mondo.
+- ### [Robert Lepage e Matías Umpierrez - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/robert-lepage-and-matias-umpierrez)
+	Il canadese Robert Lepage è noto in tutto il mondo per la sua abilità nelle produzioni multidimensionali. Con la sua visione globale e la sua padronanza delle tecnologie, il suo Allievo, l’argentino Matías Umpierrez, sta ridefinendo gli orizzonti del teatro. Il loro mentorato ha dato vita a un affascinante scambio che Lepage ha descritto come “la migliore delle collaborazioni”.
+- ### [Robert Wilson e Federico León - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/robert-wilson-and-federico-leon)
+	Partecipare al programma di mentorato “non significa imparare in maniera convenzionale. Significa riuscire a interagire. Due artisti si incontrano e interagiscono”, afferma il talentuoso regista argentino Federico León in merito all’anno di collaborazione con il suo Maestro, il leggendario regista e drammaturgo Robert Wilson.
+- ### [Alexei Ratmansky e Myles Thatcher - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/alexei-ratmansky-myles-thatcher)
+	Il coreografo di origine russa Alexei Ratmansky e il suo Allievo Myles Thatcher condividono un profondo rispetto per il “linguaggio” della danza classica. Entrambi si dedicano attivamente al rafforzamento della loro forma d’arte per il XXI secolo. Una collaborazione perfetta.
+- ### [Kazuyo Sejima e Yang Zhao - Film](https://www.rolex.org/it/rolex-mentor-protege/video/architecture/kazuyo-sejima-and-yang-zhao)
+	La Maestra giapponese Kazuyo Sejima e il suo Allievo Yang Zhao ritengono che l’architettura non sia una mera costruzione di edifici, ma piuttosto una disciplina che ha un forte impatto sulle nostre vite. Hanno messo in pratica la loro convinzione con un progetto umanitario in cui Zhao ha progettato un luogo di ritrovo per la comunità in un’area devastata dallo tsunami.
+- ### [Sir David Chipperfield e Simon Kretz - Film](https://www.rolex.org/it/rolex-mentor-protege/video/architecture/sir-david-chipperfield-and-simon-kretz)
+	Per Sir David Chipperfield e il suo Allievo svizzero Simon Kretz, l’anno di mentorato è stato un’occasione propizia per un’analisi dettagliata dell’impatto dell’architettura sulla società, ovvero per esaminare come gli edifici possono dar vita a solide comunità se connessi alle persone e all’ambiente.
+- ### [Peter Zumthor e Gloria Cabral - Film](https://www.rolex.org/it/rolex-mentor-protege/video/architecture/peter-zumthor-and-gloria-cabral)
+	Gloria Cabral, proveniente dalla capitale paraguaiana di Asunción, ha trascorso diverse settimane nello studio svizzero del suo Maestro Peter Zumthor, che l’ha coinvolta nell’intero processo di costruzione di una cappella del tè in Corea del Sud, aprendole la mente “in modo radicale”.
+- ### [Anne Teresa De Keersmaeker e Anani Dodji Sanouvi - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/anne-teresa-de-keersmaeker-anani-dodji-sanouvi)
+	Anne Teresa De Keersmaeker, coreografa di fama mondiale, dice del suo Allievo togolese Anani Dodji Sanouvi: “È come il sole… la sua energia è una vera fonte di ispirazione”. Sanouvi, dal canto suo, dichiara che un anno di mentorato con De Keersmaeker è l’occasione della sua vita.
+- ### [Jiří Kylián e Jason Akira Somma - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/jiri-kylian-and-jason-akira-somma)
+	Jason Akira Somma descrive se stesso come “un artista visivo di danza”, trascendendo i confini artistici. In Jiří Kylián ha trovato non solo un Maestro, ma anche un “life coach” felice di condividere le sue esperienze di vita. Il mentorato, afferma Somma, “mi ha cambiato completamente la vita”.
+- ### [Lin Hwai-min e Eduardo Fukushima - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/lin-hwai-min-and-eduardo-fukushima)
+	Il giovane ballerino brasiliano Eduardo Fukushima si è spostato da San Paolo a Taiwan, dove il suo Maestro Lin Hwai-min, coreografo di punta del continente asiatico, elabora la sua esclusiva filosofia sull’essere e il movimento. Un anno con questa “persona estremamente generosa \[...\] mi ha cambiato la vita”, dichiara Fukushima.
+- ### [Trisha Brown e Lee Serle - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/trisha-brown-and-lee-serle)
+	Per il giovane ballerino australiano Lee Serle, trascorrere un anno a New York come Allievo di una coreografa di fama mondiale del calibro di Trisha Brown è un’opportunità per “risalire alla fonte”, poiché entrambi sono alla ricerca di originalità, umanità e bellezza del movimento.
+- ### [Saburo Teshigawara e Junaid Jemal Sendi - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/saburo-teshigawara-and-junaid-jemal-sendi)
+	“Rolex mi ha presentato al mondo”, dichiara l’etiope Junaid Jemal Sendi, la cui vita è stata trasformata dalla danza. Il suo Maestro, il noto coreografo giapponese Saburo Teshigawara, l’ha portato in Europa e in Giappone. “Ora ha aperto la porta del proprio futuro”, afferma Teshigawara con profonda ammirazione. “E vuole andare avanti”.
+- ### [Ohad Naharin e Londiwe Khoza - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/ohad-naharin-and-londiwe-khoza)
+	La sudafricana Londiwe Khoza ha iniziato gli studi di danza all’età di cinque anni, ma quando si è unita alla Batsheva Dance Company di Ohad Naharin, a Tel Aviv, per il suo anno di mentorato, ha dovuto imparare a ballare con una nuova consapevolezza corporea. Dopo tre mesi, ha “smesso di pensare e ha iniziato a sentirla”.
+- ### [William Forsythe e Sang Jijia - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/william-forsythe-and-sang-jijia)
+	William Forsythe, uno dei maggiori innovatori della danza moderna, ritiene che il balletto “non debba essere lasciato nel XIX secolo”. Il suo approccio radicale si rispecchia appieno nell’arte del talentuoso ballerino cinese di origine tibetana Sang Jijia. “Sang-ba è come l’acqua incontaminata”, afferma Forsythe. “Limpido e inarrestabile.”
+- ### [Zhang Yimou e Annemarie Jacir - Film](https://www.rolex.org/it/rolex-mentor-protege/video/film/zhang-yimou-and-annemarie-jacir)
+	Per Zhang Yimou, cineasta cinese ideatore di film straordinari, il successo non deriva dall’ispirazione, ma è frutto “degli sforzi e delle difficoltà” affrontati nel dirigere ogni singola scena. Per la sua Allieva Annemarie Jacir, che ha lavorato al suo fianco sul set e in studio mentre realizzava il film <i>I fiori della guerra</i>, il suo eccezionale “senso visivo” è l’elemento chiave delle sue storie intense e movimentate.
+- ### [Hans Magnus Enzensberger e Tracy K. Smith - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/hans-magnus-enzensberger-and-tracy-k-smith)
+	Nel corso del mentorato, che descrivono come uno scambio intenso e gioioso, il poeta tedesco Hans Magnus Enzensberger e la poetessa americana Tracy K. Smith hanno esplorato la natura della poesia. “La poesia è nella mente di tutti”, afferma Enzensberger. Ma la loro ricerca è andata oltre, spingendosi all’analisi della storia e dell’identità, mentre Smith realizzava il sogno di scrivere le memorie della sua famiglia.
+- ### [Tahar Ben Jelloun e Edem Awumey - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/tahar-ben-jelloun-and-edem-awumey)
+	Tahar Ben Jelloun, marocchino di nascita e ora uno degli scrittori più acclamati di Francia, dichiara che “la letteratura non è rassicurante ma inquietante”. Il togolese Edem Awumey, intento alla stesura di un romanzo di “notti buie e fantasmi”, era l’Allievo ideale da accompagnare nello stimolante processo della creazione letteraria.
+- ### [Mario Vargas Llosa e Antonio García Ángel - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/mario-vargas-llosa-and-antonio-garcia-angel)
+	“Nessuno può insegnare a un altro a scrivere, ma tutt’al più può insegnargli cosa non fare quando sta scrivendo un romanzo”, dichiara lo scrittore peruviano Mario Vargas Llosa, vincitore del premio Nobel per la letteratura. Questa e molte altre sono le lezioni impartite al romanziere colombiano Antonio García Ángel nel corso del suo fruttuoso anno di mentorato. L’Allievo ha inviato le sue stesure al Maestro ogni settimana, intrattenendo poi con lui delle fertili analisi letterarie telefonicamente.
+- ### [Michael Ondaatje e Miroslav Penkov - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/michael-ondaatje-and-miroslav-penkov)
+	L’Allievo bulgaro Miroslav Penkov non riusciva a credere che il suo Maestro fosse Michael Ondaatje, “una persona che ne esce a testa alta fra i giganti del settore”. Per Ondaatje, autore de <i>Il paziente inglese</i>, “le nostre vite sono completamente disorganizzate”, quindi osservare Penkov dare un ordine alle cose scrivendo un romanzo è stata una fonte di piacere.
+- ### [Mia Couto e Julián Fuks - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/mia-couto-and-julian-fuks)
+	Il rapporto di Mia Couto con Julián Fuks è stato una fusione di interessi forgiata dalla loro esperienza comune di scrittori che vivono in ex colonie portoghesi. Liberato dal suo stile fondato sull’autofiction dal suo Maestro, Julián Fuks ha scoperto di poter esplorare la propria immaginazione in un modo nuovo.
+- ### [Toni Morrison e Julia Leigh - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/toni-morrison-and-julia-leigh)
+	Il premio Nobel per la letteratura Toni Morrison è una scrittrice, un’insegnante e un’esperta editrice: la Maestra perfetta per la giovane australiana Julia Leigh, alle prese con la stesura del suo secondo romanzo.
+- ### [Wole Soyinka e Tara June Winch - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/wole-soyinka-and-tara-june-winch)
+	Definendo il loro mentorato come “un processo di sviluppo”, Wole Soyinka, il primo scrittore africano ad aver vinto il Nobel per la letteratura, incoraggia la sua Allieva Tara June Winch mentre si tormenta sulla buona riuscita dei suoi scritti. Quando si scrive, dice Soyinka riferendosi anche a se stesso, “tutto è confuso”. È la riscrittura che ne segue che contraddistingue un vero scrittore.
+- ### [Brian Eno e Ben Frost - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/brian-eno-ben-frost)
+	Mentre creano una traccia di musica elettronica, durante l’anno di mentorato, gli artisti multimediali Brian Eno e Ben Frost svelano i due lati della composizione: la ricerca dell’ispirazione e l’analisi della musica creata e di come sarà ascoltata.
+- ### [Philip Glass e Pauchi Sasaki - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/philip-glass-and-pauchi-sasaki)
+	Per il compositore Philip Glass, “la musica è un luogo”. Ha scelto come Allieva la peruviana Pauchi Sasaki perché era convinto che l’anno di mentorato sarebbe stato particolarmente fruttuoso per lei. L’ha aiutata a esplorare non solo gli aspetti più sofisticati della composizione, ma anche questioni più pratiche che riguardano la vita di un musicista professionista.
+- ### [Pinchas Zukerman e David Aaron Carpenter - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/pinchas-zukerman-and-david-aaron-carpenter)
+	Il violinista e direttore d’orchestra di fama mondiale Pinchas Zukerman dichiara: “Il violino è tutta la mia vita”. Vede la stessa dedizione a questo strumento nel suo Allievo, il giovane violinista americano David Aaron Carpenter.
+- ### [Youssou N’Dour e Aurelio Martínez - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/youssou-n-dour-and-aurelio-martinez)
+	Un anno di mentorato con Youssou N’Dour ha dato all’honduregno Aurelio Martínez non solo l’opportunità di sviluppare le sue doti musicali e la fiducia in se stesso in compagnia dell’“icona della musica africana”, ma anche di imparare di più sul panorama storico e musicale dei suoi antenati africani visitando per la prima volta il continente di N’Dour.
+- ### [Sir Peter Hall e Lara Foot - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/sir-peter-hall-and-lara-foot)
+	Sotto l’occhio attento del regista britannico Sir Peter Hall, la sua Allieva, la sudafricana Lara Foot, dirige un’opera (da lei scritta) incentrata su un tema che è ancora un tabù nel suo paese. “Il Sudafrica è una terra di contraddizioni”, afferma lei, e queste contraddizioni sono un ottimo oggetto teatrale, come dimostra con la sua pièce.
+- ### [Julie Taymor e Selina Cartmell - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/julie-taymor-and-selina-cartmell)
+	Julie Taymor, nota per le sue strabilianti opere teatrali, cinematografiche e liriche, voleva fare da mentore a “qualcuno con cui potesse avere un dialogo”. Ha trovato la sua Allieva ideale nella regista britannica Selina Cartmell, per la quale il mentorato è un’opportunità che offre il raro privilegio di osservare un’altra regista intenta alla creazione di una nuova opera, <i>Grendel</i>.
+- ### [Kate Valk e Nahuel Perez Biscayart - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/kate-valk-and-nahuel-perez-biscayart)
+	L’attore argentino Nahuel Perez Biscayart si è trasferito a New York per trascorrere un anno con la sua Maestra, Kate Valk, membro fondatore del Wooster Group. Qui ha capito che l’ispirazione scaturisce dall’abilità di produrre, tentare, fallire e trovare la bellezza negli imprevisti.
+- ### [Patrice Chéreau e Michał Borczuch - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/patrice-chereau-and-michal-borczuch)
+	Il regista francese Patrice Chéreau era solito descrivere se stesso come “uno schiavo del testo”. Il suo Allievo Michał Borczuch adotta invece l’approccio inverso, con una regia di stile “anarchico”. “Non ero interessato a una persona immersa in un lavoro simile al mio”, ha affermato Chéreau.
+- ### [Peter Sellars e Maya Zbib - Film](https://www.rolex.org/it/rolex-mentor-protege/video/theatre/peter-sellars-and-maya-zbib)
+	Con una performance dal vivo eseguita a Chicago e Beirut, Peter Sellars e Maya Zbib spiegano in maniera inattesa e molto diversa la natura dell’arte, descrivendosi a vicenda e raccontando il loro mentorato e come intendono cambiare il mondo.
+- ### [Rebecca Horn e Masanori Handa - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/rebecca-horn-and-masanori-handa)
+	Rebecca Horn e Masanori Handa, due artisti visivi enigmatici provenienti da due paesi molto diversi, la Germania e il Giappone, hanno instaurato rapidamente una forte amicizia e un’ammirazione reciproca per i rispettivi lavori, che sfidano le categorie. Nel corso del mentorato, la comunicazione non si è limitata al linguaggio, ma si è estesa anche alla pittura, stimolando la loro creatività.
+- ### [William Kentridge e Mateo López - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/william-kentridge-and-mateo-lopez)
+	Grazie alla sua formazione come architetto, l’Allievo per le Arti figurative Mateo López è “estremamente preciso”, afferma il Maestro William Kentridge. Nel suo studio di Johannesburg, Kentridge lo spinge a uscire dalla sua “zona di comfort”, aiutandolo a sviluppare un approccio più spontaneo alla creatività.
+- ### [Olafur Eliasson e Sammy Baloji - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/olafur-eliasson-and-sammy-baloji)
+	Per Sammy Baloji, che aveva lavorato principalmente nel campo della fotografia, l’immersione nella vita e nel lavoro del suo Maestro, l’artista multimediale Olafur Eliasson, l’ha spinto a una trasformazione, arricchendo il suo lavoro e portandolo a una maggiore complessità di linguaggio, nonché alla scoperta di nuovi materiali e modalità espressive.
+- ### [John Baldessari e Alejandro Cesarco - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/john-baldessari-and-alejandro-cesarco)
+	Il celebre artista concettuale americano John Baldessari ritiene che “l’arte sia molto più che semplice pittura”. Il suo mentorato con l’uruguaiano Alejandro Cesarco è stato un’intensa collaborazione che ha fuso arti visive, testi, ironia e umorismo nella creazione di un nuovo capolavoro.
+- ### [David Hockney e Matthias Weischer - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/david-hockney-and-matthias-weischer)
+	“Non ho mai insegnato prima”, afferma David Hockney, il più noto artista britannico vivente. Ha accettato di rivestire il ruolo di Maestro nella speranza di trarne anche degli insegnamenti. Dopo aver viaggiato e dipinto con il suo Allievo, il tedesco Matthias Weischer, Hockney afferma: “Ho un nuovo amico, un giovane pittore. Un bravo maestro impara dai suoi allievi”.
+- ### [Anish Kapoor e Nicholas Hlobo - Film](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts/anish-kapoor-and-nicholas-hlobo)
+	In un mentorato che si configura più come un processo che come una collaborazione a un lavoro comune, l’arte di Nicholas Hlobo, frutto di numerose ore di sapiente lavorazione artigianale, è contrastata dalle opere monumentali create dal suo Maestro Anish Kapoor, che sembrano “essere fatte dagli dei”.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/visual-arts)
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/video/visual-arts)
+- ### [Zakir Hussain e Marcus Gilmore - Film](https://www.rolex.org/it/rolex-mentor-protege/video/music/marcus-gilmore-and-zakir-hussain)
+	Il virtuoso del tabla indiano Zakir Hussain e il giovane batterista statunitense Marcus Gilmore credono che la creazione musicale debba mantenere un equilibrio fra il rispetto del passato e la scoperta di nuove possibilità.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/video/music)
+- ### [Colm Tóibín e Colin Barrett - Film](https://www.rolex.org/it/rolex-mentor-protege/video/literature/colm-toibin-and-colin-barrett)
+	Lo scrittore irlandese Colin Barrett sa che la scrittura è una ricerca solitaria, ma riconosce anche la necessità per uno scrittore di fuggire alla solitudine e incontrare altre persone e altri autori.
+- ### [Crystal Pite e Khoudia Touré - Film](https://www.rolex.org/it/rolex-mentor-protege/video/dance/khoudia-toure-and-crystal-pite)
+	La danza è una forma d’arte senza parole e con pochi manuali per impararla. Per questo, per due coreografe avere l’occasione di lavorare fianco a fianco come è stato per Khoudia Touré, ballerina senegalese di hip hop, e Crystal Pite, superstar canadese della danza, è un’esperienza impagabile.
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/music)
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/literature)
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/film)
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/dance)
+- ### [Rolex.org - Siamo spiacenti](https://www.rolex.org/it/rolex-mentor-protege/architecture)
+- ### [Intervista a Martin Scorsese - Rolex e il cinema](https://www.rolex.org/it/arts/video/martin-scorsese-interview)
+	Ai futuri registi Martin Scorsese offre parole incoraggianti: “Non abbiate paura di buttarvi in qualsiasi cosa vi venga in mente, anche se agli altri potrà sembrare una pazzia”. Regista, produttore e sceneggiatore all’origine di molti dei più grandi classici della storia del cinema, non smette mai di superare i suoi limiti e di spingere gli altri a sviluppare la propria creatività.
+- ### [Intervista a James Cameron - Rolex e il cinema](https://www.rolex.org/it/arts/video/james-cameron-interview)
+	James Cameron è noto per usare tecnologie all’avanguardia nei suoi film, ma quando si tratta di suggerimenti per i giovani registi consiglia loro di “parlare al cuore dello spettatore”. Il regista di <i>Titanic</i> e <i>Avatar</i> crede che non ci sia niente di più importante che “esprimersi in modo autentico e rappresentare la condizione umana al suo livello più elementare”.

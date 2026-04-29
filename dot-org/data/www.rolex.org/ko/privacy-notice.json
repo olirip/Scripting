@@ -1,0 +1,2051 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "ko",
+      "wa": {
+        "contentTag": "",
+        "pageType": "legal page",
+        "pageSiteSection": "privacy-notice",
+        "pageSiteSubSection": "",
+        "environmentName": "production",
+        "pageName": "privacy-notice",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:17:52Z",
+        "dateModified": "2020-03-25T11:01:28Z"
+      }
+    },
+    "route": {
+      "name": "privacy-notice",
+      "displayName": "privacy-notice",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": true
+        },
+        "pageSiteSubSection": {
+          "value": ""
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex.org - 개인 정보 고지"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "롤렉스는 사용자의 사생활을 존중하며 사용자의 개인 정보 보호를 위해 노력하고 있습니다. 본 개인 정보 고지는 사용자가 당사 웹사이트에 방문했을 때(접속 위치와 상관없이) 당사가 사용자의 개인 정보를 관리하는 방법 및 사용자의 사생활 보호 권리와 법적 보호 장치에 대한 정보를 제공합니다."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": ""
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "0adbca3a-92b5-4d36-9aae-c6cd338ef15a",
+          "url": "/Content/PageType/legal-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex.org - Privacy Notice"
+        },
+        "metadescription": {
+          "value": "롤렉스는 사용자의 사생활을 존중하며 사용자의 개인 정보 보호를 위해 노력하고 있습니다. 본 개인 정보 고지는 사용자가 당사 웹사이트에 방문했을 때(접속 위치와 상관없이) 당사가 사용자의 개인 정보를 관리하는 방법 및 사용자의 사생활 보호 권리와 법적 보호 장치에 대한 정보를 제공합니다."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "privacy-notice"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": null,
+        "tag1": null,
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex.org - 개인 정보 고지"
+        },
+        "previewImage_src": {
+          "value": ""
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": ""
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "567cdbfe-1551-5ec4-bc16-acb07c9da2f0",
+      "itemLanguage": "ko",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b6a4da11-f8e6-5c62-b373-e13758dcff41",
+                  "componentName": "CoverParallax",
+                  "dataSource": "{2A390515-8450-5EE5-A3C1-7343236E904B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/legal-notices/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "개인 정보 고지"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/legal-notices/mobile_0001.jpg"
+                    },
+                    "background_description": {
+                      "value": ""
+                    },
+                    "background_title": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "99e7180e-8675-5000-8ceb-5e8a2369d5ce",
+                  "componentName": "SimpleText",
+                  "dataSource": "{EE7E133E-23E0-5B89-9A9B-9AC9A079793F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "소개"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 사용자의 사생활을 존중하며 사용자의 개인 정보 보호를 위해 노력하고 있습니다. 본 개인 정보 고지는 사용자가 당사 웹사이트에 방문했을 때(접속 위치와 상관없이) 당사가 사용자의 개인 정보를 관리하는 방법 및 사용자의 사생활 보호 권리와 법적 보호 장치에 대한 정보를 제공합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f8ce9443-c906-5280-ad1b-48da025a8a63",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CAE44761-47DC-51EE-9853-B31A1CC2F77E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "관리자"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "본 개인 정보 고지에서 언급되는 “롤렉스”, “본사”, “당사” 또는 “저희”는 ROLEX SA를 지칭합니다.<br><br><b>Rolex SA<br>3-5-7 rue François-Dussaud<br>1211 Geneva 26<br>Switzerland<br><br>스위스 사업자 번호: CH-660.0.012.920-4</b><br><br>본 웹사이트에서 수집된 개인 정보의 관리자는 ROLEX SA입니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "85abf711-37f4-5685-9d63-8255156ed40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BC9B96CF-95CB-59E1-87A0-FFFC0C04237B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "개인 정보 관리자"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 본 개인 정보 고지와 관련된 질문 사항들을 담당할 개인 정보 관리자를 임명하였습니다. 사용자의 법적 권리 행사에 대한 요청을 포함하여 본 고지에 관한 질문이 있을 경우, 개인 정보 관리자에게 문의해주시기 바랍니다.<br /><br />Rolex SA<br />우편 주소: 3-5-7, rue François-Dussaud, 1211 Geneva 26, Switzerland<br />전화번호: +4122 302 22 00<br />이메일 주소: <a href=\"mailto:privacy@rolex.com\">privacy@rolex.com</a>\r\n<br><br>\r\nROLEX SA는 데이터 보호와 관련된 문의에만 응답합니다. 영어 또는 프랑스어로 문의해주시기 바랍니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "21659dbd-5a3b-5f47-b089-5f0d4ffca74a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9DAA5C8A-C043-59FC-AEC5-635D604229F7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "감독 기관"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "또한, 사용자는 해당 관할구역의 개인 정보 보호 감독 기관에 신고할 권리가 있습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "70d10bbb-3225-505f-92d9-c8c6c219a2f9",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3AE514A5-1DE8-5E2C-90A0-648BCA60E7CE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "사용자에게서 수집하는 정보"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>개인 정보란 특정 개인을 식별할 수 있는 모든 정보를 의미합니다. 개인 식별이 불가능한 익명 데이터는 개인 정보에 포함되지 않습니다.<br>롤렉스는 당사에서 다음과 같이 구분한 개인 정보를 수집, 활용, 저장 그리고 이전할 수 있습니다.<br>- <b>신원 정보</b> 이름, 결혼 전 성, 성, 사용자명 또는 기타 식별자, 결혼 여부, 직책, 생년월일 그리고 성별.<br>- <b>연락처</b> 주소, 이메일 주소 그리고 전화번호.<br>- <b>기술 정보</b> IP 주소, 사용자의 로그인 정보, 브라우저 종류 및 버전, 표준 시간대 설정 및 위치, 브라우저 플러그인 종류 및 버전, 운영 체제 및 플랫폼 그리고 본 웹사이트에 접속하는데 사용한 사용자의 장치에 담긴 다른 기술.<br>- <b>사용 정보</b> 본 웹사이트 사용 방식에 관한 정보.<br>- <b>마케팅 및 커뮤니케이션 정보</b> 사용자가 선호하는 당사 및 제3자의 마케팅 방식과 선호하는 커뮤니케이션 방식에 관한 정보.<br>- 롤렉스는 인종 또는 민족성, 종교적 또는 철학적 신념, 성 생활, 성적 취향, 정치적 견해, 노동 조합 가입 여부, 건강 그리고 유전자 및 생체 정보를 포함한 <b>민감 정보(Special Categories of Personal Data)</b>를 절대 수집하지 않습니다. 또한, 당사는 형사상의 범죄 행위와 유죄 판결에 대한 어떠한 정보도 수집하지 않습니다.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad00eba1-682d-5ab9-806f-6200ba4adc50",
+                  "componentName": "SimpleText",
+                  "dataSource": "{DFEF8D0B-C17C-549E-9648-451337060E38}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "사용자의 개인 정보를 수집하는 방법"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>롤렉스는 다음과 같은 방식으로 사용자의 개인 정보를 수집합니다.<br>- <b>직접적인 상호작용. </b> 당사는 사용자가 본인의 개인 정보를 기입하거나 우편, 전화, 이메일 또는 다른 수단을 사용하여 당사에 연락을 취하는 경우, 사용자의 신분 정보, 연락처 그리고 마케팅 및 커뮤니케이션 정보를 수집할 수 있습니다.<br>- <b>자동 생성되는 정보. </b> 사용자가 본 웹사이트를 이용하는 동안 롤렉스는 사용자의 기기, 브라우저의 활동 및 패턴에 대한 기술 정보를 자동으로 수집합니다. 이러한 개인 정보는 쿠키, 서버 로그 그리고 기타 유사한 기술을 사용해 수집됩니다. 자세한 사항은 롤렉스의 쿠키 정책을 참고해 주십시오. </br>- <b>제 3자.</b> 당사는 다음과 같은 다양한 제3자로부터 사용자의 개인 정보를 수집합니다.<br> 분석 솔루션:<br>   어도비 애널리틱스(아일랜드 소재)<br>   컨텐츠 스퀘어(프랑스 소재)</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e4ccf3b2-e28b-50b2-b7af-7876e1d3b0cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{83BF0EBB-3746-5067-9101-B703D5BDFE48}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "개인 정보 활용 목적"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 사용자의 개인 정보를 활용하고자 하는 방식과 그에 대한 법적 근거를 아래 기재하였습니다. 필요한 경우, 당사의 적법한 이해 또한 고지하고 있습니다.<br>당사는 활용 목적에 따라 하나 이상의 법적 근거에 기반하여 사용자의 개인 정보를 활용합니다. 아래 표에서 개인 정보를 처리하기 위해 제시된 하나 이상의 특정 법적 근거에 대한 세부 정보가 필요한 경우, 당사로 문의해주시기 바랍니다.<br><br><b>목적-활동 /</b> 개인 정보 고지 개정에 대한 공지<br><b>개인 정보의 종류 /</b> (a) 신원 정보 (b) 연락처 (c) 마케팅 및 커뮤니케이션 정보 <br><b>적법한 이해를 포함한 개인 정보 처리에 대한 법적 근거 /</b> (a) 사용자와의 계약 이행 (b) 법률상의 의무 준수를 위해 필요 (c) 당사의 적법한 이해 추구를 위해 필요(기록 업데이트)<br> <b>보관 기간 /</b> 12개월<br><br><b>목적-활동 / </b> 사업과 본 웹사이트의 운영 및 보호(문제 해결, 데이터 분석, 테스트, 시스템 유지보수, 지원, 리포트 그리고 데이터 호스팅 포함) <br><b>개인 정보의 종류 / </b>(a) 신원 정보 (b) 연락처 (c) 기술 정보 <br><b>적법한 이해를 포함한 개인 정보 처리에 대한 법적 근거 / </b>(a) 당사의 적법한 이해 추구를 위해 필요(사업 운영, 행정 및 IT 서비스 제공, 네트워크 보안, 사업 재편 또는 그룹 구조 조정 시 부정 행위 방지) (b) 법률상의 의무 준수를 위해 필요 <br><b>보관 기간 /</b> 12개월<br><br><b>목적-활동 / </b> 당사의 웹사이트, 제품/서비스, 마케팅, 고객 관계 그리고 경험 개선을 위한 데이터를 분석 사용 <br><b>개인 정보의 종류 / </b>(a) 기술 정보 (b) 사용 정보 <br><b>적법한 이해를 포함한 개인 정보 처리에 대한 법적 근거 / </b>당사의 적법한 이해 추구를 위해 필요(당사의 제품 및 서비스를 사용하는 고객 분류, 웹사이트 업데이트, 사업 발전 그리고 마케팅 전략 고지) <br><b>보관 기간 /</b> 25개월</b><br><br><b>목적-활동 / </b> 사용자에게 마케팅 소식과 당사 및 당사 제품에 대한 정보 제공 <br><b>개인 정보의 종류 /</b> (a) 신원 정보 (b) 연락처 (c) 마케팅 및 커뮤니케이션 정보  <br><b>적법한 이해를 포함한 개인 정보 처리에 대한 법적 근거 / </b>(a) 당사의 적법한 이해 추구를 위해 필요(제품/서비스 개발, 사업 성장) (b) 동의 <br><b>보관 기간 /</b> 데이터 주체가 더 이상 마케팅 커뮤니케이션을 수신하지 않는다는 고지에 따라</b>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0d06b3c1-d9e3-58bc-8773-f0e3df8192a8",
+                  "componentName": "SimpleText",
+                  "dataSource": "{805A319B-6BAC-5E18-89E9-657CD14080D4}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "활용 목적의 변경"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 원래의 목적과 유사한 목적으로 개인 정보를 사용할 타당한 이유가 있다고 판단되지 않는 한, 사용자의 개인 정보를 수집 당시의 목적 외의 다른 용도로 사용하지 않습니다. 개인 정보 처리를 위한 새로운 목적이 본래의 목적과 어떻게 유사한지에 대한 자세한 설명은 당사로 문의해주시기 바랍니다.<br>기존의 목적과 관련이 없는 용도로 사용자의 개인 정보를 활용해야 하는 경우, 당사는 사용자에게 사실을 고지하고 활용에 대한 법적 근거를 제시할 것입니다.<br>법적으로 요구 또는 허용된 상기 규칙에 의거, 사용자가 모르게 또는 사용자의 동의 없이 개인 정보를 처리할 수 있음을 알려드립니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "029a9a9c-b18d-51b6-9d4f-5f99be9a52f5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6DFA24EA-6D83-5E62-A5F3-D2BBE3520C34}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "정보 보관 기간"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 법, 규제, 세금, 회계 또는 보고와 관련된 요건을 이행하는 것을 포함해 개인 정보를 수집한 목적의 달성을 위해 필요한 합리적인 기간 동안만 사용자의 개인 정보를 보관합니다. 불만이 제기되거나 당사와 소비자 간 소송이 제기될 가능성이 있다고 판단되는 경우, 당사는 사용자의 개인 정보를 더 오래 보관할 수 있습니다.<br>적절한 개인 정보 보관 기간을 결정하기 위해 롤렉스는 수집한 개인 정보의 양, 종류 그리고 민감성, 사용자의 개인 정보가 허가 없이 사용되거나 공개되어 발생할 수 있는 피해, 당사가 사용자의 개인 정보를 처리하는 목적과 다른 수단을 활용하여 동일한 목적을 달성할 수 있는지의 여부 그리고 적용 가능한 법, 규제, 세금, 회계 또는 다른 요건을 고려합니다.<br>개인 정보 특성에 따른 보관 기간은 상기 표에 자세히 기재되어 있습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9fb9f72-f987-55cd-bcd3-7419c78da433",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8A8AE836-4C91-5E7B-BE0E-784102EBD79E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "마케팅"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스 또는 제3자의 마케팅 정보 수신을 원치 않는 경우에는 언제든지 수신한 마케팅 메시지의 링크로 수신을 거부하거나 당사로 문의해주시기 바랍니다.<br>마케팅 메시지의 링크를 통해 수신을 거부하게 되면, 상기 표의 1에서 4에 해당하는 목적으로 수집된 사용자의 개인 정보에는 적용되지 않습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7f2374ed-937d-5863-9273-7753124f406b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3F9683D5-D42E-510E-BD2D-A88F4C8393B0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "개인 정보 공개"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>귀하의 동의에 따라, 롤렉스는 사용자의 개인 정보를 당사 내/외부 제3자와 공유할 수 있습니다.</p><p>어떤 경우에도, 롤렉스는 모든 제3자가 사용자의 개인 정보를 보호하며 적법한 방식으로 처리할 것을 요구합니다. 당사는 당사의 제3자 서비스 제공 업체들이 사용자의 개인 정보를 무단으로 사용하는 것을 금지하며, 특정한 목적 및 당사의 지침에 따라 개인 정보를 처리하도록 합니다.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "55d26222-2fc7-5ae2-81df-64f5a90b6c6d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9F4B0691-33A8-51D4-B68E-AA89C285ED03}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "국외 이전"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 롤렉스 그룹 내의 자회사 및 계열사들과 사용자의 개인 정보를 공유합니다. 여기에는 유럽 경제 지역(European Economic Area, EEA) 외부로 사용자의 개인 정보를 이전시키는 것이 포함됩니다.<br>당사의 외부 제3자 중 일부가 EEA 외부에 소재지를 두고 있어, 그들 기업이 사용자의 개인 정보를 처리하는 경우, 사용자의 개인 정보가 EEA 밖으로 이전되게 됩니다.<br><br>롤렉스가 EEA 외부로 사용자의 개인 정보를 이전하는 경우, 당사는 다음의 보호 조치 중 하나 이상의 조치가 반드시 취해지도록 함으로써 EEA 내부와 동일한 수준의 개인 정보 보호를 보장합니다.<br>- 당사는 유럽연합 집행위원회(European Commission)가 개인 정보에 대한 적절한 보호를 제공한다고 간주하는 국가에만 사용자의 개인 정보를 이전합니다. 자세한 사항은 유럽연합 집행위원회: 비유럽연합 국가에서의 개인 정보 보호 적합성을 참조하여 주십시오. <br>- 특정 서비스 제공 업체를 사용하는 경우, 당사는 유럽과 동일한 수준의 개인 정보 보호를 보장하는 유럽연합 집행위원회가 승인한 특정 계약서를 사용할 수 있습니다. 자세한 사항은 유럽연합 집행위원회: 제3국으로의 개인 정보 이전을 위한 공식 계약서를 참조하여 주십시오.<br>- 미국을 기반으로 활동하는 서비스 제공 업체를 사용하는 경우, 해당 업체가 유럽과 미국 간에 공유되는 개인 정보에 대한 동일한 수준의 보호를 요구하는 프라이버시 쉴드(Privacy Shield)의 일원으로 판단되면 당사는 해당 업체에 개인 정보를 이전할 수 있습니다. 자세한 사항은 유럽연합 집행위원회: EU-미국 프라이버시 쉴드를 참조하여 주십시오.<br>사용자의 개인 정보를 EEA 외부로 이전할 때 사용하는 당사의 절차에 대한 자세한 정보를 원하시는 경우, 당사로 문의해주시기 바랍니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "31908a1c-9c01-5b25-9854-987529ebce8c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D6ADD97A-387E-5B81-A597-4085C61EAD0B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "개인 정보 보안"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 사용자의 개인 정보의 분실, 허가 없는 사용 혹은 접근, 변조 또는 공개를 막기 위한 보안 조치를 취하고 있습니다. 또한, 당사는 사업상의 목적으로 사용자의 개인 정보에 접근하고자 하는 직원, 대리인, 도급업자 그리고 다른 제3자에 대한 제한을 두고 있습니다. 이들은 당사의 지침이 있을 때만 사용자의 개인 정보에 접근할 수 있으며, 기밀 유지의 의무를 지켜야 합니다.<br>당사는 개인 정보 유출이 의심되는 상황에 대처하기 위한 절차를 마련하였으며, 법적인 의무가 있는 경우 사용자와 해당 규제 당국에 개인 정보 유출에 대해 고지합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6d7f98ef-8473-5896-a9a8-019352800401",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7947177D-4A81-5283-91EE-FB92609F8305}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "쿠키 & 제3자 링크"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "사용자는 모든 혹은 일부 브라우저 쿠키를 허용하지 않도록 하거나, 웹사이트가 쿠키를 생성하거나 쿠키에 접근하는 경우 알림을 보내도록 브라우저 설정을 바꿀 수 있습니다. 쿠키를 비활성화하거나 거부하면 본 웹사이트에 대한 접근이나 기능이 일부 제한될 수 있습니다. 롤렉스가 사용하는 쿠키에 대한 자세한 정보를 원하시면 여기를 클릭하십시오.<br>본 웹사이트는 제3자 웹사이트, 플러그인 그리고 애플리케이션으로 연결되는 링크를 포함하고 있습니다. 이러한 링크를 클릭하거나 연결을 허용하는 것은 제3자가 사용자의 개인 정보를 공유받을 수 있게 합니다. 롤렉스는 제3자 웹사이트를 직접 통제하지 않으며 그들의 개인 정보 고지와 관련하여 어떠한 책임도 지지 않습니다. 본 웹사이트 외의 다른 웹사이트를 방문할 경우, 각 웹사이트의 개인 정보 고지를 읽어보시기 바랍니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a1c40aa9-a764-5c82-80f6-4665c453e40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{0D81D02C-0933-568C-B127-9865BE4C8D05}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "사용자의 법적 권리"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>데이터 보호법에 의거, 경우에 따라 사용자는 본인의 개인 정보에 대해 다음과 같은 권리를 갖습니다.</p><p><b>접근 요구</b> 사용자는 당사가 보유하고 있는 사용자의 개인 정보 사본을 받을 수 있으며, 당사가 해당 정보를 합법적으로 처리하고 있는지를 확인할 권리를 갖습니다. “정보 주체 접근 요청(Data Subject Access Request)”으로 알려져 있습니다.</p><p><b>수정 요구</b> 당사가 보유하고 있는 불완전하거나 부정확한 개인 정보에 대한 수정을 요구할 수 있는 권리입니다. 당사는 사용자가 새롭게 제공한 정보가 정확한 것인지 확인할 수 있습니다.</p><p><b>삭제 요구</b> 당사가 사용자의 개인 정보를 처리할 타당한 이유가 없는 경우, 사용자는 개인 정보의 삭제 또는 제거를 요구할 수 있습니다. 또한, 당사가 합법적이지 못한 방식으로 사용자의 개인 정보를 처리하였거나, 현지 법규에 따라 사용자의 개인 정보를 삭제해야 하는 경우 사용자는 처리 거부를 요구할 권리(아래 참조)를 행사하여 개인 정보의 삭제 또는 제거를 요구할 수 있습니다. 그러나 특정 법적인 이유로 사용자의 삭제 요구에 따를 수 없는 경우도 있으며, 그런 경우 삭제 요구 시 사용자에게 고지됩니다.</p><p><b>처리 거부 요구</b> 당사가 다른 법적 근거 없이 당사 혹은 제3자의 적법한 이해를 이유로 사용자의 개인 정보를 처리하는 경우, 그리고 사용자의 기본적인 권리와 자유가 침해된다고 느껴 개인 정보의 처리를 거부하고 싶은 특정 상황이 발생하는 경우 사용자는 본인의 개인 정보 처리를 거부할 권리를 갖습니다. 또한, 당사가 직접적인 마케팅 목적으로 사용자의 개인 정보를 활용하는 경우에도 거부권을 행사할 수 있습니다. 사용자의 권리와 자유보다 더 중요한 강력한 법적 근거가 있는 경우, 당사는 해당 근거를 사용자에게 제시할 수 있습니다.</p><p><b>처리 제한 요구</b> 다음에 해당하는 경우, 사용자는 본인의 개인 정보 처리 중단을 요구할 수 있습니다.<br>- 사용자가 당사에 정보의 정확성에 대한 입증을 요구하는 경우 - 당사가 개인 정보를 비합적으로 활용했으나, 개인 정보 삭제는 원하지 않는 경우<br>- 사용자 본인의 법적 청구의 입증, 행사 또는 방어를 위해 당사가 더이상 보관하지 않아도 되는 사용자의 개인 정보를 계속 보관하기를 원하는 경우<br>- 사용자가 당사의 개인 정보 사용을 거부했지만, 당사가 개인 정보를 활용할 사용자의 권리에 우선시하는 법적인 근거가 있는지 여부를 확인해야하는 경우</p><p><b>이전 요구</b> 사용자는 제3자로 또는 사용자 본인에게 개인 정보 이전을 요구할 수 있습니다. 당사는 사용자 혹은 사용자가 선택한 제3자에게 체계적이고 일반적으로 사용되며 기계 판독이 가능한 형식으로 사용자의 개인 정보를 제공합니다. 이 권리는 사용자가 활용에 동의한 자동화된 정보 또는 당사가 사용자와의 계약 이행을 위해 사용한 정보의 경우에만 행사할 수 있습니다.</p><p><b>동의 철회</b> 당사가 사용자의 동의를 근거로 개인 정보를 처리하는 경우, 사용자는 언제든지 동의를 철회할 권리가 있습니다. 하지만, 동의를 철회하더라도 철회 전에 이루어진 개인 정보 활용의 적법성에는 영향을 미치지 않습니다. 사용자가 동의를 철회하게 되면 당사는 특정 제품이나 서비스를 사용자에게 제공하지 못하게 될 수 있습니다. 이러한 경우 철회 시에 사용자에게 해당 사실을 고지하겠습니다. 상기 권리를 행사하고자 하는 경우, 당사의 개인 정보 관리자에게 문의해주시기 바랍니다.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "54c48954-cd7d-5af2-b4f1-f557edc20a2e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CB3F263E-2B4D-5243-8E02-A15D2571F47A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "비용 청구"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "사용자는 본인의 개인 정보에 대한 접근이나 상기 권리 행사를 위해 비용을 지불하지 않아도 됩니다. 하지만 롤렉스는 사용자의 요구가 근거가 전혀 없거나, 반복적 혹은 과도할 경우, 적절한 비용을 청구할 수 있습니다. 이러한 경우, 당사는 사용자의 요구를 거부할 수 있습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dccb878e-722b-51c4-abb9-59d750fd8c80",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A731476D-442D-5275-BD70-35917FB299BC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "당사의 요청 사항"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 사용자의 신원을 확인하고 개인 정보에 대한 접근 권리를 확인하기 위해(또는 상기 명시된 다른 권리 행사를 위해) 사용자에게 특정 정보를 요청할 수 있습니다. 이는 개인 정보가 권한이 없는 사람에게 공개되는 것을 막기 위한 보안 조치입니다. 당사는 또한 좀 더 신속하게 조치를 취하기 위해 사용자에게 연락을 취해 추가 정보를 요청할 수 있습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dc2346a8-f075-5e2f-b106-f34686fbdec7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FD40E562-05C5-5603-87CD-42C10DDF2998}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "대응 시한"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "롤렉스는 합당한 요구에 대해 1개월 안으로 적절한 조치를 취해야합니다. 사용자의 요구 사항이 특별히 복잡하거나 많은 경우, 1개월 이상이 소요되는 경우도 가끔 있습니다. 이러한 경우, 당사는 사용자에게 해당 사실을 고지하고 진행 상황을 지속적으로 알려드립니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4bbe4f62-f264-5f9f-8551-a568bceddcee",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A8FC1816-55A3-50BE-A106-9CED38E4A5F8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "사용자의 변경 사항 고지 의무"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "정확한 최신 사용자 정보를 보유하는 것이 롤렉스에게는 매우 중요합니다. 사용자의 개인 정보가 변경된 경우, 변경 사항을 당사에 알려주시기 바랍니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8b82535e-970c-552e-8c0f-099b3046c31c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{617A81F9-BB10-5227-AFAE-632B75CC841B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "롤렉스 연락처"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "본 정책, 당사의 개인 정보 보호 방침 또는 당사와의 커뮤니케이션에 관하여 질문 또는 문의 사항이 있을 경우, 서면이나 전화를 통해 연락 주시기 바랍니다.<br /><br /><b>Rolex SA<br />Rue François-Dussaud, 3-5-7<br />1211 Genève 26 – Switzerland <br />+41 22 302 22 00</b><br /><br />이메일: <a href=\"mailto:privacy@rolex.com\">privacy@rolex.com</a><br />본 정책이 업데이트 된 날짜: 2018년 7월"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "3fbed1f7-bbb4-42f0-8bcd-b6f917e91260",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈의 아프리카의 위대한 척추 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "수많은 위험한 탐험 끝에, 탐험가 스티브 보이즈(Steve Boyes)와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 증명했습니다. 롤렉스의 지원을 받은 그는 이러한 연구 결과를 바탕으로 이 중요한 지역에 대한 실질적인 보호 조치를 마련하고 있습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "탐험가 스티브 보이즈와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 밝혀냈습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "우리의 물 보호하기"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "탐험"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 카사이강 탐험"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 퍼페츄얼 플래닛 이니셔티브의 파트너이자 환경 보호 운동가인 스티브 보이즈(Steve Boyes)가 아프리카 대륙의 수자원을 보호하기 위한 아프리카 대하 탐험(Great Spine of Africa Expeditions)의 일환으로 콩고강의 수원을 찾아 앙골라 고원으로 향했습니다.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 24초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": ""
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "카사이강"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 렁웨봉구 강 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스는 퍼페츄얼 플래닛 이니셔티브를 통해 이전까지 과학적으로 기록된 적 없었던 수천 킬로미터의 강을 횡단하는 아프리카 대하 탐험(Great Spine of Africa expeditions)을 지원합니다. 이들의 연구는 아프리카의 거대한 강에 의존하는 사람들과 야생 동물들을 보호하는 데 도움이 될 것입니다 "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 26초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "롤렉스가 퍼페츄얼 플래닛 이니셔티브를 통해 아직 사람의 발길이 닿지 않은 렁웨봉구강을 연구하는 스티브 보이즈의 탐험을 지원합니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "거대한 잠베지강의 비밀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 내셔널 지오그래픽 올해의 탐험가(The Rolex National Geographic Explorer of the Year)는 환경 보존에 대한 기여를 바탕으로 지구의 중대한 문제와 도전과제 그리고 새로운 발견을 조명한 탐험가들을 위한 시상식입니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 3초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "2019년 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정된 오카방고 야생 프로젝트 팀(Okavango Wilderness Team)과 퍼페츄얼 플래닛을 향한 그들의 프로젝트에 대해 알아보시기 바랍니다.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024 롤렉스 내셔널 지오그래픽 올해의 탐험가 – 페르난도 트루히요"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "콜롬비아 출신의 해양 생물학자 페르난도 트루히요(Fernando Trujillo)가 아마존의 분홍강돌고래와 돌고래의 보금자리인 아마존강의 체계를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "해양 생물학자 페르난도 트루히요가 아마존강돌고래를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "페르난도 트루히요: 강돌고래를 위하여"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

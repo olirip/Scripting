@@ -6,7 +6,12 @@
       "Bash(uv add:*)",
       "Bash(uv remove:*)",
       "Bash(npm install)",
+<<<<<<< Updated upstream
       "WebFetch(domain:raw.githubusercontent.com)"
+=======
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(python3 -m json.tool)"
+>>>>>>> Stashed changes
     ],
     "deny": [],
     "ask": []

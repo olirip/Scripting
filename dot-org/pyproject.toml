@@ -1,0 +1,16 @@
+[project]
+name = "rolex-jss-state-fetcher"
+version = "0.1.0"
+description = "Fetch window.__JSS_STATE__ JSON from rolex.org pages listed in sitemaps."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "UNLICENSED"}
+authors = [
+  {name = "Olivier"},
+]
+
+[project.scripts]
+fetch-rolex-jss = "fetch_rolex_jss_state:main"
+
+[tool.uv]
+dev-dependencies = []

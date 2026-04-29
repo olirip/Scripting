@@ -1,0 +1,2098 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "it",
+      "wa": {
+        "contentTag": "",
+        "pageType": "legal page",
+        "pageSiteSection": "privacy-notice",
+        "pageSiteSubSection": "",
+        "environmentName": "production",
+        "pageName": "privacy-notice",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:17:52Z",
+        "dateModified": "2020-03-25T10:55:57Z"
+      }
+    },
+    "route": {
+      "name": "privacy-notice",
+      "displayName": "privacy-notice",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": true
+        },
+        "pageSiteSubSection": {
+          "value": ""
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex.org - Informativa sulla privacy"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "<p>Rolex rispetta la privacy degli utenti e si impegna a tutelare i loro dati personali.&nbsp;La presente informativa sulla privacy fornisce le informazioni relative al trattamento dei dati personali degli utenti che visitano il nostro sito (indipendentemente dal Paese dal quale si connettono) e ai loro diritti legati alla privacy, nonch&eacute; ai relativi strumenti di tutela offerti dalla legge.</p>"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": ""
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "0adbca3a-92b5-4d36-9aae-c6cd338ef15a",
+          "url": "/Content/PageType/legal-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex.org - Privacy Notice"
+        },
+        "metadescription": {
+          "value": "Rolex rispetta la privacy degli utenti e si impegna a tutelare i loro dati personali.&nbsp;La presente informativa sulla privacy fornisce le informazioni relative al trattamento dei dati personali degli utenti che visitano il nostro sito (indipendentemente dal Paese dal quale si connettono) e ai loro diritti legati alla privacy, nonch&eacute; ai relativi strumenti di tutela offerti dalla legge."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "privacy-notice"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": null,
+        "tag1": null,
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex.org - Informativa sulla privacy"
+        },
+        "previewImage_src": {
+          "value": ""
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": ""
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "567cdbfe-1551-5ec4-bc16-acb07c9da2f0",
+      "itemLanguage": "it",
+      "itemVersion": 4,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b6a4da11-f8e6-5c62-b373-e13758dcff41",
+                  "componentName": "CoverParallax",
+                  "dataSource": "{2A390515-8450-5EE5-A3C1-7343236E904B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/legal-notices/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Informativa sulla privacy"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/legal-notices/mobile_0001.jpg"
+                    },
+                    "background_description": {
+                      "value": ""
+                    },
+                    "background_title": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "99e7180e-8675-5000-8ceb-5e8a2369d5ce",
+                  "componentName": "SimpleText",
+                  "dataSource": "{EE7E133E-23E0-5B89-9A9B-9AC9A079793F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Introduzione"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rolex rispetta la privacy degli utenti e si impegna a tutelare i loro dati personali. La presente informativa sulla privacy fornisce le informazioni relative al trattamento dei dati personali degli utenti che visitano il nostro sito (indipendentemente dal Paese dal quale si connettono) e ai loro diritti legati alla privacy, nonché ai relativi strumenti di tutela offerti dalla legge."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f8ce9443-c906-5280-ad1b-48da025a8a63",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CAE44761-47DC-51EE-9853-B31A1CC2F77E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Titolare del trattamento dei dati"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Con la menzione “Rolex”, “noi”, “nostro” o “ci” nella presente informativa sulla privacy ci riferiamo a:<br><br><b>Rolex SA<br>3-5-7 rue François-Dussaud<br>1211 Ginevra 26<br>Svizzera<br><br>Numero di identificazione dell’impresa in Svizzera: CH-660.0.012.920-4</b><br><br>Rolex SA è titolare del trattamento dei dati personali raccolti tramite il presente sito Web."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "85abf711-37f4-5685-9d63-8255156ed40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BC9B96CF-95CB-59E1-87A0-FFFC0C04237B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Responsabile dei dati personali"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Abbiamo nominato un responsabile dei dati personali che supervisioni le questioni relative alla presente informativa sulla privacy. Per qualsiasi domanda relativa alla presente informativa sulla privacy, ivi incluso l’esercizio dei diritti previsti dalla legge, si prega di contattare il responsabile dei dati personali utilizzando i recapiti indicati di seguito.<br /><br />Rolex SA<br />Indirizzo postale: 3-5-7, rue François‑Dussaud, 1211 Ginevra 26, Svizzera<br />Numero di telefono: +4122 302 22 00<br />Indirizzo e-mail: <a href=\"mailto:privacy@rolex.com\">privacy@rolex.com</a>\r\n<br><br>\r\nROLEX SA risponde unicamente a richieste riguardanti la protezione dei dati. Si prega di scrivere in inglese o in francese."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "21659dbd-5a3b-5f47-b089-5f0d4ffca74a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9DAA5C8A-C043-59FC-AEC5-635D604229F7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Garante della privacy"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "L’utente ha il diritto di adire in qualsiasi momento l’autorità garante della privacy che abbia giurisdizione nel suo Paese."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "70d10bbb-3225-505f-92d9-c8c6c219a2f9",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3AE514A5-1DE8-5E2C-90A0-648BCA60E7CE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Quali dati raccogliamo"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>“Dati personali” significa qualunque informazione relativa a un soggetto che possa identificarlo personalmente. Non sono compresi i dati dai quali non si possa desumere l’identità del loro titolare (dati anonimi).<br>Ci riserviamo il diritto di raccogliere, utilizzare, conservare e trasferire diverse tipologie di dati personali relativi all’utente che abbiamo così catalogato:<br>- <b>Dati relativi all’identità:</b> includono nome, cognome da nubile, cognome, nome utente o altri dati identificativi della medesima natura, stato di famiglia, titolo, data di nascita e sesso.<br>- <b>Dati di contatto:</b> includono indirizzo postale, indirizzo e-mail e numeri di telefono.<br>- <b>Dati tecnici:</b> includono l’indirizzo IP, i dati di login, il tipo e la versione del browser, il fuso orario e la posizione, i tipi e le versioni di plug-in del browser, il sistema operativo e la piattaforma, nonché le ulteriori tecnologie del dispositivo utilizzate per accedere al sito Web.<br>- <b>Dati di utilizzo:</b> includono informazioni di utilizzo del sito Web da parte dell’utente.<br>- <b>Dati commerciali e di comunicazione:</b> includono le preferenze dell’utente in riferimento ai messaggi commerciali inviati da noi o dai soggetti terzi con cui collaboriamo nonché le preferenze dell’utente relative alle comunicazioni. <br>- <b>Non raccogliamo nessun Dato sensibile</b> relativo all’utente (tali dati includono le informazioni relative all’origine razziale o etnica, le convinzioni religiose o filosofiche, le scelte o l’orientamento sessuale, le opinioni politiche, l’appartenenza sindacale, le informazioni relative allo stato di salute nonché i dati genetici o biometrici). Non raccogliamo nemmeno le informazioni relative a eventuali condanne penali o illeciti commessi.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad00eba1-682d-5ab9-806f-6200ba4adc50",
+                  "componentName": "SimpleText",
+                  "dataSource": "{DFEF8D0B-C17C-549E-9648-451337060E38}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Come avviene la raccolta dei dati"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>Utilizziamo diversi metodi per la raccolta dei dati dell’utente tra cui, in particolare, i seguenti:<br>- <b>Interazioni dirette. </b> L’utente potrebbe comunicarci dati relativi all’identità, ai recapiti, alle comunicazioni anche di tipo commerciale compilando i moduli di corrispondenza con noi o tramite posta, telefono, e-mail o altro.<br>- <b>Interazioni o tecnologie automatizzate. </b> Nelle interazioni con noi tramite il sito Web, raccoglieremo automaticamente dei Dati tecnici relativi ai dispositivi, alle azioni e alle strutture di navigazione dell’utente. Raccogliamo tali dati personali con l’utilizzo di cookies, log del server e altre tecnologie simili. Per maggiori informazioni, si prega di confrontare la nostra informativa sui cookies.</br>- <b>Parti terze.</b> Raccogliamo i dati personali dell’utente tramite altre parti terze come indicato nel prosieguo:<br> Soluzioni di analisi delle seguenti parti terze:<br>&nbsp;&nbsp;&nbsp;Adobe Analytics, con sede in Irlanda<br>&nbsp;&nbsp;&nbsp;Content Square, con sede in Francia</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e4ccf3b2-e28b-50b2-b7af-7876e1d3b0cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{83BF0EBB-3746-5067-9101-B703D5BDFE48}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Finalità dell’utilizzo dei dati personali"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Abbiamo creato una descrizione delle modalità di utilizzo dei dati personali dell’utente, nonché i corrispondenti fondamenti giuridici. Abbiamo inoltre identificato i nostri interessi legittimi coinvolti, se del caso.<br>Si prega di notare che ci riserviamo il diritto di trattare i dati personali sulla base di uno o diversi fondamenti giuridici a seconda delle finalità per cui sono utilizzati. Si prega di contattarci per maggiori informazioni sui fondamenti giuridici su cui ci basiamo per il trattamento dei dati personali dell’utente qualora nella tabella fossero indicati più fondamenti giuridici.<br><br><b>Finalità/Attività /</b> Comunicare all’utente eventuali modifiche all’informativa sulla privacy<br><b>Tipo di dati /</b> (a) Identità (b) Contatto (c) Commerciali e di comunicazione<br><b>Fondamento giuridico per il trattamento nonché le basi del nostro interesse giuridico /</b>  (a) Esecuzione di un contratto (b) Necessari per adempiere a un obbligo di legge (c) Necessari per soddisfare i nostri interessi legittimi (per aggiornare i nostri archivi)<br> <b>Periodo di conservazione /</b> 12 mesi<br><br><b>Finalità/Attività / </b> Per gestire e proteggere la nostra attività e il presente sito Web (tra cui la risoluzione dei problemi, l’analisi dei dati, l’esecuzione di test, la manutenzione dei sistemi, l’assistenza, la creazione di rapporti e l’hosting dei dati) <br><b>Tipo di dati / </b>(a) Identità (b) Contatto (c) Tecnici <br><b>Fondamento giuridico per il trattamento nonché le basi del nostro interesse giuridico / </b>(a) Necessari per soddisfare i nostri interessi legittimi (per svolgere la nostra attività, fornire servizi di amministrazione e informatici, garantire la sicurezza della rete, prevenire le frodi e nel contesto di una riorganizzazione o ristrutturazione aziendale) (b) Necessari per adempiere a un obbligo di legge <br><b>Periodo di conservazione /</b> 12 mesi<br><br><b>Finalità/Attività / </b> Per utilizzare dati analitici per migliorare il nostro sito Web, i nostri prodotti e servizi, il marketing, le relazioni con i clienti e la loro esperienza <br><b>Tipo di dati / </b>(a) Tecnici (b) Di utilizzo <br><b>Fondamento giuridico per il trattamento nonché le basi del nostro interesse giuridico / </b>Necessari per soddisfare i nostri interessi legittimi (per aggiornare e rendere interessante il nostro sito Web, per sviluppare la nostra attività e definire le strategie commerciali) <br><b>Periodo di conservazione /</b> 25 mesi</b><br><br><b>Finalità/Attività / </b> Per inoltrare all’utente comunicazioni commerciali nonché le informazioni relative alla nostra società e ai nostri prodotti <br><b>Tipo di dati / </b>(a) Identità (b) Contatto (c) Commerciali e di comunicazione <br><b>Fondamento giuridico per il trattamento nonché le basi del nostro interesse giuridico / </b>(a) Necessari per soddisfare i nostri interessi legittimi (per sviluppare i nostri prodotti/servizi e far crescere la nostra attività) (b) Consenso <br><b>Periodo di conservazione /</b> A seguito della notifica da parte del titolare dei dati di non volere più ricevere comunicazioni commerciali</b>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0d06b3c1-d9e3-58bc-8773-f0e3df8192a8",
+                  "componentName": "SimpleText",
+                  "dataSource": "{805A319B-6BAC-5E18-89E9-657CD14080D4}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Modifica delle finalità"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Utilizzeremo i dati personali dell’utente esclusivamente per le finalità per cui sono stati raccolti, sebbene ci riserviamo il diritto di utilizzarli ragionevolmente per altri motivi, sempre che siano compatibili con la finalità originale. È possibile contattarci per ottenere maggiori informazioni sul trattamento in riferimento a detti nuovi motivi e alla loro compatibilità con le finalità originali.<br>Qualora fosse necessario utilizzare i dati personali per finalità diverse, comunicheremo tale necessità all’utente titolare dei dati spiegando il fondamento giuridico che ci consente di effettuare tale trattamento.<br>Si prega di notare che ci riserviamo il diritto di trattare i dati personali dell’utente in assenza di sua cognizione o consenso, nel rispetto delle summenzionate regole, qualora ciò sia consentito o richiesto dalla legge."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "029a9a9c-b18d-51b6-9d4f-5f99be9a52f5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6DFA24EA-6D83-5E62-A5F3-D2BBE3520C34}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Conservazione dei dati"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ci impegniamo a conservare i dati personali esclusivamente per il periodo ragionevolmente necessario a raggiungere le finalità per cui il trattamento è avvenuto, inclusa la finalità di adempiere a qualsivoglia obbligo imposto dalla legge o da un regolamento, nonché a qualsivoglia obbligo fiscale o contabile o di resoconto. Ci riserviamo il diritto di conservare i dati personali dell’utente per un periodo più lungo in caso di reclami o qualora ritenessimo ragionevolmente che si possa instaurare un contenzioso con l’utente.<br>Per determinare il periodo idoneo di conservazione dei dati personali, consideriamo la quantità, la natura e il grado di sensibilità dei dati personali stessi, il rischio potenziale di danno derivato da un uso non autorizzato o dalla divulgazione dei dati personali, le finalità per cui i dati sono stati trattati e l’eventuale esistenza di diversi mezzi per raggiungere dette finalità, nonché la normativa applicabile, gli obblighi fiscali, contabili o altri obblighi.<br>Nella tabella precedente sono indicate le informazioni relative ai diversi periodi di conservazione dei dati personali."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9fb9f72-f987-55cd-bcd3-7419c78da433",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8A8AE836-4C91-5E7B-BE0E-784102EBD79E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Comunicazioni commerciali"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "L’utente può chiedere a noi o alle parti terze la cessazione dell’invio di messaggi commerciali in qualsiasi momento, tramite i link di disiscrizione presente sui messaggi stessi a lui inviati oppure contattandoci.<br>La disiscrizione dal servizio di inoltro di materiale commerciale non si applica ai dati personali forniti in riferimento alle attività/finalità da 1 a 4 di cui sopra."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7f2374ed-937d-5863-9273-7753124f406b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3F9683D5-D42E-510E-BD2D-A88F4C8393B0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Divulgazione dei dati personali"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>Previo consenso dell’utente, possiamo condividere i dati personali dell’utente con parti terze interne ed esterne.</p><p>Richiediamo a tutte le parti terze, in qualsiasi circostanza, di rispettare la sicurezza dei dati personali dell’utente e che il loro trattamento avvenga nel rispetto della normativa vigente. Non permettiamo ai nostri fornitori di servizi terzi di utilizzare i dati personali dell’utente per le loro finalità e permettiamo loro esclusivamente di trattare i dati personali per finalità specifiche, nel rispetto delle istruzioni da noi fornite.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "55d26222-2fc7-5ae2-81df-64f5a90b6c6d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9F4B0691-33A8-51D4-B68E-AA89C285ED03}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Trasferimenti internazionali"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ci riserviamo il diritto di condividere i dati personali dell’utente con le altre società del gruppo Rolex. Tale operazione potrebbe prevedere il trasferimento dei dati dell’utente al di fuori dei confini dello Spazio economico europeo (SEE).<br>Alcune parti terze che collaborano con noi hanno sede al di fuori dello SEE, quindi il trattamento da loro effettuato prevedrà necessariamente il trasferimento dei dati oltre lo SEE.<br><br>In caso di trasferimento dei dati personali oltre i confini dello SEE, garantiamo un livello di protezione dei dati equivalente a quello da noi offerto assicurandoci che sia messa in atto almeno una delle seguenti misure di sicurezza:<br>- I dati personali saranno trasferiti esclusivamente in paesi il cui livello di protezione dei dati sia stato riconosciuto come adeguato dalla Commissione europea. Per maggiori informazioni si prega di consultare la pagina della Commissione europea: <i>Adequacy of the protection of personal data in non-EU countries</i> (Adeguatezza della protezione dei dati personali all’esterno dell’UE).<br>- Qualora ci avvalessimo dei servizi di fornitori specifici, potremmo utilizzare i contratti approvati dalla Commissione europea che permettono di godere della stessa protezione dei dati personali di cui si può godere in Europa. Per maggiori informazioni si prega di consultare la pagina della Commissione europea: <i>Model contracts for the transfer of personal data to third countries</i> (Contratti tipo per il trasferimento dei dati personali in un Paese terzo).<br>- Qualora ci avvalessimo di fornitori con sede negli Stati Uniti, il trasferimento dei dati potrà avvenire solo qualora essi facciano parte dello Scudo per la privacy che richiede loro di garantire il medesimo livello di protezione dei dati personali trasmessi dall’Europa agli Stati Uniti. Per maggiori informazioni si prega di consultare la pagina della Commissione europea: <i>EU-US Privacy Shield</i> (Scudo per la privacy UE-USA).<br>È possibile contattarci per maggiori informazioni sul meccanismo specifico utilizzato per il trasferimento dei dati personali al di fuori dello SEE."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "31908a1c-9c01-5b25-9854-987529ebce8c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D6ADD97A-387E-5B81-A597-4085C61EAD0B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Sicurezza dei dati"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Abbiamo istituito delle misure di sicurezza per evitare che i dati personali siano accidentalmente persi, utilizzati, alterati, diffusi e per prevenire qualsiasi accesso non autorizzato. Inoltre, limitiamo l’accesso ai dati personali dell’utente ai dipendenti, agenti, appaltatori e altre parti terze che abbiano necessità di accedere ai dati per ragioni legate all’attività svolta. I dati personali saranno trattati esclusivamente dietro nostre istruzioni e questi soggetti saranno tenuti al dovere di riservatezza.<br>Abbiamo istituito delle procedure per la gestione delle presunte violazioni dei dati personali e sarà nostra cura comunicare l’avvenuta violazione all’utente e a qualsiasi autorità di controllo, qualora previsto dalla legge."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6d7f98ef-8473-5896-a9a8-019352800401",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7947177D-4A81-5283-91EE-FB92609F8305}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Cookies e link di parti terze"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Il browser dell’utente può essere impostato in modo da rifiutare tutti o alcuni cookies, oppure è possibile ricevere una notifica quando un determinato sito Web intenda installare o consultare dei cookies. Rifiutando o disabilitando i cookies, alcune sezioni del presente sito Web potrebbero risultare inaccessibili oppure non funzionare correttamente. Per maggiori informazioni sui cookies da noi utilizzati, si prega di leggere qui.<br>Il presente sito Web potrebbe includere link a siti Web, plug-in e applicazioni di terzi. Cliccando su tali link o abilitando tali connessioni, dette parti terze potranno raccogliere o condividere i dati dell’utente. Si prega di notare che non abbiamo alcun controllo sui siti Web di terzi e non siamo responsabili per le rispettive informative sulla privacy. Invitiamo l’utente che abbandoni la navigazione del nostro sito Web a leggere l’informativa sulla privacy degli altri siti visitati."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a1c40aa9-a764-5c82-80f6-4665c453e40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{0D81D02C-0933-568C-B127-9865BE4C8D05}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Diritti previsti dalla legge"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>In determinate circostanze, l’utente è titolare dei seguenti diritti previsti dalla normativa sulla privacy in riferimento ai suoi dati personali.</p><p><b>Richiesta di accesso</b> ai suoi dati personali (normalmente conosciuto come “diritto di accesso”). Tale diritto permette di ricevere una copia dei dati personali dell’utente da noi detenuti e controllare che il trattamento stia avvenendo ai sensi di legge.</p><p><b>Richiesta di correzione</b> dei dati personali dell’utente da noi detenuti. Tale diritto permette di correggere o completare i dati che riguardano l’utente, sebbene sia necessaria preventivamente una verifica della correttezza dei nuovi dati forniti.</p><p><b>Richiesta di cancellazione</b> dei dati personali dell’utente. Tale diritto permette all’utente di richiedere la cancellazione o la rimozione dei dati personali qualora non sussistessero valide ragioni per la prosecuzione del trattamento. L’utente ha inoltre il diritto di richiedere la cancellazione o rimozione dei suoi dati personali qualora abbia esercitato il diritto di opposizione al trattamento (confrontare di seguito), qualora avessimo trattato le informazioni violando una norma o qualora fossimo tenuti a cancellare i dati personali dell’utente per adempiere a una norma locale. Si prega di notare che le eventuali richieste di cancellazione potrebbero non essere soddisfatte per specifiche ragioni giuridiche che saranno prontamente comunicate all’utente, ove applicabile, contestualmente alla richiesta.</p><p><b>Opposizione al trattamento</b> dei dati personali qualora ci fondassimo sul legittimo interesse (o sul legittimo interesse di una parte terza) e qualora la particolarità della situazione dell’utente gli permetta di richiedere l’opposizione al trattamento perché questi ritenga che detto trattamento leda i suoi diritti e libertà fondamentali. L’utente ha inoltre il diritto di opporsi al trattamento dei suoi dati personali per finalità di marketing diretto. In taluni casi, il nostro interesse legittimo di trattare le informazioni dell’utente potrebbe prevalere sui suoi diritti e libertà.</p><p><b>Richiesta di limitazione del trattamento</b> dei dati personali. Tale diritto permette all’utente di richiedere la sospensione del trattamento dei suoi dati personali nei seguenti casi:<br>- Qualora l’utente ci richieda di determinare la correttezza dei suoi dati. Qualora l’uso dei dati da parte nostra violi una norma, ma l’utente desideri che i dati non siano cancellati.<br>- Qualora l’utente desideri che conserviamo i dati anche nel caso in cui non dovessimo più aver bisogno di trattarli, in quanto intende accertare, esercitare o difendere un suo diritto giuridicamente tutelato.<br>- Qualora l’utente si sia opposto all’utilizzo dei suoi dati ma essi ci fossero necessari per accertare l’esistenza di fondamenti giuridici per il loro utilizzo.</p><p><b>Richiesta di trasferimento</b> dei dati personali all’utente o a un terzo. Forniremo all’utente, o a un soggetto terzo da questi nominato, i dati personali in un formato strutturato, comunemente utilizzato e leggibile meccanicamente. Tale diritto si applica ai dati raccolti automaticamente, raccolta a cui l’utente ha previamente prestato consenso, oppure qualora utilizzassimo le informazioni per adempiere a un contratto di cui l’utente sia parte.</p><p><b>Revoca del consenso</b> in qualsiasi momento qualora questo sia il fondamento giuridico del trattamento dei dati personali. L’esercizio di tale diritto non inficia la legittimità del trattamento svolto prima che l’utente revocasse il consenso. Qualora l’utente revochi il consenso, potremmo non essere in grado di fornirgli determinati prodotti o servizi. In tal caso, avviseremo l’utente nel momento in cui dovesse revocare il consenso. Per esercitare i diritti summenzionati, preghiamo l’utente di rivolgersi al responsabile dei dati personali.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "54c48954-cd7d-5af2-b4f1-f557edc20a2e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CB3F263E-2B4D-5243-8E02-A15D2571F47A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Nessuna spesa richiesta di norma"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "L’utente non dovrà corrispondere alcuna somma per accedere ai suoi dati personali (o per esercitare uno dei diritti indicati). Ci riserviamo però il diritto di esigere una ragionevole somma qualora la richiesta dell’utente fosse evidentemente infondata, ripetitiva o eccessiva. In mancanza di pagamento, ci riserviamo il diritto di non soddisfare le richieste dell’utente."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dccb878e-722b-51c4-abb9-59d750fd8c80",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A731476D-442D-5275-BD70-35917FB299BC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Cosa chiediamo all’utente"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ci riserviamo il diritto di chiedere all’utente informazioni specifiche per aiutarci a confermare la sua identità e garantire il suo diritto di accesso ai suoi dati personali (o l’esercizio di qualsiasi altro diritto). Tale misura di sicurezza è volta a garantire che i dati personali non siano divulgati a soggetti terzi che non hanno alcun titolo per riceverli. Ci riserviamo inoltre il diritto di contattare l’utente per ottenere ulteriori informazioni relative a una sua richiesta al fine di velocizzare la nostra risposta."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dc2346a8-f075-5e2f-b106-f34686fbdec7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FD40E562-05C5-5603-87CD-42C10DDF2998}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Termine per la risposta"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Ci impegniamo a rispondere a ciascuna richiesta legittima entro un mese. Occasionalmente potremmo impiegare più tempo qualora la richiesta sia particolarmente complessa o qualora l’utente abbia inoltrato numerose richieste. In tal caso, sarà nostra premura comunicarlo all’utente e tenerlo aggiornato."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4bbe4f62-f264-5f9f-8551-a568bceddcee",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A8FC1816-55A3-50BE-A106-9CED38E4A5F8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Dovere dell’utente di informarci di qualsiasi cambiamento"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "È fondamentale che i dati personali dell’utente da noi detenuti siano corretti e aggiornati. Preghiamo l’utente di informarci qualora i dati personali dovessero essere modificati nel corso della relazione con noi."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8b82535e-970c-552e-8c0f-099b3046c31c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{617A81F9-BB10-5227-AFAE-632B75CC841B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Contatti Rolex"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Per qualsiasi domanda o dubbio relativo alla presente informativa, alle politiche in materia di privacy o alle comunicazioni con Rolex, preghiamo gli utenti di contattare Rolex per iscritto o telefonicamente:<br />\n<br />\n<strong>Rolex SA<br />\nRue Fran&ccedil;ois-Dussaud, 3-5-7<br />\n1211 Ginevra 26, Svizzera <br />\n+41 22 302 22 00</strong><br />\n<br />\nE-mail: <a href=\"mailto:privacy@rolex.com\">privacy@rolex.com</a><br />\nData di aggiornamento della presente informativa: luglio 2018"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "04d1b48e-b561-50b9-8bbd-d38c9778e79c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C4156A36-47CA-5CF7-8B0A-A075CB0CDFAF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "3fbed1f7-bbb4-42f0-8bcd-b6f917e91260",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "d6c1927c-99c4-4b86-bfd4-9955951f178b",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Great Spine of Africa di Steve Boyes - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Dopo una serie di spedizioni rischiose, l’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Con il sostegno di Rolex, Boyes sta utilizzando questa scoperta per garantire una protezione concreta a questa zona di vitale importanza."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "L’esploratore Steve Boyes e il suo team hanno dimostrato che gli altipiani angolani sono la sorgente del grande fiume Zambesi. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Proteggere l’acqua"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Esplorazione"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e la spedizione sul fiume Kasai - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, che mirano a proteggere la sicurezza idrica nel continente africano, l’ambientalista e partner dell’Iniziativa Perpetual Planet di Rolex Steve Boyes ha localizzato un’importante sorgente del fiume Congo negli altipiani dell’Angola.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "Nell’ambito delle spedizioni Great Spine of Africa, l’ambientalista Steve Boyes ha condotto ricerche sul fiume Kasai, un’importante sorgente del fiume Congo. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il fiume Kasai"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Steve Boyes e il fiume Lungué‑Bungo - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene le spedizioni Great Spine of Africa, che attraversano migliaia di chilometri di fiumi mai documentati prima d’ora. Queste ricerche contribuiranno a proteggere le comunità e la fauna selvatica che dipendono dai grandi fiumi d’Africa."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "Con la sua Iniziativa Perpetual Planet, Rolex sostiene la spedizione di Steve Boyes mirata a studiare il fiume Lungué‑Bungo, finora inesplorato. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Il possente fiume Zambesi e i suoi segreti"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il premio Rolex National Geographic Explorer of the Year è un riconoscimento assegnato a esploratori il cui impegno per un pianeta perpetuo contribuisce a far luce su importanti questioni, scoperte e sfide che la Terra si trova ad affrontare."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "Scopri il vincitore del Rolex National Geographic Explorer of the Year 2019 e il suo impegno per un pianeta perpetuo: il team dell’Okavango Wilderness Project."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Premio Rolex National Geographic Explorer of the Year 2019 - Team dell’Okavango Wilderness Project"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "Rolex National Geographic Explorer of the Year 2024 - Fernando Trujillo"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "Il biologo marino colombiano Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia del delfino rosa del Rio delle Amazzoni e dell’ecosistema fluviale in cui vive."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "Il biologo marino Fernando Trujillo è il Rolex National Geographic Explorer of the Year 2024 per il suo lavoro di salvaguardia dei delfini del Rio delle Amazzoni. Scopri di più su rolex.org."
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "Fernando Trujillo: un amore per i delfini di fiume"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "Ambiente "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

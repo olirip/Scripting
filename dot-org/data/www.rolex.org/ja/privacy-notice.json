@@ -1,0 +1,2051 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "ja",
+      "wa": {
+        "contentTag": "",
+        "pageType": "legal page",
+        "pageSiteSection": "privacy-notice",
+        "pageSiteSubSection": "",
+        "environmentName": "production",
+        "pageName": "privacy-notice",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:17:52Z",
+        "dateModified": "2020-03-25T10:58:45Z"
+      }
+    },
+    "route": {
+      "name": "privacy-notice",
+      "displayName": "privacy-notice",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": true
+        },
+        "pageSiteSubSection": {
+          "value": ""
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex.org - プライバシー通知"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": ""
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": ""
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "0adbca3a-92b5-4d36-9aae-c6cd338ef15a",
+          "url": "/Content/PageType/legal-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex.org - Privacy Notice"
+        },
+        "metadescription": {
+          "value": ""
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "privacy-notice"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": null,
+        "tag1": null,
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex.org - プライバシー通知"
+        },
+        "previewImage_src": {
+          "value": ""
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": ""
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "567cdbfe-1551-5ec4-bc16-acb07c9da2f0",
+      "itemLanguage": "ja",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "b6a4da11-f8e6-5c62-b373-e13758dcff41",
+                  "componentName": "CoverParallax",
+                  "dataSource": "{2A390515-8450-5EE5-A3C1-7343236E904B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/legal-notices/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "プライバシー通知"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/legal-notices/mobile_0001.jpg"
+                    },
+                    "background_description": {
+                      "value": ""
+                    },
+                    "background_title": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "99e7180e-8675-5000-8ceb-5e8a2369d5ce",
+                  "componentName": "SimpleText",
+                  "dataSource": "{EE7E133E-23E0-5B89-9A9B-9AC9A079793F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "序論"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは利用者のプライバシーを尊重し、利用者の個人データを守るよう配慮しています。このプライバシー通知は、利用者がウェブサイトを訪れる際に（訪問元に関わらず）ロレックスがどのように利用者の個人情報を取り扱うか、プライバシーに対する利用者の権利、法がどのように利用者を守るかを利用者に知らせるものです。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f8ce9443-c906-5280-ad1b-48da025a8a63",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CAE44761-47DC-51EE-9853-B31A1CC2F77E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "管理者"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "このプライバシー通知内で「ロレックス」、「私たち」と述べる場合、以下を示しています：<br><br>Rolex SA<br>3-5-7 rue François-Dussaud<br>1211 Geneva 26<br>Switzerland<br><br>スイス連邦 企業識別番号 : CH-660.0.012.920-4<br><br>Rolex SAは、本ウェブサイトを介して個人情報を収集します。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "85abf711-37f4-5685-9d63-8255156ed40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BC9B96CF-95CB-59E1-87A0-FFFC0C04237B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "個人データ保護管理者"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスはこのプライバシー通知に関わる問題を監督するために個人データ管理者を任命しています。利用者からの法的権利の行使の要求のほか、このプライバシー通知についてご質問がある場合は、以下の個人データ保護管理者にお問い合わせください。<br /><br />Rolex SA<br />住所：3-5-7, rue François-Dussaud, 1211 Geneva 26, Switzerland<br />電話番号：+4122 302 22 00<br />Eメール：<a href=\"mailto:privacy@rolex.com\">privacy@rolex.com</a>\r\n<br><br>\r\nROLEX SAはデータ保護に関するお問い合わせのみ承っております。英語またはフランス語でのご相談となりますので何卒ご了承ください。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "21659dbd-5a3b-5f47-b089-5f0d4ffca74a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9DAA5C8A-C043-59FC-AEC5-635D604229F7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "監督機関"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "利用者はいつでも適した管轄権を有する監督機関に苦情を申し立てる権利も有しています。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "70d10bbb-3225-505f-92d9-c8c6c219a2f9",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3AE514A5-1DE8-5E2C-90A0-648BCA60E7CE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ad00eba1-682d-5ab9-806f-6200ba4adc50",
+                  "componentName": "SimpleText",
+                  "dataSource": "{DFEF8D0B-C17C-549E-9648-451337060E38}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "利用者についてロレックスが収集するデータ"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "個人データとは、その人物が特定される可能性がある個人についての全ての情報を意味します。身元が排除されたデータ（匿名データ）は含まれません。<br>ロレックスは、以下のように分類した利用者についてのさまざまな種類の個人データを収集し、使用し、保存し、移行します :<ul><li><b>身元データには</b>名、旧姓、姓、ユーザー名あるいは同類の識別子、配偶者の有無、タイトル、生年月日、性別が含まれます。</li><li><b>連絡先データには、</b>住所、Eメールアドレス、電話番号が含まれます。</li><li><b>テクニカルデータには、</b> インターネットプロトコール（IP）アドレス、利用者のログインデータ、ブラウザの種類とバージョン、タイムゾーンのセッティングとロケーション、ブラウザプラグインの種類とバージョン、オペレーションシステムとプラットフォーム、利用者がこのウェブサイトにアクセスするために使用するデバイス上のその他のテクノロジーが含まれます。</li><li><b>使用データには </b> 利用者がどのようにロレックスのウェブサイトを使用するかについての情報が含まれます。</li><li><b>マーケティング＆コミュニケーションデータには、</b>ロレックスおよび第三者からマーケティングを受けるにあたっての利用者の好みと利用者のコミュニケーションの好みが含まれます。</li><li><b> ロレックスは利用者について、特殊なカテゴリーの個人データはいかなるものも収集しません（これには人種や民族の詳細、宗教や哲学的信念、性生活、性的指向、政治的意見、労働組合の会員であること、利用者の健康情報、遺伝および生体認証機能を持つデータが含まれます）。また、前科および犯罪歴についてもいかなる情報も収集しません。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e4ccf3b2-e28b-50b2-b7af-7876e1d3b0cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{83BF0EBB-3746-5067-9101-B703D5BDFE48}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "利用者の個人データはどのように収集されますか？"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスでは、利用者から、そして利用者についてのデータ収集に、以下を介したさまざまな方法を用います：<ul><li><b>ダイレクト インタラクション </b> 利用者がフォームを記入することによって、あるいは、郵便、電話、Eメールなどでロレックスと通信することによって、利用者の身元データ、連絡先データおよびマーケティング＆コミュニケーションデータをロレックスに提供。</li><li><b>オートメーテッド テクノロジーまたはインタラクション </b> 利用者がロレックスのウェブサイトを閲覧すると、ロレックスは利用者の装置、閲覧行動とパターンについて自動的にテクニカルデータを収集します。ロレックスはこの個人データをクッキー、サーバーログおよびそのほかの類似のテクノロジーを使用して収集します。詳細については私たちのクッキーポリシーをご参照ください。</li><li><b>第三者 </b> ロレックスは以下のようなさまざまな第三者から利用者についての個人データを受け取ります。</li><ul><li>以下の関係会社からのアナリティクスソリューション：<ul><li>アイルランドが本拠地のAdobe Analytics</li><li>フランスが本拠地のContent Square</li></ul></li>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0d06b3c1-d9e3-58bc-8773-f0e3df8192a8",
+                  "componentName": "SimpleText",
+                  "dataSource": "{805A319B-6BAC-5E18-89E9-657CD14080D4}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "ロレックスが利用者の個人データを使用する目的"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは、利用者の個人データをどのように活用するか、全てを以下の解説で示します。また、どの法的根拠に基づいているか示しています。さらに、私たちの正当な利益がどこに割り当てられるかも明らかにしています。<br>ロレックスは、利用者のデータを使用する目的に応じて、利用者の個人データを複数の合法的根拠に基づいて活用する場合があることをあらかじめご理解ください。もし利用者の個人データが、以下の表で複数の法的根拠に基づいて活用されると示され、ロレックスが従う特定の法的根拠について詳細を知りたい場合は、ロレックスまでご連絡ください。<br><br><b>目的・活動 /</b> ロレックスのプライバシー通知の変更を利用者に知らせる<br><b>データの種類 /</b> (a) 身元データ (b) 連絡先データ(c) マーケティング＆コミュニケーションデータ<br><b>正当な利益の根拠を含むプロセスの合法的根拠 /</b>  (a) 利用者との契約の実績 (b) 法的義務に適合するために必要であること (c) ロレックスの正当な利益のために必要であること（ロレックスの記録を更新し続けるため）<br> <b>保存期間 /</b> 12か月<br><br><b>目的・活動 / </b> ロレックスのビジネスとこのウェブサイトを管理し保護するため（トラブルシューティング、データ分析、テスト、システムメンテナンス、サポート、データのリポートとホスティングを含む）<br><b>データの種類 / </b>(a) 身元データ (b) 連絡先データ (c) テクニカルデータ<br><b>正当な利益の根拠を含むプロセスの合法的根拠 / </b>(a) ロレックスの正当な利益のために必要であること（ロレックスのビジネスの運営、不正防止のための管理およびITサービス、ネットワークセキュリティの対策のため、また、ビジネスの再構築やグループの再編という観点から）(b) 法的義務に適合するために必要であること <br><b>保存期間 /</b> 12か月<br><br><b>目的・活動 /</b> ロレックスのウェブサイト、製品/サービス、マーケティング、顧客との関係および顧客の体験を向上させるためにデータ分析を使用すること <br><b>データの種類 /  </b>(a) テクニカルデータ (b) 使用データ <br><b>正当な利益の根拠を含むプロセスの合法的根拠 / </b>ロレックスの正当な利益のために必要であること（ロレックスの製品およびサービスのために顧客の分類を明確するため、ロレックスのウェブサイトを更新等し続けるため、ロレックスのビジネスを発展させるため、ロレックスのマーケティング戦略を周知するため）<br><b>保存期間 / </b> 25 か月</b><br><br><b>目的・活動 /  </b> 利用者にロレックスの会社および製品についてマーケティングコミュニケーションおよび情報を提供するため <br><b>データの種類 / </b>(a) 身元データ (b) 連絡先データ (c) マーケティング＆コミュニケーションデータ<br><b>正当な利益の根拠を含むプロセスの合法的根拠 /</b>(a) ロレックスの正当な利益のために必要であること（ロレックスの製品/サービスを開発するため、またロレックスのビジネスを成長させるため）(b) 同意<br><b>保存期間 / </b> データ対象がマーケティングコミュニケーションを受信しないことを通知した後</b>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "029a9a9c-b18d-51b6-9d4f-5f99be9a52f5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6DFA24EA-6D83-5E62-A5F3-D2BBE3520C34}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "目的の変更"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは、私たちが別の理由および元々の目的と両立しうる理由のために使用する必要があると合理的に考えられない限り、利用者の個人データを私たちが収集した目的以外のために使用しません。もし、利用者が、新しい目的と元々の目的が両立しうると判断した理由の説明を求めたい場合は、ロレックスにご連絡ください。<br>ロレックスが利用者の個人データを無関係な目的のために使用する必要がある場合、利用者に知らせ、そのようにできる法的根拠説明をします。<br>ただし、ロレックスは、法が求める場合あるいは法的に認められている場合は、上記のルールに従って、利用者の同意なく利用者の個人データを活用することがあるということをご理解ください。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9fb9f72-f987-55cd-bcd3-7419c78da433",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8A8AE836-4C91-5E7B-BE0E-784102EBD79E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "データの保存"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは、利用者の個人データを収集するための目的を満たす合理的な必要性がある場合に限り、利用者の個人データを保存します。目的には、法律上、規制上、税制上、会計上、報告上の必要性が含まれます。また、苦情の場合、あるいは利用者と私たちの間で訴訟の可能性があると合理的に判断される場合、利用者の個人データをより長期にわたり保存します。<br>個人データの適切な保存期間を終了させるために、ロレックスは個人データの量、質、重要性、正式な許可のない使用あるいは利用者の個人データの開示による危害の潜在的リスク、ロレックスが利用者の個人データを活用する目的、ロレックスが他の手段でこうした目的を実現できるかどうか、適用できる法律上、規制上、税制上、会計上、その他の必要条件を考慮します。<br>利用者の個人データのさまざまな性質に合わせた保存機関の詳細は、上の表に示されています。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7f2374ed-937d-5863-9273-7753124f406b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3F9683D5-D42E-510E-BD2D-A88F4C8393B0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "マーケティング"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "利用者は、利用者に送付される全てのマーケティングメッセージ上のオプトアウト（解除）リンクを介して、あるいは、ロレックスに連絡することによって、いつでもロレックスまたは第三者にマーケティングメッセージの送付を止めるよう求めることができます。<br>これらのマーケティングメッセージの受信をオプトアウト（解除）しても、上記、活動/目的の1～4の結果としてロレックスに提供された個人データには適用されません。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "55d26222-2fc7-5ae2-81df-64f5a90b6c6d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9F4B0691-33A8-51D4-B68E-AA89C285ED03}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "利用者の個人データの公開"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは利用者の同意の下、個人データを内部および外部第三者機関と共有します。<br><br>場合によりロレックスは全ての第三者機関に対し、利用者の個人データのセキュリティを尊重し、法に則った取り扱いをするよう要請します。ロレックスは第三者機関のサービスプロバイダーが彼ら自身の目的のために利用者の個人データを使用することを認めません。利用者個人データの活用を許可するのは、特定の目的のためで、私たちの指示に従った場合に限ります。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "31908a1c-9c01-5b25-9854-987529ebce8c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D6ADD97A-387E-5B81-A597-4085C61EAD0B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "内部での移行"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスでは利用者の個人データをロレックスグループの企業内で共有します。このため、利用者の個人データが欧州経済地域（EEA）外に移行されることもあります。<br>ロレックスの外部第三者機関は、EEA外に拠点を置いているため、彼らが利用者の個人データを活用するということは、データをEEA外に移行する必要性が生じます。<br>ロレックスは、利用者の個人データをEEA外に移行する際はいつでも、少なくとも以下のうち1つの保護手段が適用されることを確認することで、同程度の保護が提供されることを保証します：<br><ul><li>ロレックスは、欧州委員会による個人データ保護のレベルに適合したレベルの保護を提供すると見なされた国にのみ、利用者の個人データを移行します。詳細については、欧州委員会：EU外の国における個人データ保護の適合性をご覧ください。</li><li>ロレックスがある特定のサービスプロバイダーを利用する場合、欧州委員会に認可された、個人データに対し欧州と同様の保護が与えられるための特別な契約書を使用します。詳細については、欧州委員会：第三国への個人データ移行のための契約書ひな形をご覧ください。</li><li>ロレックスがアメリカ合衆国に本拠地を置くプロバイダーを利用する場合、プロバイダーが欧州とアメリカ合衆国間で共有される個人データに対し、欧州と同等の保護を提供するよう求める「プライバシーシールド」に署名している場合に限り、データを移行することができます。詳細については、欧州委員会：欧州委員会： EU-US プライバシーシールドをご覧ください。</li></ul>ロレックスが利用者の個人データをEEA外に移行する際に使用する特定の仕組みについてさらに詳しい情報が必要な場合は、ご連絡ください。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6d7f98ef-8473-5896-a9a8-019352800401",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7947177D-4A81-5283-91EE-FB92609F8305}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "データの機密保護"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは、利用者の個人データが誤って失われたり、正式な許可を受けていない方法で使用、アクセスされたり、変更または開示されたりすることを防ぐために適切なセキュリティ対策を導入しました。加えて、ロレックスは、ビジネスの必要性からデータを知る必要があるロレックスの被雇用者、エージェント、受託業者、その他の第三者に対し、利用者の個人データへのアクセスを制限しています。彼らは、ロレックスの指導と守秘義務に従う場合のみ、利用者の個人データを活用することができます。<br>ロレックスは、疑わしい個人データの破棄に対応する手続きを導入し、データを破棄するよう法的に求められた場合、利用者および破棄を運用する規制当局に通知します。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a1c40aa9-a764-5c82-80f6-4665c453e40b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{0D81D02C-0933-568C-B127-9865BE4C8D05}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "クッキー＆第三者のリンク"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "利用者は、全て、あるいは、特定のブラウザクッキーを拒否する、またはウェブサイトがクッキーの設定あるいはクッキーへのアクセスをした場合、警告するようにブラウザを設定することができます。利用者がクッキーを無効にする、または、拒否する場合、このウェブサイトの一部にアクセスできなかったり、正しく機能しなかったりする場合があることをご理解ください。ロレックスが使用するクッキーに関するより詳細な情報については、こちらをご覧ください。<br>このウェブサイトには第三者へのリンク、プラグイン、アプリケーションが含まれます。これらのリンクをクリックする、または、接続できるようにすることで、第三者は利用者についてのデータを収集したり共有したりできるようになります。ロレックスはこれら第三者のウェブサイトを制御していません。また、彼らのプライバシーに関する方針に対する責任も負っていません。利用者がロレックスのウェブサイトを離れる際は、訪問するウェブサイト全てのプライバシー通知を読むことを推奨します。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "54c48954-cd7d-5af2-b4f1-f557edc20a2e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CB3F263E-2B4D-5243-8E02-A15D2571F47A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "利用者の法的権利"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "特定の状況の下では、利用者の個人データに関わるデータ保護の法に基づき、利用者は以下の権利を有します。<ul><li><b>利用者の個人データに対するアクセス</b>を請求する権利（一般的に「データ主体アクセス請求」として知られています）。これによって、利用者はロレックスが保有する利用者についての個人データのコピーを受け取り、ロレックスが合法的にそれを活用しているかチェックすることを可能にします。</li><li><b>ロレックスが保有する</b>利用者についての個人データの修正を要求する権利。これによって、利用者はロレックスが保有する不完全または不正確なデータを全て修正することが可能になりますが、ロレックスは利用者から私たちに提供された新しいデータの正確性を検証する必要があります。</li><li><b>利用者の個人データ</b>の抹消を請求する権利。これによって、ロレックスが利用者の個人データをこれ以上活用し続ける理由がない場合、利用者はロレックスに個人データの消去または削除を求めることが可能になります。また、利用者が個人データの活用に反対する権利を行使した場合（下を参照）、ロレックスが利用者の情報を非合法的に活用した場合、またはロレックスが現地の法律に従って利用者の個人データの消去を求められた場合、利用者はロレックスに対し、利用者の個人データの消去または削除を求める権利を有します。ただし、特定の法的理由から、ロレックスは常に利用者の消去要求に従えるわけではないことをご理解ください。その場合は、いつでも利用者の要求に応じて通知します。</li><li><b>ロレックスが正当な利益</b>（あるいは第三者の正当な利益）に基づいている場合で、利用者が利用者の基本的な権利や自由に影響を与えると感じ、この領域での活用に反対したくなるような特定の状況に利用者がある場合に利用者の個人情報の活用に反対する権利。利用者はまた、ロレックスが利用者の個人データをダイレクトマーケティングの目的で活用する場合、それに反対する権利を有します。場合によっては、ロレックスは、利用者の権利や自由を守る以上に利用者の情報を活用しなくてはならない、やむを得ない正当な理由があることを示す必要があります。</li><li><b>利用者の個人データ</b>の活用の制限を要求する権利。これによって、利用者は以下の状況において、ロレックスに自分の個人データの活用の一時停止を要求することが可能になります：<ul><li>利用者がロレックスにデータの正確性を確立して欲しい場合。</li><li>ロレックスのデータの使用方法が合法的でないが、利用者がデータを消去したくない場合。</li><li>ロレックスが求めていないにもかかわらず、利用者が法的要求を確立、実施、主張する必要があり、利用者がロレックスにデータを保有してもらう必要がある場合。</li><li>ロレックスによる利用者のデータの使用に利用者が反対しているが、それ以上に、ロレックスがデータを使用する正当な理由を有している場合。</li></ul></li><li><b>利用者の個人データ</b>の利用者自身または第三者への移行を要求する権利。ロレックスは利用者、または利用者が選んだ第三者に対して、利用者の個人データを構造的な、一般的に利用されている、機械可読フォーマットで提供します。この権利は、ロレックスが情報を使用するために、あるいは、ロレックスが利用者との契約を実践するために情報をどこで使用したか、利用者が最初にロレックスに提供した自動化情報にのみ適用されることをご理解ください。</li><li><b>ロレックスが利用者のデータ</b>を活用するために合意に依存している場合、いつでも合意を取り消す権利。しかしながら、これは利用者が合意を取り消す前に実践されたプロセスの合法性には影響を与えません。利用者が合意を取り消す場合、ロレックスは特定の製品やサービスを利用者に提供することができなくなります。ロレックスは利用者が合意を取り消す際にこのことを利用者に勧告します。利用者が上記の権利で行使したいものがある場合は、個人データ管理者にご連絡ください。</li></ul>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dccb878e-722b-51c4-abb9-59d750fd8c80",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A731476D-442D-5275-BD70-35917FB299BC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "通常時の費用負担なし"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "利用者は、自分の個人データにアクセスするのに（あるいは、その他の権利を行使するのに）費用を支払う必要はありません。ただし、利用者の要求に明らかな根拠がない場合、反復的な場合、あるいは過剰な場合は、ロレックスは妥当な費用を請求します。または、こうした状況においては、利用者の要求を拒否することができます。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dc2346a8-f075-5e2f-b106-f34686fbdec7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FD40E562-05C5-5603-87CD-42C10DDF2998}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "ロレックスが利用者に必要とするもの"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "利用者の身元を特定し、利用者が個人データにアクセスする権利を保証する（あるいは、その他の権利を行使する）一助として、ロレックスは利用者から特定の情報を求める必要がある場合があります。これは、個人データが受け取る権利のない者に公開されないことを保証するためのセキュリティ対策です。また、ロレックスは、私たちからの回答を早めるために、利用者の要求に関して、利用者にさらなる情報を求めるために連絡を取ることもあります。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4bbe4f62-f264-5f9f-8551-a568bceddcee",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A8FC1816-55A3-50BE-A106-9CED38E4A5F8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "回答の期限"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "ロレックスは全ての正当な要求に対し、1か月以内に回答するよう努力します。利用者の要求が特に複雑な場合、あるいは、利用者が複数の要求を行った場合は、1か月以上掛かる場合もあります。この場合、ロレックスは利用者に周知し、更新し続けます。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8b82535e-970c-552e-8c0f-099b3046c31c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{617A81F9-BB10-5227-AFAE-632B75CC841B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "連絡先"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>本ポリシーやロレックスの個人情報の取り扱いに関して、ご質問やご意見がある場合には書面または電話でお問い合わせください:</p>\n<p>Rolex SA<br />\nRue Fran&ccedil;ois-Dussaud, 3-5-7<br />\n1211 Gen&egrave;ve 26 &ndash; Switzerland&nbsp;<br />\n+41 22 302 22 00<br />\n<br />\nEメール : privacy@rolex.com<br />\n本ポリシーの更新日: 2018年 7月</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "3fbed1f7-bbb4-42f0-8bcd-b6f917e91260",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "64474a46-2402-46ca-828a-bbd7b508f0c7",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "スティーブ・ボイズのグレート・スパイン・オブ・アフリカ - パーペチュアル プラネット"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "いくつもの危険に満ちた冒険を経て、探検家のスティーブ・ボイズとそのチームは、雄大なザンベジ川の源流がアンゴラ高地にあることを証明した。ロレックスの支援を受け、彼はこれらの発見を活用し、この重要な地域の保護を実現しようとしている。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "探検家のスティーブ・ボイズとそのチームは、雄大なザンベジ川の源流がアンゴラ高地にあることを証明した。Rolex.orgで詳細を見る"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "かけがえのない水を守る"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "探検"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "スティーブ・ボイズとカサイ川遠征 - パーペチュアル プラネット"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "ロレックス パーペチュアル プラネット イニシアチヴのパートナーで環境保護活動家のスティーブ・ボイズは、アフリカ大陸の水の安全性を確保するグレート・スパイン・オブ・アフリカ遠征の一環として、アンゴラ高地にまで遡りコンゴ川の主な水源を追跡した。\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02min 60s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "グレート・スパイン・オブ・アフリカ遠征の一環として、環境保護活動家のスティーブ・ボイズは、コンゴ川の主な源流であるカサイ川を調査した。Rolex.orgで詳細を見る"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "カサイ川"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "環境"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "スティーブ・ボイズとルングエブンゴ川 - Perpetual Planet"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "ロレックスは、パーペチュアル プラネット イニシアチヴを通じて、これまで科学的に記録されることのなかった何千kmにも及ぶ河川を横断するグレート・スパイン・オブ・アフリカ遠征を支援している。その調査は、アフリカの大河に依存するコミュニティや野生動物の保護に役立つだろう。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 26s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "ロレックスは、パーペチュアル プラネット イニシアチヴを通じて、未踏のルングエブンゴ川を研究するスティーブ・ボイズの遠征を支援している。Rolex.orgで詳細を見る"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "雄大なザンベジ川とその秘密"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "環境"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019年ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤー賞 - オカバンゴ原生地保護プロジェクト・チーム"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤー賞は、そのパーペチュアル プラネットに対する取り組みが、地球が直面している重要な問題、発見、課題に重大な光を当てている探検家を表彰するものである。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "オカバンゴ・ウィルダネス・チームとパーペチュアル プラネットに貢献する彼らのプロジェクト。今年のロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤーの詳細を見る。&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019年ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤー賞 - オカバンゴ原生地保護プロジェクト・チーム"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "環境"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024年 ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤー – フェルナンド・トルヒーヨ"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "コロンビアの海洋生物学者であるフェルナンド・トルヒーヨは、アマゾンカワイルカとその生息地である水系を保護する自身の活動で、2024年 ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤーに選ばれた。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3min 10s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "海洋生物学者であるフェルナンド・トルヒーヨは、アマゾンカワイルカを保護する自身の活動で、2024年 ロレックス ナショナル ジオグラフィック エクスプローラー・オブ・ザ・イヤーに選ばれた。Rolex.orgで詳細を見る"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "フェルナンド・トルヒーヨ：カワイルカへの愛情"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "環境 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

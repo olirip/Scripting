@@ -1,0 +1,3012 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "ko",
+      "wa": {
+        "contentTag": "exploration/milestones",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "",
+        "environmentName": "production",
+        "pageName": "rolex-awards:milestones:exploration:francesco-sauro",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/exploration/2021/francesco-sauro/long-film/milestones-rae-francesco-sauro-2021"
+      ],
+      "item": {
+        "datePublished": "2021-11-15T10:27:22Z",
+        "dateModified": "2023-02-16T08:55:11Z"
+      }
+    },
+    "route": {
+      "name": "francesco-sauro",
+      "displayName": "francesco-sauro",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": ""
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "롤렉스 어워드 - 지하 세계를 탐험하다"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "수많은 동굴을 탐험하며 과거의 기록을 미래 세대에 전하고 있는 프란체스코 사우로(Francesco Sauro)와 같은 동굴학자들 덕분에 동굴의 숨겨진 영역은 과학자 및 탐험가들에게 새로운 세계를 열어주었습니다."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "5분 41초"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex Awards - Venturer in the underworld"
+        },
+        "metadescription": {
+          "value": "롤렉스 어워드 수상자이자 동굴학자 프란체스코 사우로(Francesco Sauro)는 알려지지 않은 생물을 발견하기 위해 지구상의 가장 깊은 동굴들을 탐험합니다. rolex.org에서 자세히 보기"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": {
+          "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+          "url": "/Content/Category/milestones",
+          "fields": {
+            "name": {
+              "value": "Milestones"
+            },
+            "dictionaryKey": {
+              "value": "milestones"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "20"
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "20"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+          "url": "/Content/Hub/Minisites/milestones",
+          "fields": {
+            "name": {
+              "value": "milestones"
+            },
+            "dictionaryKey": {
+              "value": "view-milestones"
+            },
+            "url": {
+              "value": "/rolex-awards/milestones"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "지하 세계를 탐험하는 모험가"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "탐험"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "851d1afd-a22f-409d-975a-0ce2aa43b58c",
+      "itemLanguage": "ko",
+      "itemVersion": 43,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "fee9824f-d8b8-40fb-b71a-1af2afc2a994",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{E51C140C-AEB5-4693-8260-F86914C6F7AB}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-awards/exploration/2021/francesco-sauro/cover/milestones-francesco-sauro-2021_rae_updates_sauro_cover_desktop_21_8_pn_ln.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-awards/exploration/2021/francesco-sauro/cover/milestones-francesco-sauro-2021_rae_updates_sauro_cover_mobile_21_8_pn_ln.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021_cover_posterframe_1920x900.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "지하 세계를 탐험하는 모험가"
+                    },
+                    "subtitle": {
+                      "value": "프란체스코 사우로"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021_cover_posterframe_750x900_portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "c3ad1355-2890-4af2-8633-4f97b551a18b",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{752C2E7B-88C8-4938-8D40-3C9AB0EE031A}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/rolex-awards/exploration/2021/francesco-sauro/long-film/milestones-rae-francesco-sauro-2021.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#f8f8f8"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#f8f8f8"
+                    },
+                    "time": {
+                      "value": "5분 41초"
+                    },
+                    "date": {
+                      "value": "2021년 11월"
+                    },
+                    "text": {
+                      "value": "<b>수많은 동굴을 탐험하며 과거의 기록을 미래 세대에 전하고 있는 프란체스코 사우로(Francesco Sauro)와 같은 동굴학자들 덕분에 동굴의 숨겨진 영역은 과학자 및 탐험가들에게 새로운 세계를 열어주었습니다.</b><br/><br/>\r\n아마존강 유역의 숲, 유럽의 험준한 산, 대서양 외딴 섬 아래에 있는 동굴들을 누비는 롤렉스 어워드(Rolex Awards for Enterprise) 수상자 프란체스코 사우로에게 세상에서 가장 깊고 어둡고 신비로운 장소인 동굴은 거부할 수 없는 매력을 지닌 곳입니다."
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-sarisarin-aama-tepu-cave-exploration_2016_rm_robbieshone0313.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "66ca0a6a-04d5-4d64-afab-9648757735ed",
+                  "componentName": "SimpleText",
+                  "dataSource": "{2521874A-C51C-47ED-AE8C-E8146B84FCAE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "동굴학자이자 과학자인 프란체스코 사우로는 백만 년 전부터 지구 깊은 곳에 존재해왔던 생물들의 비밀을 파헤치며 지하 세계를 탐험하는 일에 평생을 바치고 있습니다.\r\n<br/><br/>\r\n그는 어린 시절 아버지와 함께 이탈리아의 레시니 산맥으로 동굴 탐험을 떠난 이후 어둠을 무서워하지 않게 되었습니다. “호기심이 두려움을 이겼어요. 땅 밑에도 땅 위와 똑같이 하나의 온전한 세상이 펼쳐져 있다는 것을 깨달았죠.”\r\n<br/><br/>\r\n그가 처음 롤렉스 어워드에 대해 알게 된 것은 12살 때였습니다. 1993년 롤렉스 어워드 수상자이자 멕시코의 동굴을 탐험한 이탈리아 출신 동료인 안토니오 데 비보(Antonio De Vivo)에게 영감을 받은 그는 라 벤타 동굴학자협회(La Venta Association of Speleologists)에 가입하고 외딴 지역을 탐험하는 원정에 참여하기 시작했습니다. 그러던 중 콜롬비아와 베네수엘라, 브라질의 정글 위로 우뚝 솟은 고원지대에 있는 탁자처럼 꼭대기가 평평한 산인 <i>테푸이스(Tepuis)</i>를 조사하게 됩니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "77cbb2f8-7daf-4f34-b7a3-21aeb558fa8e",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{25147558-9F5F-4FEA-8751-4E0D170B61BD}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-rae14fs_01-059_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-rae14fs_01-059.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6349cdec-3dde-44f4-afbc-29a8d11ea1a1",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C0364A0A-5F69-4863-AA3E-51B53B9B80B1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "프란체스코 사우로는 <i>테푸이스</i>의 매력에 사로잡혔습니다. 테푸이스가 그토록 매혹적인 이유는 “아름다울 뿐만 아니라 그 안에 숨어 있는 새로운 미지의 세계를 발견할 수 있기 때문”이라고 그는 설명합니다. 베네수엘라 동남부와 브라질 북부를 뒤덮고 있는 울창한 열대우림 위로 솟아 있는 거친 규암 고원들은 매우 인상적인 풍경을 만들어냅니다. 이 암석 봉우리의 안쪽 깊은 곳에 있는 거대한 동굴과 수로에는 수천만 년 또는 수억 년에 달하는 시간 동안 주변 환경으로부터 고립된 채 진화해온 독특한 지질과 생물들이 고스란히 남아 있습니다. 공룡이 살았던 시기의 모습을 그대로 담고 있는 타임캡슐과도 같습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "da5430be-05c8-4b8d-ae63-aab36cf3b5bc",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{BA390040-45A9-43C6-9B11-31FDDD47D844}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-02_dji_0215_mp4_00_00_11_00_still001_r_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-02_dji_0215_mp4_00_00_11_00_still001_r.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d3e6194e-762e-4414-9923-5b022aafa2be",
+                  "componentName": "SimpleText",
+                  "dataSource": "{31A240E9-8879-4665-8C3E-3F945D77FDF1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "프란체스코 사우로는 2009년부터 12차례나 이곳을 찾았습니다. 원정대를 이끌고 수직으로 솟은 <i>테푸이스</i>의 가파른 암벽을 오르거나 헬리콥터에서 하강해 그 누구도 본 적 없는 지하 세계를 탐사했습니다. 2014년 진행한 탐험으로 롤렉스 어워드를 수상하면서 그의 탐사 활동은 한 걸음 더 발전할 수 있었습니다. 또, 수상을 계기로 항생제에 내성을 보이는 이들을 살리기 위해 새로운 생물을 발견하고자 힘쓰고 있는 사우디아리비아의 젊은 미생물학자이자 또 다른 수상자, 호삼 조와위(Hosam Zowawi)를 만나기도 했습니다. 2016년 <i>테푸이스</i>로 함께 탐험을 떠난 두 사람은 색다른 신진대사 시스템을 통해 어두운 동굴 속에서도 살아남을 수 있는 특별한 미생물종을 채취하는 데 성공했습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4265dcf7-791e-407d-b81e-1ca08e60c401",
+                  "componentName": "Quote",
+                  "dataSource": "{F9D2E8EB-9831-476A-9596-EFCEB5EC0780}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "한 걸음 한 걸음 내디딜 때마다 인류가 한 번도 보지 못했던 새로운 것을 발견하게 됩니다."
+                    },
+                    "author": {
+                      "value": "프란체스코 사우로"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "57d9616f-41a9-4dae-8ca4-2941b9d57a7a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{91256A6B-E109-4893-984C-C270031CC1C2}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "프란체스코 사우로는 연구를 통해 생명체와 물, 지구 화학적 요소들이 결합되어 이러한 독특한 환경을 형성한 과정을 파악해나가며 지금껏 알려진 적 없는 기후 변화의 역사를 밝혀내고 있습니다.\r\n<br/><br/>\r\n그는 최근 대서양 북동쪽의 셀바젱스 제도에 속하는 작은 섬들을 탐사하면서 수백만 년 전 만들어진 화산암 동굴들을 발견했습니다. 그는 이러한 동굴들이 “한 걸음 한 걸음 내디딜 때마다 인류가 한 번도 보지 못했던 새로운 것을 발견하게 되는” 하나의 작은 세상과도 같다고 말합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "67deafc4-66d8-4fbd-ba6c-f3bdda15826f",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{48E03AFB-202A-42C9-8F4B-D9898E1A5CA2}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-a-romeo-selvagens-2021-06015_750x1016_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-a-romeo-selvagens-2021-06015_960x1300.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3672f913-8a47-41b9-b717-c14c4ad8f370",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9B9C399C-068B-4D8A-80F0-C08962639FCA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "셀바젱스 제도는 외진 곳에 있음에도 불구하고 한때 인간의 활동으로 훼손될 위험에 처했었지만, 현재는 다행히도 보호구역에 포함되어 포르투갈 정부의 관리를 받고 있습니다. 화산 활동으로 생성된 동굴의 내부에는 알려지지 않은 고대 미생물이 가득하며, 동굴 속 험준한 바위에는 수백만 년 동안 바닷새들의 둥지가 되어준 벌집 모양의 구멍들이 있습니다. 포르투갈 과학기술재단(Foundation for Science and Technology)이 자금을 지원한 이 원정은 프란체스코 사우로와 에보라대학교의 미생물학자 아나 젤리아 밀러(Ana Zelia Miller)의 진두지휘 하에 진행되었습니다. 원정을 통해 다양한 분야를 아우르는 과학자들이 모여 셀바젱스 제도에 숨겨져 있던 보물들을 발견했습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "15f3dc7b-cf21-4bef-bf6b-d211fbde52c8",
+                  "componentName": "Roller",
+                  "dataSource": "{4D2C5B8B-C70B-458B-8136-B9A98EE59173}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "73da28d6-a2f0-43ae-a4e2-279862f8dc77",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7C3BC6B6-E236-425B-A3AA-902890E1E7D0}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/roller/milestones-francesco-sauro-2021-alessio-romeo-brazil-2019-02433_01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "be9eee93-57a0-4843-8b53-ded4ed792e7e",
+                        "componentName": "RollerCard",
+                        "dataSource": "{6F5B46D0-3F6B-4875-AA60-5F8FDAB24B1C}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/roller/milestones-francesco-sauro-2021-alessioromeo-brazil%202019-02284_05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "88836d00-c671-4f36-98de-7700a81e399b",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5A808967-3BFC-4D83-92B6-DD38015DA833}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/roller/milestones-francesco-sauro-2021-a-Rromeo-selvagens-2021-07246-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "adb803e4-fcc9-48af-83a5-89f3132e36fd",
+                        "componentName": "RollerCard",
+                        "dataSource": "{7AAF80B5-69E9-450E-B061-779BF45CAB00}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/roller/milestones-francesco-sauro-2021-a-Rromeo-selvagens-2021-06212_03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "1a93d135-49b5-4a00-8cd6-eee6e22243e1",
+                        "componentName": "RollerCard",
+                        "dataSource": "{ED3B8127-FE7E-4375-BEEE-5B05A407300A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/roller/milestones-francesco-sauro-2021-a-Rromeo-selvagens-2021-06542_04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "fa76b0bb-6be3-44c9-b459-a12e3dc369ab",
+                  "componentName": "SimpleText",
+                  "dataSource": "{E2E1C9B8-78CA-4858-9BCA-0E63E1841F31}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "셀바젱스 제도에 있는 것과 같은 화산동굴들은 다가올 미래를 엿볼 수 있는 창구 역할을 합니다. 프란체스코 사우로는 유럽우주국(European Space Agency)과 협력해 낯선 지역에서 차세대 우주 비행사들을 훈련시킵니다. 달이나 화성처럼 우주 방사선으로부터 인체를 보호해야 하는, 완전히 새로운 환경에서 지내며 임무를 수행할 수 있도록 비슷한 환경을 미리 체험해보도록 하는 것입니다. 그는 이렇게 설명합니다. “동굴은 하나의 작은 행성과도 같습니다.” 동굴들은 암석과 그 안에 숨은 생물들을 분석하기 위한 첨단 과학 장비를 실험해볼 수 있는 살아 있는 실험실이 되어주기도 합니다. “동굴에 들어간다는 것은 마치 역사를 기록해둔 아카이브에 들어가는 것과도 같아요. 모든 것이 보존된 동굴에서 과거를 파헤치며 생물이 어떻게 진화했고, 무기물이 어떻게 형성되었으며, 기후가 어떻게 변화해왔는지를 밝혀낼 수 있죠.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "483509ca-404c-4dd1-8951-f12295338215",
+                  "componentName": "Quote",
+                  "dataSource": "{6DBB55ED-7928-46CB-8A90-5515FAA417EF}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "동굴은 마치 역사를 기록해둔 아카이브와도 같아요. 모든 것이 보존된 동굴에서 과거를 파헤치며 생물이 어떻게 진화했고, 무기물이 어떻게 형성되었으며, 기후가 어떻게 변화해왔는지를 밝혀낼 수 있죠."
+                    },
+                    "author": {
+                      "value": "프란체스코 사우로"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "15239667-a13d-44ca-84d3-46ee23df660a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FCB2B33A-8947-4E06-A698-4A0D0E79C988}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "그는 최근 롤렉스 어워드 수상자 조셉 쿡(Joseph Cook)과 함께한 원정에서 드론을 이용해 녹아내리고 있는 빙하의 중심부를 3D 지도로 제작하기도 했습니다. 이러한 빙하들은 그린랜드, 스위스 등 사람이 직접 탐사하기에 위험한 곳에서 찾아볼 수 있습니다. 또, 그는 지역 토착민들과 함께 콜롬비아 지역의 아마존 정글에 위치한 치리비케테(Chiribiquete) <i>테푸이스</i>를 새롭게 탐사하며 지역 주민들이 자연 그대로의 상태를 간직하고 있는 테푸이스에 대해 알아갈 수 있도록 할 예정입니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3d1ebf25-a817-482b-9a4e-17429c3b88f8",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{1B7820DD-C6EC-4AF2-A9F9-B7CE59EAFAAB}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-a-romeo-selvagens-2021-05926_r-large-image_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-a-romeo-selvagens-2021-05926_r-large-image.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "3d088c9a-3ccc-404e-9338-edc41389278b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1E878240-0454-4BDC-8EE1-BC599F10A392}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "그는 이렇게 지적합니다. “전 세계 동굴 중 실제로 탐사가 진행된 동굴은 10%도 채 되지 않습니다. 그중 현대적인 분자 생물 기술을 활용해 조사한 동굴은 약 100개뿐이죠. 즉, 우리 지구의 땅속 깊은 곳에 살아가는 생물에 대해서는 밝혀진 바가 거의 없고, 그중에는 인류가 지금까지 한 번도 접하지 못한 특별한 형태의 생물이 존재할 수도 있다는 의미입니다.” 그는 또 다른 롤렉스 어워드 수상자이자 음향학 전문가인 미쉘 앙드레(Michel André)와 협업해 외부 소리가 전혀 들어오지 않는 동굴 내에서 소리가 얼마나 중요한 역할을 하는지 연구하고 있습니다. 함께 동굴음향학이라는 새로운 분야를 개척해나가고 있는 것입니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c18a7dde-944b-4577-aa5d-e3ada2cc14b8",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{58223F23-BA1F-417A-8916-4A6D138AB2E8}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-dsc01603-01_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-dsc01603-01.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b01c7038-eb49-4558-bcac-f79b60a353ce",
+                  "componentName": "SimpleText",
+                  "dataSource": "{50309E72-DFE1-40DC-BD1C-B732931BEB5A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "프란체스코 사우로가 동굴을 탐험하는 이유는 매우 다양합니다. 그에게 동굴은 인간의 개입을 겪지 않은 지구의 생물들을 대표하는 공간이며, 새로운 종들을 보호하기 위한 안식처와도 같은 곳입니다. 아마존 정글에 살아가는 지역민들에게 구름 너머로 흐릿하게 보이는 <i>테푸이스</i>는 신들이 사는 곳이자 지역 사회의 문화적, 종교적 우상과도 같습니다. 그리고 이러한 소중한 유산을 보호하는 것이 프란체스코 사우로의 목표입니다.<br><br>\r\n그는 대담한 탐험과 통찰력, 이해가 조화를 이룬 연구 활동을 통해 롤렉스의 퍼페츄얼 플래닛(Perpetual Planet) 정신을 실현합니다. 우리가 오래전부터 살아온 익숙한 세상 아래 숨겨져 있던, 신비로움으로 가득한 새로운 세상들이 조금씩 그 모습을 드러내고 있습니다.\r\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "11f9b7ff-9e60-4667-b282-aa68105e1965",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{5820AA9F-4CE0-4B87-A505-C4AA301E9E36}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/rolex-awards/exploration/francesco-sauro"
+                    },
+                    "anchorText": {
+                      "value": "원본 기사 보기"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-awards/milestones/exploration/francesco-sauro/milestones-francesco-sauro-2021-rae14fs_02-029r.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "발행일: 2014년"
+                    },
+                    "title": {
+                      "value": "미로를 탐험하다"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "7a882570-03fe-4e1d-87ae-3f4306859ff7",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "e2b95a6e-9743-4644-8d3a-853d9c07a1fa",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{F139D5E8-0FE7-4FC0-B4D6-FF9E82F450A1}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "관련 기사"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "58bfb040-c3e5-4e5a-8480-f1ab7dbd7d99",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스 어워드 - 파타고니아의 피오르드에 자리한 바다숲을 탐험하다"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "대담한 해양 생물학자 브레니 하우서만(Vreni Häussermann)은 파타고니아 피오르드의 야생 환경을 보호해야 하는 이유 중 하나로 과학계에 알려진 적 없는 새로운 종에 대한 발견 가능성을 꼽습니다.\r\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6분 06초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Exploring submarine forests in Patagonia’s fjords - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "롤렉스 어워드 수상자이자 생물학자인 브레니 하우서만은 파타고니아의 피오르드를 기록하고 해양 생물을 보호하기 위해 노력하고 있습니다. rolex.org에서 자세히 보기\r\n\r\n\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "파타고니아의 피오르드에 자리한 바다숲을 탐험하다"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "탐험"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "f49eea8b-879e-45db-aa37-3cbfdb3170b4",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스 어워드 - 그린란드 빙하가 기후변화에 미치는 영향"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "얼음으로 뒤덮인 그린란드(Greenland) 지표면에 새로운 생명이 피어나면서 수천 제곱킬로미터에 이르는 순백의 지형이 그린, 레드, 브라운, 퍼플, 블랙 컬러로 뒤섞여 으스스한 분위기를 자아내고 있습니다.\r\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2분 6초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/joseph-cook/environment/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Darkening hues of Greenland - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "2016년 영 롤렉스 어워드 수상자인 조셉 쿡(Joseph Cook)의 연구는 지구 지표면의 녹아가는 빙상에 있는 미생물에 대해 밝혀내는 여정입니다.\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": "10"
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "어두워지는 그린란드의 풍경"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/joseph-cook/environment/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "환경"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "09359315-6f0c-44b1-ae87-d0a12aefb0b2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "applied-technology"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스 어워드 - 화산의 맥박을 재다"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "지구상에는 역사적으로 500여 개의 활화산이 존재하고 있으며, 활화산 분화로 피해를 입을 수 있는 범위 안에 거주 중인 인구는 무려 8억 명에 달합니다. 스코틀랜드 출신의 화산학자 앤드류 맥고니글(Andrew McGonigle)은 화산이 폭발하기 전, 적시에 경보를 내릴 수 있는 방안을 마련하는 것이 과학뿐만 아니라 인도주의적 문제와도 연관된 일이라 믿습니다. "
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2분 3초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/andrew-mcgonigle/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Taking a volcano’s pulse - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "드론 기술을 이용해 화산 폭발을 예측하는 앤드류 맥고니글의 연구는 과학뿐만 아니라 인도주의적 문제와도 연관되어 있습니다. Rolex.org에서 자세히 보기"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                            "url": "/Content/Category/Applied-Technology",
+                            "fields": {
+                              "name": {
+                                "value": "Applied Technology"
+                              },
+                              "dictionaryKey": {
+                                "value": "applied-technology"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": "10"
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "화산의 맥박을 재다"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/andrew-mcgonigle/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "응용기술"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "48e0342d-2f74-4fb7-bae0-a9f0a7a10368",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{E3827E99-8484-474E-B1B4-E7BA73E0EE47}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards/milestones"
+                    },
+                    "anchorText": {
+                      "value": "자세히 보기"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/the-next-chapter/milestones_article_push_1920x1080.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "롤렉스 어워드"
+                    },
+                    "title": {
+                      "value": "마일스톤"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "7b75f228-2b0b-4d10-82e8-641519f238f2",
+                  "componentName": "Sharing",
+                  "dataSource": "{EC02794D-0C05-49A5-A54F-F35928B17BC6}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ab23d00b-8858-4b14-9b90-a6fbc14a7e2d",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈의 아프리카의 위대한 척추 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "수많은 위험한 탐험 끝에, 탐험가 스티브 보이즈(Steve Boyes)와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 증명했습니다. 롤렉스의 지원을 받은 그는 이러한 연구 결과를 바탕으로 이 중요한 지역에 대한 실질적인 보호 조치를 마련하고 있습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "탐험가 스티브 보이즈와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 밝혀냈습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "우리의 물 보호하기"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "탐험"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 카사이강 탐험"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 퍼페츄얼 플래닛 이니셔티브의 파트너이자 환경 보호 운동가인 스티브 보이즈(Steve Boyes)가 아프리카 대륙의 수자원을 보호하기 위한 아프리카 대하 탐험(Great Spine of Africa Expeditions)의 일환으로 콩고강의 수원을 찾아 앙골라 고원으로 향했습니다.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 24초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": ""
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "카사이강"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 렁웨봉구 강 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스는 퍼페츄얼 플래닛 이니셔티브를 통해 이전까지 과학적으로 기록된 적 없었던 수천 킬로미터의 강을 횡단하는 아프리카 대하 탐험(Great Spine of Africa expeditions)을 지원합니다. 이들의 연구는 아프리카의 거대한 강에 의존하는 사람들과 야생 동물들을 보호하는 데 도움이 될 것입니다 "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 26초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "롤렉스가 퍼페츄얼 플래닛 이니셔티브를 통해 아직 사람의 발길이 닿지 않은 렁웨봉구강을 연구하는 스티브 보이즈의 탐험을 지원합니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "거대한 잠베지강의 비밀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 내셔널 지오그래픽 올해의 탐험가(The Rolex National Geographic Explorer of the Year)는 환경 보존에 대한 기여를 바탕으로 지구의 중대한 문제와 도전과제 그리고 새로운 발견을 조명한 탐험가들을 위한 시상식입니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 3초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "2019년 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정된 오카방고 야생 프로젝트 팀(Okavango Wilderness Team)과 퍼페츄얼 플래닛을 향한 그들의 프로젝트에 대해 알아보시기 바랍니다.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024 롤렉스 내셔널 지오그래픽 올해의 탐험가 – 페르난도 트루히요"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "콜롬비아 출신의 해양 생물학자 페르난도 트루히요(Fernando Trujillo)가 아마존의 분홍강돌고래와 돌고래의 보금자리인 아마존강의 체계를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "해양 생물학자 페르난도 트루히요가 아마존강돌고래를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "페르난도 트루히요: 강돌고래를 위하여"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

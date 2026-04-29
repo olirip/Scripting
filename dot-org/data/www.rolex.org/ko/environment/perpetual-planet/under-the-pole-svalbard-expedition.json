@@ -1,0 +1,3910 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "ko",
+      "wa": {
+        "contentTag": "exploration/exploration",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "perpetual-planet",
+        "environmentName": "production",
+        "pageName": "environment:perpetual-planet:under-the-pole-svalbard-expedition",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_1/soc_pp_doc_svalbard_ep1_23_a_132_en_py_ly_no_clock_16x9",
+        "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_2/soc_pp_doc_svalbard_ep2_23_a_147_en_py_ly_no_clock_16x9",
+        "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_3/soc_pp_doc_svalbard_ep3_23_a_122_en_py_ly_no_clock_16x9"
+      ],
+      "item": {
+        "datePublished": "2023-02-08T06:47:14Z",
+        "dateModified": "2023-07-05T08:10:32Z"
+      }
+    },
+    "route": {
+      "name": "under-the-pole-svalbard-expedition",
+      "displayName": "under-the-pole-svalbard-expedition",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "perpetual-planet"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "극지 심해 탐험대 스발바르 탐험 - 퍼페츄얼 플래닛"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "수중 탐사 프로그램인 극지 심해 탐험대는 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받은 북극해 빙해 탐사를 통해, 거의 알려지지 않은 풍부한 생태계인 해양 생물 숲에 대한 인식을 제고했습니다."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3분 19초"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-article.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Arctic Seas yield their secrets"
+        },
+        "metadescription": {
+          "value": "롤렉스는 북극해의 잘 알려지지 않은 취약한 해양 생물 숲을 조명하고자 하는 극지 심해 탐험대를 지원합니다. rolex.org에서 자세히 보기"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "4"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+          "url": "/Content/Category/Exploration",
+          "fields": {
+            "name": {
+              "value": "Exploration"
+            },
+            "dictionaryKey": {
+              "value": "exploration"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "9"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "북극해의 비밀"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-article.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "환경"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "602dbd3b-a5da-414c-a62e-b917e74001f9",
+      "itemLanguage": "ko",
+      "itemVersion": 65,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "c6bdb798-0470-4053-8ea9-c64aa8191c15",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{DCCCC25D-5FB5-4038-9884-9B15C58377B2}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/cover/pp_doc_svalbard_23_a_cover_desktop_8_pn_ln.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/cover/pp_doc_svalbard_23_a_cover_mobile_8_pn_ln.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "85vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/cover/2023_svalbard_expedition_cover_desktop_1920x900_posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "북극해의 비밀"
+                    },
+                    "subtitle": {
+                      "value": "극지 심해 탐험대"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/cover/2023_svalbard_expedition_cover_mobile_750x900_posterframe.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "b6e623bc-7c3d-4a29-aee7-a07824b70f4e",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{C6F39111-FA4A-4A9D-BE48-B29C226BF325}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#13426e"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#13426e"
+                    },
+                    "time": {
+                      "value": "3분 19초"
+                    },
+                    "date": {
+                      "value": "2023년 2월"
+                    },
+                    "text": {
+                      "value": "<b>수중 탐사 프로그램인 극지 심해 탐험대(Under The Pole)는 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받은 북극해 빙해 탐사를 통해, 거의 알려지지 않은 풍부한 생태계인 해양 생물 숲에 대한 인식을 제고했습니다.</b>"
+                    },
+                    "videoPoster": {
+                      "value": ""
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "578c8775-9cf8-4f29-8172-e81043db0189",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{C5EC5428-616C-421C-B746-D70982D1CFAE}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>극지 심해 탐험대</b> 딥라이프 - 스발바르 탐험"
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "rollerTitle": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "videos": [
+                      {
+                        "id": "4a69b435-abbc-484d-9634-88bcfe8712ee",
+                        "fields": {
+                          "date": {
+                            "value": "2023년 2월"
+                          },
+                          "title": {
+                            "value": "딥라이프 – 스발바르 탐험: 에피소드 1<br>북극해의 비밀"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_1/soc_pp_doc_svalbard_ep1_23_a_132_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:11"
+                          },
+                          "link": {
+                            "id": "85fd64d2-74ac-4041-829b-00115efbec1b",
+                            "url": "/environment/video/perpetual-planet/under-the-pole-svalbard-expedition-episode-1",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "스발바르 탐험 에피소드 1 - 퍼페츄얼 플래닛"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "기후변화로 인해 해빙이 점점 사라져가는 상황에서도, 북극해의 생태계는 베일에 싸여있습니다. 극지 심해 탐험대의 지슬랭 바르두(Ghislain Bardout)와 엠마뉴엘 페리에-바르두(Emmanuelle Périé-Bardout)는 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받아 이 신비로운 환경을 연구하기 위해 스발바르로 탐험을 떠났습니다. 탐험가들은 해양 생물 숲을 찾기 위해 깊고 추운 바닷속으로 잠수했습니다. 스발바르의 생태계는 육지의 숲만큼이나 지구 생명체에 중요한 역할을 하지만, 이곳에 대해 알려진 바는 거의 없습니다."
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": ""
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-01.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Under The Pole: DEEPLIFE - Svalbard Expedition - Episode 1"
+                              },
+                              "metadescription": {
+                                "value": "연구자들은 딥라이프(DEEPLIFE) 프로그램을 통해 북극해의 미지로 남은 해양 생물 숲 연구에 착수했습니다. rolex.org에서 동영상 보기"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                "url": "/Content/Category/Environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "Environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1400"
+                              },
+                              "tag2": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": "1400"
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:11"
+                              },
+                              "previewTitle": {
+                                "value": "극지 심해 탐험대: 딥라이프 - 스발바르 탐험 - 에피소드 1"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-01.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "환경"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_1/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-posterframe-episode-01.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "4179a421-9e38-40f5-8d11-a687a5cf0158",
+                        "fields": {
+                          "date": {
+                            "value": "2023년 2월"
+                          },
+                          "title": {
+                            "value": "딥라이프 – 스발바르 탐험: 에피소드 2<br>심해 탐험"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_2/soc_pp_doc_svalbard_ep2_23_a_147_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:26"
+                          },
+                          "link": {
+                            "id": "ad3beec6-1a12-4ae6-9c3a-57a7ec6f2571",
+                            "url": "/environment/video/perpetual-planet/under-the-pole-svalbard-expedition-episode-2",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "스발바르 탐험 에피소드 2 - 퍼페츄얼 플래닛"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "극지 심해 탐험대의 탐험가들이 북극해에 잠수했을 때, 이들은 험난한 도전을 마주했습니다. 고통스러울 만큼 차가운 바닷물과 극한의 추위는 장비를 노후화시키기도 했습니다. 북극해로의 잠수는 철저한 준비와 대담함이 필요하지만, 많은 정보를 발견할 수 있는 가치 있는 도전입니다. 팀은 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받아 진행 중인 딥라이프(DEEPLIFE) 프로그램을 통해 스발바르 인근 북극해에서 최초의 해양 생물 숲을 발견했습니다."
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": ""
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-02.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Under The Pole: DEEPLIFE - Svalbard Expedition - Episode 2"
+                              },
+                              "metadescription": {
+                                "value": "연구자들은 향후 조사를 위해 아직 밝혀지지 않은 북극해의 해양 생물 숲에 관한 새로운 데이터를 수집하고 있습니다. rolex.org에서 동영상 보기"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                "url": "/Content/Category/Environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "Environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1400"
+                              },
+                              "tag2": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": "1400"
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:26"
+                              },
+                              "previewTitle": {
+                                "value": "극지 심해 탐험대: 딥라이프 - 스발바르 탐험 - 에피소드 2"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-02.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "환경"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_2/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-posterframe-episode-02.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "fbb10f44-b202-4968-9ca7-c15e62361b6b",
+                        "fields": {
+                          "date": {
+                            "value": "2023년 2월"
+                          },
+                          "title": {
+                            "value": "딥라이프 – 스발바르 탐험: 에피소드 3<br>내일을 위한 변화"
+                          },
+                          "video": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_3/soc_pp_doc_svalbard_ep3_23_a_122_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:01"
+                          },
+                          "link": {
+                            "id": "ffd08e52-3742-4b8d-a3ac-814bdde41625",
+                            "url": "/environment/video/perpetual-planet/under-the-pole-svalbard-expedition-episode-3",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "video"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "스발바르 탐험 에피소드 3 - 퍼페츄얼 플래닛"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "극지 심해 탐험대의 목표는 북극해를 탐험하며 이 지역에 숨겨진 생태계를 기록하고 보호하는 것입니다. 이는 빙해에 살고 있는 해양 생물종과 이들의 변화 양상을 알고 있어야 가능한 일입니다. 다이버인 지슬랭 바르두(Ghislain Bardout)와 엠마뉴엘 페리에-바르두(Emmanuelle Périé-Bardout)는 다음 세대를 위해 살아 숨쉬는 지구를 보존하고자 합니다. 과학을 기반으로 한 이들의 탐험은 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받습니다."
+                              },
+                              "Video": {
+                                "value": true
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": ""
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-03.jpg"
+                              },
+                              "pageVersion": {
+                                "value": "dark"
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "dbb52d40-be85-4cf1-98c6-53d5dac6a4ef",
+                                "url": "/Content/PageType/video-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Under The Pole: DEEPLIFE - Svalbard Expedition - Episode 3"
+                              },
+                              "metadescription": {
+                                "value": "과학자들은 미래 세대를 위한 환경을 보호하기 위해 북극의 해양 생물 숲을 탐험하고 있습니다. rolex.org에서 동영상 보기"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                "url": "/Content/Category/Environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "Environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1400"
+                              },
+                              "tag2": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "tag2_ranking": {
+                                "value": "1400"
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": {
+                                "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                "url": "/Content/Category/Exploration",
+                                "fields": {
+                                  "name": {
+                                    "value": "Exploration"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "exploration"
+                                  }
+                                }
+                              },
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": "02:01"
+                              },
+                              "previewTitle": {
+                                "value": "극지 심해 탐험대: 딥라이프 - 스발바르 탐험 - 에피소드 3"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-thumbnail-episode-03.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "환경"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/environment/perpetual-planet/under-the-pole-svalbard-expedition/episode_3/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-posterframe-episode-03.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "#13426e"
+                    }
+                  }
+                },
+                {
+                  "uid": "3edc4455-73b7-4271-948f-fe367705fd42",
+                  "componentName": "TextSection",
+                  "dataSource": "{4D4580A0-1E8D-463A-909B-D337535604A1}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "딥라이프 – 스발바르 탐험"
+                    },
+                    "title": {
+                      "value": "북극해의 “숲” 보존"
+                    },
+                    "text": {
+                      "value": "해수면 아래에는 생물들로 이루어진 숲이 숨겨져 있습니다.\r\n</br></br>30m~200m 아래의 중광대의 바다는 어둡지만 칠흑처럼 깜깜하지는 않습니다. 햇빛에 의존하는 조류와 같은 생물은 이 어두운 세계에서 살아남을 수 없습니다. 대신 이 생태계는 산호, 고르곤(연산호), 바위에 착생하는 해면 동물과 같은 생물이 지배합니다. 숲은 탁 트인 바다보다 더 안정적인 환경을 갖추고 있습니다."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "9a2ac626-f805-42bc-bb18-d897ee981f89",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{79454848-BC8B-4F82-B645-82E3BE07CE50}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-ghislain-bardout_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-ghislain-bardout.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7d2f40b6-4310-4e21-8bb2-ff62904b1137",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A037AE94-3058-4C97-94C2-A96A1A8D64DB}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "극지 심해 탐험대의 공동 책임자인 지슬랭 바르두(Ghislain Bardout)는 “이 수중 숲은 지표면 즉 육지의 숲과 똑같다”고 말합니다. “생명을 보호하는 3차원 구조를 지니고 있는 숲입니다.” 그러나 육지의 숲과 달리 많은 해저림은 세상에 드러나지 않은 채로 남아 있습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "53fa452b-a898-4aef-99ba-d883d911d851",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{509B0993-25EF-4B1E-8E50-607BC35A3F96}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-underwater-forest_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-underwater-forest.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "bcbe3008-32e1-4fee-a8a6-88eb106b1dac",
+                  "componentName": "SimpleText",
+                  "dataSource": "{4F3A89F3-1C90-4D69-9A6C-CCF50CBECD1D}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "바르두는 스발바르 제도 주변의 추운 바다를 항해하는 잠수부와 과학자로 구성된 팀을 이끌었습니다. 노르웨이 북쪽 해안에서 해빙이 사방팔방으로 뻗어나가는 이 지역에는 백색 풍경이 끝임없이 이어집니다. 평생 북극에 매료된 그는 “끝없이 펼쳐져 있는 이 하얗고 광대한 얼음덩어리에 대해 궁금해했던 기억이 납니다.”라고 말합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "558cfe56-f8e6-45db-940c-0dffa3ac2b32",
+                  "componentName": "TextSection",
+                  "dataSource": "{0D61859A-BC48-41CB-8C79-F03373CCAB40}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "딥라이프 – 스발바르 탐험"
+                    },
+                    "title": {
+                      "value": "험난한 환경에서의 잠수"
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "dd96de51-c43b-4d6c-b585-cf448ba40a29",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{74CF0867-D150-4FAC-9068-40C63E67755C}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-ship_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-ship.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7cfd70df-d7a7-4601-ad48-b6ed60da0a3d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9D99268F-613F-4A9D-888F-F1265944EE98}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "스발바르에서 탐험대의 목표는 해양 생물 숲을 찾아 연구하고, 생물 다양성이 풍부하지만 잘 알려지지 않은 취약한 생태계에 대한 인식을 높이는 것이었습니다.\r\n</br></br>\r\n팀은 수중 생물이 풍부할 가능성이 가장 높은 장소를 찾기 위해 지도를 주의 깊게 연구하는 것으로 작업을 시작했습니다. 영양분을 운반하여 해양 생물 숲을 유지해 주는 강한 조류의 존재 여부가 중요한 단서였습니다. 그들은 스발바르에서 가장 큰 섬 중 하나인 스피츠베르겐(Spitsbergen) 주변 지역을 선택했습니다. 이는 주기적으로 영하 30°C까지 떨어지는 유빙 속에서 항해해야 함을 의미했습니다. 극지 심해 탐험대의 공동 책임자인 엠마뉴엘 페리에-바르두(Emmanuelle Périé-Bardout)는 “오류의 여지란 있을 수 없다”고 말합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e9ca9483-c22c-4a1f-abed-5bc73bfc1758",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{8160B7F2-9B09-4AE2-917B-2C956F23CF37}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-diver-underwater_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-diver-underwater.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c86cc44b-65fe-448b-be70-8fe4b469366a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CDC31757-43B0-4AB4-987E-D9A012945B12}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "팀원들은 해양 생물 숲을 찾기 위해 북극해에 반복적으로 잠수했습니다. 바르두는 이것이 도전적인 과제라고 말합니다. “매서운 추위는 고통과 함께 팀을 지치게 만들고 장비를 닳게 하죠.” 게다가 잠수부들은 보통 30m를 내려가는 레저 다이빙보다 더 깊이 잠수했습니다. 이를 달성하기 위해 그들은 그들이 내쉰 미사용 산소를 재활용하여 공기 공급을 확장하는 전문적인 수중 호흡기를 사용했습니다.\r\n</br></br>\r\n이러한 난관에도 불구하고, 추운 계절 북극에서의 다이빙은 경이로운 시간을 선물합니다. “우리는 흰색, 회색, 때로는 파란색인 세계에서 인간의 눈으로 자주 볼 수 없는 얼음의 세계로 들어갔습니다.\"라고 바르두는 극지에서의 첫 탐험을 회상합니다.\r\n</br></br>\r\n북극의 생물 다양성은 빠르게 변화하고 있는 상황으로 인해 지구상에서 가장 위협받는 것 중 하나입니다. 온실가스 배출로 지구 전체가 따뜻해지면서 북극은 다른 어느 곳보다 더 빨리 기온이 오르고 있습니다. 북극해의 대부분을 덮고 있는 유빙은 지난 40년 동안 그 범위가 절반으로 줄었습니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "553c9310-4477-4112-ba86-d7a8fb9fe59f",
+                  "componentName": "Quote",
+                  "dataSource": "{CFBF0002-8F7F-4EBC-8BD7-59EC50CBDBF2}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "우리가 최초의 수중 북극 생물 숲을 발견했다고 생각하면 정말 흥분됩니다."
+                    },
+                    "author": {
+                      "value": "엠마뉴엘 페리에-바르두"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "20f6c3cb-5c21-4702-a1f7-ba54f96db8f9",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{012B521F-EE13-4EAF-9757-61FA77E0B735}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-emmanuelle-perie-bardout_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-emmanuelle-perie-bardout.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f0260a5f-8697-4ea3-85e3-7d583fd81d5a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D5C7A216-2073-442D-8710-C33FD2852DB5}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "해빙 아래 바다에 사는 생물에게 이러한 변화는 극적일 수 있습니다. 바르두와 그의 팀은 곤경에 처한 북극해의 생태계를 보여줌으로써 이에 대한 관심을 불러일으키고 생태계를 보호하기 위한 단서를 찾고자 합니다.\r\n</br></br>\r\n다행히 극지 심해 탐험대는 북극에서의 항해와 다이빙에 대해 어느 정도 알고 있었습니다. 페리에-바르두는 “15년 전에 이곳에서 극지방을 항해하는 법을 배웠다”고 말합니다.\r\n</br></br>\r\n북극은 매우 험난한 곳이기 때문에 이러한 경험은 필수적입니다. 페리에-바르두는 “모든 것이 어렵다”라고 말을 이어갑니다. “항해도 힘들고 수리도 어려워요. 항상 바람과 얼음 상태를 예측해야 하죠.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4b672656-c784-4171-ad4d-5c2ace81d723",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{E93F1274-CCD7-4CE1-9555-D59DCC2AC42A}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-arctic-landscape_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-arctic-landscape.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "7c363a50-238f-4d2e-9a10-78b95b4301de",
+                  "componentName": "TextSection",
+                  "dataSource": "{0BCA2FF1-AD40-4A0B-AADC-8082E6466DAE}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "딥라이프 – 스발바르 탐험"
+                    },
+                    "title": {
+                      "value": "심해에서의 발견"
+                    },
+                    "text": {
+                      "value": "팀은 첫 번째 다이빙부터 실패를 거듭했습니다. 그러나 마지막 다이빙에서 그들은 북극에서 확인된 최초의 해양 생물 숲을 발견할 수 있었습니다. 이곳은 해파리 및 산호와 유사한 생물인 히드로충으로 이루어져 있습니다. 전문적으로 히드로충류라고 불리는 이들은 종과 꽃, 양치류와 비슷하며, 삶의 일부를 해저에 정착하여 보냅니다.\r\n</br></br>\r\n페리에-바르두는 말합니다. “우리가 최초의 수중 북극 생물 숲을 발견했다고 생각하면 정말 흥분됩니다.” 팀은 잠수를 이어가며 숲에 살고 있는 다양한 종을 기록했습니다. 또한 그들은 어떤 조건이 이러한 숲을 형성하는지 알아내기 위해 온도와 같은 환경 데이터를 수집했습니다."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "80557355-3106-495e-b095-dff7bad39709",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{83428B66-27DD-4CE3-AAA8-7E89BD2612C9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-diver-and-underwater-forest_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-diver-and-underwater-forest.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2aebd85d-1d95-46cc-9912-a428b9282ec5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{664D5531-805C-4609-93A0-20005235134F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "이것이 시작에 불과하다는 페리에-바르두는 “다시 돌아와 그 진화 과정을 볼 수 있을 것”이라고 말합니다. “이는 과학적으로 매우 가치 있는 일입니다. 이러한 시작점이 없었다면 수중 생태계의 변화를 보고할 수 없기 때문입니다.”\r\n</br></br>\r\n현재 온대와 열대 기후의 다른 바다를 탐험하기 위해 출발한 팀은 프랑스, 노르웨이, 스페인, 이탈리아, 벨기에, 브라질의 13개 학술 기관이 참여한 스발바르 조사 결과를 발표하여 이 지역의 미래 보존 및 관리 계획을 알릴 예정입니다. “우리가 과학자들과 함께 얻은 이 지식은 매우 중요합니다. 인류의 행동을 변화시킬 기회가 되기 때문이죠.”라고 바르두는 말합니다."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c6ac9cc9-3025-48e2-9d9f-411484ab8891",
+                  "componentName": "Quote",
+                  "dataSource": "{BE10499C-E618-421B-B69A-4A0522815CAA}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "우리가 과학자들과 함께 얻은 이 지식은 매우 중요합니다. 인류의 행동을 변화시킬 기회가 되기 때문이죠."
+                    },
+                    "author": {
+                      "value": "지슬랭 바르두"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "76169875-fc6f-4c05-97b1-74735b34c059",
+                  "componentName": "Roller",
+                  "dataSource": "{DA4F7221-6209-42CE-92CC-BB489EE72A4A}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "e7c90f10-9411-49e0-af95-740e046e5b98",
+                        "componentName": "RollerCard",
+                        "dataSource": "{C7BD0085-135C-418C-8621-283A5C724265}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "b289b098-1623-47e2-8bf2-eca52d8910fe",
+                        "componentName": "RollerCard",
+                        "dataSource": "{A181B869-E225-40EA-BC08-850EAC5C96A5}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "aecc2ef4-38f0-4662-b171-31fed270217b",
+                        "componentName": "RollerCard",
+                        "dataSource": "{E54E0BAF-0EBE-482E-ADFA-66A2E4412F9B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "e5e1b938-b7a9-48cb-a0fc-6a0f10fc58d8",
+                        "componentName": "RollerCard",
+                        "dataSource": "{A372462A-FCB1-4C6D-BC96-B7CF1F5AE6D9}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "51aac8a6-8a21-410b-96de-66b8f143fb3a",
+                        "componentName": "RollerCard",
+                        "dataSource": "{F333142E-453C-4334-8B14-7756A282383F}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "4a52471f-9998-40b7-8165-0fcb1670dbb8",
+                        "componentName": "RollerCard",
+                        "dataSource": "{99092CBF-68E4-4168-B01F-4BCC8237B15D}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-06.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "64020c76-3ab4-461f-9185-0fec63e9b1ed",
+                        "componentName": "RollerCard",
+                        "dataSource": "{04836732-2A89-42C8-B6A8-F6D608F1F36E}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-07.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "19c45ac9-7453-479f-84ed-89fc452f9ef5",
+                        "componentName": "RollerCard",
+                        "dataSource": "{231CAC15-070F-4E07-81BB-F9579304A51A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-08.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "484f55c4-f809-439a-840b-87526bfb3d6d",
+                        "componentName": "RollerCard",
+                        "dataSource": "{27E2C99B-62BF-4811-A0EE-EDC645FA0241}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-09.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "fc19ee59-50c4-4e62-b8a3-1c7f135cbaca",
+                        "componentName": "RollerCard",
+                        "dataSource": "{AFC6A923-CF13-4EAA-9D13-9BA0CD611A68}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-roller-10.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "36a4ff35-832e-4f7a-8dfd-dea2fe5a27a4",
+                  "componentName": "SimpleText",
+                  "dataSource": "{89A3106D-ABF8-4671-AC1D-7DA773195E96}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "딥라이프(DEEPLIFE) 프로그램은 2030년까지 운영될 예정이며 페리에-바르두는 최종 목표를 염두에 두고 있습니다. 바로 \"이러한 공간 및 숲의 존재를 알리고 보호하는 데 성공했습니다.”라고 말할 수 있는 것입니다. 그녀가 덧붙입니다. “그것이 저의 가장 큰 업적이 될 것입니다.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f73c792b-e8b7-47ee-8374-ffff587c3632",
+                  "componentName": "SimpleText",
+                  "dataSource": "{44B8EE39-20F3-4AD1-A4FB-CD627A6CF5F6}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<i>스발바르 탐험은 롤렉스 퍼페츄얼 플래닛 이니셔티브의 지원을 받는 극지 심해 탐험대의 새로운 프로그램인 딥라이프 2021-2030의 첫 번째 프로젝트였습니다. 이 프로그램은 지구 상의 모든 바다에 펼쳐진 해양 생물 숲을 탐험하는 것을 목표로 합니다.\r\n</br></br>\r\n극지 심해 탐험대는 퍼페츄얼 플래닛 이니셔티브에 풍부한 영감을 선사하는 파트너십 중 하나로, 지구를 보호하기 위한 과학 탐사에 전념하는 개인과 단체를 지원합니다.</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b0b7eaf6-290d-4f08-870d-486ff096776e",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{386395E6-F1FC-4B96-989B-EF1AE5552E74}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-banner_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/perpetual-planet/under-the-pole-svalbard-expedition/rolex-org-environment-under-the-pole-svalbard-arctic-seas-yield-their-secrets-banner.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6369587f-6911-4e6b-913c-e75d847c6f60",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "52074b8f-75ad-4fc0-959e-71b8c312cb6c",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{EB521371-A6C7-4151-BDE3-1F102F3F6905}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "관련 기사"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "a43bd860-8c49-58d2-9464-7cee7887bacf",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "under-the-melting-ice"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "녹고 있는 얼음 아래 - 환경"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "북극이 정복된 지 1세기가 지난 후, 극지 심해 탐험대(Deepsea Under the Pole) 팀은 강도 높은 새로운 도전을 결심했습니다. 2010년, 롤렉스 극지 심해 탐험대(Deepsea Under The Pole)는 북극의 심해를 연구하기 위해 선구적인 탐험을 시작했습니다. 8명의 탐험 대원들은 지구상에 존재하는 극한의 기후에 맞서며 스키와 스쿠버 다이빙에 도전했고 과학 실험을 성공적으로 마쳤습니다."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "7분 17초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/under-the-melting-ice/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Under the melting ice - Environment"
+                          },
+                          "metadescription": {
+                            "value": "2010년, 롤렉스 극지 심해 탐험대(Deepsea Under The Pole)는 북극의 심해를 연구하기 위해 선구적인 탐험을 시작했습니다. rolex.org에서 자세히 보기"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "6e293733-dc69-5d8f-a2e6-80aeacfb1cfb",
+                            "url": "/Content/Category/Mountains-Poles",
+                            "fields": {
+                              "name": {
+                                "value": "Mountains and Poles"
+                              },
+                              "dictionaryKey": {
+                                "value": "mountains-and-poles"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2300"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "녹고 있는 얼음 아래"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/under-the-melting-ice/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "산악과 극지"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "631228a4-c880-4102-a0a2-539b5b2d10b3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "2021 롤렉스 어워드 수상자: 린진 푼족 라마"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "네팔 훔라의 히말라야산맥 지역은 지구상에서 가장 고립되고 자연 그대로의 모습을 간직한 장소 중 하나입니다. 이 지역 주민들은 눈표범에서 야생 야크에 이르기까지, 점점 사라져가는 야생 동물들을 구조하기 위해 최전방 수호자로 나서고 있습니다."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4분 50초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/rinzin-phunjok-lama/update/rolex-org-rae-2021-laureates-rinzin-phunjok-lama-thumbnail-article.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "2021 Rolex Awards for Enterprise Laureate: Rinzin Phunjok Lama"
+                          },
+                          "metadescription": {
+                            "value": "생태학자인 린진 푼족 라마는 네팔 트랜스-히말라야 산맥의 생물 다양성을 보호하는 것을 자신의 사명으로 삼아왔습니다. rolex.org에서 자세히 보기"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1060"
+                          },
+                          "tag2": {
+                            "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                            "url": "/Content/Category/Conservation",
+                            "fields": {
+                              "name": {
+                                "value": "Conservation"
+                              },
+                              "dictionaryKey": {
+                                "value": "conservation"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1060"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "네팔 트랜스-히말라야의 생물 다양성 보호를 위한 지역 이니셔티브를 추진하는 일"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/rinzin-phunjok-lama/update/rolex-org-rae-2021-laureates-rinzin-phunjok-lama-thumbnail-article.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "환경"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "58bfb040-c3e5-4e5a-8480-f1ab7dbd7d99",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "롤렉스 어워드 - 파타고니아의 피오르드에 자리한 바다숲을 탐험하다"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "대담한 해양 생물학자 브레니 하우서만(Vreni Häussermann)은 파타고니아 피오르드의 야생 환경을 보호해야 하는 이유 중 하나로 과학계에 알려진 적 없는 새로운 종에 대한 발견 가능성을 꼽습니다.\r\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6분 06초"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Exploring submarine forests in Patagonia’s fjords - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "롤렉스 어워드 수상자이자 생물학자인 브레니 하우서만은 파타고니아의 피오르드를 기록하고 해양 생물을 보호하기 위해 노력하고 있습니다. rolex.org에서 자세히 보기\r\n\r\n\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "파타고니아의 피오르드에 자리한 바다숲을 탐험하다"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "탐험"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "559fb04e-82f6-4053-b0c9-22c0afa6187d",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "자세히 보기"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "퍼페츄얼 플래닛"
+                    },
+                    "title": {
+                      "value": "환경"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c82d2e08-c060-44e3-97fd-9e38d6b4ac68",
+                  "componentName": "Sharing",
+                  "dataSource": "{0D29F39A-09DB-4BA3-9D7B-27CBFC81B009}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b979fbe4-0b33-49f5-adc9-d11df3ec6976",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈의 아프리카의 위대한 척추 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "수많은 위험한 탐험 끝에, 탐험가 스티브 보이즈(Steve Boyes)와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 증명했습니다. 롤렉스의 지원을 받은 그는 이러한 연구 결과를 바탕으로 이 중요한 지역에 대한 실질적인 보호 조치를 마련하고 있습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "탐험가 스티브 보이즈와 그의 팀은 앙골라 고원이 거대한 잠베지강의 발원지임을 밝혀냈습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "우리의 물 보호하기"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "탐험"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 카사이강 탐험"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 퍼페츄얼 플래닛 이니셔티브의 파트너이자 환경 보호 운동가인 스티브 보이즈(Steve Boyes)가 아프리카 대륙의 수자원을 보호하기 위한 아프리카 대하 탐험(Great Spine of Africa Expeditions)의 일환으로 콩고강의 수원을 찾아 앙골라 고원으로 향했습니다.\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 24초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": ""
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "카사이강"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "스티브 보이즈와 렁웨봉구 강 - 퍼페츄얼 플래닛"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스는 퍼페츄얼 플래닛 이니셔티브를 통해 이전까지 과학적으로 기록된 적 없었던 수천 킬로미터의 강을 횡단하는 아프리카 대하 탐험(Great Spine of Africa expeditions)을 지원합니다. 이들의 연구는 아프리카의 거대한 강에 의존하는 사람들과 야생 동물들을 보호하는 데 도움이 될 것입니다 "
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 26초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "롤렉스가 퍼페츄얼 플래닛 이니셔티브를 통해 아직 사람의 발길이 닿지 않은 렁웨봉구강을 연구하는 스티브 보이즈의 탐험을 지원합니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "거대한 잠베지강의 비밀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "롤렉스 내셔널 지오그래픽 올해의 탐험가(The Rolex National Geographic Explorer of the Year)는 환경 보존에 대한 기여를 바탕으로 지구의 중대한 문제와 도전과제 그리고 새로운 발견을 조명한 탐험가들을 위한 시상식입니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2분 3초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "2019년 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정된 오카방고 야생 프로젝트 팀(Okavango Wilderness Team)과 퍼페츄얼 플래닛을 향한 그들의 프로젝트에 대해 알아보시기 바랍니다.&nbsp;&nbsp;"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019 롤렉스 내셔널 지오그래픽 올해의 탐험가 - 오카방고 야생 프로젝트 팀"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024 롤렉스 내셔널 지오그래픽 올해의 탐험가 – 페르난도 트루히요"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "콜롬비아 출신의 해양 생물학자 페르난도 트루히요(Fernando Trujillo)가 아마존의 분홍강돌고래와 돌고래의 보금자리인 아마존강의 체계를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다."
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3분 10초"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "해양 생물학자 페르난도 트루히요가 아마존강돌고래를 보호하기 위한 프로젝트로 2024 롤렉스 내셔널 지오그래픽 올해의 탐험가로 선정되었습니다. rolex.org에서 자세히 보기"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "페르난도 트루히요: 강돌고래를 위하여"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "환경 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,1775 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "oceans/mission-blue",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "mission-blue",
+        "environmentName": "production",
+        "pageName": "environment:mission-blue:hope-spots:sargasso",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2022-04-25T15:08:28Z",
+        "dateModified": "2022-05-17T09:57:49Z"
+      }
+    },
+    "route": {
+      "name": "sargasso",
+      "displayName": "sargasso",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "mission-blue"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex and Mission Blue - The Sargasso Sea Hope Spot"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Perpetual Planet initiative partner Mission Blue is throwing the spotlight on protection of the fabled Sargasso Sea with the arrival of the Sargasso Sea Commission as its formal Champion."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "A floating rainforest"
+        },
+        "metadescription": {
+          "value": "The Sargasso Sea, named a Hope Spot by Mission Blue, provides a haven to marine life thanks to its golden floating rainforest. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+          "url": "/Content/Category/mission-blue",
+          "fields": {
+            "name": {
+              "value": "Mission Blue"
+            },
+            "dictionaryKey": {
+              "value": "mission-blue"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "40"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "10"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+          "url": "/Content/Hub/Minisites/missionblue",
+          "fields": {
+            "name": {
+              "value": "missionblue"
+            },
+            "dictionaryKey": {
+              "value": "view-mission-blue"
+            },
+            "url": {
+              "value": "/environment/mission-blue"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "A floating rainforest"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Environment"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "7de3347c-0f90-4f8f-9076-a12b624f0cfd",
+      "itemLanguage": "en",
+      "itemVersion": 8,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "3f622028-9c4d-4ab2-841d-a27b2345f311",
+                  "componentName": "CoverImage",
+                  "dataSource": "{48715B06-1BB3-4302-9D76-454759AFBB30}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-cover_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "A floating rainforest"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "MISSION BLUE"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-cover.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1d1f82bc-85c3-46a2-b61f-65a1ebf3b343",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{7DDC0531-C5BD-4CDD-8294-3F5C1DB592B7}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#08223A"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#05375D"
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>\nThrough its Perpetual Planet initiative, Rolex is supporting ocean conservation non-profit Mission Blue in its goal to create a global network of Hope Spots, areas that deserve protection as they are home to vital marine ecosystems.\n</b>\n<br/><br/>\nPerpetual Planet initiative partner Mission Blue is throwing the spotlight on protection of the fabled Sargasso Sea with the arrival of the Sargasso Sea Commission as its formal Champion."
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-fish-in-sargassum.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "3f9ac0e5-7a55-46a5-8964-2cf26c24dde3",
+                  "componentName": "TextSection",
+                  "dataSource": "{1F74D73F-BC00-4970-86B8-9536865FED7A}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Sargasso Sea"
+                    },
+                    "title": {
+                      "value": "PROTECTING THE REAL MYSTERY OF THE FAMED SARGASSO SEA"
+                    },
+                    "text": {
+                      "value": "On his voyage to America in 1492, Christopher Columbus was becalmed for days in what he termed the “weeds”. The Sargasso Sea so terrified his mariners that they feared being caught for weeks, ensnared by vast mats of seaweed that would swallow their ships.\n<br/><br/>\n\nOutside its fabled status as the location of the Bermuda Triangle, the Sargasso Sea is indeed a strange place.\n<br/>\n<br/>\n\nThe only sea without a land boundary, it occupies almost two thirds of the North Atlantic and is bounded only by a whirling gyre of four powerful currents that rotate in a clockwise direction giving rise to a large patch of ocean that is inordinately clear, warm and still. The sea drifts with the currents that encapsulate it. It is named for <i>sargassum</i>, a seaweed growing abundantly on its surface. The only species of untethered seaweed, its long strands have tiny bladders of air keeping it afloat. The <i>sargassum</i> collects in natural rafts, creating a vibrant ecosystem for birds, fish and invertebrates. Renowned marine explorer Sylvia Earle calls it the “golden floating rainforest”.\n\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "ddab456a-1325-419c-a06e-8a5325e402b8",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{09FE084E-BC39-4BF1-A4E0-E85BFF75A5D9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-david-doubilet_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-david-doubilet.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fcf4523e-293a-4349-b888-84f77e78e6d6",
+                  "componentName": "TextSection",
+                  "dataSource": "{A0866505-83AD-4706-B9D8-63BE2406A0F2}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Sargasso Sea"
+                    },
+                    "title": {
+                      "value": "NEW ERA FOR HOPE SPOT"
+                    },
+                    "text": {
+                      "value": "In 2009, Earle founded Mission Blue, which advocates for community-led protection for marine areas of great biodiversity through the creation of ‘Hope Spots’. The organization is a pillar of Rolex’s Perpetual Planet initiative that has an expanding portfolio of partnerships supporting those using science to understand and find solutions to environmental challenges.\n<br/><br/>\nMission Blue is credited with inspiring the creation of the Sargasso Sea Alliance (now the Sargasso Sea Commission), which has been the steward of the area for more than a decade. It has become a formal Champion of the Hope Spot covering the Sargasso Sea that was one of the first created by Mission Blue, in 2011.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f8defdc3-1663-4e27-9b13-9cf21282153d",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{DD64338F-D6CE-4353-B945-BA57E1440F1B}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-sargassum_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-sargassum.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d4b715a7-aba4-4326-930e-ce3bda9e84a7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C009298F-7D2B-4BD2-A9E7-9F1AAC19535B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "The Sargasso Sea Commission was established in 2014 after governments from several countries in the broader area, or with interests in high seas conservation, signed the Hamilton Declaration. It now has 10 signatories: the Azores, Bermuda, British Virgin Islands, the Bahamas, Canada, the Cayman Islands, the Dominican Republic, Monaco, the United Kingdom and the United States. The commission’s role is to act as the steward of the ecosystem, keeping its resilience under review, as well as developing proposals for conservation measures."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "68131f87-362d-49ec-bf59-cba5035ad5e2",
+                  "componentName": "Quote",
+                  "dataSource": "{87239B43-AC10-4752-9105-AE22086741B0}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "In 2009, Earle founded Mission Blue, which advocates for community-led protection for marine areas of great biodiversity through the creation of ‘Hope Spots’. "
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "04dfbf5b-1822-4fa3-92d7-d73f5000b197",
+                  "componentName": "SimpleText",
+                  "dataSource": "{AF55F0BA-7889-4F50-8D25-76FE83D86D2E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "For Fae Sapsford, research fellow at the commission, <i>sargassum</i> is a living matrix, hiding creatures that represent the true fascination of the region, rather than the maritime superstitions. “It is so alien to our concept of life and even ocean ecosystems. <i>Sargassum</i> is the foundation of an incredible ecosystem. It supports 10 endemic species, all of which are tiny and most of which are invertebrates, that you would never think of as being able to live on the high seas. Perhaps the most iconic is the <i>sargassum</i> angler fish or frogfish that exhibits both cryptic camouflage and modified, prehensile fins which it uses to creep around tangles of <i>sargassum</i>.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fca2d56f-6064-4071-bc46-1d1641af372e",
+                  "componentName": "TextSection",
+                  "dataSource": "{3BF68C0C-70DF-429B-8A79-2658CA007B48}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Sargasso Sea"
+                    },
+                    "title": {
+                      "value": "A HAVEN FOR MARINE LIFE"
+                    },
+                    "text": {
+                      "value": "<i>Sargassum</i> is essential for the development of all species of Atlantic sea turtle, and many fish that grow to be ocean giants – such as tuna and dolphinfish. The Sargasso Sea is the only spawning site for two species of anguillid eel, both endangered. It is a migratory corridor for many species of whales, dolphins, rays and sharks.\n<br/><br/>\nBut the sea is at risk. The currents deposit floating debris including plastics that become enmeshed in the <i>sargassum</i>. And it suffers from the usual human impacts caused by habitat damage, climate change and possibly overfishing.\n<br/><br/>\n\nThe high seas, such as the Sargasso Sea, make up more than 60 per cent of the oceans, but are some of the least protected places on Earth.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c1ea75a6-6421-4562-ad53-fcaaf9a402f3",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{511F2913-39E4-45A8-A5DE-D53A3DB427D0}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "The high seas, such as the Sargasso Sea, make up more than 60 per cent of the oceans, but are some of the least protected places on Earth."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-free-diving-under-sargassum_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-free-diving-under-sargassum.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "6ad4c4b2-b6e9-491c-a0d3-3aae7957eb89",
+                  "componentName": "SimpleText",
+                  "dataSource": "{AFCE8E9E-E483-4351-89F2-33BE7B1709BE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "\n“The high seas are difficult to protect as they lie beyond the boundaries of any nation and the United Nations Convention on the Law of the Sea (UNCLOS) does not include any legal mechanism through which to protect them. But that is changing,” says Dr David Freestone, Executive Secretary of the Sargasso Sea Commission. “Since 2017, the United Nations has been negotiating a treaty under UNCLOS on the conservation and sustainable use of marine biological diversity in high seas areas.”\n<br/><br/>\nThe latest negotiations ended on 18 March 2022. Freestone hopes the outcome will allow for iconic high seas areas to receive the protection they deserve.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cb8f7dab-d331-4476-a16f-c9318e7e90ab",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{21068FA3-E6E7-4FD0-B763-72FEB61D6526}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-whale_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-whale.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2ed63876-838d-48a3-8192-01298bd3a404",
+                  "componentName": "Quote",
+                  "dataSource": "{309AB47E-3F13-4F08-9178-84CF0DACAC6C}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "It is a migratory corridor for many species of whales, dolphins, rays and sharks."
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "c01b9164-1b0d-454d-9d50-d8fe1e1d4347",
+                  "componentName": "TextSection",
+                  "dataSource": "{0BA7A0CE-6D3E-4B70-8A8B-2AE76BB92AB6}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Sargasso Sea"
+                    },
+                    "title": {
+                      "value": "MAJOR GRANTS FOR RESEARCH"
+                    },
+                    "text": {
+                      "value": "The Sargasso Sea Commission and Mission Blue hope the treaty will usher in a new era for conservation – where high seas systems are recognized and protected for their biodiversity, ecosystem services, support of migratory species, and mitigation of climate change.\n<br/><br/>\nMeanwhile, the Sargasso Sea Commission has been awarded two major grants. For the first time ever, an Ecosystem Diagnostic Analysis (EDA) under a Global Environment Facility funded project will provide an up-to-date picture of the biodiversity of the area, and the threats that it faces. This will enable a stakeholder-endorsed action programme to be created – with support from the second grant, from the French Facility for Global Environment.\n<br/><br/>\n\n“We hope that this EDA will allow for stewardship plans to be developed over the region, stronger than ever could have been achieved in the past, due to the complicated legal patchwork over the high seas,” Freestone says.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "5835f8bc-c068-4943-be2b-0373a28a3736",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{2A8A3AC5-2C1B-4293-9111-6ADB8471ACC3}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/environment/mission-blue/hope-spots"
+                    },
+                    "anchorText": {
+                      "value": "Discover more"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/mission-blue/saving-the-oceans/mission_blue_saving_the_oceans_link_watching_over_the_earths_blue_heart.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Mission Blue"
+                    },
+                    "title": {
+                      "value": "Watching over the Earth’s blue heart"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d6ebc357-791d-4ac0-be49-e9a2d5626016",
+                  "componentName": "SimpleText",
+                  "dataSource": "{47047DD2-760E-4A2D-9E05-563054AB3B24}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<i>Launched in 2009, Mission Blue’s aim is to create a global network of Hope Spots, which are ecologically important areas of the oceans considered vital to the preservation of species, or places where communities rely on a healthy marine environment to survive. So far, Mission Blue has created more than 160 Hope Spots around the world. Key to the programme is the empowerment of local people to make change.</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a5585ac8-5d92-497c-852f-ec6921d0ff51",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "4794d436-f095-4faf-8a34-e4afe7bc98db",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{F621BBA8-1394-42DA-8B24-C9D9BF9F66BC}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "d41cd79d-a3eb-4a8a-b13b-3f3b3ece4e32",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex and Mission Blue -Watching over the Earth’s Blue Heart"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Rolex’s Perpetual Planet initiative supports those using science to understand the world’s environmental challenges and who are finding ways to restore balance to our ecosystems, particularly the oceans, which are under siege from a host of pressures."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 14s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Watching over the Earth’s Blue Heart"
+                          },
+                          "metadescription": {
+                            "value": "Rolex has partnered with Sylvia Earle&rsquo;s Mission Blue initiative to establish a network of Marine Protected Areas around the globe. More on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "5"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "150"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Watching over the Earth’s Blue Heart"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/watching-over-the-earths/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environment"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "3b472048-a7b3-539f-96f6-d64da129eae1",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "an-ocean-of-hope"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "An ocean of hope - Environment"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Marine biologist Sylvia Earle, a Rolex Testimonee since 1982, has been a pioneer of ocean exploration for more than four decades. Her mission has always been to explore, study and protect the planet's oceans. Now, with her initiative Mission Blue, she is igniting public support to safeguard marine Hope Spots."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6min 40s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/an-ocean-of-hope/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "An ocean of hope - Environment"
+                          },
+                          "metadescription": {
+                            "value": "Discover how Sylvia Earle &ndash; a marine biologist, diver and Rolex Testimonee &ndash; has long worked to explore, study and protect the earth's oceans."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2500"
+                          },
+                          "tag2": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2500"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "An ocean of hope"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/an-ocean-of-hope/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Oceans"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d958ea60-db25-5afa-95f8-5d4b9ec38651",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "perpetual-planet"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Perpetual Planet "
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Preserving the natural world"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 56s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual-planet/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "ea3c95c4-0952-4824-a627-ddae6be14661",
+                            "url": "/Content/PageType/content-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Perpetual Planet "
+                          },
+                          "metadescription": {
+                            "value": "Rolex supports exploration as a means to preserve the natural world. Discover more about Rolex's commitment to conservation through the Perpetual Planet initiative."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "220"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Perpetual Planet "
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual-planet/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Exploration"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "094ad2ff-d902-4f9e-a595-dd0413bdb0c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Environment"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "25a4ba2b-d735-4650-ab52-c14a8d1b1278",
+                  "componentName": "Sharing",
+                  "dataSource": "{9F7060DB-8FFB-44DB-ADCD-5234DD0760C9}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5efcb293-b2ab-4c99-9036-10d926219fe5",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "fad72595-6d16-4240-9897-1bfbb7ede043",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

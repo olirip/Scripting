@@ -1,0 +1,2797 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "zh-Hans",
+      "wa": {
+        "contentTag": "film/mentor-protege",
+        "pageType": "article page",
+        "pageSiteSection": "arts",
+        "pageSiteSubSection": "learning-from-a-master",
+        "environmentName": "production",
+        "pageName": "arts:learning-from-a-master",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:15:07Z",
+        "dateModified": "2021-10-12T13:35:02Z"
+      }
+    },
+    "route": {
+      "name": "learning-from-a-master",
+      "displayName": "learning-from-a-master",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "learning-from-a-master"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "向大师学习 - 艺术"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "以《鸟人》（Birdman）勇夺奥斯卡最佳导演的亚历桑德罗・冈萨雷斯・伊纳利图（Alejandro G. Iñárritu），以其野蛮温柔艺术，在特拉维夫的一间电影院里，第一次撼动年轻电影人汤姆・修法勒（Tom Shoval）。十五年后，修法勒在“劳力士创艺推荐资助计划”中，拜师于伊纳利图门下，直接从导师那里学习如何成为老练的电影制作人，从中吸收更多的人生经验。修法勒将在本文与我们分享2014至2015年度的门生经验中，令人难忘的回忆。"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "5分25秒"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/arts/learning-from-a-master/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Learning from a Master - Arts"
+        },
+        "metadescription": {
+          "value": "以《鸟人》（Birdman）勇夺奥斯卡最佳导演的亚历桑德罗・冈萨雷斯・伊纳利图（Alejandro G. Iñárritu），以其野蛮温柔艺术，在特拉维夫的一间电影院里，第一次撼动年轻电影人汤姆・修法勒（Tom Shoval）。十五年后，修法勒在“劳力士创艺推荐资助计划”中，拜师于伊纳利图门下，直接从导师那里学习如何成为老练的电影制作人，从中吸收更多的人生经验。修法勒将在本文与我们分享2014至2015年度的门生经验中，令人难忘的回忆。"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "arts"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag1": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2000"
+        },
+        "tag2": {
+          "id": "f1774b5c-abb4-483c-ab6b-ca87c1f86ea0",
+          "url": "/Content/Category/MentorAndProtege",
+          "fields": {
+            "name": {
+              "value": "Rolex mentoring programme"
+            },
+            "dictionaryKey": {
+              "value": "mentor-protege"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "2000"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "向大师学习 - 艺术"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/arts/learning-from-a-master/cinema_alejandro/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "艺术"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "a6c169b4-598c-5e03-af72-a76ea6190af7",
+      "itemLanguage": "zh-Hans",
+      "itemVersion": 14,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "8b32a551-36ba-53a7-868b-3ce32a34540e",
+                  "componentName": "Cover",
+                  "dataSource": "{96D67E1F-9E66-5698-B3B0-B6711F37B5A8}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "向大师学习"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": "2015年"
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": "劳力士创艺指导计划\r\n"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b4eb56a9-c517-5ef3-a37d-c29a16f55e3f",
+                  "componentName": "ImageTextBackground",
+                  "dataSource": "{52ECA4A7-D3F7-5022-BE3D-6B593AB242D4}",
+                  "params": {},
+                  "fields": {
+                    "author": {
+                      "value": "撰文：汤姆・修法勒（Tom Shoval）"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0002.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0003.jpg"
+                    },
+                    "imageFirst": {
+                      "value": false
+                    },
+                    "imageMode": {
+                      "value": "landscape"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "以《鸟人》（Birdman）勇夺奥斯卡&reg;最佳导演的亚历桑德罗・冈萨雷斯・伊纳利图（Alejandro G. Iñárritu），以其野蛮温柔艺术，在特拉维夫的一间电影院里，第一次撼动年轻电影人<strong>汤姆・修法勒（Tom Shoval）</strong>。十五年后，修法勒在劳力士创艺指导计划中，拜师于伊纳利图门下，直接从导师那里学习如何成为老练的电影制作人，从中吸收更多的人生经验。修法勒将在本文与我们分享2014至2015年度的门生经验中，令人难忘的回忆。"
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "8b2f1c72-457b-5643-8238-bc74dc16af6a",
+                  "componentName": "Paragraph",
+                  "dataSource": "{5AF52637-3D4E-5A4B-94A4-F3882F9A6A6C}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>十六岁时，亚历桑德罗・冈萨雷斯・伊纳利图就给我上了第一堂课。我当时就已经爱电影如痴，我的少年时期以电影为生。我看遍所能看的电影，并一字不漏地阅读我所能找到的电影信息。为了当上电影制作人，我甚至开始跨出慎重的第一步：转到特拉维夫的一所中学，该学校提供电影课程。</p>\n<p>那一年的冬天冷冽。有一天，我趁风暴来袭逃学，并钻进早场电影。那部片是伊纳利图的《爱情是狗娘》（Amores Perros）；我久闻其名，早已迫不及待想看。戏院里除了一对老夫妇外，空空如也。</p>\n<p>电影开始放映，而我瞬间就被赤裸裸、野蛮、严厉的影像震慑住。坐在那里的我，为这个发现激动不已，我想，来自不同世代的全然陌生人，只有在电影院里，才能共享如这部电影般强大的秘密。对我而言，《爱情是狗娘》讲述命运，探讨个人故事如何成为所有人的故事。</p>\n<p>本片著名的斗狗场面中，那群狂吠的狗将令我永生难忘；该场面是那么强而有力地表现生命中的暴力循环，然而，却又那么悲伤与温柔。看过那一幕后，我明白，假如我能一圆导演之梦，我也要努力实现这份恻隐之心。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "f7355f25-f3fc-53f4-8672-ee766d1fe487",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8F9CB274-DC57-5F5E-9C6B-A92626020E76}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "拜师学艺的召唤"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "十五年后，我正在波兰华沙的一条大马道散步。我的处女作《绑架练习曲》（Youth）正在一个电影节放映。该片参加过个多电影节，因此，我已成为“常客”，每当电影被放映时，我习惯在城市里遛跶，并规划好回程，以便及时赶上问答时间。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a63c25d9-70d0-520d-a28f-14109547c11f",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{ABFBB28B-968E-5EEC-AA1A-B02CD2788E6E}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": "亚历桑德罗・冈萨雷斯・伊纳利图于洛杉矶卡尔弗市（Culver City）的办公室中。"
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "527cd687-3247-54b5-9984-9c2ef9cb5e41",
+                  "componentName": "Paragraph",
+                  "dataSource": "{4A4F87B5-FC7F-59A8-9CB6-3F8AAAA4225D}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>我的手机突然响了。那是一个未知来电。我想我知道那是谁，当下怔在原地。</p><p>过去几个月来，我一直在劳力士创艺指导计划的候选名单上。令我喜出望外的是，亚历桑德罗・岗萨雷斯・伊纳利图是今年的电影导师。一个月以前，作为入围的最后三强之一，我飞到洛杉矶与他见面。</p><p>我的兴奋之情难以言语形容：我在一个录音室见到亚历桑德罗，他正在那里剪辑电影《鸟人》。大屏幕上的画面看似彷佛于另一个银河系拍摄，像来自遥远的未来。迈克尔・基顿（Michael Keaton）盘旋于纽约的天际线。</p><p>我暗忖：我所见到的场景是否出自一部即将改变电影艺术的影片？</p><p>亚历桑德罗提议去吃点东西。</p><p>我和亚历桑德罗・冈萨雷斯・伊纳利图共乘一车。我重复：我和亚历桑德罗・冈萨雷斯・伊纳利图共乘一车。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "7f1cab18-cef8-5f20-8403-156d39b9efd2",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{CB3B8B37-7A68-5A7D-8B36-5BCE23CF553D}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0005.jpg"
+                    },
+                    "legend": {
+                      "value": "于环球影城的混音阶段（阿尔弗雷德・希区考克剧院），不久后，汤姆在此首度见到其未来导师。"
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "56f7dcee-fab4-5af0-b016-5a2aad9d1d25",
+                  "componentName": "Quote",
+                  "dataSource": "{A2B5309A-6D9D-5CEC-8653-91D48AA78A39}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "观察伊纳利图工作时，我了解到：电影与你所掌握的资源多寡无关。"
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "e62fb666-e1f5-5d52-b337-13a68cb13ce8",
+                  "componentName": "Paragraph",
+                  "dataSource": "{44520613-0AD3-56E3-845D-DB076C630EBC}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>我已习惯于美得令人屏息的山景之间长途旅行，那是如此壮阔，彷佛是另一个拍摄场面，电影与现实合而为一&hellip;&hellip;这种感觉会让人上瘾。</p>\n<p>在餐厅里，我们有一场关于电影与人生的精采对话。他告诉我，他真的欣赏我的电影。<br />\n我闭上双眼，再睁开，不，这不是梦。<br />\n重返华沙。</p>\n<p>我颤抖着声音接听来电。心里做好最坏的打算，但是，当一个声音告诉我说，亚历桑德罗已选我当他的门生，我的身体很快地放松下来。我发现自己在一个陌生城市的大街上欢喜跳跃。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "d572e514-b733-5cb9-b411-4c1b8fcbff47",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E5CC4402-5D8B-5186-A23D-A35E8A7094D9}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0006.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6b5b53cf-ebed-5eb5-8870-58b619a4341e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{FDC084A2-9BB9-5FA3-B42B-2C72E9E26F63}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "我立刻打电话向在以色列的父亲报喜。这一切都是因为他；是他把电影的“瘾”传给我，因为，他带我去看母亲不准我看的电影，而且把录像带收在高架上，并警告我不准看，对我这样的小男孩来说，这是一种默许。我父亲在电话那头感动落泪。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0073d559-2805-5f98-afaa-4ff6dad45d3a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C3E3091A-6D74-5197-BFB6-08770936491E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "最佳电影学校"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "10015204-6e21-54ee-9a5d-cf98aa4599de",
+                  "componentName": "Paragraph",
+                  "dataSource": "{AC3AB4E9-F444-5626-9826-A27746844C62}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>这一年精彩万分，例如，参观伊纳利图最新作品《还魂者》的片场。本片是由汤姆・哈迪（Tom Hardy）与莱昂纳多・迪卡普里奥（Leonardo DiCaprio）主演的新派西部片（neowestern）。亚历桑德罗给我机会，让我得以从他的角度跟踪拍摄。如此宽宏大度，令我得以见证所有准备阶段，并看他做出实时决策、部署场次和演员。最好的电影学校莫过于此，我甚至与制作组一起参加首场正式的前期制作会议。我不敢相信自己的眼睛：我看见传奇人物杰克・菲斯克（Jack Fisk），他是《穆赫兰道》（Mulholland Drive）、《不毛之地》（Badlands）及《血色将至》（There Will Be Blood）等电影的美术设计；还有电影摄影大师艾曼努尔・卢贝兹基（Emmanuel Lubezki），他刚拍完《地心引力》（Gravity）及《鸟人》。在我看来，似乎只有得过奥斯卡奖，或获提名过的人，才有资格成为这张桌的座上客。</p>\n<p>亚历桑德罗以朋友身分介绍我，并说我是拍过一部好片的新锐导演。听到此话，我几乎难以自持。会议之后，我挨近亚历桑德罗，问他是否注意到，整个制作组都与光头的奥斯卡小金人有关。他笑了，拍拍我的背说，他肯定赢奖是早晚的事。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "b8d80dfa-ea04-5248-bda1-24b51f8cffa4",
+                  "componentName": "Paragraph",
+                  "dataSource": "{6363B8A1-C271-5A92-ABE8-F271E2351F65}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>我退一步，并好奇着，从这样一部数千万美金预算的制作中，我能学到什么？这与我在以色列习惯的一切天差地别。然而，事实是，仅只是看着伊纳利图这个彻头彻尾的导演做事，我了解到：电影与你所掌握的资源多寡无关。拜伊纳利图所赐，我学到关于电影的真理：它总是发生在一个情节变化之间，因为它与另一个情节变化相连，从而产生情感冲击。</p><p>我已经习惯伊纳利图看着我身旁的屏幕，问我对镜头和莱昂纳多 迪卡普里奥有何看法。我已习惯于美得令人屏息的山景之间长途旅行，那是如此壮阔，彷佛是另一个拍摄场面，电影与现实合而为一，我发现这种感觉会上瘾，一个少年时代的美梦成真。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "fb951c40-d484-5392-9513-cfea7bbd7f62",
+                  "componentName": "SimpleText",
+                  "dataSource": "{479C1907-8F9D-5164-95D3-58B0D116F4C3}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "幸福的命运转折点"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "88579434-3cd2-50b9-8975-cdb0e5209299",
+                  "componentName": "Paragraph",
+                  "dataSource": "{CBE7234E-E265-5ABB-9E15-C29D11DC4D06}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>现在，我的叙述将貌似离题编剧的牵强附会，但却是事实。</p><p>我被告知由我参与编剧的短片<i>Aya</i>（阿雅）实现不可能的任务，并入围奥斯卡金像奖最佳短片五部获提名影片之一。所以，在完全措手不及之下，我和我导师的力作《鸟人》同一年问鼎奥斯卡，他获得多达八项提名。命运之轮继续眷顾着我。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "65f9d083-45d5-5d96-8747-26e510430a7e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{25613F06-32E7-5A24-B9F8-A33217727202}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "充满喝采的红地毯"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c1be02f2-77be-5180-ba39-2c676a67807c",
+                  "componentName": "Paragraph",
+                  "dataSource": "{EB0CB930-EBD2-5194-A495-8B112881F8AE}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>亚历桑德罗很替我高兴，他的喜悦深深地感动了我。他邀请我和制作组从片场飞到洛杉矶。我让自己在飞机上舒服地就座，并观看其他人，我突然一震：这一次，现场包括我在内的所有人，不是获得提名就是已得过奥斯卡奖。那一刻，我认为这是亚历桑德罗的另一个高明导演手法，让我意识到，假如我对某事深信不疑，我就能开出那条路，向前行直到抵达目的地。</p><p>如今我走在红地毯上。我身边的人们享受着魅力时光，放慢脚步，甚至沿途驻足，一切只为让十五分钟的名气更加响亮。保安员对所有人咆啸好让人群移动，但是，没人在乎他们的命令。无论我怎么看这现象，这令人兴奋的时刻粉碎任何冷嘲热讽的隔阂。一小时后，我来到大厅入口。这时候，你意识到一道藩篱已遭破除。我身旁围绕着世界各地的名流，他们就跟我一样轻松又兴奋。我发现自己正和玛莉昂・歌迪亚（Marion Cotillard）以及本・阿弗莱克（Ben Affleck）寒暄。</p><p>我的影片铩羽而归，它从来就没被看好过。但是，亚历桑德罗以《鸟人》横扫所有奥斯卡大奖。有多少人能说，他们实时见证自己的导师赢得如此精彩的肯定？</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "48a07e83-176e-54ed-9753-d470cb283bd7",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F1D1287A-A9DB-5B10-9073-7347DA5F857A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/learning-from-a-master/desktop_0007.jpg"
+                    },
+                    "legend": {
+                      "value": "《还魂者》的拍摄地：加拿大卡尔加里（Calgary）周边的壮丽山脉。"
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ce086aef-237b-5ca3-ab2d-dab6479be2f3",
+                  "componentName": "SimpleText",
+                  "dataSource": "{F6D7C2F8-71D1-5CFC-BA9A-BE3C74930896}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "最后一堂关键课"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "868d770c-0468-599e-b8f6-5a12df2e0d0a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{51CA7F6A-C49E-5FA9-84E1-0E44D9799132}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "这些日子以来，我正埋首制作第二部长片，亚历桑德罗十分体贴亲切，他在整个过程中指点我。命运之轮将继续出乎我的意料之外，我并不打算为此提早准备；当他们降临时，我将以爱迎接。这应该是伊纳利图教我的最重要一课：永远给意外留一点余地。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "b73c6ce5-c541-5acf-86b3-b22ad0d5c3e4",
+                  "componentName": "SimpleText",
+                  "dataSource": "{A35BBC03-3930-5FA4-A0DC-FD5E8FB92A3C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "汤姆・修法勒传记"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "46f13dee-6aa9-5e8b-88ec-908800c3bf23",
+                  "componentName": "Paragraph",
+                  "dataSource": "{7EE25374-4300-58F4-9B0B-225EFA897BB6}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p><strong>1981年</strong>\n生于以色列佩塔提克瓦（Petach Tikva）。</p>\n<p><strong>2005年</strong>\n编写并执导其第一部短片<em>Ha-Lev Haraev</em>（饥饿的心）。</p>\n<p><strong>2007年</strong>\n毕业于耶路撒冷山姆史匹格电影电视学院（Sam Spiegel Film &amp; TV School）。编写并执导短片<em>Petach Tikva</em>（佩塔提克瓦）。</p>\n<p><strong>2011年</strong>\n编写并执导短片<em>I Will Drink My Tears</em>（我会喝下我的泪）。</p>\n<p><strong>2012年</strong>\n联合编写短片<em>Aya</em>（阿雅）。</p>\n<p><strong>2013年</strong>\n长片《绑架练习曲》（Youth）首映。《绑架练习曲》赢得耶路撒冷电影节最佳电影奖。</p>\n<p><strong>2015年</strong>\n<em>Aya</em>获奥斯卡金像奖最佳短片提名。</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "a1774ef6-9046-55d7-ba51-6646cd21bf60",
+                  "componentName": "Roller",
+                  "dataSource": "{CB0E185F-B1C8-58A2-A4E1-795ACABFB0B0}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "卷轴文章"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "4a3bafcc-7a7f-5470-9e0e-297ecf1564d5",
+                        "componentName": "RollerCard",
+                        "dataSource": "{E900037D-758C-55D8-9F0A-0AAD4AD85B3E}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/learning-from-a-master/roller_0001.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": "修法勒有幸看他的导师进行拍摄、并接受指导，与他交流想法。"
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "224a44d9-9320-5753-aa9a-bc8f4b78cc20",
+                        "componentName": "RollerCard",
+                        "dataSource": "{18389F4C-4211-54BB-A3F2-76F3E15BEDAD}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/learning-from-a-master/roller_0002.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "汤姆为即将上映的电影于以色列斯多特亚姆（Sdot Yam）海滩侦察场景。"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "7e30efeb-5569-5353-97b3-e9e7411a6cb9",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3F372480-2434-5114-BF0F-7F80659F25E0}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/learning-from-a-master/roller_0003.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "与摄影师谢非・赫胥（Seffy Hirsch）在外景地。"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "656281aa-cc7a-51cb-9e78-a6e376ea4995",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5BE30A1C-B952-5D14-A21E-BD9E0BA9085A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/learning-from-a-master/roller_0004.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "汤姆在前往电影片场途中阅读笔记。"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "018b83ef-4b26-5dcb-acf3-0f9328ae54d7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D0BB491E-2D50-5CDE-AC15-A2EB8BA7B190}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "劳力士创艺指导计划"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "581208c8-0cba-5f28-8d30-06f6b27a992d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{062F3C5A-6EC3-5651-9DEB-2256C8D1F2A3}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "劳力士创艺指导计划于2002年创立，汤姆・修法勒和亚历桑德罗・冈萨斯雷・伊纳利图是参与的众多师徒档之一。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "358683ae-7fab-5f07-a705-d32c26cd2e1f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B47FEF41-5374-5AC8-B743-02D46B22B5FD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "劳力士推出创艺指导计划，旨在以历史悠久的师徒制度，确保世界艺术传统得以代代相传。藉着这项慈善计划，来自建筑、舞蹈、电影、文学、音乐、剧场及视觉艺术这七门艺术、当今最具影响力的大师，与初露头角的青年艺术家结为师徒，跨越地域与文化疆界，以一对一的师徒关系合力创作。本创举感动来自世界各地的数百名艺术家，并拨出宝贵世界指导这些才华横溢的新锐艺术家。在电影艺术方面，亚历桑德罗・冈萨雷斯・伊纳利图加入备受尊崇的当代电影巨头行列，他们都已在影坛名留青史，并担任劳力士创艺指导计划的导师。这些殿堂级人物包括史蒂芬・弗雷斯（Stephen Frears）、沃尔特・默奇（Walter Murch）、米拉・奈儿（Mira Nair）、马丁・斯科塞斯（Martin Scorsese）及张艺谋。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ab16fe84-2817-5b18-a005-4c07e9b4f368",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "7b13033e-b16d-4119-9f29-759e53785537",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{DA8F213B-C62C-49B0-B773-E8764E715DAC}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "相关文章"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "8a671382-aa19-5e8d-a7de-5444a23b1564",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "i-m-not-a-young-conductor-anymore"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "我不再是年轻的指挥家 - 艺术"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "劳力士代言人古斯塔沃・杜达梅尔（Gustavo Dudamel）早已使乐迷拜倒在他的名下。这位魅力非凡的委内瑞拉指挥家，以崭新思维和大胆创新的手法演绎经典名作，为古典音乐带来新的冲击。"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "5分42秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/i-m-not-a-young-conductor-anymore/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "I'm not a young conductor anymore - Arts"
+                          },
+                          "metadescription": {
+                            "value": "劳力士代言人古斯塔沃・杜达梅尔（Gustavo Dudamel）早已使乐迷拜倒在他的名下。这位魅力非凡的委内瑞拉指挥家，以崭新思维和大胆创新的手法演绎经典名作，为古典音乐带来新的冲击。"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "arts"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+                            "url": "/Content/Category/PerformingArts",
+                            "fields": {
+                              "name": {
+                                "value": "Performing Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "performing-arts"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "我不再是年轻的指挥家 - 艺术"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/i-m-not-a-young-conductor-anymore/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "音乐"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "cf97720d-64de-5627-950e-b5f748d79036",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "japans-architectural-poet"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "日本建筑诗人 - 艺术"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "妹岛和世（Kazuyo Sejima）的优雅极简主义，重新定义公共建筑。蜚声国际的妹岛和世，曾设计出呈波浪形的劳力士研修中心和其他重要建筑物，引得全球建筑界纷纷仿效，其业务倍加忙碌。尽管她日理万机，但仍乐意抽空为劳力士创艺推荐资助计划培育新一代建筑师。"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3分14秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/japans-architectural-poet/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Japan’s Architectural Poet - Arts"
+                          },
+                          "metadescription": {
+                            "value": "阅读更多有关劳力士导师妹岛和世，这位得奖建筑师曾设计劳力士研修中心，并与赵扬合作策划建筑项目，协助海啸难民。"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "arts"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2200"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "日本建筑诗人 - 艺术"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/japans-architectural-poet/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "建筑"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "59322584-c5eb-5b4b-9e10-5d1d2b919423",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-passion-for-architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "热爱建筑 - 艺术"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "每当劳力士兴建或扩建其总部和生产设施时，都会像设计珍贵的精密时计般，讲究美学和细节。"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2分44秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "metadescription": {
+                            "value": "劳力士对独特、多用途及理性建筑抱持热忱，其时计亦一一体现其中特质，阅读这些元素如何协助品牌走在创新的前沿。"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2150"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2000"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "热爱建筑 - 艺术"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "恒动精神"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "4e52b94e-f21d-5586-88ab-19af29c7beb3",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{41909A86-61E3-5A84-97B3-9C248C7C7F7A}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/arts"
+                    },
+                    "anchorText": {
+                      "value": "探索"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/arts/rolex_org_arts_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "文化流传"
+                    },
+                    "title": {
+                      "value": "艺术"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "95b23af9-64a9-536d-b0a6-0ad7757f307c",
+                  "componentName": "Sharing",
+                  "dataSource": "{2C4F4DAD-BCC1-5C51-BBAC-844D42564691}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cd185234-eb9f-4981-9b2e-3514e4d55a36",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "a45dd2c6-f8f1-4198-9940-04f585789f3d",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "86f73612-056b-4229-acab-996cb2e99cea",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯的“非洲大脊梁” - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "经过多次艰险的考察，探险家史蒂夫・博伊斯（Steve Boyes）与其团队成功证明：安哥拉高地是赞比西河的源头。在劳力士的支持下，他正运用研究成果切实保护这一重要区域。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "探险家史蒂夫・博伊斯与其团队证实赞比西河的源头位于安哥拉高地。于Rolex.org了解更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "保护水资源"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "探索发现"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与卡赛河考察活动 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "“非洲大脊梁”（Great Spine of Africa）考察旨在保护非洲大陆的水资源，而作为此考察的一部分，劳力士“保护地球・恒动不息”计划（Perpetual Planet Initiative）合作伙伴兼保育专家史蒂夫・博伊斯（Steve Boyes）追溯刚果河（Congo River）的主要水源至安哥拉高地（Angolan Highlands）。\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02分60秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "作为“非洲大脊梁”考察的一部分，保育专家史蒂夫・博伊斯研究刚果河的主要水源──卡赛河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "卡赛河"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与隆圭本古河 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士通过“保护地球・恒动不息”计划，支持“非洲大脊梁”探险，追溯从未获科学记录的数千公里河流。研究将有助保护仰赖非洲大河为生的社區及野生生物。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2分26秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "通过“保护地球・恒动不息”计划，劳力士支持史蒂夫・博伊斯展开探险，研究未经探索的隆圭本古河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "壮丽的赞比西河与其秘密"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）旨在表扬竭力保护地球的探险家，他们关注各种重要议题、积极探索发现并直面地球所面临的挑战。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "探索2019年劳力士国家地理年度探险家奖得主，奥卡万戈野外团队以及他们保护地球的承诺。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024年劳力士国家地理年度探险家奖得主 - 费尔南多・特鲁希略"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "哥伦比亚海洋生物学家费尔南多・特鲁希略（Fernando Trujillo）凭借保护亚马逊粉红江豚及它们栖息的河流系统，荣获2024年劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "海洋生物学家费尔南多・特鲁希略凭借保护亚马逊江豚，荣获2024年劳力士国家地理年度探险家奖。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "费尔南多・特鲁希略：为了喜爱的江豚"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

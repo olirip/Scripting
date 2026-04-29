@@ -1,0 +1,3742 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "zh-Hans",
+      "wa": {
+        "contentTag": "oceans/mission-blue",
+        "pageType": "article page",
+        "pageSiteSection": "environment",
+        "pageSiteSubSection": "mission-blue",
+        "environmentName": "production",
+        "pageName": "environment:mission-blue:hope-spots:galapagos-islands",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/mission-blue/hope-spots/galapagos/episode_1/soc_pp_doc_galapagos_ep1_22_a_139_en_py_ly_no_clock_16x9",
+        "/data/media/video/mission-blue/hope-spots/galapagos/episode_2/updates/soc_pp_doc_galapagos_ep2_22_a_154_en_py_ly_no_clock_16x9",
+        "/data/media/video/mission-blue/hope-spots/galapagos/episode_3/soc_pp_doc_galapagos_ep3_22_a_150_en_py_ly_no_clock_16x9"
+      ],
+      "item": {
+        "datePublished": "2022-12-21T10:24:29Z",
+        "dateModified": "2023-06-22T09:11:04Z"
+      }
+    },
+    "route": {
+      "name": "galapagos-islands",
+      "displayName": "galapagos-islands",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "mission-blue"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "劳力士与蓝色使命 - 加拉帕戈斯群岛“希望点”"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2分26秒"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex and Mission Blue - The Galápagos Islands Hope Spot"
+        },
+        "metadescription": {
+          "value": "<p>加拉帕戈斯群岛的水域获蓝色使命名为“希望点”，这里堪为多样特有物种的独特生活实验室。于Rolex.org探索更多。</p>"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "environment"
+        },
+        "tag5": {
+          "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+          "url": "/Content/Category/mission-blue",
+          "fields": {
+            "name": {
+              "value": "Mission Blue"
+            },
+            "dictionaryKey": {
+              "value": "mission-blue"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "5"
+        },
+        "hub": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "10"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+          "url": "/Content/Hub/Minisites/missionblue",
+          "fields": {
+            "name": {
+              "value": "missionblue"
+            },
+            "dictionaryKey": {
+              "value": "view-mission-blue"
+            },
+            "url": {
+              "value": "/environment/mission-blue"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "树立海洋思维"
+        },
+        "previewImage_src": {
+          "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "环境保护"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "1d1e192c-0557-43aa-ae90-cc18359fe28e",
+      "itemLanguage": "zh-Hans",
+      "itemVersion": 63,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "6df568fe-a1f6-49d8-9cc2-1dfa7f1a50aa",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{0FECC581-AD6B-4E7C-8E7B-D95B4DE2C635}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/videos/cover/rolex_galapagos_desktop_cover_cut01.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/videos/cover/rolex_galapagos_mobile_cover_cut01.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "85vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": ""
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "树立海洋思维"
+                    },
+                    "subtitle": {
+                      "value": "蓝色使命"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dd1e4daa-ba1d-4287-a492-cacca8abf2ba",
+                  "componentName": "SimpleText",
+                  "dataSource": "{5682501A-F630-48EB-8E57-A74D54F74395}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<strong>劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。</strong>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": true
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": "#055085"
+                    }
+                  }
+                },
+                {
+                  "uid": "e87de441-3fd5-4370-ad5c-e0f57998bc12",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{41904844-FF84-4945-AD5F-5FC8C3194FE5}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>蓝色使命</b> 加拉帕戈斯群岛"
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "rollerTitle": {
+                      "value": "<b>所有</b>集数"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "videos": [
+                      {
+                        "id": "d9093ee0-5037-4008-ad44-ce060fd049f4",
+                        "fields": {
+                          "date": {
+                            "value": "2023年1月"
+                          },
+                          "title": {
+                            "value": "加拉帕戈斯群岛考察活动：第1集<br>地球蓝图"
+                          },
+                          "video": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_1/soc_pp_doc_galapagos_ep1_22_a_139_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:18"
+                          },
+                          "link": {
+                            "id": "1d1e192c-0557-43aa-ae90-cc18359fe28e",
+                            "url": "/environment/mission-blue/hope-spots/galapagos-islands",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "劳力士与蓝色使命 - 加拉帕戈斯群岛“希望点”"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。"
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "2分26秒"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Galápagos Islands Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "<p>加拉帕戈斯群岛的水域获蓝色使命名为“希望点”，这里堪为多样特有物种的独特生活实验室。于Rolex.org探索更多。</p>"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "5"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "10"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "树立海洋思维"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "环境保护"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_1/rolex-org-mission-blue-think-like-an-ocean-posterframe-episode01.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "512acc22-3b32-48ce-808d-c31e6e635d5f",
+                        "fields": {
+                          "date": {
+                            "value": "2023年1月"
+                          },
+                          "title": {
+                            "value": "加拉帕戈斯群岛考察活动：第2集<br>潜入深蓝"
+                          },
+                          "video": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_2/updates/soc_pp_doc_galapagos_ep2_22_a_154_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:33"
+                          },
+                          "link": {
+                            "id": "1d1e192c-0557-43aa-ae90-cc18359fe28e",
+                            "url": "/environment/mission-blue/hope-spots/galapagos-islands",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "劳力士与蓝色使命 - 加拉帕戈斯群岛“希望点”"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。"
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "2分26秒"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Galápagos Islands Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "<p>加拉帕戈斯群岛的水域获蓝色使命名为“希望点”，这里堪为多样特有物种的独特生活实验室。于Rolex.org探索更多。</p>"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "5"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "10"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "树立海洋思维"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "环境保护"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_2/rolex-org-mission-blue-think-like-an-ocean-posterframe-episode02.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "5658ae24-88ce-402b-85e4-972a6a996325",
+                        "fields": {
+                          "date": {
+                            "value": "2023年1月"
+                          },
+                          "title": {
+                            "value": "加拉帕戈斯群岛考察活动：第3集<br>薪火相传"
+                          },
+                          "video": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_3/soc_pp_doc_galapagos_ep3_22_a_150_en_py_ly_no_clock_16x9.mp4"
+                          },
+                          "description": {
+                            "value": ""
+                          },
+                          "duration": {
+                            "value": "02:30"
+                          },
+                          "link": {
+                            "id": "1d1e192c-0557-43aa-ae90-cc18359fe28e",
+                            "url": "/environment/mission-blue/hope-spots/galapagos-islands",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "mission-blue"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "劳力士与蓝色使命 - 加拉帕戈斯群岛“希望点”"
+                              },
+                              "editorChoice": {
+                                "value": true
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。"
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "2分26秒"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Rolex and Mission Blue - The Galápagos Islands Hope Spot"
+                              },
+                              "metadescription": {
+                                "value": "<p>加拉帕戈斯群岛的水域获蓝色使命名为“希望点”，这里堪为多样特有物种的独特生活实验室。于Rolex.org探索更多。</p>"
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "environment"
+                              },
+                              "tag5": {
+                                "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                                "url": "/Content/Category/mission-blue",
+                                "fields": {
+                                  "name": {
+                                    "value": "Mission Blue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "mission-blue"
+                                  }
+                                }
+                              },
+                              "tag5_ranking": {
+                                "value": "5"
+                              },
+                              "hub": {
+                                "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                "url": "/Content/Hub/environment",
+                                "fields": {
+                                  "name": {
+                                    "value": "environment"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-environment"
+                                  },
+                                  "url": {
+                                    "value": "environment"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                                "url": "/Content/Category/Oceans",
+                                "fields": {
+                                  "name": {
+                                    "value": "Oceans"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "oceans"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "10"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": null,
+                              "tag_video": null,
+                              "hub_minisite": {
+                                "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                                "url": "/Content/Hub/Minisites/missionblue",
+                                "fields": {
+                                  "name": {
+                                    "value": "missionblue"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "view-mission-blue"
+                                  },
+                                  "url": {
+                                    "value": "/environment/mission-blue"
+                                  }
+                                }
+                              },
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "树立海洋思维"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/video/environment/mission-blue/rolex-org-mission-blue-think-like-an-ocean-thumbnail-article.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "环境保护"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/video/mission-blue/hope-spots/galapagos/episode_3/rolex-org-mission-blue-think-like-an-ocean-posterframe-episode03.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "#055085"
+                    }
+                  }
+                },
+                {
+                  "uid": "3f9ac0e5-7a55-46a5-8964-2cf26c24dde3",
+                  "componentName": "TextSection",
+                  "dataSource": "{5EDCA381-FD5B-4D50-8C2C-96A79F08687E}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "加拉帕戈斯群岛"
+                    },
+                    "title": {
+                      "value": "独特的生活实验室"
+                    },
+                    "text": {
+                      "value": "加拉帕戈斯群岛（Galápagos Islands）的环境独一无二。其丰富而特别的生态系统孕育出此处独有的动植物。1966年，传奇海洋学家席薇亚・厄尔（Sylvia Earle）初到加拉帕戈斯群岛，并首度潜入水中，她认为这是自己所见过“最多鲨鱼、最多鱼类”的地方。然而，其独特之处亦令它非常脆弱。随着更多人探索群岛，外来的入侵性物种亦开始出现，当地资源面对的压力日益加剧，脆弱的海洋生态系统亦遭渔业工作破坏。"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "ddab456a-1325-419c-a06e-8a5325e402b8",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{9FA03CEF-B62F-46F3-BC16-5224975CA1EB}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-seal-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-seal.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "d4b715a7-aba4-4326-930e-ce3bda9e84a7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B74A9C8D-18EE-485E-BA14-3ACE57390391}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "尽管加拉帕戈斯群岛97%的土地受到保护，其周边水域却未获同等待遇。由于这个地球生活实验室面临威胁，席薇亚・厄尔选择加拉帕戈斯群岛为“蓝色使命”首批“希望点”（Hope Spot）之一，让科学家与当地社区可以携手合作，了解并保护海洋健康。这亦为1998年加拉帕戈斯海洋保护区（Galápagos Marine Reserve）的成立带来国际关注，此保护区面积133,000平方公里（53,282平方英里），覆盖群岛的海洋、舄湖及河川，确保居民、游客及渔民未来以可持续发展的方式使用资源。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f8defdc3-1663-4e27-9b13-9cf21282153d",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{0D4DD183-1020-42D6-AD9A-3DDDB1453046}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle-diving-portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle-diving.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "fcf4523e-293a-4349-b888-84f77e78e6d6",
+                  "componentName": "TextSection",
+                  "dataSource": "{0C2BB408-7C69-4027-A969-C549B4BEA73B}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "加拉帕戈斯群岛"
+                    },
+                    "title": {
+                      "value": "挣扎求存"
+                    },
+                    "text": {
+                      "value": "曼努埃尔・耶佩兹（Manuel Yépez）小时候会与父亲乘坐小型木船环游加拉帕戈斯群岛。他们几个小时便可以捕获数百公斤的石斑鱼。随着他年纪渐大，每天的渔获亦愈来愈少。于是他开始非法捕捉鲨鱼以取得更多收入。然而，现在他却因另一目标而出海。不是为了捕鱼，而是为了保育加拉帕戈斯群岛的海洋生物。"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "6c856796-0e09-40d8-9a34-965cbee920c0",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{C8F114D7-046B-47F3-B488-BC70F80E67CA}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-alex-hearn-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-alex-hearn.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "04dfbf5b-1822-4fa3-92d7-d73f5000b197",
+                  "componentName": "SimpleText",
+                  "dataSource": "{9C0AF51E-2DFC-4547-AC23-3A5B2CF7FB2D}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "耶佩兹是“蓝色使命”加拉帕戈斯群岛两位大使之一，他们是保护地球的蓝色心脏──海洋的励志人物。他一边在海上逗留和钓鱼，一边记录、采样及分发他看到的多样海洋生物信息。这些工作对现在与他合作的科学家非常重要，尤其是海洋生物学家兼同为“希望点”大使的亚历克斯・赫恩（Alex Hearn）。两人于2015年相识，随即便成为好友兼研究伙伴。\r\n<br><br>\r\n虽然耶佩兹与赫恩等人的工作取得不少成果，但加拉帕戈斯海洋生态系统的威胁仍然持续。自从保护区成立后，更多民众及游客慕名到访，一览当地的非凡美景和多样生态。过度捕鱼不仅令鱼类族群大减，更几乎令海参灭绝。污染现成为一大问题，保护区最偏远洁净的岛屿开始发现微塑料。此外，加拉帕戈斯群岛亦面临气候变化的影响。但是在一连串的挑战中，研究员也探索了加拉帕戈斯生物的繁复迁徙模式，值得深入研究。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3dd66307-2517-4cb6-89b1-1514d1d97f0c",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{6C108C8B-3379-4921-99FE-2918DBC23935}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "bottom"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-manuel-yepez-revelo-portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-manuel-yepez-revelo.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "fca2d56f-6064-4071-bc46-1d1641af372e",
+                  "componentName": "TextSection",
+                  "dataSource": "{38EF6890-D69F-4513-961C-703BCC630987}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "加拉帕戈斯群岛"
+                    },
+                    "title": {
+                      "value": "成功蓝图"
+                    },
+                    "text": {
+                      "value": "随着加拉帕戈斯海洋保护区成立25年，现在亦是时候回归当地，盘点信息、搜集新数据，并且展望下一个25年的机遇和困难。在席薇亚・厄尔的带领及劳力士“保护地球，恒动不息”计划的支持下，一支由多个机构科学家组成的团队，展开为期两周的加拉帕戈斯群岛考察，为此处的海洋保护区撰写全面而深远的概览报告。"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "68131f87-362d-49ec-bf59-cba5035ad5e2",
+                  "componentName": "Quote",
+                  "dataSource": "{3E91067D-101A-4228-9FA9-020BCADCCD64}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "由于这个地球生活实验室面临威胁，席薇亚・厄尔选择加拉帕戈斯群岛为“蓝色使命”首批“希望点”（Hope Spot）之一。"
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "6ad4c4b2-b6e9-491c-a0d3-3aae7957eb89",
+                  "componentName": "SimpleText",
+                  "dataSource": "{2D69A41C-B21D-4193-8A58-1B0C966698EA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "耶佩兹与赫恩在考察旅程中继续工作，标签鼬鲨并搜集多个鲨鱼品种的数据，其中包括潜在的幼鲨哺育地点。作为团队的首席研究员，赫恩潜入水中，并采用先进的水下录像系统，为海马及地方性团扇虾等经常被忽略的物种测量族群数量。这将成为未来研究的基础，让保育专家可以观察群岛海洋生物的恢复过程。他说：“我们必须先了解保护区部分关键物种的族群数量趋势，才可以解答‘保护区情况如何’的简单问题。”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cb8f7dab-d331-4476-a16f-c9318e7e90ab",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{5E0B6D5B-7240-4B7D-883E-CF4062599B30}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle-and-salome-buglass-in-submersible_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle-and-salome-buglass-in-submersible.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8442dba5-3ca6-48ae-a61a-9d21b1be9317",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CA7CEEBC-3551-4280-BAE3-93D242CC686C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "除了监察所见，团队亦出发探索“暗多样性”（dark diversity），即是研究范围外的海洋生物。黛安娜・帕兹米诺（Diana Pazmiño）是基多圣弗朗西斯科大学加拉帕戈斯科学中心的研究员，她以环境DNA（eDNA）查找群岛周围的神秘稀有物种。她解释：“这是因为所有动物均会在环境中留下一缕DNA。” 帕兹米诺发现许多DNA序列都与公开数据库有别。因此，她现在正建立参考数据库，协助未来的探险家辨识他们发现的物种。还有一种令人兴奋的可能性，就是她发现的DNA属于全新科学物种。\r\n<br><br>\r\n这并非团队的首个发现。英属哥伦比亚大学博士莎乐美・布格拉斯（Salome Buglass）与厄尔，一同乘坐潜水器，潜入深海寻找海带。海带一般生长在冷水区域，但布格拉斯和厄尔却于数年前，在加拉帕戈斯群岛的热带水域中发现全新物种。她们通过遥距运载工具，探索多个潜在的深海海带生长点，结果发现了茂密的海带林。布格拉斯接下来将会分析样本，了解这种神秘的加拉帕戈斯海带。"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0062842a-79e5-4a2d-8731-c2cb9c02cfc5",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{2590819D-F009-42AE-8785-131604433C74}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": true
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-remotely-operated-underwater-vehicle-portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-remotely-operated-underwater-vehicle.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f6cf9868-3d85-4d71-912e-de328766cc30",
+                  "componentName": "TextSection",
+                  "dataSource": "{FBDF4C82-4AE5-4DEB-8DF8-D3C8766F9A70}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "加拉帕戈斯群岛"
+                    },
+                    "title": {
+                      "value": "海洋无界"
+                    },
+                    "text": {
+                      "value": "考察团队亦勘察龟类栖息地、在地图上标记企鹅的觅食地，以及测量微塑料的水平。正如厄尔所说，如此多类型的实地考察将有助保育专家“树立海洋思维”，也即是明白生态系统之间的相连性，因为对海洋生物而言，海洋是无边无界的。为此，厄瓜多尔、巴拿马、哥伦比亚及哥斯达黎加于2021年宣布成立东部热带太平洋海洋走廊（Eastern Tropical Pacific Marine Corridor）计划，携手合作加强海洋保护，在鲨鱼、海龟、魟鱼及鲸鱼迁徙的关键路径建立无渔业的“游泳通道”。虽然这是重要的正面一步，但厄尔和其考察团队的结果显示，“游泳通道”亦有需要进一步加宽及增加数量。"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "d91cd6a8-efe7-47f3-9667-099f29bc0bac",
+                  "componentName": "Roller",
+                  "dataSource": "{A72FAB95-9CA9-4465-A0BA-89F7F91B8F61}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "86302d10-7a61-4ce7-b0e2-a52104f046b2",
+                        "componentName": "RollerCard",
+                        "dataSource": "{9A5BD310-38AC-4231-9B06-0168774BEB06}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller01.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "8b818864-0983-4c8f-a920-8dc5a628bbde",
+                        "componentName": "RollerCard",
+                        "dataSource": "{6C57B64A-0D5E-43AA-9A4C-E90B676FDE19}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller02.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "38228720-12a9-4b00-96a7-2e418b6c2233",
+                        "componentName": "RollerCard",
+                        "dataSource": "{5036BF0E-A4FC-4A8D-8F0B-33DE74F13802}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller03.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "80fe5010-0100-4daa-808c-deaeef8388f5",
+                        "componentName": "RollerCard",
+                        "dataSource": "{FA770942-CD97-4595-B78F-485D94E92CEE}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller04.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "c47c3a72-1e2f-4a2f-b76c-d642e619e85b",
+                        "componentName": "RollerCard",
+                        "dataSource": "{0A0733DD-C692-4011-A923-7549B458804B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller05.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "2f4cd967-d52a-44f7-9a59-9f79bf26fd06",
+                        "componentName": "RollerCard",
+                        "dataSource": "{4CF54D3D-C720-47B2-A252-86DD323829BF}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-roller06.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "bba1f556-aebf-4ecf-876f-8ba98c79cdf5",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D25DD09A-E161-4DC9-97FD-6D1DDB1AD8FB}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "相连性亦不会因上岸而消失。团队与居民及年轻人合作，宣扬对家园的珍爱之情。帕兹米诺解释说：“每次当我带领儿童在加拉帕戈斯某处浮潜时，他们均会对鲨鱼、海龟及海豚感到惊讶不已，并希望全力保护它们。这令我充满希望。” 耶佩兹希望可以传承生机荙勃的生态系统，以及保育它的知识至下一代，他亦希望未来的当地渔民能够出海捕石斑鱼。他说：“加拉帕戈斯是一个美丽的栖息地，社区和动物可以共存，而这正是生活之道。”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c1ea75a6-6421-4562-ad53-fcaaf9a402f3",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{DBEADBDF-7BAA-48BF-828C-743316B1E826}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle-portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-sylvia-earle.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "5835f8bc-c068-4943-be2b-0373a28a3736",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{7D744195-7E4A-4CC0-9E69-778ED967A130}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/environment/mission-blue/hope-spots"
+                    },
+                    "anchorText": {
+                      "value": "探索更多"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/mission-blue/saving-the-oceans/mission_blue_saving_the_oceans_link_watching_over_the_earths_blue_heart.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "蓝色使命"
+                    },
+                    "title": {
+                      "value": "守护地球的蓝色心脏"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "70836226-310b-46cd-9b50-5c167e27ba4c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{8658B9E9-2375-43D0-82E2-79DCC1E1717C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<i>“蓝色使命”于2009年创立，旨在建立“希望点”全球网络，这些海洋区域甚具生态价值，对物种保育，以至生活依赖健康海洋环境的社群均至关重要。迄今，“蓝色使命”已在世界各地成立超过160处“希望点”。此项目的关键在于推动当地人民改变。</i>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "d98e94a3-8fda-4927-b80c-fd946697ea20",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E21DB3E9-38A2-402A-A2BE-9B5BFFA1A429}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-hammerhead-sharks-banner-portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/environment/mission-blue/galapagos-islands/rolex-org-mission-blue-think-like-an-ocean-hammerhead-sharks-banner.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a5585ac8-5d92-497c-852f-ec6921d0ff51",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "4794d436-f095-4faf-8a34-e4afe7bc98db",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{D9B4F978-136D-4A64-990E-336093897612}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "相关文章"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "7de3347c-0f90-4f8f-9076-a12b624f0cfd",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士与蓝色使命 - 马尾藻海“希望点”"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "作为劳力士“保护地球，恒动不息”（Perpetual Planet）计划的重要合作伙伴，“蓝色使命”（Mission Blue）计划此次将目光投向富有传奇色彩的马尾藻海（Sargasso Sea），携手管理机构马尾藻海委员会（Sargasso Sea Commission），共同保护这片海域。"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3分10秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A floating rainforest"
+                          },
+                          "metadescription": {
+                            "value": "马尾藻海获蓝色使命命为“希望点”，其“漂浮的黄金雨林”为海洋生物提供庇护。于Rolex.org探索更多。"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "40"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "漂浮的雨林"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/sargasso/environment-mission-blue-a-floating-rainforest-thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "环境保护"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "45aae811-9510-4c03-a74b-396b16582908",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士与蓝色使命 - 奥萨半岛“希望点”"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "翠绿雨林、碧浪拍岸的幽静海滩、有趣的潜泳及水肺潜水。实在不难向游客推介哥斯达黎加奥萨半岛作为假日探索之地：国家地理曾形容此处为“地球上生物最密集的地方”。"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3分10秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/cathedral-in-the-sea/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Cathedral in the sea"
+                          },
+                          "metadescription": {
+                            "value": "奥萨半岛是哥斯达黎加重要的海洋生物迁徙路线，此处获席薇亚・厄尔的蓝色使命立为“希望点”。于Rolex.org探索更多。"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "100"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "海洋圣殿"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/cathedral-in-the-sea/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "环境保护"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "6fcbb109-b959-4a63-b6d9-8685fc32df65",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "mission-blue"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "劳力士与蓝色使命 - 亚速尔“希望点”"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "劳力士借着“保护地球，恒动不息”计划，支持非营利海洋保育组织蓝色使命（Mission Blue）建立“希望点”全球网络的愿景，从而保护关键的海洋生态系统。\r\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2分26秒"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/environment/mission-blue/the-azores/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A whale cafe in the Azores"
+                          },
+                          "metadescription": {
+                            "value": "亚速尔受政府保护多年，现更成为“希望点”。于Rolex.org了解更多有关蓝色使命计划。\r\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "environment"
+                          },
+                          "tag5": {
+                            "id": "d12132e4-6764-4f75-aa39-140dadacb75e",
+                            "url": "/Content/Category/mission-blue",
+                            "fields": {
+                              "name": {
+                                "value": "Mission Blue"
+                              },
+                              "dictionaryKey": {
+                                "value": "mission-blue"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "5"
+                          },
+                          "hub": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "44749f31-7a8c-44d6-8bb1-8d9ee9c8dd80",
+                            "url": "/Content/Hub/Minisites/missionblue",
+                            "fields": {
+                              "name": {
+                                "value": "missionblue"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-mission-blue"
+                              },
+                              "url": {
+                                "value": "/environment/mission-blue"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "亚速尔群岛的鲸鱼咖啡店"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/environment/mission-blue/the-azores/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "环境保护"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "094ad2ff-d902-4f9e-a595-dd0413bdb0c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "探索"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "保护地球 恒动不息"
+                    },
+                    "title": {
+                      "value": "环境保护"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "25a4ba2b-d735-4650-ab52-c14a8d1b1278",
+                  "componentName": "Sharing",
+                  "dataSource": "{5B2779F5-B1EB-4DAC-B2F3-76F6ED270A68}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5efcb293-b2ab-4c99-9036-10d926219fe5",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "86f73612-056b-4229-acab-996cb2e99cea",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "RollerCardItem": [
+                            {
+                              "id": "8aca0347-77bd-49fc-a352-813bb9de63b5",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯的“非洲大脊梁” - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "经过多次艰险的考察，探险家史蒂夫・博伊斯（Steve Boyes）与其团队成功证明：安哥拉高地是赞比西河的源头。在劳力士的支持下，他正运用研究成果切实保护这一重要区域。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "0分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes' Great Spine of Africa - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "探险家史蒂夫・博伊斯与其团队证实赞比西河的源头位于安哥拉高地。于Rolex.org了解更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "Environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "保护水资源"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "探索发现"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "067a57c0-2a11-4d63-af34-81520a578d4f",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与卡赛河考察活动 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "“非洲大脊梁”（Great Spine of Africa）考察旨在保护非洲大陆的水资源，而作为此考察的一部分，劳力士“保护地球・恒动不息”计划（Perpetual Planet Initiative）合作伙伴兼保育专家史蒂夫・博伊斯（Steve Boyes）追溯刚果河（Congo River）的主要水源至安哥拉高地（Angolan Highlands）。\r\n"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "02分60秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "Steve Boyes and the Cassai River Expedition - Perpetual Planet"
+                                },
+                                "metadescription": {
+                                  "value": "作为“非洲大脊梁”考察的一部分，保育专家史蒂夫・博伊斯研究刚果河的主要水源──卡赛河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": ""
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "卡赛河"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "fa683049-e158-4a5d-9973-cf5ce0d33aa7",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "史蒂夫・博伊斯与隆圭本古河 - 保护地球・恒动不息"
+                                },
+                                "editorChoice": {
+                                  "value": true
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士通过“保护地球・恒动不息”计划，支持“非洲大脊梁”探险，追溯从未获科学记录的数千公里河流。研究将有助保护仰赖非洲大河为生的社區及野生生物。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2分26秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The mighty Zambezi River and its secrets"
+                                },
+                                "metadescription": {
+                                  "value": "通过“保护地球・恒动不息”计划，劳力士支持史蒂夫・博伊斯展开探险，研究未经探索的隆圭本古河。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "9"
+                                },
+                                "tag2": {
+                                  "id": "0079ee92-a7f5-5779-ad6e-12e32f29a9e8",
+                                  "url": "/Content/Category/Conservation",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Conservation"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "conservation"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "46"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "壮丽的赞比西河与其秘密"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "4f637ac2-2eef-52cc-a783-13698334026a",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual-planet"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）旨在表扬竭力保护地球的探险家，他们关注各种重要议题、积极探索发现并直面地球所面临的挑战。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "2min 3s"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                },
+                                "metadescription": {
+                                  "value": "探索2019年劳力士国家地理年度探险家奖得主，奥卡万戈野外团队以及他们保护地球的承诺。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "2500"
+                                },
+                                "tag2": null,
+                                "tag2_ranking": {
+                                  "value": ""
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "2019年劳力士国家地理年度探险家奖 - 奥卡万戈野外计划团队"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护"
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            },
+                            {
+                              "id": "d9d05be1-2bed-4148-9e5a-2d594ac08a5e",
+                              "fields": {
+                                "pageClass": {
+                                  "value": ""
+                                },
+                                "excludeFromSearch": {
+                                  "value": false
+                                },
+                                "pageSiteSubSection": {
+                                  "value": "perpetual"
+                                },
+                                "pageThumbnail_alt": {
+                                  "value": ""
+                                },
+                                "pageTitle": {
+                                  "value": "2024年劳力士国家地理年度探险家奖得主 - 费尔南多・特鲁希略"
+                                },
+                                "editorChoice": {
+                                  "value": false
+                                },
+                                "menuType": {
+                                  "value": false
+                                },
+                                "pageCaption": {
+                                  "value": "哥伦比亚海洋生物学家费尔南多・特鲁希略（Fernando Trujillo）凭借保护亚马逊粉红江豚及它们栖息的河流系统，荣获2024年劳力士国家地理年度探险家奖（Rolex National Geographic Explorer of the Year）。"
+                                },
+                                "Video": {
+                                  "value": false
+                                },
+                                "displayInGrid": {
+                                  "value": true
+                                },
+                                "duration": {
+                                  "value": "3分10秒"
+                                },
+                                "isHub": {
+                                  "value": false
+                                },
+                                "pageThumbnail_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "pageVersion": {
+                                  "value": ""
+                                },
+                                "Slideshow": {
+                                  "value": false
+                                },
+                                "pageType": {
+                                  "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                  "url": "/Content/PageType/article-page",
+                                  "fields": {
+                                    "name": {
+                                      "value": ""
+                                    }
+                                  }
+                                },
+                                "WaPageTitle": {
+                                  "value": "2024 Rolex National Geographic Explorer of the Year - Fernando Trujillo"
+                                },
+                                "metadescription": {
+                                  "value": "海洋生物学家费尔南多・特鲁希略凭借保护亚马逊江豚，荣获2024年劳力士国家地理年度探险家奖。于Rolex.org探索更多。"
+                                },
+                                "backgroundImage": {
+                                  "value": ""
+                                },
+                                "backgroundImageMobile": {
+                                  "value": ""
+                                },
+                                "backgroundColor": {
+                                  "value": ""
+                                },
+                                "pageSiteSection": {
+                                  "value": "environment"
+                                },
+                                "tag5": null,
+                                "tag5_ranking": {
+                                  "value": ""
+                                },
+                                "hub": {
+                                  "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                                  "url": "/Content/Hub/environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "all-environment"
+                                    },
+                                    "url": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1": {
+                                  "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                                  "url": "/Content/Category/Environment",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Environment"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "environment"
+                                    }
+                                  }
+                                },
+                                "tag1_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag2": {
+                                  "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                                  "url": "/Content/Category/Exploration",
+                                  "fields": {
+                                    "name": {
+                                      "value": "Exploration"
+                                    },
+                                    "dictionaryKey": {
+                                      "value": "exploration"
+                                    }
+                                  }
+                                },
+                                "tag2_ranking": {
+                                  "value": "3000"
+                                },
+                                "tag3": null,
+                                "tag4_ranking": {
+                                  "value": ""
+                                },
+                                "tag3_ranking": {
+                                  "value": ""
+                                },
+                                "tag4": null,
+                                "hub2": null,
+                                "tag_video": null,
+                                "hub_minisite": null,
+                                "video_timeToWatch": {
+                                  "value": ""
+                                },
+                                "previewTitle": {
+                                  "value": "费尔南多・特鲁希略：为了喜爱的江豚"
+                                },
+                                "previewImage_src": {
+                                  "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                },
+                                "previewImageCustom_src": {
+                                  "value": ""
+                                },
+                                "previewCategory": {
+                                  "value": "环境保护 "
+                                },
+                                "isLink": {
+                                  "value": true
+                                },
+                                "customLink": {
+                                  "value": ""
+                                },
+                                "isReplay": {
+                                  "value": false
+                                },
+                                "isYoutubeStreaming": {
+                                  "value": false
+                                },
+                                "gridExternalLinkLabel": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkUrl": {
+                                  "value": ""
+                                },
+                                "gridExternalLinkWaName": {
+                                  "value": ""
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}
