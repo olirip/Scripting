@@ -1,0 +1,6 @@
+node_modules/
+*.log
+
+# Per-site output folders (anything that's not a source/config file)
+/*/
+!.claude/

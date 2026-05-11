@@ -1,0 +1,14 @@
+{
+  "name": "reluctant-website",
+  "version": "1.0.0",
+  "description": "Walk a website's sitemap.xml and save each page as a Defuddle Markdown file.",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "defuddle": "^0.15.0",
+    "linkedom": "^0.18.5",
+    "playwright": "^1.59.1"
+  }
+}
