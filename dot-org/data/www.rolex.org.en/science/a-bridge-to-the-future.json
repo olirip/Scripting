@@ -1,0 +1,1256 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "education",
+        "pageType": "article page",
+        "pageSiteSection": "science",
+        "pageSiteSubSection": "a-bridge-to-the-future",
+        "environmentName": "production",
+        "pageName": "science:a-bridge-to-the-future",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:28:05Z",
+        "dateModified": "2023-02-06T16:31:46Z"
+      }
+    },
+    "route": {
+      "name": "a-bridge-to-the-future",
+      "displayName": "a-bridge-to-the-future",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "a-bridge-to-the-future"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "A bridge to the future - Science"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Rolex has had a long, mutually rewarding relationship with the EPFL, the world-leading Swiss Federal Institute of Technology in Lausanne."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 6s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/science/a-bridge-to-the-future/update/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "A bridge to the future - Science"
+        },
+        "metadescription": {
+          "value": "Rolex has had a long, mutually rewarding relationship with the EPFL, the world-leading Swiss Federal Institute of Technology in Lausanne."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "science"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+          "url": "/Content/Hub/science",
+          "fields": {
+            "name": {
+              "value": "science"
+            },
+            "dictionaryKey": {
+              "value": "all-science"
+            },
+            "url": {
+              "value": "science"
+            }
+          }
+        },
+        "tag1": {
+          "id": "27b0575f-fe8b-55be-9d2f-55c751f8abba",
+          "url": "/Content/Category/Education",
+          "fields": {
+            "name": {
+              "value": "Education"
+            },
+            "dictionaryKey": {
+              "value": "education"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": ""
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "A bridge to the future"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/science/a-bridge-to-the-future/update/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Education"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "456baba7-54a4-5721-aef6-e6db88a804bb",
+      "itemLanguage": "en",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "f5967948-9c69-5da5-8ee6-25ddf2292fab",
+                  "componentName": "Cover",
+                  "dataSource": "{F95E20CC-51B1-512D-9BC3-E814D0BE2B2B}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/science/a-bridge-to-the-future/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:30min"
+                    },
+                    "title": {
+                      "value": "A bridge to the future"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/science/a-bridge-to-the-future/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3831c3c6-c5fd-5157-b4b2-8f0523f5a3cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B022E70F-8CC9-53D8-B06F-6B8E6D3F60DD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": true
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rolex has had a long, mutually rewarding relationship with the EPFL, the world-leading Swiss Federal Institute of Technology in Lausanne."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "68221728-3d31-501d-b4f8-aa9f5dfb9acc",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{7F5DEEF4-3998-524A-BA15-7D39E8AFA765}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/science/a-bridge-to-the-future/desktop_0002.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "47f7a717-5da4-5566-905a-2fe7734cd18a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{707382E7-017C-556D-97E3-3EA1BF69C1DD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>If there is a symbol of the deep links between Rolex and EPFL (the Swiss Federal Institute of Technology) in Lausanne, Switzerland, it is the Rolex Learning Center. With its architectural eloquence defined by flowing curves, this iconic building, which opened in 2010, aptly expresses the essence of a library and a forum for intellectual exchange.</p><p>Designed for EPFL by the Pritzker Prize-winning duo Kazuyo Sejima and Ryue Nishizawa, co-founders of the Japanese architectural firm SANAA, it is a model for the truly open environment essential to advancing science and education.</p><p>Half of the Rolex Learning Center was financed by private funding. Not hesitating to respond to EPFL’s invitation to contribute, Rolex became the principal patron. Several factors underlay this decision.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f8324fe6-b2c3-5b00-9d72-0c5a87d5aa13",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{23EB5060-7C0F-5C4E-A331-D5C9FC01F311}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/science/a-bridge-to-the-future/desktop_0003.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "ab714cb9-f656-5d3a-9a59-de78a1ebb3e0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{631C9C4C-FC7A-518E-9791-1445D4551BB0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>In the 1970s, Rolex fundamentally changed its approach to research and development and began to engage scientists in addition to traditional watchmakers, mechanics and engineers. The company turned naturally to EPFL for its recruitment, due to the institute’s international reputation for the high standards of its science and technology education and research at the forefront of science and engineering. It also had values based on quality, excellence and technical expertise, principles shared by Rolex in the development and manufacture of its watches.</p><p>Many engineers who work at Rolex are graduates of EPFL in physics, mechanical engineering, materials science, microtechnology and information technology. In view of the quality of EPFL’s analytical equipment, Rolex has also entrusted a number of projects to its research departments; in addition the company supports doctoral students in applied science research.</p><p>The links between Rolex and EPFL continue to strengthen. In November 2016, the university opened ArtLab, which is dedicated to an examination of the intersection between science and the arts. Rolex has sponsored an exhibition space in the building that was designed by Japanese architect Kengo Kuma.</p><p>EPFL collaborates with a large network of partners including those engaged with industry and the economy, with the aim of having a positive impact on the future. It is a vision of advancing human knowledge that Rolex and EPFL share.</p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2690220b-cda1-557f-bd8f-713894e4c0b9",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "50c2b024-42e2-488e-8d38-d2e1b2aca228",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{8A328428-FA69-4DA9-B4C5-BEEE8F54C553}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "b3b4822a-aba1-5a8f-ac14-b30a68c0fca7",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "an-education-in-precision"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "An education in precision - Science"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Faced with a shortage of skilled watchmakers in the United States, Rolex built a school in 2001 to train a new generation of young specialists to service high-quality mechanical wristwatches."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 8s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "An education in precision - Science"
+                          },
+                          "metadescription": {
+                            "value": "Faced with a shortage of skilled watchmakers in the United States, Rolex built a school in 2001 to train a new generation of young specialists to service high-quality mechanical wristwatches."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "27b0575f-fe8b-55be-9d2f-55c751f8abba",
+                            "url": "/Content/Category/Education",
+                            "fields": {
+                              "name": {
+                                "value": "Education"
+                              },
+                              "dictionaryKey": {
+                                "value": "education"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1650"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "An education in precision"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/science/an-education-in-precision/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Education"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d068ba32-aaa5-5f16-8fec-696bf4d68378",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "chasing-the-secrets-of-the-universe"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Chasing the secrets of the universe - Science"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "A mutual pursuit of excellence forged links between Rolex and CERN, the European particle  physics laboratory, that date back to the late 1950s."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "0min 52s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/science/chasing-the-secrets-of-the-universe/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Chasing the secrets of the universe - Science"
+                          },
+                          "metadescription": {
+                            "value": "A mutual pursuit of excellence forged links between Rolex and CERN, the European particle  physics laboratory, that date back to the late 1950s."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "science"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "a4b759d7-f88a-556c-a54c-5988786e10ef",
+                            "url": "/Content/Category/Innovation",
+                            "fields": {
+                              "name": {
+                                "value": "Innovation"
+                              },
+                              "dictionaryKey": {
+                                "value": "innovation"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Chasing the secrets of the universe"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/science/chasing-the-secrets-of-the-universe/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Science and Health"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "52426979-96e6-5633-ad97-8c574015d1b6",
+                        "fields": {
+                          "pageClass": {
+                            "value": "rlxr-page-raefinalist"
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Gregoire Courtine - Help paralysed people walk again - Rolex.org"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "For scientist Grégoire Courtine, a broken back need no longer be a barrier to motion. Discover how his neuroprosthetic \"bridge\" is helping the paralysed walk again."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 48s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/gregoire-courtine/update/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Gregoire Courtine - Help paralysed people walk again - Rolex.org"
+                          },
+                          "metadescription": {
+                            "value": "For scientist Grégoire Courtine, a broken back need no longer be a barrier to motion. Discover how his neuroprosthetic \"bridge\" is helping the paralysed walk again."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "250"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Help paralysed people walk again"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/gregoire-courtine/update/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Science and Health"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "6109eba7-50fc-582b-8fb7-072403f9efde",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{1C441227-63C6-57A6-BDDD-567BF9378CF7}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/science"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/science/rolex_org_science_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetuating Knowledge"
+                    },
+                    "title": {
+                      "value": "Science"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1ef775eb-da9b-5b2d-a832-ca37d18f59ba",
+                  "componentName": "Sharing",
+                  "dataSource": "{6015D138-D2F5-5DF3-82C3-AAA0005DF248}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a6a70b7f-f76d-4151-bf58-6acff48c42da",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "6420f8aa-e4e1-4489-941a-aa3694552b6f",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

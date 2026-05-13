@@ -1,0 +1,1478 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "visual-arts",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-mentor-protege",
+        "pageSiteSubSection": "visual-arts",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:visual-arts:one-wish",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2019-10-18T16:05:10Z",
+        "dateModified": "2024-08-09T13:35:12Z"
+      }
+    },
+    "route": {
+      "name": "one-wish",
+      "displayName": "one-wish",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "visual-arts"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "One wish - Rolex mentoring programme"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Looking forward to a year of privileged access to Hockney through the offices of the Rolex mentoring programme, Matthias Weischer – a 32-year-old painter from Germany who specializes in deceptively realistic interiors – had no clear-cut expectations."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 51s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "One wish - Rolex mentoring programme"
+        },
+        "metadescription": {
+          "value": ""
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "0e5c1e98-a926-5d2c-8eb4-68af189cb7b5",
+          "url": "/Content/Category/Visual-Arts",
+          "fields": {
+            "name": {
+              "value": "Visual Arts"
+            },
+            "dictionaryKey": {
+              "value": "visual-arts"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1600"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "One wish - Rolex mentoring programme"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Visual Arts"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "adf73a56-d897-5f9c-8fdc-715a64663857",
+      "itemLanguage": "en",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "8511eb83-3a0b-5141-a1fe-1627467cf20d",
+                  "componentName": "Cover",
+                  "dataSource": "{B424F58B-A9D3-520A-90EB-D143E001DDAB}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/rmp_visual_arts_2004-2005_david_hockney_matthias_weischer_cover_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "One wish"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/rmp_visual_arts_2004-2005_david_hockney_matthias_weischer_cover_0001_portrait.jpg"
+                    },
+                    "date": {
+                      "value": "2005"
+                    },
+                    "description": {
+                      "value": "Visual Arts 2004-2005"
+                    },
+                    "subtitle": {
+                      "value": "David Hockney & Matthias Weischer"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "44324eb5-c77b-51b3-ba7b-e7f83ecbd171",
+                  "componentName": "IntroductionMP",
+                  "dataSource": "{155B9EDA-C7DE-5922-9BA1-68F11EFB3AAF}",
+                  "params": {},
+                  "fields": {
+                    "feminized": {
+                      "value": false
+                    },
+                    "mentorImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/rmp_visual-arts_2004-2005_david_hockney_mentor_0001.jpg"
+                    },
+                    "text": {
+                      "value": "Looking forward to a year of privileged access to Hockney through the offices of the Rolex mentoring programme, Matthias Weischer – a 32-year-old painter from Germany who specializes in deceptively realistic interiors – had no clear-cut expectations."
+                    },
+                    "author": {
+                      "value": "Matthew Gurewitsch"
+                    },
+                    "mentor": {
+                      "value": "David Hockney"
+                    },
+                    "mentorImage_alt": {
+                      "value": "David Hockney"
+                    },
+                    "protege": {
+                      "value": "Matthias Weischer"
+                    },
+                    "protegeImage_alt": {
+                      "value": "Matthias Weischer"
+                    },
+                    "protegeImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/rmp_visual_arts_2004-2005_matthias_weischer_protege_0001.jpg"
+                    },
+                    "date": {
+                      "value": "2005"
+                    },
+                    "feminized_mentor": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "25056ec6-abd9-5089-9ae4-9bfa34d04188",
+                  "componentName": "SimpleText",
+                  "dataSource": "{66131168-5938-56C1-85DF-AC1D08BF623B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "One wish"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Matthias Weischer did voice a wish to watch Hockney at work. That was in the early summer of 2004, and, while patently intrigued to be setting out in uncharted waters with a promising young colleague, Hockney gave no immediate assurance that that wish would come true."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "72b0a6e3-bb51-5f52-aacc-949e8f7041a7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BD7C5EFB-D0F1-5A74-B0B3-9D546100ABCC}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "First steps"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "First, Hockney whisked Weischer off for a personal tour of London, where – as in Los Angeles – he maintains a home and studio. First stop: the Royal Academy of Arts, in Piccadilly, for a sneak preview of the <i>Summer Exhibition</i>, an annual blockbuster to which Hockney had contributed six exuberant oversize watercolours from Andalusia."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "3adf784d-ba6e-5cb5-ae16-a8bb1746aeee",
+                  "componentName": "Paragraph",
+                  "dataSource": "{26D61A4F-1BF1-5F14-84BA-DB293E167485}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Next stop: the National Portrait Gallery, steps off Trafalgar Square, where the permanent collection includes Hockney’s portrait of his formidable senior, Lucian Freud, while a retrospective of photographs by the fashionable Cecil Beaton captured Hockney in his gilded youth: the same gentle giant though shyer, a soft wave to his neatly cropped hair, the face round, the spectacles owlish, the eyes discreet, yet missing nothing.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "8964a75d-824f-5105-ac7e-a7d455acd06d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C8BB6B32-5C90-5E23-9E74-5C2D0D344E62}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "Wish granted"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Whether Weischer would have an opportunity to see Hockney at work anywhere along the way remained an open question. But, figuratively speaking, he had already been looking over Hockney’s shoulder for years. Long before the two ever met, Weischer was studying Hockney's canvases, converting Hockney’s motifs for his own, quite different, purposes."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7ef343df-4eaa-5fc5-b6a3-ce87514534d6",
+                  "componentName": "SimpleVideo",
+                  "dataSource": "{79878976-C11D-5DA1-8ACE-02452DE09003}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/visual-arts/2004-2005/one-wish/rmp_visual_arts_2004-2005_david_hockney_matthias_weischer_posterframe_0001.jpg"
+                    },
+                    "source_description": {
+                      "value": "David Hockney and Matthias Weischer, Rolex Mentor and Protégé in Visual Arts, 2004-2005"
+                    },
+                    "isFullWidth": {
+                      "value": true
+                    },
+                    "isHalfBackground": {
+                      "value": true
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "next": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "source_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/visual-arts/2004-2005/david-hockney-and-matthias-weischer/david-hockney-and-matthias-weischer_video_0001.mp4"
+                    },
+                    "source_title": {
+                      "value": "Example File"
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "78dddb0b-c979-5a04-b0f9-a8f525d3c95f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{2880F8FF-644B-506D-933A-C058518720D7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "Globetrotting"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Like a genie with a young prince to look after, Hockney started plotting magic carpet rides of visual discovery. First, in the summer, they took two whirlwind days in Paris to view Chinese scrolls, Miró, the Musée Picasso, and the Egyptian antiquities at the Louvre, ever on the alert for unexpected correspondences. And the following spring, Weischer spent two weeks as Hockney’s guest at his storybook oasis in the Hollywood Hills, joining his host on excursions to the fabled collections of southern California’s public and private art museums and the opening of <i>Hand Eye Heart</i>, Hockney’s show of his new watercolours from Yorkshire."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "cf4582fd-403b-50ad-8049-de6c03d80077",
+                  "componentName": "SimpleText",
+                  "dataSource": "{E9D8DDF4-B277-5839-A7F6-E386A6506B5E}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "At last"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Yet in the end, it was in the studio, in silence, that Hockney left his deepest mark, by inviting Weischer to sit (or rather, stand) for a full-length portrait. Here at last, in 20-minute sessions, several times a day, several days running, was the chance Weischer had been waiting for. But wait! Is the sitter not in precisely the wrong spot to see the artist’s hand at work?"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "be49d260-717e-51f0-bcc0-2cbe200dc132",
+                  "componentName": "Paragraph",
+                  "dataSource": "{441E4298-007C-599D-8702-4D2C90C84773}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Hockney had anticipated this objection by setting up a mirror, allowing Weischer to follow his entire process. “He worked straight from the object,” said Weischer, choosing the terminology natural to an artist. “For the first half-hour or so, he sketched an outline – just a few strokes, but they have to be right. Then he chose single colours for the larger areas: blue for my jeans, grey for the sweatshirt, skin tone for the face and hands. Again, the beginning is something simple: flat colors. But they have to be right. Only then does he get to work on details. You could really sense the concentration.”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "1b144ac6-d027-5663-b53d-603abc215f38",
+                  "componentName": "SimpleText",
+                  "dataSource": "{C17962DA-54FF-5DB8-AEAD-B9ECD95A2641}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "A revolution"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "For the young painter of bare interiors, the experience was a revelation. “My fingers were itching,” Weischer says. “I’m feeling a great urge right now to try my hand at a portrait.” Stand by for a breakthrough."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f9fae8d6-28f1-587f-a054-21327aefe304",
+                  "componentName": "Paragraph",
+                  "dataSource": "{092DAEF4-420F-5B62-A3FE-96593EC2AA7E}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p><I>Extracted from a chapter, written by Matthew Gurewitsch for Unique Voices, Common Visions, a record of the 2004/2005 cycle of the Rolex mentoring programme.</I></p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "627c21d0-96c6-57da-a0df-13c18ef4edeb",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "030ae5eb-8dc4-4228-b21f-818fbe0ac971",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{4903B505-85D2-4ADD-B3B0-E9D2CB163A10}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "f068a3dc-59b3-586c-a845-ccf4d4a6d2c9",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "One of the world&rsquo;s greatest architects, Alvaro Siza from Portugal, and a young Jordanian architect, Sahel Alhiyari, found common ground in their views on the theory and practice of architecture, which enhanced their many intense discussions and outings, especially to visit Siza&rsquo;s groundbreaking works."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 23s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/visual-arts/2002-2003/meetings/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": "<p><span style=\"color: #131313;\">One of the world&rsquo;s greatest architects, Alvaro Siza from Portugal, and a young Jordanian architect, Sahel Alhiyari, found common ground in their views on the theory and practice of architecture, which enhanced their many intense discussions and outings, especially to visit Siza&rsquo;s groundbreaking works.</span></p>"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/visual-arts/2002-2003/meetings/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Architecture"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "664cadcd-eff4-553f-8a00-5ecfe59f82bf",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "dance"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Alone among the senior partners of the Rolex mentoring programme, Forsythe proposed a steady collaboration throughout the mentoring year."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 26s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/dance/2002-2003/meetings/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "627221a3-6e58-5177-b459-38b467710232",
+                            "url": "/Content/Category/Dance",
+                            "fields": {
+                              "name": {
+                                "value": "Dance"
+                              },
+                              "dictionaryKey": {
+                                "value": "dance"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/dance/2002-2003/meetings/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Dance"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d1cc11d6-67fe-531f-a3fe-5ca514071ad2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "literature"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "“At one stage, I thought of putting my manuscript on hold and beginning something entirely different. Toni shook her head: ‘No, no.’” Protégée Julia Leigh, speaking about the encouragement she received from Toni Morrison."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 49s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2002-2003/meetings-literature/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "bdf40ad3-cb16-50a1-8f68-a81e96add59b",
+                            "url": "/Content/Category/Literature",
+                            "fields": {
+                              "name": {
+                                "value": "Literature"
+                              },
+                              "dictionaryKey": {
+                                "value": "literature"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Meetings - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2002-2003/meetings-literature/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Literature"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "c2edb99c-ed02-5499-8364-f773591aee49",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{82730CFE-E00A-518A-8324-BC625AD0B159}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-mentor-protege"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/rolex_org_mentor_and_protege_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Programme"
+                    },
+                    "title": {
+                      "value": "Rolex mentoring programme"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "eee3b61e-bea1-5764-aaf5-d26b361d9407",
+                  "componentName": "Sharing",
+                  "dataSource": "{A5ACDDAF-4376-5221-8824-8173DBB65963}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "d13843d0-abce-4e6f-b0a4-faa6bdf33b11",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "f43e36e5-3942-44ed-a166-c40e9c10f441",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

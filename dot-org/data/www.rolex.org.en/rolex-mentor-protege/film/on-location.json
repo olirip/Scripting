@@ -1,0 +1,1395 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "film",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-mentor-protege",
+        "pageSiteSubSection": "film",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:film:on-location",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2019-10-18T16:04:17Z",
+        "dateModified": "2024-08-09T13:35:18Z"
+      }
+    },
+    "route": {
+      "name": "on-location",
+      "displayName": "on-location",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "film"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "On location - Rolex mentoring programme"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Signing on for the Rolex mentoring programme, Mira Nair let it be known just what sort of young partner she wanted: “Find me a girl from Karballah!” Yet Nair chose a boy, or rather, a young man, from Thailand: Aditya Assarat, 33."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 53s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "On location - Rolex mentoring programme"
+        },
+        "metadescription": {
+          "value": ""
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1600"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "On location - Rolex mentoring programme"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Film"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "ecb0f31b-99f5-5954-a6e5-80ca328311e2",
+      "itemLanguage": "en",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "1f6ef9c8-3106-56b1-9ad4-c692d6d607f1",
+                  "componentName": "Cover",
+                  "dataSource": "{51CC346D-9247-5B03-B414-D9455B0403CA}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/rmp_film_2004-2005_mira_nair_aditya_assarat_cover_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "On location"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/rmp_film_2004-2005_mira_nair_aditya_assarat_cover_0001_portrait.jpg"
+                    },
+                    "date": {
+                      "value": "2005"
+                    },
+                    "description": {
+                      "value": "Film 2004-2005"
+                    },
+                    "subtitle": {
+                      "value": "Mira Nair & Aditya Assarat"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0bff5c34-c93a-5526-bfa5-887739881a4c",
+                  "componentName": "IntroductionMP",
+                  "dataSource": "{30D89ED8-305D-5A30-B5B4-B224AB5D7F06}",
+                  "params": {},
+                  "fields": {
+                    "feminized": {
+                      "value": false
+                    },
+                    "mentorImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/rmp_film_2004-2005_mira_nair_mentor_0001.jpg"
+                    },
+                    "text": {
+                      "value": "Signing on for the Rolex mentoring programme, Mira Nair let it be known just what sort of young partner she wanted: &ldquo;Find me a girl from Karballah!&rdquo; Yet Nair chose a boy, or rather, a young man, from Thailand: Aditya Assarat, 33. &ldquo;When we first met in New York,&rdquo; Assarat would later recall, &ldquo;Mira cooked me fish curry and we drank wine and talked about movies until 2 am. A week later, in Bangkok, I got the call from Rolex that she had chosen me as her prot&eacute;g&eacute;.&rdquo;"
+                    },
+                    "author": {
+                      "value": "Matthew Gurewitsch"
+                    },
+                    "mentor": {
+                      "value": "Mira Nair"
+                    },
+                    "mentorImage_alt": {
+                      "value": "Mira Nair"
+                    },
+                    "protege": {
+                      "value": "Aditya Assarat"
+                    },
+                    "protegeImage_alt": {
+                      "value": "Aditya Assarat"
+                    },
+                    "protegeImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/rmp_film_2004-2005_aditya_assarat_protege_0001.jpg"
+                    },
+                    "date": {
+                      "value": "2005"
+                    },
+                    "feminized_mentor": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "c3b24a42-6de2-5d26-9df2-21ef7fe8cc0e",
+                  "componentName": "SimpleText",
+                  "dataSource": "{243DAA6B-476B-5C3B-B5B6-49A1A71060CD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "At work in New York"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In the summer of 2004, with the release of Nair’s sumptuous adaptation of William Thackeray’s classic novel <i>Vanity Fair</i> only weeks away, Assarat visited Mirabai, Nair’s New York-based production company, where he had the rare chance to look over her shoulder as she edited. What does Nair look for from the actors, Assarat asked as the film began to take shape before his eyes. “Energy,” she said. “The actors have to have energy from the start of the scene to the end.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "318673d5-b156-56b6-8d0b-07fc5f12fde2",
+                  "componentName": "Paragraph",
+                  "dataSource": "{F4704AB3-68F9-5E2B-823E-0198AA5914F6}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Assarat’s next close look at Nair in action came in spring 2005, when <i>The Namesake</i> went into production on locations in New York City, with work in Calcutta to follow. When Nair was launching the project – based on Jhumpa Lahiri’s Pulitzer Prize-winning novel – Hollywood had offered her a seven-figure sum to direct the fifth <i>Harry Potter</i> film. One evening in New York when Nair mentioned she wouldn’t be taking a taxi home, it crossed Assarat’s mind to wonder if she wished she had taken the money. Smiling, she answered: “You have to do what you really care about.”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "c9a1d35e-97cd-55ef-ae29-d24794fd44ec",
+                  "componentName": "SimpleVideo",
+                  "dataSource": "{B306E086-439C-5432-8EA3-B0EB3038152C}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/rmp_film_2004-2005_mira_nair_aditya_assarat_posterframe_0001.jpg"
+                    },
+                    "source_description": {
+                      "value": "Mira Nair & Aditya Assarat, Rolex Mentor and Protégé in Film, 2004 - 2005"
+                    },
+                    "isFullWidth": {
+                      "value": true
+                    },
+                    "isHalfBackground": {
+                      "value": true
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "next": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "source_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/film/2004-2005/mira-nair-and-aditya-assarat/mira-nair-and-aditya-assarat_video_0001_1.mp4"
+                    },
+                    "source_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "b0f8d27c-b5c8-59db-9b00-af16a5cad7e3",
+                  "componentName": "SimpleText",
+                  "dataSource": "{F1762881-21CF-52B2-8CCC-31EC5A9E2CAA}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Country life"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "One day, <i>The Namesake</i> production went out to Oyster Bay, Long Island. The shots – only three or four pages of dialogue, a fairly normal daily quota – took place in an ample colonial home, situated on a rambling emerald lawn that fell steeply to the sandy waterfront."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4f41b02b-5c46-5af8-a11c-6938ca73209a",
+                  "componentName": "Paragraph",
+                  "dataSource": "{A3A1F9CD-6401-51B4-8CDC-5C0E1F34B8B6}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>In the story, Gogol, the son of Indian immigrants, comes here to meet the parents of his rich girlfriend. Assarat felt he knew why Nair had chosen this specific location. “Among these gorgeous homes, there is a sense that life is out of reach for immigrants,” he wrote in his diary. “We were not born here, and because of that, we will never belong here.”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "fafb5618-9307-59b3-bd5e-27992ca9932f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{04AF5EC5-11E9-56D5-945D-DDD033FD0D4B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Masters at work"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Over the course of the shoot, Assarat varied his routine, sometimes sitting at Nair’s elbow by the monitor as she worked, asking questions or chatting with her during the idle moments, sometimes drifting off to get to know the crew and learn in detail what they do."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "56c63af7-48cd-5b43-b5eb-38e4a698c5c5",
+                  "componentName": "Paragraph",
+                  "dataSource": "{7D50435E-4415-5B03-96D6-112FB0A98899}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>“The film crews in America are absolute masters,” Assarat says. “In Thailand, every person on a shoot will do lots of different jobs, but none at this level. Each person is a top master at a highly specialised craft.”</p><p>One memorable day on the Calcutta shoot, Nair was filming in the bedlam of a bustling train station. Making his way through, Assarat observed guards armed with rifles, who were keeping the crowds in check; background extras taking direction from Nair’s assistants; the producer, who was trying to appease an angry station manager not previously informed that the film crew would be closing down the middle of the station.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "275b1281-bbdc-585a-8006-dcd894d577ee",
+                  "componentName": "SimpleText",
+                  "dataSource": "{1C3015D6-0FEB-575A-8658-6E00338B5886}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Cool head in a crisis"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>And where was Nair? Off in the empty train, calmly discussing the next shot with her cinematographer. &ldquo;She trusts her crew to handle problems for her so she can focus on directing,&rdquo; said Assarat. &ldquo;That is good management.&rdquo;</p>\n<p><em>Extracted from a chapter, written by Matthew Gurewitsch for Unique Voices, Common Visions, a record of the 2004/2005 cycle of the Rolex mentoring programme.</em></p>"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "51fcd2b2-5a43-582c-9c31-acf0ea79970f",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "11af3cf1-d73b-4d82-a4a2-78ce2f06ce32",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{2B6657C2-B841-45FA-ACCF-B166339A23F8}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "933b56e4-6140-5d4e-9e2f-bafbdf1f356b",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "literature"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Literary relationship - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Antonio García Ángel thought Mario Vargas Llosa was going to help him write a new novel. In fact, Llosa showed him a whole new way of working."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 54s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2004-2005/literary-relationship/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Literary relationship - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "bdf40ad3-cb16-50a1-8f68-a81e96add59b",
+                            "url": "/Content/Category/Literature",
+                            "fields": {
+                              "name": {
+                                "value": "Literature"
+                              },
+                              "dictionaryKey": {
+                                "value": "literature"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Literary relationship - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2004-2005/literary-relationship/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Literature"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "aca00f80-f5c3-57db-b720-7dadeb4bac24",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "music"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Partnership - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "For both Jessye Norman and her Rolex protégée Susan Platts, singing is an exploration of the words: what they meant to the composer setting them to music, what the fusion of literature and music has manifested and whether the opera stage is the ideal place to sing them."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 50s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/music/2004-2005/partnership/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Partnership - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "79f6df44-0067-5624-8923-912fd56d549c",
+                            "url": "/Content/Category/Music",
+                            "fields": {
+                              "name": {
+                                "value": "Music"
+                              },
+                              "dictionaryKey": {
+                                "value": "music"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Partnership - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/music/2004-2005/partnership/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Music"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "28dba957-9fa7-5292-994c-6cee6049688e",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "theatre"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "New Horizons - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Embarking on the second cycle of the Rolex mentoring programme, Sir Peter Hall had a logical, coherent plan. His agenda for the year included several of his specialties: among them Shakespeare (<i>As You Like It</i>, for the first time in his career), Harold Pinter (a revival of <i>Betrayal</i>, of which he directed the premiere in 1978), and opera (<i>La Cenerentola</i>, the Rossini version of <i>Cinderella</i>)."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 3s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2004-2005/new-horizons/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "New Horizons - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "1b836e23-0097-52e9-9217-7e3db3f66e8b",
+                            "url": "/Content/Category/Theatre",
+                            "fields": {
+                              "name": {
+                                "value": "Theatre"
+                              },
+                              "dictionaryKey": {
+                                "value": "theatre"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": {
+                            "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+                            "url": "/Content/Category/PerformingArts",
+                            "fields": {
+                              "name": {
+                                "value": "Performing Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "performing-arts"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1300"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "New horizons - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2004-2005/new-horizons/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Theatre"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "2ad1012d-ebe8-556a-882f-2366acef2218",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{82730CFE-E00A-518A-8324-BC625AD0B159}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-mentor-protege"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/rolex_org_mentor_and_protege_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Programme"
+                    },
+                    "title": {
+                      "value": "Rolex mentoring programme"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "0af19179-b691-58aa-8ba4-b0704ba4eb78",
+                  "componentName": "Sharing",
+                  "dataSource": "{F08B3100-B601-5562-8E92-CF9E71D82BDB}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "828f3cfa-c430-4fa1-816e-205bcfe0a0ce",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "a37930cb-1c55-4245-a86e-1a1b866b25cb",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

@@ -1,0 +1,1513 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "perpetual",
+        "pageType": "article page",
+        "pageSiteSection": "perpetual",
+        "pageSiteSubSection": "built-to-last",
+        "environmentName": "production",
+        "pageName": "perpetual:built-to-last",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:17:25Z",
+        "dateModified": "2021-10-12T12:49:54Z"
+      }
+    },
+    "route": {
+      "name": "built-to-last",
+      "displayName": "built-to-last",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "built-to-last"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Built to last - Perpetual"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Perpetual. That is the word inscribed on every dial of an Oyster. Today it means so much more than a self-winding watch movement."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 3s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Built to last - Perpetual"
+        },
+        "metadescription": {
+          "value": "Perpetual. That is the word inscribed on every dial of an Oyster. Today it means so much more than a self-winding watch movement."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "perpetual"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+          "url": "/Content/Hub/perpetual",
+          "fields": {
+            "name": {
+              "value": "perpetual"
+            },
+            "dictionaryKey": {
+              "value": "all-perpetual"
+            },
+            "url": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1": {
+          "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+          "url": "/Content/Category/Perpetual",
+          "fields": {
+            "name": {
+              "value": "Perpetual"
+            },
+            "dictionaryKey": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2300"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "1700"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Built to last"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Perpetual"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "d7655ec1-74af-5922-8b13-cfa9e6f1131f",
+      "itemLanguage": "en",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4487ea47-5b62-5938-9978-29e12b0da3eb",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{4D0E3E93-07AF-5258-A396-FCE84658528D}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/home/liz/homepage_rolex_watchmaking_calibre_0001_desktop_optim1.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/home/liz/homepage_rolex_watchmaking_calibre_0001_mobile_optim1.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "100vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/img/home/liz/homepage_rolex_watchmaking_calibre_0001_desktop1.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Built to last"
+                    },
+                    "subtitle": {
+                      "value": "longevity, reliability, continuity"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/perpetual/built-to-last/posterframe-static/20190319_rolex_org_homepage_built_to_last_1920x1080_px.jpg"
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/img/home/liz/homepage_rolex_watchmaking_calibre_0001_mobile1.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "1a7fc378-a0fd-5a89-9537-0ae2d2c604f1",
+                  "componentName": "ArticleHub",
+                  "dataSource": "{64B08E43-5D24-5870-85C6-D76E95C50F6C}",
+                  "params": {},
+                  "fields": {
+                    "anchorText": {
+                      "value": "Read more"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Perpetual. That is the word inscribed on every dial of an Oyster. Today it means so much more than a self-winding watch movement. It is a spirit that is pure Rolex – one that defines our past, shapes our present and directs our future. It is continuous improvement and lasting excellence.</b><br><br>Each watch produced by Rolex reflects more than a century of innovation and refinement in engineering, design and functionality. The spirit of Hans Wilsdorf, founder of Rolex, inspires constant progress. He dedicated his life to creating wristwatches so precise and reliable that explorers depended on them, whether at the top of mountains, on the high seas, in polar ice or in the heat and dust of deserts."
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "verticalAlign": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": false
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/built-to-last/desktop_0002.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/built-to-last/mobile_0002.jpg"
+                    },
+                    "bottomAlign": {
+                      "value": false
+                    },
+                    "dark": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "precover": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e891b576-eca9-5587-b5e4-74896daf4fe5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{A27CAB56-1A74-58A7-923D-C57DF608C341}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/perpetual/built-to-last/desktop_0003.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "73e11a60-f914-55db-8ede-18422252423b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{F5541B66-0E47-5F56-97F4-1AF4A857FB5F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Hans Wilsdorf’s vision was long term, and the advances he led, in design, materials and science, have made his watches, too, Perpetual. In the 21st century, his achievement is upheld in the culture of the company, where his values are safeguarded and the highest standards of excellence permeate every aspect of production. At Rolex, every craftsperson, engineer and scientist is proud to protect and develop the quality for which the brand is known. </b><br /><br /> Today, as we witness the devastating effects of our throwaway culture, Hans Wilsdorf’s vision appears resoundingly modern. With its Perpetual rotor, the Oyster needs no external source of power, winding itself automatically through the gentle action of the wrist. The Oyster Perpetual is a watch for our time – it is built to last and made to keep.<br /><br /> Underneath its tough sapphire glass lies the startling mechanical beauty of the self-winding movement – tiny, tiny elements of hundreds of components produced with exquisite rigour and perfectly composed in their waterproof case. But to keep going, to keep reliable time forever, takes more than scientific prowess. It takes philosophy – a belief that continued improvement and lasting excellence will benefit future generations. This philosophy has driven Rolex to push the boundaries of the possible in every aspect of its work, on and on. In the pursuit of perpetual excellence, nothing is left to chance – from the specialized equipment that the company has developed to produce and test the watches, to the laboratories where research and development is carried out and the ateliers that are continually optimized to enable the highest quality of work. Every watch must be the best it can be. And nothing better illustrates the story of the company’s ambition for perpetual excellence than its technical mastery of waterproofness.<br /><br /> In 1926, Hans Wilsdorf released to the world the Oyster, the world’s first waterproof wristwatch. A little more than 30 years later, in 1960, Rolex expertise sent a timepiece to the bottom of the deepest part of the oceans, the Mariana Trench, on board the <i>Trieste</i>. There have been two such journeys now. The most recent was in 2012 when explorer and film-maker James Cameron descended to the deepest part of the Trench with another experimental watch, the Rolex Deepsea Challenge, attached to a hydraulic arm on his submersible. Just as on the first journey, the watch kept perfect time at almost 11 km down, resisting the pressure of more than 12 tonnes on the crystal, and emerging from the water unscathed."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9a82e31f-937e-519c-8ca4-73fb919085e9",
+                  "componentName": "Roller",
+                  "dataSource": "{9BACE00E-6E73-5323-B94F-5C196BBF679F}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": ""
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "bacf0cba-b24a-531b-a7a3-b86f8a091eb8",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3F79198E-D3E8-5616-8C0B-802AE83ED268}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/roller_0002.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "In 1960, Rolex expertise sent an experimental timepiece, the Deep Sea Special, to the bottom of the deepest part of the oceans, the Mariana Trench, on board the <i>Trieste</i>."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "87b09232-3198-593a-aafb-c488f57973dc",
+                        "componentName": "RollerCard",
+                        "dataSource": "{87C00148-D785-5576-A5BC-BCE59C5CDEFB}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/roller_0001.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "In 2012, explorer and film-maker James Cameron descended to the deepest part of the Trench with another experimental watch, the Rolex Deepsea Challenge, attached to a hydraulic arm on his submersible."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "6053899e-3322-5fc0-aa8b-711d81e87bcc",
+                        "componentName": "RollerCard",
+                        "dataSource": "{A1EB0E75-79E1-5551-B75D-96279471B6E8}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/roller_0003.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "26aec671-6f04-5254-bc96-8a8f4f4b7f9c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{ABF859FE-BB84-553C-AB78-C90451E3CF81}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Rolex has made watches for every realm. Watches for diving, for driving, mountaineering. For flying, yachting and exploration. They have been constantly updated through the years, with new features added, to improve functionality and enhance their wearers’ safety.<br /><br /> Testament to the steady introduction of new inventions, new designs and engineering methods are the more than 500 patents that Rolex has issued over the years. They cover details ranging from inserts in the bezel to the most refined inner workings of the watch. One such refinement is the Chronergy escapement. With its alternating beats producing the unmistakeable ticking of a mechanical watch, it plays a key role in the movement’s measurement of time. It is a triumph of microtechnology whose complex and exacting production process calls on all of Rolex’s vast know-how and ingenuity.<br /><br /> At the same time, new procedures have enhanced the aesthetics of the watches – without, of course, compromising their legendary strength. The GMT-Master II’s red and blue Cerachrom ceramic bezel insert involved years of research and development: it took a combination of complex chemical compounds and a special process to finesse the coloured bezel. After heat treatment, it is so hard that it is virtually scratchproof. <br /><br />There are many other inventions that attest to the excellence of Rolex’s research into materials. Among these are the exclusive Everose gold with its resonant pink hues, and Oystersteel, a unique steel superalloy that has added greater scratch and shock resistance, along with a lustrous sheen after polishing."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dd770c08-0ecd-55a5-8f27-efedc81e1cee",
+                  "componentName": "Quote",
+                  "dataSource": "{D2741713-4C1C-55C4-B382-0851F2ED6E13}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<span>Underneath its tough sapphire glass lies the startling mechanical beauty of the self-winding movement – </span> tiny, tiny elements of hundreds of components produced with exquisite rigour and perfectly composed in their waterproof case."
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "c56e07d8-0a79-59e0-bbd1-fb9f3aea68f5",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{E66C75A1-7A84-5EC7-B757-7FAE0BB72E6C}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/perpetual/built-to-last/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "1b93f410-af51-51ee-a13e-f2832bb26b54",
+                  "componentName": "SimpleText",
+                  "dataSource": "{804AE87A-E85D-5008-BA2D-5F9917BB43B8}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "With all its operations carried out in Switzerland, Rolex is able to maintain complete control over quality. Work takes place over four sites, where the essential components are designed and made. From the casting of the gold to the crafting of the minutest spring and pivot, and from the manufacture of the casings to final assembly, every step of the process is completed in house. What is more, every movement is certified by the Swiss Official Testing Institute (COSC), before being encased. Then, Rolex gives the fully assembled watch stringent tests to see if it merits the label “Superlative Chronometer”, represented by a green seal that comes with every timepiece, accompanied by a worldwide five-year guarantee.<br><br>A Rolex watch is a thing of beauty – a beauty that reaches far beneath its surface into its breathtaking inner world. At a time when few things are guaranteed to last, it is a treasure made to cherish, a reminder of values that we need to uphold and hope to pass on. It belongs to a special universe of excellence that Rolex has created, as a mark of optimism and an investment in the future. It is Perpetual."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "951ffce6-0dea-53e6-b385-2b5d1424db31",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "1268d999-0d94-42d1-969f-93c2da5167ef",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{5D168E0A-E7C1-4CF3-989D-40EEEC515B92}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "7580b1cb-11b6-5ac0-96ad-9ee70c2470d3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "making-history-with-rolex"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Making history with Rolex - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "The story of Rolex is intimately associated with human achievement. Hans Wilsdorf, the company’s founder, saw the mutual benefit of equipping people who were record breakers with an Oyster watch: the first of a long line of athletes and explorers was Mercedes Gleitze, the first British woman to swim the English Channel."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 3s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Making history with Rolex - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "The story of Rolex is intimately associated with human achievement. Hans Wilsdorf, the company’s founder, saw the mutual benefit of equipping people who were record breakers with an Oyster watch: the first of a long line of athletes and explorers was Mercedes Gleitze, the first British woman to swim the English Channel."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1600"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Making history with Rolex"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "59322584-c5eb-5b4b-9e10-5d1d2b919423",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-passion-for-architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "When Rolex constructs or expands its headquarters and production facilities, it brings the same attention to aesthetics and detail as it gives to designing one of its prized chronometers."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": ""
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "metadescription": {
+                            "value": "Read how Rolex's passion for unique, versatile and rational architecture, qualities shared by its timepieces, has always kept it in the forefront of innovation."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2150"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2000"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "7b8c466b-6ff5-55d1-99cf-947f1eb24463",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-stroke-of-genius-in-five-letters"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A stroke of genius in five letters - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "On 2 July 1908, Hans Wilsdorf officially filed and registered Rolex as a brand name in Switzerland – a master stroke that would shape the company’s future."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 13s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/a-stroke-of-genius-in-five-letters/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A stroke of genius in five letters - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "On 2 July 1908, Hans Wilsdorf officially filed and registered Rolex as a brand name in Switzerland – a master stroke that would shape the company’s future."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1900"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A stroke of genius in five letters - Perpetual"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/a-stroke-of-genius-in-five-letters/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "dbbcaf72-9661-535c-86b0-e143ed5854cc",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{36BACF51-D04C-504B-984C-80628A3F086C}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/perpetual"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/rolex_org_perpetual_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Our Founding Spirit"
+                    },
+                    "title": {
+                      "value": "Perpetual"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f9c99a4a-c26b-53c9-a2ab-2d1d85eeecb4",
+                  "componentName": "Sharing",
+                  "dataSource": "{74218749-8236-5EC6-ACCB-359AC899DFB0}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "bdc086b8-c2d8-4ee4-ad3f-b62b8bc8ece8",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "21dc3cbb-140f-4a49-9319-d2e8961257de",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

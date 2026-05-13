@@ -1,0 +1,1467 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "oceans/perpetual",
+        "pageType": "article page",
+        "pageSiteSection": "perpetual",
+        "pageSiteSubSection": "trieste-the-deepest-dive",
+        "environmentName": "production",
+        "pageName": "perpetual:trieste-the-deepest-dive",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://spirit.rolex.cn",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:17:48Z",
+        "dateModified": "2021-10-12T12:49:55Z"
+      }
+    },
+    "route": {
+      "name": "trieste-the-deepest-dive",
+      "displayName": "trieste-the-deepest-dive",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "trieste-the-deepest-dive"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Trieste: The deepest dive"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "In 1960, Jacques Piccard and Don Walsh piloted the <em>Trieste</em> on its plunge to the deepest point on Earth &ndash; a 10,916 metres (35,800-foot) depression called the challenger deep."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 56s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/perpetual/trieste-the-deepest-dive/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Trieste: The deepest dive"
+        },
+        "metadescription": {
+          "value": "In 1960, Jacques Piccard and Don Walsh piloted the Trieste on its plunge to the deepest point on Earth &ndash; a 10,916 metres (35,800-foot) depression called the challenger deep."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "perpetual"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+          "url": "/Content/Hub/perpetual",
+          "fields": {
+            "name": {
+              "value": "perpetual"
+            },
+            "dictionaryKey": {
+              "value": "all-perpetual"
+            },
+            "url": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag1": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2100"
+        },
+        "tag2": {
+          "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+          "url": "/Content/Category/Perpetual",
+          "fields": {
+            "name": {
+              "value": "Perpetual"
+            },
+            "dictionaryKey": {
+              "value": "perpetual"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "1100"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Trieste: The deepest dive"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/perpetual/trieste-the-deepest-dive/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Perpetual"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "723c69ec-f846-50dc-956f-3d3a7a29c451",
+      "itemLanguage": "en",
+      "itemVersion": 6,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "f2832893-07b4-5ab1-8eff-33735eb838f3",
+                  "componentName": "Cover",
+                  "dataSource": "{50D34670-A90D-57CF-809E-1AE4B9F4D8CC}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/perpetual/trieste-the-deepest-dive/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "THE TRIESTE"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/perpetual/trieste-the-deepest-dive/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "description": {
+                      "value": "Two men, a bathyscaphe, and a Rolex."
+                    },
+                    "subtitle": {
+                      "value": "The Deepest Dive"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "35324ae8-9b94-5666-aa14-fd5f90a650ec",
+                  "componentName": "ImageTextBackground",
+                  "dataSource": "{F8919B6C-285A-5D9A-B43C-E763BFEA5B4C}",
+                  "params": {},
+                  "fields": {
+                    "author": {
+                      "value": "by Don Belt"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/perpetual/trieste-the-deepest-dive/desktop_0003.jpg"
+                    },
+                    "legend": {
+                      "value": "<b>Lt. Don Walsh and Jacques Piccard</b> in the cockpit of the bathyscaphe, committed their lives to understanding the world’s oceans and advocating for their protection."
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/trieste-the-deepest-dive/desktop_0002.jpg"
+                    },
+                    "imageFirst": {
+                      "value": false
+                    },
+                    "imageMode": {
+                      "value": "landscape"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In 1960, Jacques Piccard and Don Walsh piloted the <em>Trieste</em> on its plunge to the deepest point on Earth &ndash; a 10,916 metres (35,800 foot) depression called the Challenger Deep."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "07487446-e2e4-55b1-9db8-793caf0c8978",
+                  "componentName": "Paragraph",
+                  "dataSource": "{19F2E209-77ED-59A8-B8C9-2390F83AF613}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>The Philippine Sea was rough on the morning of 23 January 1960, which made launching the U.S. Navy bathyscaphe <em>Trieste</em> into the abyss a challenge.</p>\n<p>\"But once it was under way, the deepest dive in human history was actually a little boring\", says Don Walsh, who as a 28-year-old Navy lieutenant piloted the <em>Trieste</em> together with Swiss oceanographer Jacques Piccard on its nine-hour plunge to the deepest point on Earth &ndash; a 10,916 metres (35,800 foot) depression called the Challenger Deep, some 320 kilometres (200 miles) southwest of Guam in the Mariana Trench. Although, Walsh adds, that boredom was interrupted by \"one moment of pure terror\".</p>\n<p>They were two-thirds of the way to the bottom when a crash rocked the hull of the small, free-diving bathyscaphe. Walsh and Piccard shot each other a glance, and braced themselves for the end. And then &ndash; nothing happened. &ldquo;It was just that one crash, like an explosion, and then nothing,&rdquo; says Walsh.</p>\n<p>They later learned that a Plexiglas exterior window had cracked from the pressure, which they measured at one tonne per square centimetre, nearly 1,000 times that at the surface. The cracked window &ldquo;wasn&rsquo;t life-threatening, at least not immediately&rdquo;, Walsh says with a shrug.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "092c60b3-b3dd-5ab9-a809-3f88036ccb8b",
+                  "componentName": "Roller",
+                  "dataSource": "{4347D4D8-2F31-54A5-B3B3-BBA91A27C196}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Roller Articles"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "b63365cf-5459-5e2d-974f-23f5f87a092d",
+                        "componentName": "RollerCard",
+                        "dataSource": "{78E44FD0-232B-5436-BF38-2E90B0F89449}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>The 1960 Deep Sea Special</b>"
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/roller_0001.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "that went down on the deepest dive was found to be in perfect working order after its legendary expedition to 10,916 metres. To demonstrate the extraordinary efficiency of the watch, Rolex started collaborating with Auguste Piccard, and the <i>Trieste</i> had already dived several times in previous years with earlier versions of the Deep Sea Special affixed to its hull, reaching 1,080, 3,150, 3,700 and finally 7,300 metres before the ultimate challenge was taken up."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "54c23214-875c-5feb-867f-f3b176882e40",
+                        "componentName": "RollerCard",
+                        "dataSource": "{1ACE2E1D-3525-5362-99B0-393B8B34A57B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Since the launch</b>"
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/roller_0005.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "of the first Oyster in 1926, Rolex has shown commitment to developing the timekeeping tools needed by professionals in extreme conditions. The <i>Trieste</i> dive made Rolex watches a part of the collective, professional conscience, and scientists working under water have relied on them ever since."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "bffcd84f-e0ae-57df-a182-fe209c812f18",
+                        "componentName": "RollerCard",
+                        "dataSource": "{BDFDD273-5901-51CB-B9CC-831F054B9AEC}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/roller_0002.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "09f229b7-48fa-5abe-8382-3358f2f3b999",
+                        "componentName": "RollerCard",
+                        "dataSource": "{8372EE7B-3B0C-5FCA-9C56-35E4E456B406}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>This plump bubble</b>"
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/roller_0003.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "is a protective cover for one of the external light projectors fixed on the submersible. This element was adapted from a previous design to allow it to resist the tremendous pressure exerted at such depths – roughly one tonne per square centimetre at the bottom of the Challenger Deep."
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "45572f60-f876-561c-9d79-716bc4905d94",
+                        "componentName": "RollerCard",
+                        "dataSource": "{327EF9CF-CADB-5D20-8081-488B43E341CC}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/perpetual/trieste-the-deepest-dive/roller_0004.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "a6d68ee0-3b66-53e2-97c0-26067697c9df",
+                  "componentName": "SimpleText",
+                  "dataSource": "{909C909F-642C-557E-8570-0CC7B905D012}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Notably, the Rolex Deep Sea Special strapped to the exterior of the <i>Trieste</i> was unfazed. “Happy to announce that your watch works as well at 11,000 metres as it does on the surface,” Piccard later telegraphed to Rolex headquarters in Geneva.<br /><br />The dive of the <i>Trieste</i> was more than a record-setting voyage. With it, Piccard and Walsh opened a scientiﬁc window on the deepest ocean, which until then was widely considered devoid of life. Touching down on the bottom, the pair used mercury vapour lamps to survey their pitch-black surroundings – and were taken aback by what they saw. “By far the most interesting ﬁnd was the flatﬁsh we could see through the porthole lurking on the ocean bed,” Piccard later said. “We were astounded to ﬁnd higher marine life forms down there at all.”<br /><br />“Today scientists are continuing to study a remarkably complex ecosystem in the abyssal depths of the sea, built upon hundreds of species of foraminifera – single-celled, “shelly” organisms that make up more than half of all living matter and comprise the lowest link of the oceanic food chain. In the ooze of the Challenger Deep, scientists found more than 400 species, whose DNA resembles some of the earliest life forms on Earth.<br /><br />Jacques Piccard, who died in 2008, spent the rest of his life exploring the underwater realm that he had pioneered, subsequently building four other mesoscaphes (medium-depth submarines).<br /><br />Don Walsh, the officer in command of the <i>Trieste</i>, went on to captain U.S. Navy submarines and became one of the world’s eminent oceanographers. He also made more than 50 journeys to Earth’s polar regions, and has continued to explore the ocean depths. Like Piccard, he has committed his life to understanding the world’s oceans and advocating for their protection, supported in his efforts by Rolex.<br /><br />Walsh still goes to sea two or three months a year, mainly to share his perspective on the state of the oceans with policy makers and ordinary citizens. He notes with alarm that as threats to the oceans increase – from acidiﬁcation, overﬁshing and loss of oxygen due to global climate change – the resources to study and defend the oceans seem to be in ever-shorter supply."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "478a6c32-d4c7-5e70-a646-90fe6458bfed",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{5331B951-B92A-5225-89D4-EE3A9E4736BD}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/perpetual/trieste-the-deepest-dive/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": "<b>The Deep Sea Special</b> was technically identical to the Oyster, but enhanced with larger features, such as a wider surface of watch glass, allowing it to withstand underwater pressure. The advertisement above underlined the waterproof qualities of the Oyster."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0b7ca295-38fe-5795-8ca2-a2a3a0b4c12b",
+                  "componentName": "Paragraph",
+                  "dataSource": "{ADE5A294-FD3B-5C9B-8027-5FEC78C01985}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>“Right now the planet is in a very unstable situation, with sea levels rising due to climate change and ice melting in the polar regions,” he says. “Sea temperatures and currents are changing, in ways that are poorly understood.”</p><p>“Scientists are doing a lot of good work on the oceans,” he goes on. “The problem is, there’s not nearly enough of it. Oceanography is what I call ‘big science’. It takes ships, infrastructure, and lots of time and resources to properly study these processes in detail. But remember what’s at stake here. Namely, the future of the planet we live on!”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "3fec8053-190f-4048-8c66-0f6831650084",
+                  "componentName": "DirectLink",
+                  "dataSource": "{08DA354D-7881-4456-B878-2D2B58049A48}",
+                  "params": {},
+                  "fields": {
+                    "linkLabel": {
+                      "value": "Watch the video"
+                    },
+                    "link1": {
+                      "value": "/perpetual/video/trieste_the_deepest_dive"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "21833fb0-fbc8-4ceb-a051-6f63cf2b2f6c",
+                  "componentName": "Paragraph",
+                  "dataSource": "{2FA413B7-1902-4FA0-AC49-A24A0B8DB878}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p><i>On 26 March 2012, 52 years after the <i>Trieste</i>, Oscar-winning film-maker and explorer James Cameron descended to Challenger Deep in a specially designed submersible. It was the first solo dive to the deepest part of the oceans. The submersible carried an experimental divers’ watch, the Rolex Deepsea Challenge, on its robotic manipulator arm. The timepiece worked perfectly throughout the dive at extreme pressures.</i></p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "83ed62f9-998a-5dff-896b-8822f1ef1960",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "c4a5bde0-11a5-44ce-9c5c-97810769ee54",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{59DF27C6-48AA-486B-B210-017526A9BFC7}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "d7655ec1-74af-5922-8b13-cfa9e6f1131f",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "built-to-last"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Built to last - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Perpetual. That is the word inscribed on every dial of an Oyster. Today it means so much more than a self-winding watch movement."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 3s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Built to last - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "Perpetual. That is the word inscribed on every dial of an Oyster. Today it means so much more than a self-winding watch movement."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2300"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1700"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Built to last"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/built-to-last/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "7580b1cb-11b6-5ac0-96ad-9ee70c2470d3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "making-history-with-rolex"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Making history with Rolex - Perpetual"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "The story of Rolex is intimately associated with human achievement. Hans Wilsdorf, the company’s founder, saw the mutual benefit of equipping people who were record breakers with an Oyster watch: the first of a long line of athletes and explorers was Mercedes Gleitze, the first British woman to swim the English Channel."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 3s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Making history with Rolex - Perpetual"
+                          },
+                          "metadescription": {
+                            "value": "The story of Rolex is intimately associated with human achievement. Hans Wilsdorf, the company’s founder, saw the mutual benefit of equipping people who were record breakers with an Oyster watch: the first of a long line of athletes and explorers was Mercedes Gleitze, the first British woman to swim the English Channel."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2000"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "1600"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Making history with Rolex"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/perpetual/making-history-with-rolex/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "59322584-c5eb-5b4b-9e10-5d1d2b919423",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-passion-for-architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "When Rolex constructs or expands its headquarters and production facilities, it brings the same attention to aesthetics and detail as it gives to designing one of its prized chronometers."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": ""
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "metadescription": {
+                            "value": "Read how Rolex's passion for unique, versatile and rational architecture, qualities shared by its timepieces, has always kept it in the forefront of innovation."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2150"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2000"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "ababa904-ea1d-5167-a61b-667dc533c2fc",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{36BACF51-D04C-504B-984C-80628A3F086C}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/perpetual"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/perpetual/rolex_org_perpetual_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Our Founding Spirit"
+                    },
+                    "title": {
+                      "value": "Perpetual"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "20c1aaa4-4bd8-5679-8215-32c4b7bb980e",
+                  "componentName": "Sharing",
+                  "dataSource": "{874E7015-FBFA-59A4-A725-E59B291D4F6B}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "756a6d81-4836-48c9-960c-d87873c3a5fe",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "e9a0d55d-2a6f-4371-a4f7-84ae44cdc2e2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

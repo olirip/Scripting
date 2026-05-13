@@ -1,0 +1,2275 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "applied-technology/oceans/milestones",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "applied-technology",
+        "environmentName": "production",
+        "pageName": "rolex-awards:milestones:applied-technology:michel-andre",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/rolex-awards/applied-technology/2021/michel-andre/listening_to_the_earth_michel_andre_video"
+      ],
+      "item": {
+        "datePublished": "2021-04-13T09:48:10Z",
+        "dateModified": "2022-05-17T09:57:58Z"
+      }
+    },
+    "route": {
+      "name": "michel-andre",
+      "displayName": "michel-andre",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "applied-technology"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Awards - Listening to the Earth"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Since designing an underwater system to prevent ships from colliding with whales, bioacoustics pioneer Michel André has expanded his project to create a network of microphones that monitor the planet's myriad sounds and warn of threats to nature."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "5min 18s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/michel-andre/milestones/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex Awards - Listening to the Earth"
+        },
+        "metadescription": {
+          "value": "Michel Andr&eacute;&rsquo;s bioacoustics work has led to a growing network of underwater microphones that aims to protect marine life. Learn more on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": {
+          "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+          "url": "/Content/Category/milestones",
+          "fields": {
+            "name": {
+              "value": "Milestones"
+            },
+            "dictionaryKey": {
+              "value": "milestones"
+            }
+          }
+        },
+        "tag5_ranking": {
+          "value": "5"
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+          "url": "/Content/Category/Applied-Technology",
+          "fields": {
+            "name": {
+              "value": "Applied Technology"
+            },
+            "dictionaryKey": {
+              "value": "applied-technology"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "5"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": "5"
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": {
+          "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+          "url": "/Content/Category/Oceans",
+          "fields": {
+            "name": {
+              "value": "Oceans"
+            },
+            "dictionaryKey": {
+              "value": "oceans"
+            }
+          }
+        },
+        "hub2": {
+          "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+          "url": "/Content/Hub/environment",
+          "fields": {
+            "name": {
+              "value": "environment"
+            },
+            "dictionaryKey": {
+              "value": "all-environment"
+            },
+            "url": {
+              "value": "environment"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+          "url": "/Content/Hub/Minisites/milestones",
+          "fields": {
+            "name": {
+              "value": "milestones"
+            },
+            "dictionaryKey": {
+              "value": "view-milestones"
+            },
+            "url": {
+              "value": "/rolex-awards/milestones"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Listening to the Earth"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/michel-andre/milestones/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Applied Technology"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "dfdb59be-6f9f-4a6a-b945-942265a7f679",
+      "itemLanguage": "en",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "0592fb59-ef5f-57f5-8887-e199ca731b04",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{1E9FAC2F-5674-4A96-BA98-1C43C2350147}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-awards/applied-technology/2021/michel-andre/cover/listening_to_the_earth_Michel_Andre_cover.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-awards/applied-technology/2021/michel-andre/cover/listening_to_the_earth_Michel_Andre_cover_portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_Michel_Andre_cover_1920x900.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Listening to the Earth"
+                    },
+                    "subtitle": {
+                      "value": "Michel André"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_Michel_Andre_cover_750x900.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "769953b8-5405-5fdb-b38f-a01a475889de",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{624992A9-627F-40D2-999F-6762EED49437}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/rolex-awards/applied-technology/2021/michel-andre/listening_to_the_earth_michel_andre_video.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#f8f8f8"
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#f8f8f8"
+                    },
+                    "time": {
+                      "value": "5min 18s"
+                    },
+                    "date": {
+                      "value": "April 2021"
+                    },
+                    "text": {
+                      "value": "<b>Since designing an underwater system to prevent ships from colliding with whales, bioacoustics pioneer Michel André has expanded his project to create a network of microphones that monitor the planet’s myriad sounds and warn of threats to nature.</b>\n<br/><br/>\n\nGirdling the Earth – from the deep oceans, remote rainforests and distant deserts, to the loneliest caverns and icy poles – a growing network of electronic ears listens for signs of trouble."
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_posterframe_1728_950.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "7c2a2913-3f57-553a-9e2b-fead722fd9b1",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7533C653-5FEF-4B27-8F3A-C30585E68626}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>This initiative is the brainchild of French bioacoustics scientist Michel André, who in 2002 received a Rolex Award for Enterprise to design a system to alert ships to the danger of colliding with whales. It has since grown into a listening project that spans the entire planet.</p>\n\n<p>“Humans have lost the capacity to listen to nature and the messages it gives us through sound,” André says. “We now have this unique opportunity to understand what needs to be done so we do not jeopardize the future of our world.”</p>\n\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "e057c296-1fec-4532-be6c-40c7bccea226",
+                  "componentName": "Quote",
+                  "dataSource": "{FFDD8A2E-2250-4E4D-97B3-3BC46583343F}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "We now have this unique opportunity to understand what needs to be done so we do not jeopardize the future of our world."
+                    },
+                    "author": {
+                      "value": "Michel André"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "958f7aab-6660-5c3e-b0bf-52f63d4f5db7",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D13E3326-D421-4A5F-9C1F-FA41D5CAD4D7}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Fascinated as a child with the strange sounds of sea creatures, he has become an international pioneer in the field of bioacoustics – the art and science of listening to life."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2f3b0124-4e71-563f-857d-fa3a161194a8",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{3112F7C5-246A-4EF8-B7CC-B96F67DC09AB}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo01_675_800_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo01_960_1100.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dbbcaf72-9661-535c-86b0-e143ed5854cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{13261C31-465B-4AD0-A09C-A42AB9DE2818}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In the late 1990s, concerned about the increasing collisions between passenger ferries and sperm whales off the Canary Islands, André devised an underwater system to listen for the giant mammals and alert ship captains if one lay in their path. He also discovered the whales were losing their hearing due to the rising tumult of human-generated noise in the oceans – engines, sonar and underwater blasting."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "161600f7-c202-457e-8073-aab5128f74d9",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{1453A04F-4AB6-4E09-8354-50DFD65655F2}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": "listening_to_the_earth_photo02_675_450_portrait.jpg"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo02_675_450_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": "listening_to_the_earth_photo02_1728_1150.jpg"
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo02_1728_1150.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "772f3fa4-29b6-49b7-a9b1-d9f89539212d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D94BF6AE-28CD-4D93-B78F-CEDF58EE50D5}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": true
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "This led to the development of his Listen to the Deep-Ocean Environment (LIDO) project, a worldwide network of deep-sea microphones that listens round the clock to the oceans’ acoustic environment, detecting human noise pollution and differentiating it from the natural sounds of sea life or geological events.\n<br/><br/>\nAndré describes three steps in creating his Earth listening system:<br/><br/>\n– <b>develop sensitive</b>, <b>robust microphones</b> suited to their surroundings, be it the deep sea, a rainforest or a desert;<br/><br/>\n– continually <b>monitor and interpret both natural and human sounds</b> by using artificial intelligence and machine learning;<br/><br/>\n– warn, in real time, of <b>sounds that indicate a threat to nature</b> from human and other sources.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "25c71067-b88c-452c-8225-d052e6e9f0f8",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{D9FD637C-44CD-456E-B477-49F111121B0C}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo03_675_420_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo03_1728_1000.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "028355cc-3dd5-4d0e-8012-6e8de02b64d9",
+                  "componentName": "SimpleText",
+                  "dataSource": "{20B341C8-A096-4E8D-B868-FF298E28F7E1}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Such a system enables André to constantly track threats to nature, including the felling of trees in the Amazon, poaching in Africa or severe industrial noise in the oceans. To provide early warning of trouble, he can also compare the natural sounds of places where there is no human interference with those impacted by our activity. Satellites, he says, can see trees being felled but they cannot detect changes in the life of the forest. Sound can, however."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "561cab7e-79b3-4cf6-9de3-69f0aab68a39",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{B466A4D4-F7C6-4442-BA8C-E6AC4143A156}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo04_675_450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo04_1920_1280.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "67d851c1-ac8c-4a15-9851-2c4e0ef39a06",
+                  "componentName": "SimpleText",
+                  "dataSource": "{CAA6B61E-A729-4312-A2AE-62E36292087F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": true
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": "black"
+                    },
+                    "text": {
+                      "value": "<p>Fresh applications for his listening network have arisen out of André’s collaborations with fellow Laureates of the Rolex Awards for Enterprise. He is working with environmentalist Arun Krishnamurthy to prevent trains from hitting elephants in India, and with Italian caver Francesco Sauro to pioneer the new scientific field of speleo-acoustics, which involves listening to the sounds in some of the world’s deepest and remotest caves.</p>\n\n<p>In the Amazon, a partnership with the team of late conservationist José Márcio Ayres, a fellow 2002 Rolex Awards Laureate, yields data that helps local guardians of the forest – specifically of the Mamirauá Sustainable Development Reserve – monitor the health of its ecosystems. </p>\n\n<p>The Laureates, he says, form a family that shares its challenges and works together to solve them.</p>\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": true
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5173f4d6-41c8-4422-a2ff-11be744576ed",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{74D99B96-0B06-4679-91B2-463060B20631}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo05_675_450_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo05_1728_1050.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c35153dd-9c3f-4564-a7d6-81d26b86c3ff",
+                  "componentName": "SimpleText",
+                  "dataSource": "{7F81F1CB-2802-4A79-9AB2-49473294476F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p>From his Laboratory of Applied Bioacoustics (LAB) at the Technical University of Catalonia in Barcelona, André surveys the world of sounds provided by his spreading network of microphones.</p>\n\n<p>“A few years ago, we were addressing nature in its separate aspects. We were isolating data from the ocean, from the rainforest, from the desert,” he recalls. “Now, thanks to the global network of sensors that are continuously checking the health of nature, we can state what must be done to prevent a threat due to climate change or human activities.</p>\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "77786ca9-1bab-4900-b1e1-5e51456188fb",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{245C0739-58F5-42D5-8D75-E375D977106A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo06_675_900_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo06_1920_2300.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "096baf02-9675-422a-9ca6-405d695f55cc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{46812ADF-20F3-44CD-ACC0-BD2C2220C17B}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "“We can listen to nature from anywhere in the world. From the comfort of our home we can access the sounds of the rainforest in the Amazon, the sounds of the Arctic or Antarctica. We can go to Africa, we can go underwater, we can go anywhere, at the same time.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4eaa1e27-ed69-4517-93e8-395aaa2fff8e",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{78D85555-99D9-407E-B9DF-13A8EDFB596D}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo07_675_800_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_photo07_1728_1150.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "0d1e2e5d-82e4-4911-abc4-7fbef562eeca",
+                  "componentName": "SimpleText",
+                  "dataSource": "{BD097D38-16AC-4D10-BC16-E596C98A7E74}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "André’s global sound monitoring system is a perfect example of what the Rolex Perpetual Planet initiative stands for. “I love the concept of perpetual,” he says. “Nature is perpetual. Nature never ends and I do not think there is an end to our approach with the study of sound."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "fd303c9f-7337-47f2-aabb-25540c168647",
+                  "componentName": "Quote",
+                  "dataSource": "{3A0FF414-A48C-4578-BC07-5A4DA7B3D6F1}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Nature never ends and I do not think there is an end to our approach with the study of sound."
+                    },
+                    "author": {
+                      "value": "Michel André"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "a4a65e90-8923-4d5f-b318-5fb6bda06f1f",
+                  "componentName": "SimpleText",
+                  "dataSource": "{3787AD0B-BCD4-43CD-AFB9-19CEBDEC73AD}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "“We need to listen to nature. Technology has given us this capacity but we need to be aware of our responsibility. We cannot just listen and ignore what is going on. We need to listen and we need to take action for the conservation of the planet.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "055d9e41-8968-4895-979b-282f3bbb7ae8",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{85E2063D-B62A-4F7E-859E-D16D494879ED}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": true
+                    },
+                    "textAlignMobile": {
+                      "value": "center"
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": "center"
+                    },
+                    "link": {
+                      "value": "/rolex-awards/applied-technology/michel-andre"
+                    },
+                    "anchorText": {
+                      "value": "Read the original article"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-awards/michel-andre/milestones/listening_to_the_earth_previous_article_960_540.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "PUBLISHED IN 2002"
+                    },
+                    "title": {
+                      "value": "Ocean noise rings alarm bells"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "ad22536b-0e9d-4d80-ab41-ea7739f6ed04",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "90da9ae3-4f0d-41b2-ab5e-efb843600abf",
+                  "componentName": "VideoPushSlideshow",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "videoPushList": [
+                      {
+                        "uid": "6c19c17c-9422-490e-a0e1-94c9581a3fa5",
+                        "componentName": "VideoPushSlide",
+                        "dataSource": "{56FACCDF-61CE-4FCD-9EB0-CF30DFCECE58}",
+                        "params": {},
+                        "fields": {
+                          "description": {
+                            "value": "Discover Michel André in the BBC documentary <i>Heroes of the Oceans</i>"
+                          },
+                          "desktopVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_desktop_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "desktopVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe.jpg"
+                          },
+                          "mobileVideoBackground": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/2021_pp_hoto_video_loop_mobile_21_8_a_cl_pn_ln.mp4"
+                          },
+                          "ctaExternalUrl": {
+                            "value": ""
+                          },
+                          "ctaLabel": {
+                            "value": "watch-the-video"
+                          },
+                          "ctaUrl": {
+                            "value": "/environment/video/heroes-of-the-oceans"
+                          },
+                          "mobileVideoPoster": {
+                            "value": "/data/media/video/heroes-of-the-oceans/push/push-hoto-posterframe_portrait.jpg"
+                          },
+                          "suptitle": {
+                            "value": "Perpetual planet"
+                          },
+                          "title": {
+                            "value": "Heroes of the Oceans"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "60c54ca8-7446-469c-b3a7-b289e491a9aa",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{1905FFB9-48D4-48F5-AD40-64B38346B597}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "24c9f6ee-0c50-49f6-8e82-43799e1ca9f1",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "environment"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Awards - Stars of the deep"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Little was known about the endangered whale shark, the world’s biggest fish, until Australian marine scientist Brad Norman found a way to identify individual animals using an algorithm developed by NASA."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "5min 59s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/brad-norman/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": ""
+                          },
+                          "metadescription": {
+                            "value": "Little was known about the whale shark until Brad Norman started to study this species to conserve it. Read more about his research on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "5e203beb-7e04-5d17-8922-949e6eeef72b",
+                            "url": "/Content/Category/Environment",
+                            "fields": {
+                              "name": {
+                                "value": "Environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": {
+                            "id": "9b441610-2ac3-55eb-8f17-847b7fb3756a",
+                            "url": "/Content/Category/Oceans",
+                            "fields": {
+                              "name": {
+                                "value": "Oceans"
+                              },
+                              "dictionaryKey": {
+                                "value": "oceans"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Stars of the deep"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/brad-norman/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Environment"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "09359315-6f0c-44b1-ae87-d0a12aefb0b2",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "applied-technology"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Awards - Taking a volcano’s pulse"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Eight hundred million people live in the shadow of fiery death, within striking range of one of Earth’s 500 historically active volcanoes. For Scottish volcanologist Andrew McGonigle, providing timely warning of an impending eruption is a goal that is both humanitarian and scientific."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 2s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/andrew-mcgonigle/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Taking a volcano’s pulse - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Using drone technology to predict volcanic eruptions, Andrew McGonigle’s work is both humanitarian and scientific. Learn more on rolex.org."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "68c92ed8-8301-5014-b669-907d1a53a0ed",
+                            "url": "/Content/Category/Applied-Technology",
+                            "fields": {
+                              "name": {
+                                "value": "Applied Technology"
+                              },
+                              "dictionaryKey": {
+                                "value": "applied-technology"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": "10"
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": {
+                            "id": "da0faa1b-38fc-5d49-8b33-2a2b900e083b",
+                            "url": "/Content/Category/ScienceHealth",
+                            "fields": {
+                              "name": {
+                                "value": "Science and Health"
+                              },
+                              "dictionaryKey": {
+                                "value": "science-health"
+                              }
+                            }
+                          },
+                          "hub2": {
+                            "id": "6ffd5f36-0d63-501f-a917-ce7454004580",
+                            "url": "/Content/Hub/science",
+                            "fields": {
+                              "name": {
+                                "value": "science"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-science"
+                              },
+                              "url": {
+                                "value": "science"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Taking a volcano’s pulse"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/andrew-mcgonigle/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Applied Technology"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "58bfb040-c3e5-4e5a-8480-f1ab7dbd7d99",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "science-health"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Awards - Exploring submarine forests in Patagonia’s fjords"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Discovering new species, never described to science, is just one aspect of the case the intrepid marine biologist Vreni Häussermann puts for the protection of the wild waters of the Patagonian fjords.\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "6min 06s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Exploring submarine forests in Patagonia’s fjords - Rolex Awards"
+                          },
+                          "metadescription": {
+                            "value": "Rolex Award winner and biologist Vreni Häussermann is working to document Patagonia's fjords and protect its marine life. Learn more on rolex.org.\n\n\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-awards"
+                          },
+                          "tag5": {
+                            "id": "620f9693-bc15-4cf8-aaf9-3bbae42d3c33",
+                            "url": "/Content/Category/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "Milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "milestones"
+                              }
+                            }
+                          },
+                          "tag5_ranking": {
+                            "value": "10"
+                          },
+                          "hub": {
+                            "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+                            "url": "/Content/Hub/rolex-awards",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-awards"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-awards"
+                              },
+                              "url": {
+                                "value": "rolex-awards"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "d3816aec-150a-5128-9fe4-c3c78cae0791",
+                            "url": "/Content/Category/Exploration",
+                            "fields": {
+                              "name": {
+                                "value": "Exploration"
+                              },
+                              "dictionaryKey": {
+                                "value": "exploration"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "10"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "0a536fd4-f91c-5a92-94d6-6b4ef06ac8bd",
+                            "url": "/Content/Hub/environment",
+                            "fields": {
+                              "name": {
+                                "value": "environment"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-environment"
+                              },
+                              "url": {
+                                "value": "environment"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "07debb49-500a-4527-9bcb-65a5d1ff3b78",
+                            "url": "/Content/Hub/Minisites/milestones",
+                            "fields": {
+                              "name": {
+                                "value": "milestones"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-milestones"
+                              },
+                              "url": {
+                                "value": "/rolex-awards/milestones"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Exploring submarine forests in Patagonia’s fjords"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-awards/vreni-haussermann/the-next-chapter/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Exploration"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "c5c8a7a2-44c8-4bea-b5c2-8de48f421bd6",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{E3827E99-8484-474E-B1B4-E7BA73E0EE47}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards/milestones"
+                    },
+                    "anchorText": {
+                      "value": "Discover more"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/the-next-chapter/milestones_article_push_1920x1080.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Rolex awards for enterprise"
+                    },
+                    "title": {
+                      "value": "Milestones"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1ba07f2e-81aa-5682-833c-7f4845fbe894",
+                  "componentName": "Sharing",
+                  "dataSource": "{92BA3614-0ADB-435A-A68A-81A3FF18E9F9}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "2c48c86f-7536-4ea2-92d1-5304b8a80af2",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "0189f449-156e-412a-965b-e91e503d6d39",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

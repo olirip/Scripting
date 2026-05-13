@@ -1,0 +1,872 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "der-standard",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "der-standard",
+        "environmentName": "production",
+        "pageName": "partnerships:der-standard:andrew-bastawrous",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2021-06-29T09:23:47Z",
+        "dateModified": "2024-02-26T13:32:28Z"
+      }
+    },
+    "route": {
+      "name": "andrew-bastawrous",
+      "displayName": "andrew-bastawrous",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "der-standard"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Partnerships - An ophtalmologist with a cause"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Ophthalmologist wants to use smartphones to protect impoverished communities from blindness"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 53s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Using smartphones to protect the most vulnerable from blindness"
+        },
+        "metadescription": {
+          "value": "Andrew Bastawrous' project creates a new medical approach and a tool that will enable mass eye tests and improve thousands of lives. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": "1"
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "486604d6-74cf-4945-bf79-b016a3d65506",
+          "url": "/Content/Category/der-standard",
+          "fields": {
+            "name": {
+              "value": "Der Standard"
+            },
+            "dictionaryKey": {
+              "value": "der-standard"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "10"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Using smartphones to protect the most vulnerable from blindness"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Media Partnerships"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "e0798500-9511-4947-887b-1c4aca87a57f",
+      "itemLanguage": "en",
+      "itemVersion": 14,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{CDB24D01-5F67-4208-8448-35DB9B9C1ED1}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_cover_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Using smartphones to protect the most vulnerable from blindness"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/rolex_partners_logo_Der_Standard.svg"
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_cover.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "f02a1963-5e7f-4cd2-b7ba-651d3f7e583d",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{9D57B017-1048-4C53-889B-2C955AFCDE8D}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": ""
+                    },
+                    "gradientStart": {
+                      "value": "#214932"
+                    },
+                    "textColor": {
+                      "value": "#fff"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#5B7C45"
+                    },
+                    "time": {
+                      "value": "2min 58s"
+                    },
+                    "date": {
+                      "value": "January 2021"
+                    },
+                    "text": {
+                      "value": "<b>Many people worldwide do not have access to ophthalmologists and have never taken an eye test, but a new approach enables simple mass screenings.\n</b><br/><br/>\nBy Alois Pumhösel"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_posterframe.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{28E9975B-A33C-48AA-A551-54B2FB862DED}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "As a child, Andrew Bastawrous experienced first-hand what it's like to have a visual impairment go uncorrected. He had problems at school and was socially disadvantaged. At the age of twelve, he received his first pair of glasses and this would drastically change his life. “I went from being an underachieving student to feeling like the world was my oyster,” he remembers. “If I had not received glasses, my life would have taken a completely different turn.” Raised in Great Britain as the son of Egyptian parents, he saw on holidays to his home country how unfairly the chances of receiving this medical help were distributed.\n<br/><br/>\nThese experiences shaped Bastawrous. He became a doctor and ultimately an eye surgeon. In 2011 he had the opportunity to go to Kenya as part of his PhD course – in the service of the local Ministry of Health – to examine how ophthalmology could be organised in this country. Today, ten years later, he directs Peek Vision, a social enterprise that has already given hundreds of thousands of people eye tests in Kenya as well as other countries in Africa and Asia.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4a1df274-f75d-4a7f-9618-2bc1d91878a0",
+                  "componentName": "Quote",
+                  "dataSource": "{3BB4EE5F-C8FF-4D14-9BA2-A37CA517F998}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "If I had not received glasses, my life would have taken a completely different turn."
+                    },
+                    "author": {
+                      "value": "Andrew Bastawrous"
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{6FBDC1C8-B5C5-4DC8-B44B-8E0C07AF8C1A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_square_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_square.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "TextSection",
+                  "dataSource": "{D8736669-4F22-4DA2-99B6-9C3AD1A72BBE}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Easy to operate: Symbols instead of letters"
+                    },
+                    "text": {
+                      "value": "Barely any staff or equipment: This is how Bastawrous describes ophthalmology in rural areas of Kenya. Qualified experts are only found in cities. Entire teams with boards, screens and cameras arrive for treatment tours in rural areas. Bastawrous realised that some villages, despite not having streets or electricity, nevertheless had good mobile coverage. The question for him was therefore: Can an eye test be “recreated” on a smartphone that can also be used by non-professionals?\n<br/><br/>\n“I had a feeling that it was possible,” explains Bastawrous. Some 18 months, and numerous design variations and test procedures later, a version was ready that was right for practical use. “Anyone who can use a smartphone can also use our system,” he emphasises. The application principle behind Peek, the \"Portable Eye Examination Kit”, is very simple. It does not use letters, but symbols with an intuitively comprehensible orientation – the arms of the symbols point in a specific direction. “For us, it's not about the ability to read, but to see,” explains Bastawrous.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{4DC51C75-5D61-4B15-B097-44E088D25E26}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_big_image_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/der-standard/andrew-bastarous/rolex_org_partnerships_der_standard_andrew_bastawrous_big_image.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "TextSection",
+                  "dataSource": "{273E9A40-8F74-4BAE-B9F2-18B6392C0355}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "1,000 people screened per day"
+                    },
+                    "text": {
+                      "value": "The patient sits opposite the smartphone user at a distance measured with a low-tech piece of string and simply points in the direction in which the symbol on the phone points. The tester now only has to translate the gestures from the patient to the phone. If the patient points up, the tester swipes up, if the patient points right, the tester swipes right. Whether the answer is right or wrong is irrelevant to the tester; that is calculated by the algorithm, which also takes into account the light intensity in the room and other aspects.\n<br/><br/>\nIf a visual defect is detected in this manner, the Peek system connects the patient with doctors and hospitals via an automated text message, as well as with teachers, parents or others, who can ensure that treatment eventually takes place.\n<br/><br/>\nPeek currently works with many NGOs that use the system. In the most active programmes, 1,000 people are screened per day. In Kenya, where in one region 400,000 children and adults have already been tested, the programme is to be extended to include the entire national territory. There is also a Peek service aimed at governments and administrations. Statistical examinations of whole populations indicate the need for health services. Bastawrous: “We want to make a quick assessment on the topic of avoidable blindness within a population possible.”"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{1DC98D3A-E1B5-422D-9A2F-29B3EC31EE1D}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>The STANDARD is responsible for the editorial content. Original copy: German</b>"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": "derstandard"
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://www.derstandard.at/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "Der Standard"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "91bf6008-1bba-4bfd-8a5e-34cef1e201c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{D63779ED-669A-54AF-8D1B-DC9D86D747E6}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/environment"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/environment/rolex_org_environment_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetual Planet"
+                    },
+                    "title": {
+                      "value": "Environment"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{C1696412-E877-4ACA-8565-96F0DD030C49}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

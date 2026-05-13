@@ -1,0 +1,1805 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "music/performing-arts",
+        "pageType": "article page",
+        "pageSiteSection": "arts",
+        "pageSiteSubSection": "perpetual-music",
+        "environmentName": "production",
+        "pageName": "arts:perpetual-music",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/arts/perpetual-music/perpetual-music-video"
+      ],
+      "item": {
+        "datePublished": "2020-08-14T13:54:32Z",
+        "dateModified": "2021-10-12T12:49:50Z"
+      }
+    },
+    "route": {
+      "name": "perpetual-music",
+      "displayName": "perpetual-music",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "perpetual-music"
+        },
+        "pageThumbnail_alt": {
+          "value": "Series of concerts breathes life back into musical world"
+        },
+        "pageTitle": {
+          "value": "Perpetual Music - Series of concerts breathes life back into musical world"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Spearheaded by Rolex Testimonees, the “Perpetual Music” initiative not only entertains a global audience, it also provides artists the opportunity to do what they love most – perform and share their gift.\n"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 59s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/arts/perpetual-music/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Perpetual Music - Series of concerts breathes life back into musical world"
+        },
+        "metadescription": {
+          "value": "Perpetual Music: a Rolex initiative that supports the world of music and gives artists  the opportunity to have their art live on. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "arts"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag1": {
+          "id": "79f6df44-0067-5624-8923-912fd56d549c",
+          "url": "/Content/Category/Music",
+          "fields": {
+            "name": {
+              "value": "Music"
+            },
+            "dictionaryKey": {
+              "value": "music"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1000"
+        },
+        "tag2": {
+          "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+          "url": "/Content/Category/PerformingArts",
+          "fields": {
+            "name": {
+              "value": "Performing Arts"
+            },
+            "dictionaryKey": {
+              "value": "performing-arts"
+            }
+          }
+        },
+        "tag2_ranking": {
+          "value": "1000"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Series of concerts breathes life back into musical world"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/arts/perpetual-music/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Arts"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "74dbf916-376e-5faa-954e-89c57be08fe2",
+      "itemLanguage": "en",
+      "itemVersion": 3,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "",
+            "params": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "e542548a-6018-536e-80a2-de67ab8d461d",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{C084F6C3-548B-4CC6-9F1C-51F7FF41E71E}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/arts/perpetual-music/201214_perpetual_music_8s_desk_4mb.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/arts/perpetual-music/201214_perpetual_music_8s_mob_3mb.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/img/arts/perpetual-music/201214_perpetual_music_8s_desk.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Series of concerts breathes life back into musical world"
+                    },
+                    "subtitle": {
+                      "value": "Perpetual Music"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/img/arts/perpetual-music/201214_perpetual_music_8s_mob.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "a0d26b98-be28-5a18-b653-8c6f662701c8",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{2FD6C9A6-BA6A-43EE-A627-A5B0F98CB0FF}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/arts/perpetual-music/perpetual-music-video.mp4"
+                    },
+                    "gradientStart": {
+                      "value": ""
+                    },
+                    "textColor": {
+                      "value": "#000"
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": ""
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Spearheaded by Rolex Testimonees, the “Perpetual Music” initiative not only entertains a global audience, it also provides artists the opportunity to do what they love most – perform and share their gift.</b>\n<br/><br/>\nIf 2020 proved one thing, it was that the need for music in people’s lives goes well beyond its capacity to divert and distract. As the acclaimed Bulgarian soprano Sonya Yoncheva put it: “Culture is as essential to life as the food we eat or the air we breathe. Politicians class opera as entertainment and no longer as something essential – but art is vital.”"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_peraso_part_1_1728x950.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "ddf06fb0-b524-515a-9604-59b085cdcc3b",
+                  "componentName": "TextSection",
+                  "dataSource": "{1717AD1E-8D34-4087-9A65-B6243690D62B}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Perpetual music"
+                    },
+                    "title": {
+                      "value": "Revitalizing the music world"
+                    },
+                    "text": {
+                      "value": "Yoncheva, alongside the world-famous tenors Juan Diego Flórez and Rolando Villazón, and the violinist Renaud Capuçon, were the artists given carte blanche by Rolex to design three “Perpetual Music” concerts that lifted the gloom and revived the musical world.\n<br/><br/>\nIn 2020, the “Perpetual Music” initiative served several purposes.\n<br/><br/>\n\nThe three concerts, held between August 21 and September 3, at the Teatro Rossini, in Pesaro; the Staatsoper Unter den Linden, in Berlin; and at the Palais Garnier of the Opéra national in Paris, and streamed internationally, gave a worldwide audience an opportunity to enjoy music-making of the highest calibre at a time when most concert stages across the globe were empty.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "302d4bf3-8900-4118-806a-17ace46a7386",
+                  "componentName": "Roller",
+                  "dataSource": "{E25C186F-216D-43E9-8E22-6AF6C07089D5}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Roller Articles"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "25f51fc3-fafa-4b18-9d7d-67e436bb791f",
+                        "componentName": "RollerCard",
+                        "dataSource": "{AAC0ADD2-89CD-4DCD-B678-F983E22758C1}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/perpetual-music/perpetual_music_sonya_yoncheva_roller_4_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Sonya Yoncheva</b>"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "57a1ff0b-64b7-484c-b1da-08dd5df1d1a2",
+                        "componentName": "RollerCard",
+                        "dataSource": "{9396DE8D-1FF4-42C4-8C77-5307F9A5DA04}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/perpetual-music/perpetual_music_renaud_capucon_roller_2_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Renaud Capuçon</b>"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "e13c2be5-8d95-4535-8247-aa94c0f10915",
+                        "componentName": "RollerCard",
+                        "dataSource": "{CE87100C-0B00-4193-9BB3-F776D8B125AF}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/perpetual-music/perpetual_music_rolando_villazon_roller_3_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Rolando Villazón</b>"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "ec45295b-805b-40f7-a6b4-40860fcc4066",
+                        "componentName": "RollerCard",
+                        "dataSource": "{8AE2ACA1-AF4A-4C42-A4D3-A63F47964BC3}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/arts/perpetual-music/perpetual_music_juan_diego_florez_roller_4_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": "<b>Juan Diego Flórez</b>"
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "c4e5bb6f-115f-5d25-ac6a-5927dc65f22d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{F1F9A3F6-3B36-5905-AFF2-C0438ECBBC91}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In asking their star soloists to recruit musicians of their choice to perform at the concerts, Rolex also offered a hand of support to more than 100 artists, singers and musicians who had been struggling to survive. As Villazón said in his introduction to his concert (co-curated with Capuçon) at the Garnier: “There are a lot of singers, a lot of musicians, who find themselves without work, and, actually, many of them are looking for other jobs to bring food to their table, not jobs that their vocation is about.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "0886aa9c-5e60-5e69-8be1-9e96673b8194",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{7150E757-1D4F-496B-B351-B9B4DA619331}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_paris_part_2_675x1000_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_paris_part_2_1728x950.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "959a70cc-745d-5812-baaa-4ee88b16f6cc",
+                  "componentName": "TextSection",
+                  "dataSource": "{AD4FE7A3-939E-4647-A022-BC2389B2173F}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Perpetual music"
+                    },
+                    "title": {
+                      "value": "Championing the arts"
+                    },
+                    "text": {
+                      "value": "He stressed that the support was not only financial; it was giving artists a chance to do what they love, which is to be on a stage and perform for an audience. It was no surprise that Rolex had offered a helping hand to the arts at a time of difficulty because Rolex has a long tradition of championing the arts, most notably via its Mentor and Protégé programme that pairs an aspiring artist with an established figure in their field. “Rolex believes in quality and it believes in things that stay with us, and classical music is something that stays with us,” Villazón said. “Rolex puts its heart and soul into backing innovative artistic projects.” Capuçon also emphasized that “the idea of getting together to help young musicians in this very difficult period” was the driving force behind his involvement."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f44a61e3-59e2-48d6-8d59-10e3ebf8f0a6",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{4DFE7EE4-3F05-4E36-8F6C-A78EB439241C}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_paris_scene_675x800_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_paris_scene_960x1150.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "81ed232f-c6d0-59ec-ac97-1379cb3264bc",
+                  "componentName": "SimpleText",
+                  "dataSource": "{312F1191-E31F-5333-936B-3093DBF69036}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "The Paris concert had an eclectic repertoire, from the baroque of Monteverdi to Bach’s solo <i>Cello Suite No 1 in G Major</i>, to Richard Strauss’s <i>Morgen</i> and even George Gershwin’s <i>Summertime</i>. For his concert in Pesaro, on the Adriatic coast of Italy, Flórez concentrated on the works of local boy Rossini, who was born there in 1792. He personally invited a selection of artists who were Rossini specialists, and whom he had either sung with before or met in masterclasses. “The concert was a real means of support for them in this period of Covid-19 when artists were deprived of their audiences and their incomes,” he said. “When Rolex contacted me with their proposal, I immediately thought it was a fabulous idea.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5b3c1544-d706-4e68-b4ac-f70c31ff395e",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{9A71EEF4-DCEE-45B8-B551-BB6D12141289}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_berlin_part_3_675x1100_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_berlin_part_3_1728x950.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "37c90310-f0e4-4217-8820-b6de3d38bfd8",
+                  "componentName": "TextSection",
+                  "dataSource": "{452A1B57-51C6-4E53-8C6D-E6E5924A1E83}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": "Perpetual music"
+                    },
+                    "title": {
+                      "value": "Elevating our lives"
+                    },
+                    "text": {
+                      "value": "Like Villazón and Flórez, Yoncheva is a Rolex Testimonee, and she was equally enthusiastic about the project. Her recital in Berlin showcased 14 singers and instrumentalists in a programme of intimate chamber music that included Handel, Schubert and Bartók. She chose music that she felt would nourish the soul. “We cannot stay at home: we must find ways to keep living our lives,” she said. “I attached great importance to my cooperation with Rolex in organizing the ‘Perpetual Music’ galas. We are enabling artists to come back on stage.”\n<br/><br/>\nThe concerts were performed to small audiences and then made available digitally until the end of the year to hundreds of thousands of people in more than 180 countries through the free streaming service medici.tv.\n"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "080dc181-bd32-429b-9057-6631a7ab56ed",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{2781DFA7-780C-587E-81AC-9165E03C0780}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_berlin_scene_675x450_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/perpetual-music/perpetual_music_berlin_scene_960x640.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "5a6855f7-4455-5944-89b4-d0ec96d397df",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6FAA87A7-BAD0-5A18-BB26-253FC00CF63F}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "For all the artists, the performances were not only a pleasure in themselves, but a chance to reconnect with audiences from whom they had been separated in the strange times of exile from the stage that 2020 brought. By allowing them to sing with an orchestra and perform, finding the full range of their artistry, the “Perpetual Music” concerts of 2020 helped emphasize the way that music is not only an essential element in our daily lives – but a means of elevating and improving it."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "92f7b000-850a-530d-b9d2-69783e2825cb",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "12facbb5-5adc-58ae-8301-02d938156e11",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{767E21ED-EF7D-41D1-ABA7-D510E2959290}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "15c831a2-4cc0-5f33-a4d0-8f7bb8a4f27c",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "theatre"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Robert Lepage & Matías Umpierrez - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Artistic soulmates who refuse to be typecast, Robert Lepage and his protégé Matías Umpierrez borrow from various disciplines to furnish their eclectic, maverick productions."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 45s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2016-2017/robert-lepage_matias-umpierrez/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Robert Lepage & Matías Umpierrez - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": "Artistic soulmates who refuse to be typecast, Robert Lepage and his protégé Matías Umpierrez borrow from various disciplines to furnish their eclectic, maverick productions."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "1b836e23-0097-52e9-9217-7e3db3f66e8b",
+                            "url": "/Content/Category/Theatre",
+                            "fields": {
+                              "name": {
+                                "value": "Theatre"
+                              },
+                              "dictionaryKey": {
+                                "value": "theatre"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": {
+                            "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+                            "url": "/Content/Category/PerformingArts",
+                            "fields": {
+                              "name": {
+                                "value": "Performing Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "performing-arts"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1400"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Men of many parts - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2016-2017/robert-lepage_matias-umpierrez/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Theatre"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "0cd835af-35bf-5752-b1de-f706f2fe776e",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "visual-arts"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Joan Jonas & Thao Nguyen Phan - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Thao Nguyen Phan exhumes the poetry of Vietnam’s forgotten history with paintings and video works. She is inspired by her mentor, New York artist Joan Jonas, to see past the challenges of being an artist in her country."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "5min 8s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/visual-arts/2016-2017/joan-jonas_thao-nguyen-phan/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Joan Jonas & Thao Nguyen Phan - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": "Thao Nguyen Phan exhumes the poetry of Vietnam’s forgotten history with paintings and video works. She is inspired by her mentor, New York artist Joan Jonas, to see past the challenges of being an artist in her country."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "0e5c1e98-a926-5d2c-8eb4-68af189cb7b5",
+                            "url": "/Content/Category/Visual-Arts",
+                            "fields": {
+                              "name": {
+                                "value": "Visual Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "visual-arts"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Recovering the past - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/visual-arts/2016-2017/joan-jonas_thao-nguyen-phan/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Visual Arts"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "64d27531-86d9-5f5b-b928-2dd6fe6772a4",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "David Adjaye & Mariam Issoufou - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "A visit to Mariam Issoufou's native Niger was the turning point in the relationship between her and world-famous Ghanaian-British architect David Adjaye."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 43s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/architecture/2019-2020/mariam-kamara-and-david-adjaye/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "David Adjaye & Mariam Issoufou - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": "Discover the story of Mariam Issoufou under the tutelage of architect Sir David Adjaye as part of the Rolex mentoring programme."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Building Africa in its own image - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/architecture/2019-2020/mariam-kamara-and-david-adjaye/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Architecture"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "c2edb99c-ed02-5499-8364-f773591aee49",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{41909A86-61E3-5A84-97B3-9C248C7C7F7A}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/arts"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/arts/rolex_org_arts_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetuating Culture"
+                    },
+                    "title": {
+                      "value": "Arts"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "cca3e7f7-6290-53a9-ae68-24130f63eaac",
+                  "componentName": "Sharing",
+                  "dataSource": "{9EEB5F49-5B49-506E-8C85-D623AE7B6BE9}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a6d26b31-35ca-4fde-a4f6-195acea8a67f",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "4fda3421-d3d5-472f-a209-2cc43ef5ece2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

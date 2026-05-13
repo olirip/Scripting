@@ -1,0 +1,1565 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "cnn",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "cnn",
+        "environmentName": "production",
+        "pageName": "partnerships:cnn:vreni-haussermann",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/cnn/vreni-haussermann-answering-the-call/vreni-haussermann_1"
+      ],
+      "item": {
+        "datePublished": "2020-11-04T11:57:56Z",
+        "dateModified": "2023-11-30T10:10:36Z"
+      }
+    },
+    "route": {
+      "name": "vreni-haussermann",
+      "displayName": "vreni-haussermann",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "cnn"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Partnerships - Discovering new species in Chilean Patagonia "
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "The wild deep: Discovering new species in Chilean Patagonia — before they go extinct"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "2min 43s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/cnn/vreni-haussermann/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Discovering new species in Chilean Patagonia"
+        },
+        "metadescription": {
+          "value": "Biologist Vreni Häussermann has been exploring and protecting the marine life of Chilean Patagonia for over 20 years. Read more on rolex.org.\n"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+          "url": "/Content/Category/cnn",
+          "fields": {
+            "name": {
+              "value": "CNN"
+            },
+            "dictionaryKey": {
+              "value": "cnn"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "140"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "10"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+          "url": "/Content/Hub/Minisites/cnn",
+          "fields": {
+            "name": {
+              "value": "cnn"
+            },
+            "dictionaryKey": {
+              "value": "view-cnn"
+            },
+            "url": {
+              "value": "/partnerships/cnn"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Discovering new species in Chilean Patagonia"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/cnn/vreni-haussermann/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Media Partnerships"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "10d6a116-3028-4fbe-b639-03cc21cf718c",
+      "itemLanguage": "en",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{FBA2697C-491E-40AB-BE5A-6C1C9C7E27B9}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_cover_750x1140_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Discovering new species in Chilean Patagonia"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/align-left/rolex_partners_logo_CNN_align_left_white.svg"
+                    },
+                    "suptitle": {
+                      "value": "Call to Earth"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_cover_1920x900_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "65c97ce2-8cf2-4f5a-b5be-6e2eeea34615",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{7969C444-7F35-4EAA-A5B1-ECE4DF53EBB6}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/cnn/vreni-haussermann-answering-the-call/vreni-haussermann_1.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#1B1F3E"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#45527C"
+                    },
+                    "time": {
+                      "value": "2min 43s"
+                    },
+                    "date": {
+                      "value": "July 2020"
+                    },
+                    "text": {
+                      "value": "<b>The wild deep: Discovering new species in Chilean Patagonia — before they go extinct.</b><br/>\n(CNN) — On the Pacific fringes of Chile lies a biological haven. Along the Patagonian coast, surrounded by majestic snow-capped mountains, corals live among some of the deepest fjords in the world. New species are being discovered here; there are still areas waiting to be documented. But even as the reefs' secrets reveal themselves, there is trouble in paradise.<br/><br/>\nVideo by Stefanie Blendis; story by Thomas Page"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_posterframe_vreni_haussermann_1920x1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{5A63AF31-5F4E-488C-8741-10097C2446BE}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Chilean-German biologist Vreni Häussermann arrived in Chilean Patagonia in the late 1990s to explore what she calls “one of the last wildernesses on Earth.”\n<br/><br/>\n\nHäussermann was a student at the University of Munich when an exchange program gave her the chance to study for a year in the city of Concepcion, central Chile. For her thesis, she set out on a six-month drive along the country's long coastline with research partner Gunter Forsterra, who is now her husband. They dived frequently along the way, and Häussermann was intrigued by the possibilities of Patagonia. “It was the most beautiful, least known region,” she recalls.\n<br/><br/>\nThe isolated fjords were created by the Pacific inundating deep valleys once carved by glaciers, and the region's coastline is some 80,000 kilometers long — twice the circumference of the Earth. It's the job of a lifetime and a lifetime's work. Fortunately, she and Forsterra, have had a permanent base since 2003 at Huinay Scientific Field Station in Comau Fjord from which to launch their studies.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{899264E5-C136-4D49-8E73-9D5536B91A2E}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_portrait_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_portrait_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{5FA62D84-AC18-4B34-AC7B-619511DC8872}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Together they have discovered more than 100 new species of sea life, including many corals and anemones. But they say the ecosystem has changed profoundly since they began.<br/>\nHäussermann says they witnessed a rapid growth in the number of salmon farms operating at the fjord. Fish feces and uneaten food pellets from the farms act as a fertilizer, according to Forsterra, “changing the nutrient environment in the water dramatically.”<br/>\n“You get algae blooms,” Forsterra explains, “you get a depletion in oxygen in the water.” He says this can have a dramatic impact, changing entire food chains.<br/>\n“We have on one side salmon farming, fishing, shellfish harvesting, but also climate change,” says Häussermann. Landslides from the steep mountainsides covered in temperate rainforest also have an effect, she adds, as does volcanic activity, causing methane and sulfur emissions from underwater crevasses.<br/>\n“All this overlays,” Häussermann explains. “It's really hard to track what is the reason for each change, but we're definitely seeing drastic changes in biodiversity.”<br/>\n“These changes,” she adds, “are definitely too fast to be natural.”\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{965CEF6E-E0A6-4EAB-B57E-7F598AA1D34C}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_big-visual_675x1000_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_big-visual_1728x1290.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a608a167-9e15-49a3-a6d3-7e4a1a4a4505",
+                  "componentName": "SimpleText",
+                  "dataSource": "{0B6E8AFE-9E21-437F-A2DF-9A99B52D01EF}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Chile is the world's second-biggest salmon producer, with exports worth an estimated $5 billion in 2018.<br/>\nEsteban Ramírez is general manager of salmon research at Salmón Chile, an association of producers and suppliers. He told CNN in an email that feces and uneaten pellets from salmon farms are a potential source of nutrients in the water, but argues that in most cases the nutrient increase is localized around the farms.<br/>\nHe added that the industry operates within strict environmental regulations and has implemented technologies to mitigate any negative impacts. He says any impact on biodiversity is “multifactorial,” citing “climate change, pollution and other anthropogenic factors.”<br/>\n“We continually work on prevention, innovation and research to reduce any environmental impact,” he said.\n<br/><br/>\nHäussermann and Forsterra's job has become taxonomy — the discovery and classification of species — against the clock. “(Taxonomy is) a general problem in the world,” she says. “We have many, many more species that haven't been described, compared to the ones that have ... and there will unfortunately be a lot of species that will never be described before they go extinct.”<br/>\n“We are trying to really inventory the region to find what lives here, where does it live, what conditions does it need for life, (and) how are things changing with climate change, Häussermann adds.”\n<br/><br/>\nBelow the water surface there's an abundance to study — and some of the findings could have global interest. As carbon dioxide levels increase in the Earth's atmosphere, the world's oceans are becoming more acidic. Shallow water corals in the fjords already live in conditions as acidic as the world's oceans are predicted to be in 2100. They could offer potential insights into how corals elsewhere may function in the future.\n<br/><br/>\nAmong the finds in the shallows are two new anemones, “Isoparactis fionae” and “Isoparactis fabiani,” named after Häussermann and Forsterra's daughter Fiona and son Fabian. “I think they should represent, for me, that the future generation needs to really care and needs to learn to care about the planet,” says Häussermann.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7fcd6c5c-4aed-4c3f-8758-a187da4c6cc9",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{3487AB7A-630D-4A9A-90E8-AA3037039F03}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_square_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_square_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "SimpleText",
+                  "dataSource": "{D9647250-870D-4595-9605-97DA7F343FD0}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": true
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "To explore the depths, they use a remotely operated vehicle (ROV) that can descend 500 meters. Their “big dream,” says Häussermann, is to use a more advanced ROV to reach the bottom of the 1,300-meter deep Messier Channel south of Comau, which remains largely unexplored. “It would be unbelievable to see what's down there,” she adds.<br/>\nHäussermann and Forsterra provide information to the government, which they say will contribute to Chilean Patagonia's sustainable use and protection. Häussermann says the ecosystem is still “so poorly known” — a factor, she believes, in why its plight is slipping below the radar.<br/>\nOftentimes when she shares photographs of the underwater flora with Chileans, Häussermann says they are surprised this biodiversity is on their doorstep. “This is really the tragedy of the ocean: because even if all the life down there would be wiped out, nobody would see it,” she says. “It's really important to bring these images to the people and show them the beauty.<br/>\n“Only if people understand it, they will like it. And only if they like will they be interested in preserving it.”\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{8189BA0D-D4E3-4C51-BE73-E891FFE8C0C0}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>This article is part of the Call to Earth content series in partnership with CNN.\n</b>\n"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": ""
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://edition.cnn.com/interactive/call-to-earth/#/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "CNN website"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a3903d23-6ffa-49c8-8e6c-2d33b5687d93",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{352F9924-13EC-4B19-A3DA-5727F0D56E54}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_banner_750x500_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/vreni-haussermann/rolex_org_cnn_vreni-hausserman_banner_1920x1080.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "36f3bfa9-7f56-4eac-8a78-57242159162c",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{D339064C-F752-4166-B33B-DA05A15B074E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "67283425-9880-4f91-9c75-52dec01ee2ab",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - Cleaning up India's Lakes"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "From Google to garbage disposal: the environmentalist cleaning up India's lakes\n"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "3min 12s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/arun-krishnamurthy/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Cleaning up India's Lakes"
+                          },
+                          "metadescription": {
+                            "value": "Rolex Laureate Arun Krishnamurthy and his non-profit organisation are helping to tackle India's water problems. Discover how on rolex.org.\n\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "170"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Cleaning up India's Lakes"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/arun-krishnamurthy/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "3cf2f736-70ad-4468-9697-39b6252b405b",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - A century of climate change in Patagonia"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Explorer's mission to photograph a century of climate change in Patagonia"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 6s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/cristian-donoso/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A century of climate change in Patagonia"
+                          },
+                          "metadescription": {
+                            "value": "Chilean Rolex Laureate Cristian Donoso has spent over two decades capturing the impacts of climate change in Patagonia. Learn more on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "150"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A century of climate change in Patagonia"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/cristian-donoso/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "5c0af7e9-da9b-4f36-9eed-5d112713e853",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - On a mission to save dying reefs"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "This marine biologist wants to use the world's toughest corals to save dying reefs"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "1min 43s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/emma-camp/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Toughest corals to save dying reefs"
+                          },
+                          "metadescription": {
+                            "value": "Marine biologist Emma Camp is researching coral conservation and resilience to save reefs degraded by climate change. Learn more on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "160"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Toughest corals to save dying reefs"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/emma-camp/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "91bf6008-1bba-4bfd-8a5e-34cef1e201c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{44B1F742-4216-4F76-BEBC-0EC46CA81DE8}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/partnerships/cnn"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Partnership Series"
+                    },
+                    "title": {
+                      "value": "Call to Earth"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "posterPortrait": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_750x1000_mobile.jpg"
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{62D0BDA4-F39F-4F80-B179-B9076696FC9F}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "edc22296-f32b-4a20-8f0c-edfe8589462c",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

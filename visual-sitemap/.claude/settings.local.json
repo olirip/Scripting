@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.rolex.com)",
+      "Bash(node generate.js:*)",
+      "Bash(node -e \"\nconst {execSync} = require\\(''child_process''\\);\n// Re-run logic inline to inspect depth-1 nodes\nconst fs = require\\(''fs''\\);\nconst html = fs.readFileSync\\(''sitemap.html'', ''utf8''\\);\nconst match = html.match\\(/const NODES = \\(\\\\[[\\\\s\\\\S]*?\\\\]\\);/\\);\nif \\(match\\) {\n  const nodes = JSON.parse\\(match[1]\\);\n  const depth1 = nodes.filter\\(n => n.depth === 1\\);\n  console.log\\(''Top-level sections \\('' + depth1.length + ''\\):''\\);\n  depth1.forEach\\(n => console.log\\(''  -'', n.label, ''\\('' + n.path + ''\\)''\\)\\);\n}\n\")",
+      "Bash(node -e:*)"
+    ]
+  }
+}

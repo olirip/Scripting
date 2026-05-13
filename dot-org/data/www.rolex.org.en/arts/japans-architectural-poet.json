@@ -1,0 +1,1022 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "architecture",
+        "pageType": "article page",
+        "pageSiteSection": "arts",
+        "pageSiteSubSection": "japans-architectural-poet",
+        "environmentName": "production",
+        "pageName": "arts:japans-architectural-poet",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2018-11-29T19:15:04Z",
+        "dateModified": "2021-10-12T12:49:50Z"
+      }
+    },
+    "route": {
+      "name": "japans-architectural-poet",
+      "displayName": "japans-architectural-poet",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "japans-architectural-poet"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Japan’s Architectural Poet - Arts"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Kazuyo Sejima’s elegant minimalism has redefined the public building. Her designs for the undulating Rolex Learning Center and other major buildings have ensured that she has a global following and a busy practice. But she still had time to nurture an emerging architect as part of the Rolex Mentor and Protégé Arts Initiative."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 14s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/arts/japans-architectural-poet/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Japan’s Architectural Poet - Arts"
+        },
+        "metadescription": {
+          "value": "Read about Rolex mentor Kazuyo Sejima, the award-winning architect of the Rolex Learning Center who worked with Yang Zhao on a project to help tsunami victims."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "arts"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag1": {
+          "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+          "url": "/Content/Category/Architecture",
+          "fields": {
+            "name": {
+              "value": "Architecture"
+            },
+            "dictionaryKey": {
+              "value": "architecture"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "2200"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Japan’s Architectural Poet - Arts"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/arts/japans-architectural-poet/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Architecture"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "cf97720d-64de-5627-950e-b5f748d79036",
+      "itemLanguage": "en",
+      "itemVersion": 2,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "ba874749-c6a1-5ac5-9869-f505b55448da",
+                  "componentName": "Cover",
+                  "dataSource": "{FFFC8A26-380F-50F6-B1F4-77531996E249}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/desktop_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "Japan’s Architectural Poet"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/mobile_0001.jpg"
+                    },
+                    "date": {
+                      "value": ""
+                    },
+                    "description": {
+                      "value": ""
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "9094de3d-1bc8-5b2e-971c-d09c802e30a6",
+                  "componentName": "ImageTextBackground",
+                  "dataSource": "{920B54B8-8A71-5DAE-9AC0-A60BF92B8DEC}",
+                  "params": {},
+                  "fields": {
+                    "author": {
+                      "value": "by Naomi Pollock"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "image_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/desktop_0003.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/desktop_0002.jpg"
+                    },
+                    "imageFirst": {
+                      "value": false
+                    },
+                    "imageMode": {
+                      "value": "landscape"
+                    },
+                    "image_alt": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Kazuyo Sejima’s elegant minimalism has redefined the public building. Her designs for the undulating Rolex Learning Center and other major buildings have ensured that she has a global following and a busy practice. But she still had time to nurture an emerging architect as part of the Rolex mentoring programme."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "9d064c90-9de4-5bb0-a8ee-579f7aab236d",
+                  "componentName": "Paragraph",
+                  "dataSource": "{C59F5D6F-410C-56E7-AF64-6D6B6BDCCD92}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Occasionally an architect emerges whose vision is so fresh that it redefines the very essence of the discipline. Kazuyo Sejima is one of those architects. Together with Ryue Nishizawa, she heads up the Tokyo firm SANAA. Paring back excess, the duo does away with walls, slims down structural elements and uses glass liberally. The results are buildings so light and ethereal that they barely seem like buildings at all.</p><p>It is no wonder that the firm’s impressive accomplishments, among them New York’s New Museum of Contemporary Art, Lausanne’s Rolex Learning Center at the Ecole Polytechnique Fédérale and the Louvre-Lens, garner admiration around the globe and landed the pair the Pritzker Architecture Prize in 2010.</p><p>Sejima’s remarkable talents first became evident when she opened her own firm in 1987 after an apprenticeship with the esteemed designer, and 2013 Pritzker Laureate, Toyo Ito. Like young designers globally, Sejima’s first works were residential projects. However, it was the completion in 1991 of the Saishunkan Seiyaku Women’s Dormitory, a cluster of sculptural forms encased in a semi-transparent box, that catapulted her into a bigger arena and immediately caused architecture critics to take note of the soft-spoken but confident designer.</p><p>Since that time, Sejima’s career has been on a straight, upward trajectory. In 1995, she expanded her practice by establishing SANAA with Nishizawa. In addition to their joint firm, which handles mostly large-scale works, Sejima and Nishizawa maintain their own individual practices that focus on modest buildings. “The combined floor areas of my private works are still smaller than a single SANAA project,” says Sejima smiling.</p><p>Today, all three practices occupy a single, cavernous space located on Tokyo’s east side. Though the shed-like building once served as a storage facility for a steel company, today it holds a maze of desks where 40 to 50 designers work on a wide range of projects located in France, China, Israel, the United States and other far-flung places, in addition to Japan. A far cry from the pristine interiors that the designers create, every surface is covered with drawings, material samples and study models in various states of construction and deconstruction – the basic tools of the trade.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "e2fa34b3-54db-54f7-b953-9c04e195d4f0",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{F94B71EA-EF2C-5422-8E67-A91717140637}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/desktop_0004.jpg"
+                    },
+                    "legend": {
+                      "value": "Fluid Architecture: a glass skin softens the divide between the Rolex Learning Center and its surroundings."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "567ed59d-8bb3-5f2f-8872-3440cfcb02ac",
+                  "componentName": "Paragraph",
+                  "dataSource": "{0B1A2A2A-87E7-5CC8-86E1-73AB57FE5B01}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Sejima’s workspace is at the back where it spans the width of the building and looks out at a small river, one of the many that once flowed through Tokyo. Inspired by her view, the architect generates sketches and holds informal meetings at her round desk, while her studio hums with activity in the background. But when she wishes to clear her head, Sejima simply slides open the doors and steps outside.</p><p>Drawn to horizontal space with a strong connection to its surroundings, Sejima not only chooses to work in such a setting, she also creates them for her clients. The 21st Century Museum of Contemporary Art completed by SANAA in 2004 is a case in point. Located in the castle town of Kanazawa, the low-rise museum sits amid a spacious lawn across from Kenrokuen, one of Japan’s finest traditional gardens. Sized to match the small-scale buildings nearby, the museum is encircled with a clear glass wall that minimally separates inside and out. Like a continuation of the urban fabric, the interior contains a collection of individual, box-like galleries connected by a grid of walkways.</p><p>Though it may be rooted in Japanese tradition, SANAA’s merging of architecture and landscape exports easily. Completed in 2010 on the campus of the Ecole Polytechnique Fédérale de Lausanne, the Rolex Learning Center engages in a unique dialogue with its site. Instead of sitting firmly on the ground, the building undulates in response to the topography outside and the functional requirements inside. While a glass skin softens the divide between the study centre and its surroundings, inside there are no walls at all. Instead, outdoor patios and gentle slopes loosely separate libraries, study areas and other functions, yielding a remarkably fluid interior.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "30167e7a-c398-5377-9842-acc77319246a",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{B3F69385-E2A0-5C2A-AA19-F8BEAF61A952}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/arts/japans-architectural-poet/desktop_0005.jpg"
+                    },
+                    "legend": {
+                      "value": "The Rolex Learning Center, at the EPFL (the Ecole Polytechnique Fédérale de Lausanne), was completed in 2010."
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "00cbd375-bf82-5b16-b70a-7f27f264bbe2",
+                  "componentName": "Paragraph",
+                  "dataSource": "{129E2F8B-652B-5767-BD23-65DF64F644FF}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>In 2012, SANAA completed the Louvre-Lens, an outpost of Paris’s most famous museum located north of the French capital. Erected on the grounds of a late 19th-century coalmine, this elegant building is a chain of rectilinear galleries that touch tangentially at their corners. Clad with glass and aluminium, the building exterior reflects the green landscape like an abstract painting, while the exhibition halls defy convention by displaying art on freestanding walls in the centre of each room.</p><p>Shortly after the 2011 earthquake and tsunami Sejima teamed up with a group of architects keen to help those left homeless by the disaster. Intent on improving the conditions at the meagre, temporary housing blocks, they began creating communal Homes-for-All where residents could socialize and sip tea. Located on the island of Miyatojima, Sejima’s contribution was a tiny building with a huge, metal roof. While the enclosed space holds little more than a small kitchen, the vast, covered terrace offers an outdoor room where islanders can congregate and fishermen prepare for the next day’s catch.</p><p>The success of that Home-for-All project inspired Sejima to take on another one, this time under the auspices of the Rolex mentoring programme. In 2013, Sejima mentored an emerging architect, Yang Zhao, from Yunnan Province in China, as he designed a Home-for-All for the town of Kesennuma. “Making something together is better than just talking,” explained Sejima. Situated at the seashore, Zhao’s building is not only serving as an assembly spot for townspeople but also as a marketplace and rest area for local fishermen. The building was opened in October 2013.</p><p>Since then, Sejima has designed or completed several major projects – and done so in characteristically novel ways. Her award-winning Grace Farms centre for the arts, faith, and justice in Connecticut in the US, features a continuous, snaking canopy which flows across an undulating rural site. In 2016, her Sumida Hokusai museum in Tokyo became a home for the iconic art of Katsushika Hokusai, in a monolithic building with a subtly reflective surface.</p><p>Sejima’s latest projects include designs for the NSW Art Gallery in Sydney, and Red Arrow trains for the Japanese manufacturers, Seibu Group. The train carriages’ outer shells will have a mirror-like finish and unusually large curved glass windows.</p><p>Sejima’s minimalist expression has always championed her client’s needs. Whether an expansive museum in a foreign land or a simple gathering place in northern Japan, Sejima creates remarkably usable buildings of unparalleled elegance.</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "a2186de8-d732-5fdd-a197-4d5ea07fcefb",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "21f89884-7cd5-4aef-88bf-f6ff813f7c1b",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{7CD74AE3-7C80-4AF8-90E5-F617E707C7B6}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "59322584-c5eb-5b4b-9e10-5d1d2b919423",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-passion-for-architecture"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "When Rolex constructs or expands its headquarters and production facilities, it brings the same attention to aesthetics and detail as it gives to designing one of its prized chronometers."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": ""
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "metadescription": {
+                            "value": "Read how Rolex's passion for unique, versatile and rational architecture, qualities shared by its timepieces, has always kept it in the forefront of innovation."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "perpetual"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "6a156990-e1ff-5a78-8f74-a3804a8270c8",
+                            "url": "/Content/Hub/perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-perpetual"
+                              },
+                              "url": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2150"
+                          },
+                          "tag2": {
+                            "id": "5aac35af-c43f-5350-8df5-6fbd9a7189ab",
+                            "url": "/Content/Category/Perpetual",
+                            "fields": {
+                              "name": {
+                                "value": "Perpetual"
+                              },
+                              "dictionaryKey": {
+                                "value": "perpetual"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "2000"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A passion for architecture - Arts"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/a-passion-for-architecture/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Perpetual"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "d944abba-dc04-57a9-b649-537cdf30a0a3",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "a-dynamic-tower-for-dallas"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A dynamic tower for Dallas - Arts"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Rolex’s ethos of design and innovation of the highest quality extends to the buildings the company commissions all over the world. In Dallas, Japanese architect Kengo Kuma has designed an office tower that twists out of the ground."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 56s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/arts/a-dynamic-tower-for-dallas/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A dynamic tower for Dallas - Arts"
+                          },
+                          "metadescription": {
+                            "value": "Rolex’s ethos of design and innovation of the highest quality extends to the buildings the company commissions all over the world. In Dallas, Japanese architect Kengo Kuma has designed an office tower that twists out of the ground."
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "arts"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "3ffae34a-278a-5f34-b891-aaff80f4f4b3",
+                            "url": "/Content/Category/Architecture",
+                            "fields": {
+                              "name": {
+                                "value": "Architecture"
+                              },
+                              "dictionaryKey": {
+                                "value": "architecture"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "2100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A dynamic tower for Dallas - Arts"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/arts/a-dynamic-tower-for-dallas/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Architecture"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "ababa904-ea1d-5167-a61b-667dc533c2fc",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{41909A86-61E3-5A84-97B3-9C248C7C7F7A}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/arts"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/arts/rolex_org_arts_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Perpetuating Culture"
+                    },
+                    "title": {
+                      "value": "Arts"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "f821d39b-873b-5740-a1dc-5b4b96fde3b4",
+                  "componentName": "Sharing",
+                  "dataSource": "{8A4E129A-0622-53AD-92D3-C195A8B60744}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "6443ff9e-3c8e-4304-a974-2bf85fe11754",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "eb7f229a-bf31-498e-814b-cbf501cbbafd",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

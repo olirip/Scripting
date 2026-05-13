@@ -1,0 +1,1301 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "film",
+        "pageType": "article page",
+        "pageSiteSection": "rolex-mentor-protege",
+        "pageSiteSubSection": "film",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:film:shared-lenses",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2019-10-18T16:04:19Z",
+        "dateModified": "2024-08-09T13:44:34Z"
+      }
+    },
+    "route": {
+      "name": "shared-lenses",
+      "displayName": "shared-lenses",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "film"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Shared lenses - Rolex mentoring programme"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "On a mellow summer afternoon, Celina Murga sits under a vast, old tree on the grounds of a derelict 19th-century insane asylum outside Medfield, Massachusetts."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "3min 16s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Shared lenses - Rolex mentoring programme"
+        },
+        "metadescription": {
+          "value": ""
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "1600"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Shared lenses - Rolex mentoring programme"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Film"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "c7272d67-7515-5d21-9e66-38b35ef0ef87",
+      "itemLanguage": "en",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "7ccef55b-f3bf-58ed-a022-d5d0b287f9e6",
+                  "componentName": "Cover",
+                  "dataSource": "{AE6EA363-3F89-5F9A-A039-308491BE0D02}",
+                  "params": {},
+                  "fields": {
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/rmp_film_2008-2009_martin_scorsese_celina_murga_cover_0001.jpg"
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "time": {
+                      "value": "00:05min"
+                    },
+                    "title": {
+                      "value": "Shared lenses"
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/rmp_film_2008-2009_martin_scorsese_celina_murga_cover_0001_portrait.jpg"
+                    },
+                    "date": {
+                      "value": "2009"
+                    },
+                    "description": {
+                      "value": "Film 2008-2009"
+                    },
+                    "subtitle": {
+                      "value": "Martin Scorsese & Celina Murga"
+                    },
+                    "addThisId": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "updated": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "aeda030d-92c5-56fc-ae30-cdc4b914c0ce",
+                  "componentName": "IntroductionMP",
+                  "dataSource": "{369D7BB9-E451-5BCF-A783-8D68FCBC6A61}",
+                  "params": {},
+                  "fields": {
+                    "feminized": {
+                      "value": true
+                    },
+                    "mentorImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/rmp_film_2008-2009_martin_scorsese_mentor_0001.jpg"
+                    },
+                    "text": {
+                      "value": "On a mellow summer afternoon, Celina Murga sits under a vast, old tree on the grounds of a derelict 19th-century insane asylum outside Medfield, Massachusetts. She talks about her experience as film protégée to Martin Scorsese. Suddenly the squawks of walkie-talkies bounce across the landscape; moments later a sleek, black town car whizzes by, affording us a glimpse of thick, silver hair through the back window. “Marty,” Murga says happily. “They must be ready to shoot.” Scorsese is filming Shutter Island, based on Dennis Lehane’s best-selling psychological thriller about a U.S. marshal, played by Leonardo DiCaprio, who investigates an isolated hospital for the criminally insane and finds himself trapped in a labyrinth with no exit in sight."
+                    },
+                    "author": {
+                      "value": "Karen Durbin"
+                    },
+                    "mentor": {
+                      "value": "Martin Scorsese"
+                    },
+                    "mentorImage_alt": {
+                      "value": "Martin Scorsese"
+                    },
+                    "protege": {
+                      "value": "Celina Murga"
+                    },
+                    "protegeImage_alt": {
+                      "value": "Celina Murga"
+                    },
+                    "protegeImage_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/rmp_film_2008-2009_celina_murga_protege_0001.jpg"
+                    },
+                    "date": {
+                      "value": "2009"
+                    },
+                    "feminized_mentor": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "4f7e4b2a-8a3a-514f-9ada-7d68bba2030f",
+                  "componentName": "Paragraph",
+                  "dataSource": "{28FD46C5-E6C6-5608-BDE0-E77B0C0C75E5}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>“My films are 180 degrees away from the type of picture Celina makes,” Martin Scorsese says. “With some exceptions — <I>Raging Bull</I> and <I>Goodfellas</I> are two —they’re very direct narratives.” Featuring vivid characters and settings, noisy conflict and sudden eruptions of violence, all of it leavened by inspired flashes of humour, they come at you head on.</p><p>By contrast, Celina Murga is a stealth artist — Scorsese calls her work “oblique” — and in her unobtrusive way, she shares her mentor’s originality. Low-key and deceptively casual, her movies sneak up on their subjects and their audiences, too, until you’re thoroughly hooked.</p><p>Despite their different ways with narrative, Murga cites Scorsese as a key influence when she was in film school in Buenos Aires. Another was independent American director John Cassavetes, whose pictures also influenced Scorsese when he was a student in New York in the 1960s. For all their vivid action, Scorsese’s movies are no less character-driven than Murga’s.</p><p>She has found commonalities with her mentor in the course of the <I>Shutter Island</I> shoot, sitting side by side in the director’s tent as he monitors the action on video and confers with his cinematographer between takes. “We both work in this very obsessive way,” she says. “He’s also very concentrated during the take, observing every detail of the image. That’s something I really care about as well.”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "86dab1bc-ad4b-55e4-8155-0c2d47693639",
+                  "componentName": "SimpleVideo",
+                  "dataSource": "{B2960327-7B5E-5C63-880A-93999540E5A7}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "poster_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/rmp_film_2008-2009_martin_scorsese_celina_murga_posterframe_0001.jpg"
+                    },
+                    "source_description": {
+                      "value": "Martin Scorsese and Celina Murga, Rolex Mentor and Protégé in Film, 2008 - 2009"
+                    },
+                    "isFullWidth": {
+                      "value": true
+                    },
+                    "isHalfBackground": {
+                      "value": true
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "next": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "source_src": {
+                      "value": "/data/media/video/rolex-mentor-protege/film/2008-2009/martin-scorsese-and-celina-murga/martin-scorsese-and-celina-murga_video_0001.mp4"
+                    },
+                    "source_title": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "999de27e-02f5-5448-82ad-2f286d3728bb",
+                  "componentName": "SimpleText",
+                  "dataSource": "{ACA3654D-4063-52DA-BA99-1227065CA8E6}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "Human at the core"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Scorsese has mentored budding film-makers in the past, but the Rolex protégés are young professionals with substantial accomplishments to point to. “This is another level,” he says. “Celina has made two feature films.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "dbfaa167-6aeb-5c19-878b-edc02d4d3bb8",
+                  "componentName": "Paragraph",
+                  "dataSource": "{5ABEE07C-53B2-5C3A-99D4-F834A9639D61}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Scorsese chose her as his protégée after watching her second film, <I>A Week Alone</I>. A thread of tension, subtle but ominous, runs through the film, gathering strength through unusually forceful details as it builds toward an explosive, dramatic climax.</p><p>“I hadn’t seen <I>Ana</I> [Murga’s first film] yet, but about 40 minutes into <I>A Week Alone</I>, I realize I’m caring about these young people,” Scorsese says. “I didn’t know how that happened and that’s good. I was fascinated by the small things that reflect the enormity of what they’re going through and what they have yet to encounter in life.”</p><p>In a shooting diary she kept for the French film journal, <I>Les Cahiers du Cinema</I>, Murga calls Scorsese “the iconoclast inside the system”. She might well say the same of herself. It is coincidence that the movie Scorsese is making during their mentoring year is one of his high-profile commercial projects, with a budget to match. He thought it would be interesting and useful for her to witness the central problem of working on such a scale, namely, to keep the massive film-making machinery ticking, while never losing sight of the human story at its core.</p><p>Murga’s diary reads: “Today it’s raining a lot, all day, raining and raining. We talk about filming dreams, nightmares, hallucinations. The realm of reverie. [Scorsese’s] idea is to film them as directly as possible, like they were real…His intention is to convey ambiguity: it must not be easy to clearly distinguish between the realm of the real and the realm of reverie. That, I think, places you more within the point of view of the main character, Teddy. That makes me think that many of [Scorsese’s] films tend to do that, to create deformed realities, which generate the sensation of nightmarish worlds. For many of his characters reality is a nightmare being lived out.”</p><p>With eloquent acuity, that entry makes clear where her film-maker’s heart lies and her mentor’s heart as well, not in the neatly executed plot twists of an ingenious thriller, but in the intimate portrayal of human experience.</p><p>As for the prospect of getting involved with high-tech, big-budget movies, Murga laughs and says: “I don’t imagine myself doing this kind of shooting. In fact, for my next film I'm planning to have a smaller crew than in <I>Una Semana Solos</I> [<I>A Week Alone</I>]. I think it’s good for me to make it simple, more connected to the story I’m trying to tell.”</p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "0131ed33-6f08-5dcc-9b4e-debac6004f7a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{664D0DAC-254A-5BDA-A270-E94041D69D72}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": "<i>Sanctum Sanctorum</i>"
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Scorsese gave Murga two more gifts in their year of working together and they may have been the most valuable of all. He advised her as she produced successive versions of the treatment for her next film, and he invited her to watch as he and his legendary editor, Thelma Schoonmaker, began the months-long process of cutting and shaping <I>Shutter Island</I>. This was an unprecedented act of trust and respect."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "86c241ba-a7ed-5d53-82e9-ca44a0a553b9",
+                  "componentName": "Paragraph",
+                  "dataSource": "{3B505BDC-651D-5DD1-9C52-E5551D1C4237}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<p>Later, when I ask Scorsese why Murga was welcome where others were not, he cites, not for the first time, what he calls her quiet confidence and ability to listen and, above all, to understand.</p><p>As for the treatment for her next movie, it feels like another advance for Murga as a film-maker. Among other things, the story is set in a rougher world, not unlike those in some of Scorsese’s films, and it involves a patricide. Between the first and second drafts, she moved the killing off-screen, a decision Scorsese applauded.</p><p>“It was amazing to see how his mind works,” Murga says. “As he talked, he was ‘editing’ scene after scene. He suggested moving around some sequences and scenes. In the new combination of scenes and images, the film became much more powerful and moving. He was really enthusiastic about the new version and surprised at how much progress I’d made.”</p><p>Pointing out that Murga already has her own way of seeing the world, Scorsese says: “I’m just trying to encourage her vision, to encourage the way she speaks visually. I like other ways of telling stories [that are different from my own]. It gives me hope that I can find a new way of telling a story on film. This is the other thing about a mentor/protégé relationship: The mentor gets as much inspiration as the protégé.”</p><p><I>Extracted from an article written by Karen Durbin for Mentor & Protégé, a magazine documenting the 2008/2009 cycle of the Rolex mentoring programme.</p><p>Karen Durbin is the film critic for the American edition of Elle magazine, and regularly contributes articles on film to the Sunday edition of The New York Times. Her work has appeared in many other publications. Before becoming a film critic, she was editor-in-chief at the Village Voice.</I></p>"
+                    }
+                  }
+                },
+                {
+                  "uid": "94b31f4a-d18b-51b2-955c-217e33748352",
+                  "componentName": "Tags",
+                  "dataSource": "",
+                  "params": {}
+                },
+                {
+                  "uid": "a1f6647b-35ef-428b-9bb3-c82ed89d3214",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{FBC54264-E61C-43FB-9133-194871E313F8}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related Articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "89452247-f6cc-5585-b583-cd7d4365bf75",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "literature"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Travellers - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "A young mother, beginning her career as a novelist in Australia, and a renowned Nigerian author, often in demand internationally for his opinions and insights, are worlds apart in terms of geography, culture and experience."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 27s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2008-2009/travellers/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Travellers - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "bdf40ad3-cb16-50a1-8f68-a81e96add59b",
+                            "url": "/Content/Category/Literature",
+                            "fields": {
+                              "name": {
+                                "value": "Literature"
+                              },
+                              "dictionaryKey": {
+                                "value": "literature"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Travellers - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/literature/2008-2009/travellers/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Literature"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "164f9a7a-1f72-5721-ae11-b0968f5026cd",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "music"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "A stranger at home - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "The discovery of a world of music totally new to him intrigued the well-known Senegalese musician, Youssou N’Dour, when he chose his protégé Aurelio Martínez, a Garifuna from Honduras."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 14s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/music/2008-2009/a-stranger-at-home/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "A stranger at home - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "79f6df44-0067-5624-8923-912fd56d549c",
+                            "url": "/Content/Category/Music",
+                            "fields": {
+                              "name": {
+                                "value": "Music"
+                              },
+                              "dictionaryKey": {
+                                "value": "music"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": ""
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "A stranger at home - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/music/2008-2009/a-stranger-at-home/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Music"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "b6147f64-ef90-5537-a25b-d73a76f400bf",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "theatre"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "One of a kind - Rolex mentoring programme"
+                          },
+                          "editorChoice": {
+                            "value": false
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "<i>The Wooster Group</i>, based in New York, has made its name with radical interpretations of drama classics, from Shakespeare to Arthur Miller. Through intense and rigorous re-imagining and recreations of texts via close collaboration between its members, The Group is reinventing theatre."
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "4min 24s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2008-2009/one-of-a-kind/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                            "url": "/Content/PageType/article-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "One of a kind - Rolex mentoring programme"
+                          },
+                          "metadescription": {
+                            "value": ""
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "rolex-mentor-protege"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                            "url": "/Content/Hub/rolex-mentor-protege",
+                            "fields": {
+                              "name": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "dictionaryKey": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "url": {
+                                "value": "rolex-mentor-protege"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "1b836e23-0097-52e9-9217-7e3db3f66e8b",
+                            "url": "/Content/Category/Theatre",
+                            "fields": {
+                              "name": {
+                                "value": "Theatre"
+                              },
+                              "dictionaryKey": {
+                                "value": "theatre"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "1600"
+                          },
+                          "tag2": {
+                            "id": "a4b2fddf-2bad-51d7-b3d4-c2993a43f32a",
+                            "url": "/Content/Category/PerformingArts",
+                            "fields": {
+                              "name": {
+                                "value": "Performing Arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "performing-arts"
+                              }
+                            }
+                          },
+                          "tag2_ranking": {
+                            "value": "1200"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": {
+                            "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                            "url": "/Content/Hub/arts",
+                            "fields": {
+                              "name": {
+                                "value": "arts"
+                              },
+                              "dictionaryKey": {
+                                "value": "all-arts"
+                              },
+                              "url": {
+                                "value": "arts"
+                              }
+                            }
+                          },
+                          "tag_video": null,
+                          "hub_minisite": null,
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "One of a kind - Rolex mentoring programme"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/rolex-mentor-protege/theatre/2008-2009/one-of-a-kind/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Theatre"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "dbbcaf72-9661-535c-86b0-e143ed5854cc",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{82730CFE-E00A-518A-8324-BC625AD0B159}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-mentor-protege"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/rolex_org_mentor_and_protege_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Programme"
+                    },
+                    "title": {
+                      "value": "Rolex mentoring programme"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "c2382b8b-ad4c-5fd2-ad2b-c0b219b39648",
+                  "componentName": "Sharing",
+                  "dataSource": "{68184E82-524F-591B-A02F-00F529F0086E}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a56e9679-d57d-496b-a775-afea75c27913",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "c0a23aec-007e-4904-89b5-a331373f606e",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "10fc822b-ab35-42bd-ab1b-8f2e31122090",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

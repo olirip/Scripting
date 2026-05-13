@@ -1,0 +1,1810 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "cnn",
+        "pageType": "partner page",
+        "pageSiteSection": "partnerships",
+        "pageSiteSubSection": "cnn",
+        "environmentName": "production",
+        "pageName": "partnerships:cnn:emma-camp",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [
+        "/data/media/video/cnn/emma-camp-answering-the-call/emma-camp_1"
+      ],
+      "item": {
+        "datePublished": "2020-11-04T09:47:04Z",
+        "dateModified": "2023-02-27T16:57:58Z"
+      }
+    },
+    "route": {
+      "name": "emma-camp",
+      "displayName": "emma-camp",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "cnn"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Partnerships - On a mission to save dying reefs"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "This marine biologist wants to use the world's toughest corals to save dying reefs"
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "1min 43s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/cnn/emma-camp/thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+          "url": "/Content/PageType/partner-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Toughest corals to save dying reefs"
+        },
+        "metadescription": {
+          "value": "Marine biologist Emma Camp is researching coral conservation and resilience to save reefs degraded by climate change. Learn more on rolex.org.\n"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "partnerships"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+          "url": "/Content/Hub/partnerships",
+          "fields": {
+            "name": {
+              "value": "partnerships"
+            },
+            "dictionaryKey": {
+              "value": "partnerships"
+            },
+            "url": {
+              "value": "partnerships"
+            }
+          }
+        },
+        "tag1": {
+          "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+          "url": "/Content/Category/cnn",
+          "fields": {
+            "name": {
+              "value": "CNN"
+            },
+            "dictionaryKey": {
+              "value": "cnn"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "160"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": "10"
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": {
+          "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+          "url": "/Content/Hub/Minisites/cnn",
+          "fields": {
+            "name": {
+              "value": "cnn"
+            },
+            "dictionaryKey": {
+              "value": "view-cnn"
+            },
+            "url": {
+              "value": "/partnerships/cnn"
+            }
+          }
+        },
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Toughest corals to save dying reefs"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/cnn/emma-camp/thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Media Partnerships"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "5c0af7e9-da9b-4f36-9eed-5d112713e853",
+      "itemLanguage": "en",
+      "itemVersion": 9,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "4551150b-bf5b-492b-a10c-97a5c74ee36b",
+                  "componentName": "CoverImage",
+                  "dataSource": "{118B89F0-8835-4A45-A82F-ABFFE2A434C6}",
+                  "params": {},
+                  "fields": {
+                    "logoLabel": {
+                      "value": "by-logo"
+                    },
+                    "portraitImage_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_cover_750x1140_portrait.jpg"
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Toughest corals to save dying reefs"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "logo": {
+                      "value": "/data/media/img/static/partnerships/align-left/rolex_partners_logo_CNN_align_left_white.svg"
+                    },
+                    "suptitle": {
+                      "value": "Call to Earth"
+                    },
+                    "landscapeImage_alt": {
+                      "value": ""
+                    },
+                    "landscapeImage_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_cover_1920x900.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "portraitImage_alt": {
+                      "value": ""
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "65c97ce2-8cf2-4f5a-b5be-6e2eeea34615",
+                  "componentName": "TextVideoGradient",
+                  "dataSource": "{D96747E0-3EC8-4452-9F3D-F3EFD40D6CBB}",
+                  "params": {},
+                  "fields": {
+                    "videoSrc": {
+                      "value": "/data/media/video/cnn/emma-camp-answering-the-call/emma-camp_1.mp4"
+                    },
+                    "gradientStart": {
+                      "value": "#0A1E32"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usVideoSrc": {
+                      "value": ""
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    },
+                    "fullHeight": {
+                      "value": false
+                    },
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "usLogoSrc": {
+                      "value": ""
+                    },
+                    "gradientEnd": {
+                      "value": "#014577"
+                    },
+                    "time": {
+                      "value": "1min 43s"
+                    },
+                    "date": {
+                      "value": "September 2020"
+                    },
+                    "text": {
+                      "value": "<b>This marine biologist wants to use the world's toughest corals to save dying reefs.</b><br/>\n(CNN) — With her scuba mask on, slowly diving beneath the surface of the water, Emma Camp encountered a world she had never experienced before: an underwater city of vivid color.<br/><br/>\nBy Jane Sit, CNN"
+                    },
+                    "videoPoster": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_posterframe_emma_camp_1920x1080.jpg"
+                    },
+                    "logoAlt": {
+                      "value": ""
+                    },
+                    "logoSrc": {
+                      "value": ""
+                    },
+                    "__Presets": [],
+                    "__Facets": [],
+                    "__Enabled Views": [],
+                    "__Quick Actions": [],
+                    "related_videos": []
+                  }
+                },
+                {
+                  "uid": "fbf78c01-096e-4ac4-a4bc-a13281f4754a",
+                  "componentName": "SimpleText",
+                  "dataSource": "{827FAE68-A7E6-4857-85C4-1DEAE5342B0C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "It was the first time she saw a coral reef — as a seven-year-old on holiday with her family in the Bahamas. It was also the moment Camp fell in love with the ocean. “It was just that fascination with this unknown world that really drew me in,” she recalls."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "4110ffe0-6e61-41d2-8868-2c17b95d6ece",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{544429AC-5C82-4BB4-B830-58C9F5968134}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_portrait_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_portrait_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "96ab6fd4-b344-4de0-8f72-7cda5e1aa2c0",
+                  "componentName": "SimpleText",
+                  "dataSource": "{48AFFF7A-9ACF-48F4-8CC3-8DB1F5CD166C}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Now 33, the British-born marine biologist is a leading researcher of coral conservation and resilience at the University of Technology Sydney — fighting to save the marine wonders she was first captivated by as a child.<br/>\nOne of the most biodiverse ecosystems in the world, coral reefs support a quarter of the world's marine life. But scientists fear climate change could wipe out all of Earth's coral reefs by 2100.\n<br/><br/>\nWhile approximately half the world's coral has been lost, Camp believes we can still save what is left.<br/>\nCamp's work involves searching the globe to find the world's toughest and most resilient corals — the species with the best chance of surviving the climate crisis.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "a9cd4c2d-d49b-4131-ba01-7cb5f066a03a",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{AC16F23A-005E-4D7A-817A-CD4B660B508A}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": ""
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_big-visual_675x1000_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_big-visual_1728x1290.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a608a167-9e15-49a3-a6d3-7e4a1a4a4505",
+                  "componentName": "SimpleText",
+                  "dataSource": "{DF9D859B-59B7-46FE-8555-71388237F312}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "She has studied corals growing in mangrove lagoons across the world, including the Caribbean, Seychelles and Indonesia. In 2016, she and her team were the first to find mangrove corals in New Caledonia, in the south Pacific. In 2019, for the first time, they documented similar mangrove corals in their own backyard — on the perimeter of Australia's Great Barrier Reef.<br/>\nMangrove lagoons are shallow bodies of water, found near coasts in the tropics, that are lined by trees and shrubs adapted to grow in salt water."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "c141f55a-4f3e-4822-b613-4bf52f0d9842",
+                  "componentName": "Roller",
+                  "dataSource": "{829B4502-C0EC-49BB-BBD9-95069A7CF532}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Roller Articles"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "5c80d164-dcae-4b6d-8a6d-f5d554f02e63",
+                        "componentName": "RollerCard",
+                        "dataSource": "{3A760F7F-B67F-450B-B403-14B7267041E5}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_roller1_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "d9738c4a-7775-4144-b552-22faddaf285a",
+                        "componentName": "RollerCard",
+                        "dataSource": "{CD5C86BB-AB54-426D-8BF2-65E3A3A0FC3B}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_roller2_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "9a5773d5-bf2e-4b5d-aa5f-b809757cf225",
+                        "componentName": "RollerCard",
+                        "dataSource": "{B8B888DE-0C99-45DD-B9ED-9D58B02D282A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_roller3_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "e9c48b1d-ad69-47bb-bda6-98eaa94e7bd0",
+                        "componentName": "RollerCard",
+                        "dataSource": "{10EACAFA-DA41-4701-B9AD-475579672E17}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": ""
+                          },
+                          "isLink": {
+                            "value": false
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_roller4_1178x825.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": ""
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "81432fb3-da37-4c1f-981f-45e5041d6806",
+                  "componentName": "SimpleText",
+                  "dataSource": "{6867ECA5-5191-4A24-9F84-9422295823A6}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "In the lagoons, “the water's naturally warm, naturally acidic and has low oxygen conditions,” says Camp. On reefs, coral is dying as climate change makes ocean conditions similar, with warmer, more acidic water, and reduced oxygen levels — but in mangrove lagoons, corals thrive. Camp's aim is to identify the special qualities that allow mangrove corals to survive in a hostile environment.<br/>\nCamp and her team collect coral samples from mangrove lagoons, bring them back to her lab in Sydney and conduct DNA analysis to learn more about their genetic make up and how they differ from reef corals.<br/>\nIn Australia, Camp swaps fragments of coral between the mangrove lagoons and the main body of the reef.\n"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7fcd6c5c-4aed-4c3f-8758-a187da4c6cc9",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{0D39B270-C810-47C6-8E6B-772065312F41}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_square_675x675_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "medium"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_square_960x960.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "8403c4d6-04d1-4dfa-ba8e-25e49aaf808c",
+                  "componentName": "SimpleText",
+                  "dataSource": "{AA277FE8-D8DB-4070-B505-412E677E8521}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": true
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Mangrove corals are transplanted onto the reef to test which species can flourish there, she says, while reef corals are moved to the mangrove habitats to assess how they react to a more challenging environment. Camp's aim is to work out if scientists will one day be able to use these resilient corals to replenish areas on the reef degraded by climate change.<br/>\nThe operation is tightly controlled with the coral fragments attached to small frames with cable ties, to prevent them from spreading beyond the test area. This ensures there are no unintended consequences to moving species between different habitats.<br/>\nCamp says she remains an “ocean optimist”, but ultimately, her work is just “buying time” against climate change.<br/><br/>\n“Time is running out and it is urgent,” she says. “If we don't act, these critically important ecosystems... are going to be lost or at least severely degraded to a point where we actually can't go back.”"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "08861fea-3b26-47eb-86f0-e0aca9f95840",
+                  "componentName": "ExtLink",
+                  "dataSource": "{27379324-F173-4F5C-A16B-BEC81E69272B}",
+                  "params": {},
+                  "fields": {
+                    "outlinkName2": {
+                      "value": ""
+                    },
+                    "labelText1": {
+                      "value": "<b>This article is part of the Call to Earth content series in partnership with CNN.\n</b>\n"
+                    },
+                    "labelText3": {
+                      "value": ""
+                    },
+                    "outlinkName1": {
+                      "value": ""
+                    },
+                    "labelText2": {
+                      "value": ""
+                    },
+                    "outlinkName3": {
+                      "value": ""
+                    },
+                    "label2": {
+                      "value": ""
+                    },
+                    "link1": {
+                      "value": "https://edition.cnn.com/interactive/call-to-earth/#/"
+                    },
+                    "link2": {
+                      "value": ""
+                    },
+                    "link3": {
+                      "value": ""
+                    },
+                    "label1": {
+                      "value": "CNN website"
+                    },
+                    "label3": {
+                      "value": ""
+                    },
+                    "iconFirst1": {
+                      "value": true
+                    },
+                    "iconFirst2": {
+                      "value": false
+                    },
+                    "iconFirst3": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a3903d23-6ffa-49c8-8e6c-2d33b5687d93",
+                  "componentName": "SimpleImage",
+                  "dataSource": "{EB541DCC-DF6C-40C6-BED9-A8A4CBD8B12A}",
+                  "params": {},
+                  "fields": {
+                    "imageMobile_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_banner_750x500_portrait.jpg"
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "imageSize": {
+                      "value": "big"
+                    },
+                    "imageSrc_alt": {
+                      "value": ""
+                    },
+                    "imageSrc_src": {
+                      "value": "/data/media/img/cnn/emma-camp/rolex_org_cnn_emma-camp_banner_1920x1080.jpg"
+                    },
+                    "legend": {
+                      "value": ""
+                    },
+                    "imageSrc_src_NotShared": {
+                      "value": ""
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "lightbox": {
+                      "value": true
+                    },
+                    "centerLegend": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7969cd18-e2ff-454a-af56-a4f25d5ff65c",
+                  "componentName": "RelatedItems",
+                  "dataSource": "{7B5B11A4-4803-445C-91B5-4D85610E6F4C}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Related articles"
+                    },
+                    "relatedItems": [
+                      {
+                        "id": "e6201fb0-ffe4-4642-8998-212cac7f1641",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - The app securing Africa's wildlife "
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Indigenous trackers are teaching scientists about wildlife"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 27s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/louis-liebenberg/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "Indigenous trackers"
+                          },
+                          "metadescription": {
+                            "value": "Rolex Laureate Louis Liebenberg developed an app to share animal tracking insights and create better data on biodiversity. Learn more on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "130"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Indigenous trackers"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/louis-liebenberg/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "9e1a841f-992b-4648-9c3d-2a9d54a57940",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - New plastic recycling method"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "Start-up devours pollution with new plastic recycling method"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 11s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/miranda-wang/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "New plastic recycling method"
+                          },
+                          "metadescription": {
+                            "value": "Recycling plastic has been a stop-start endeavor. Rolex Laureate Miranda Wang and her company, BioCellection, want to change that. More on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "100"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "New plastic recycling method"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/miranda-wang/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      },
+                      {
+                        "id": "dbf89cfe-07f7-45e7-b794-8b2fd9950387",
+                        "fields": {
+                          "pageClass": {
+                            "value": ""
+                          },
+                          "excludeFromSearch": {
+                            "value": false
+                          },
+                          "pageSiteSubSection": {
+                            "value": "cnn"
+                          },
+                          "pageThumbnail_alt": {
+                            "value": ""
+                          },
+                          "pageTitle": {
+                            "value": "Rolex Partnerships - New ways of protecting the rainforest"
+                          },
+                          "editorChoice": {
+                            "value": true
+                          },
+                          "menuType": {
+                            "value": false
+                          },
+                          "pageCaption": {
+                            "value": "How old cell phones are spying on illegal loggers"
+                          },
+                          "Video": {
+                            "value": false
+                          },
+                          "displayInGrid": {
+                            "value": true
+                          },
+                          "duration": {
+                            "value": "2min 48s"
+                          },
+                          "isHub": {
+                            "value": false
+                          },
+                          "pageThumbnail_src": {
+                            "value": "/data/media/img/cnn/topher-white/thumbnail.jpg"
+                          },
+                          "pageVersion": {
+                            "value": ""
+                          },
+                          "Slideshow": {
+                            "value": false
+                          },
+                          "pageType": {
+                            "id": "36c7a992-4ee2-4c8c-a18a-eccf67521448",
+                            "url": "/Content/PageType/partner-page",
+                            "fields": {
+                              "name": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "WaPageTitle": {
+                            "value": "New plastic recycling method"
+                          },
+                          "metadescription": {
+                            "value": "Technologist Topher White has found a way to protect rainforests from illegal logging and poaching. Discover how on rolex.org.\n"
+                          },
+                          "backgroundImage": {
+                            "value": ""
+                          },
+                          "backgroundImageMobile": {
+                            "value": ""
+                          },
+                          "backgroundColor": {
+                            "value": ""
+                          },
+                          "pageSiteSection": {
+                            "value": "partnerships"
+                          },
+                          "tag5": null,
+                          "tag5_ranking": {
+                            "value": ""
+                          },
+                          "hub": {
+                            "id": "7ddc4c50-a8ad-404e-ba12-de2c1e5bd9e6",
+                            "url": "/Content/Hub/partnerships",
+                            "fields": {
+                              "name": {
+                                "value": "partnerships"
+                              },
+                              "dictionaryKey": {
+                                "value": "partnerships"
+                              },
+                              "url": {
+                                "value": "partnerships"
+                              }
+                            }
+                          },
+                          "tag1": {
+                            "id": "91f15aec-2a1f-48f0-9f5b-90293c19f80c",
+                            "url": "/Content/Category/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "CNN"
+                              },
+                              "dictionaryKey": {
+                                "value": "cnn"
+                              }
+                            }
+                          },
+                          "tag1_ranking": {
+                            "value": "120"
+                          },
+                          "tag2": null,
+                          "tag2_ranking": {
+                            "value": "10"
+                          },
+                          "tag3": null,
+                          "tag4_ranking": {
+                            "value": ""
+                          },
+                          "tag3_ranking": {
+                            "value": ""
+                          },
+                          "tag4": null,
+                          "hub2": null,
+                          "tag_video": null,
+                          "hub_minisite": {
+                            "id": "7971d2e7-0b76-44f9-9c84-f297889bc116",
+                            "url": "/Content/Hub/Minisites/cnn",
+                            "fields": {
+                              "name": {
+                                "value": "cnn"
+                              },
+                              "dictionaryKey": {
+                                "value": "view-cnn"
+                              },
+                              "url": {
+                                "value": "/partnerships/cnn"
+                              }
+                            }
+                          },
+                          "video_timeToWatch": {
+                            "value": ""
+                          },
+                          "previewTitle": {
+                            "value": "Spying on illegal loggers"
+                          },
+                          "previewImage_src": {
+                            "value": "/data/media/img/cnn/topher-white/thumbnail.jpg"
+                          },
+                          "previewImageCustom_src": {
+                            "value": ""
+                          },
+                          "previewCategory": {
+                            "value": "Media Partnerships"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "customLink": {
+                            "value": ""
+                          },
+                          "isReplay": {
+                            "value": false
+                          },
+                          "isYoutubeStreaming": {
+                            "value": false
+                          },
+                          "gridExternalLinkLabel": {
+                            "value": ""
+                          },
+                          "gridExternalLinkUrl": {
+                            "value": ""
+                          },
+                          "gridExternalLinkWaName": {
+                            "value": ""
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "91bf6008-1bba-4bfd-8a5e-34cef1e201c5",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{44B1F742-4216-4F76-BEBC-0EC46CA81DE8}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/partnerships/cnn"
+                    },
+                    "anchorText": {
+                      "value": "Discover"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Partnership Series"
+                    },
+                    "title": {
+                      "value": "Call to Earth"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_1920x900.jpg"
+                    },
+                    "posterPortrait": {
+                      "value": "/data/media/img/cnn/rolex_org_cnn_partnership_cover_750x1000_mobile.jpg"
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "1f799c2d-f283-439b-bdac-c05e797e636a",
+                  "componentName": "Sharing",
+                  "dataSource": "{42963738-7D8D-4D41-B618-6190486E7FB3}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "7e64dc06-adc1-4eeb-97e3-272c0009f279",
+                  "componentName": "StickyBar",
+                  "dataSource": "",
+                  "params": {}
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

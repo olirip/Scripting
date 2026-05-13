@@ -1,0 +1,934 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "rolex-awards",
+        "pageType": "content page",
+        "pageSiteSection": "rolex-awards",
+        "pageSiteSubSection": "application",
+        "environmentName": "production",
+        "pageName": "rolex-awards:application",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2020-02-13T16:37:05Z",
+        "dateModified": "2022-11-22T09:22:17Z"
+      }
+    },
+    "route": {
+      "name": "application",
+      "displayName": "application",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "application"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex Awards - 2023 Rolex Awards for Enterprise application"
+        },
+        "editorChoice": {
+          "value": false
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "The Rolex Awards identify and invest in exceptional people around the world who are carrying out pioneering projects. Rolex Laureates are of all nationalities and backgrounds. They are united by a talent for independent thinking and the capacity to embrace projects that require creativity and determination in the face of considerable odds."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": false
+        },
+        "duration": {
+          "value": "1min 45s"
+        },
+        "isHub": {
+          "value": true
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-awards/application/2022/rolex_org_rae_application_thumbnail.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "ea3c95c4-0952-4824-a627-ddae6be14661",
+          "url": "/Content/PageType/content-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Rolex Awards - 2023 Rolex Awards for Enterprise application"
+        },
+        "metadescription": {
+          "value": "<span style=\"color: #172b4d; background-color: #ffffff;\">Applications for the 2023 Rolex Awards for Enterprise are now closed. Learn more on rolex.org.</span>"
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "rolex-awards"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "33a8b46c-8006-58cc-a1de-7e2e623debb5",
+          "url": "/Content/Hub/rolex-awards",
+          "fields": {
+            "name": {
+              "value": "rolex-awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            },
+            "url": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1": {
+          "id": "fb78e636-42b6-4613-b6dc-2ac70f51632a",
+          "url": "/Content/Category/RolexAwards",
+          "fields": {
+            "name": {
+              "value": "Rolex Awards"
+            },
+            "dictionaryKey": {
+              "value": "rolex-awards"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "100"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": null,
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Rolex Awards - 2023 Rolex Awards for Enterprise application"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-awards/application/2022/rolex_org_rae_application_thumbnail.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Rolex Awards"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "3a315554-883f-5f9d-8200-90e103751a2f",
+      "itemLanguage": "en",
+      "itemVersion": 5,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "6559f53f-420a-56f0-8f26-b33e0733a837",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{F865D73B-E2D2-461D-A7A8-34528266CC33}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/video/rolex-awards/application/rolex_org_awards_2021_application_cover.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/video/rolex-awards/application/rolex_org_awards_2021_application_cover_portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/video/rolex-awards/application/rolex_org_awards_2021_application_cover_posterframe.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "ROLEX AWARDS FOR ENTERPRISE 2023"
+                    },
+                    "subtitle": {
+                      "value": ""
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": "/data/media/video/rolex-awards/application/rolex_org_awards_2021_application_cover_posterframe.jpg"
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/video/rolex-awards/application/rolex_org_awards_2021_application_cover_posterframe_portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "4602cfa0-2765-4501-b84c-1b4b2ec99289",
+                  "componentName": "TextSection",
+                  "dataSource": "{1E3ADBC7-AC52-4444-B1D4-C2C5FC8A0CC6}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<p style=\"font-weight:700;\">The Rolex Awards for Enterprise identify and invest in exceptional people seeking solutions to humankind’s most pressing challenges. These visionary individuals are united by a commitment to improve life and protect our planet. They have in common the ability to embrace projects that require creativity and determination in the face of considerable odds.<p>\n<p>Rolex is seeking innovative projects in the five following areas: science and health; the environment; applied technology; exploration; cultural heritage. The five Laureates will receive substantial funding and worldwide publicity to assist with their projects. They will also be granted access to the Rolex community of Laureates for advice and guidance.</p>"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "a6c79e62-1e2e-4e70-becd-d4a3fb7483a4",
+                  "componentName": "TextSection",
+                  "dataSource": "{D958773F-8D17-5DC1-B510-A714AA5DC4F5}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "HOW TO APPLY"
+                    },
+                    "text": {
+                      "value": "<p>Applications for the 2023 Rolex Awards are now closed.<p>"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "01bb0000-9322-4df4-b81d-58d991c8e2e4",
+                  "componentName": "TextSection",
+                  "dataSource": "{53FB0062-532D-4DDE-B4BF-995AE998E0E2}",
+                  "params": {},
+                  "fields": {
+                    "suptitle": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "ROLEX AWARDS FOR ENTERPRISE"
+                    },
+                    "text": {
+                      "value": "Since 1976, we have encouraged the work of some of the world’s most inspiring individuals, through the Rolex Awards for Enterprise. The 155 Laureates have achieved outstanding feats of discovery, commitment and renewal in the fields of science, exploration, health, the environment and cultural heritage. Their spirit of enterprise makes our world a better place."
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkName": {
+                      "value": ""
+                    },
+                    "isDownload": {
+                      "value": false
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "dfba76ec-13f4-5d9f-a9fa-3f4cbf6fe244",
+                  "componentName": "Roller",
+                  "dataSource": "{9F4A11F8-1FDC-5E45-AE87-0EC156087C4E}",
+                  "params": {},
+                  "fields": {
+                    "title": {
+                      "value": "Roller Articles"
+                    },
+                    "lightbox": {
+                      "value": true
+                    }
+                  },
+                  "placeholders": {
+                    "rollerGrid": [
+                      {
+                        "uid": "69656444-a8fc-5408-82ac-295c5040d967",
+                        "componentName": "RollerCard",
+                        "dataSource": "{2AE0DC87-EFCC-5A50-8A24-ECD2E952405A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Environment</b> - View the projects"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/application/2022/roller/rolex_org_rae_application_roller_1.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": "/rolex-awards#environment"
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "5fa8e216-0000-5d8b-8167-92cf2e36d3bb",
+                        "componentName": "RollerCard",
+                        "dataSource": "{E5208DD4-0C3B-51B1-939F-253C6728DA9A}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Science & Health</b> - View the projects"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/application/2022/roller/rolex_org_rae_application_roller_2.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": "/rolex-awards#science-health"
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "ba5c8a3d-4758-5e69-841a-d079275826b5",
+                        "componentName": "RollerCard",
+                        "dataSource": "{6608401D-4557-5FAE-B53A-D0C4305F1E07}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Exploration</b> - View the projects"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/application/2022/roller/rolex_org_rae_application_roller_3.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": "/rolex-awards#exploration"
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "39d1970a-f05f-552b-83b5-d7ce16027ad7",
+                        "componentName": "RollerCard",
+                        "dataSource": "{848C2F6E-516A-56CD-B58B-EE29FD162058}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Applied technology</b> - View the projects"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/application/2022/roller/rolex_org_rae_application_roller_4.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": "/rolex-awards#applied-technology"
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      },
+                      {
+                        "uid": "474b8ea7-d871-5b4e-8e60-3136a74c1944",
+                        "componentName": "RollerCard",
+                        "dataSource": "{536B4A5C-A485-5963-A222-8054C89E1CBC}",
+                        "params": {},
+                        "fields": {
+                          "logoLabel": {
+                            "value": ""
+                          },
+                          "articleTitle": {
+                            "value": "<b>Cultural heritage</b> - View the projects"
+                          },
+                          "isLink": {
+                            "value": true
+                          },
+                          "rollerImage_src": {
+                            "value": "/data/media/img/rolex-awards/application/2022/roller/rolex_org_rae_application_roller_5.jpg"
+                          },
+                          "legend": {
+                            "value": ""
+                          },
+                          "legendRoller": {
+                            "value": ""
+                          },
+                          "legendSlideshow": {
+                            "value": ""
+                          },
+                          "link": {
+                            "value": "/rolex-awards#cultural-heritage"
+                          },
+                          "rollerImage_alt": {
+                            "value": ""
+                          },
+                          "cardTitle": {
+                            "value": ""
+                          },
+                          "logo": {
+                            "value": ""
+                          },
+                          "linkedAppRoute": null,
+                          "isAnchor": {
+                            "value": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "f3837cfc-8da9-5879-b4b8-852e87d4ad40",
+                  "componentName": "HubBackgroundQuote",
+                  "dataSource": "{8E1DDA9E-602B-5318-85D1-B3D85D39E2F4}",
+                  "params": {},
+                  "fields": {
+                    "fullwidth": {
+                      "value": false
+                    },
+                    "ligthImageBackground": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "align": {
+                      "value": "top"
+                    },
+                    "name": {
+                      "value": ""
+                    },
+                    "rightDirection": {
+                      "value": false
+                    },
+                    "withMargin": {
+                      "value": true
+                    },
+                    "title": {
+                      "value": "The Awards continue to celebrate men and women who share the passion, vision and commitment to make the world a better place, and who embody the belief that anyone can change everything."
+                    },
+                    "backgroundPortrait_alt": {
+                      "value": ""
+                    },
+                    "backgroundPortrait_src": {
+                      "value": "/data/media/img/rolex-awards/application/2022/rolex_org_rae_application_quote_portrait.jpg"
+                    },
+                    "backgroundLandscape_alt": {
+                      "value": ""
+                    },
+                    "backgroundLandscape_src": {
+                      "value": "/data/media/img/rolex-awards/application/2022/rolex_org_rae_application_quote.jpg"
+                    },
+                    "copyright": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": true
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "linkText": {
+                      "value": ""
+                    },
+                    "contentLeft": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "6eebe2ba-b050-56f0-a070-aee74d5eaf9f",
+                  "componentName": "ArticleHubPush",
+                  "dataSource": "{9C1BC512-E771-5F7C-94F2-ADDE2CF6808D}",
+                  "params": {},
+                  "fields": {
+                    "blackColor": {
+                      "value": false
+                    },
+                    "verticalAlignMobile": {
+                      "value": ""
+                    },
+                    "hasMargin": {
+                      "value": false
+                    },
+                    "textAlignMobile": {
+                      "value": ""
+                    },
+                    "horizontalAlignDesktop": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": "/rolex-awards"
+                    },
+                    "anchorText": {
+                      "value": "Discover more"
+                    },
+                    "background_alt": {
+                      "value": ""
+                    },
+                    "background_src": {
+                      "value": "/data/media/img/rolex-awards/rolex_org_rolex_awards_banner.jpg"
+                    },
+                    "contentText": {
+                      "value": ""
+                    },
+                    "suptitle": {
+                      "value": "Programme"
+                    },
+                    "title": {
+                      "value": "Rolex Awards for Enterprise"
+                    },
+                    "videoLandscape": {
+                      "value": ""
+                    },
+                    "posterLandscape": {
+                      "value": ""
+                    },
+                    "posterPortrait": {
+                      "value": ""
+                    },
+                    "videoPortrait": {
+                      "value": ""
+                    },
+                    "isYoutube": {
+                      "value": false
+                    }
+                  }
+                },
+                {
+                  "uid": "047ae53d-9148-4424-9fd0-b201d1be2245",
+                  "componentName": "Sharing",
+                  "dataSource": "{3862F03D-2C6D-403D-AB44-0EB1BB0F3409}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "cf0e5051-cb19-4627-99e6-8a0ec5a0a873",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}

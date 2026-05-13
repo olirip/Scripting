@@ -1,0 +1,2095 @@
+{
+  "sitecore": {
+    "context": {
+      "pageEditing": false,
+      "site": {
+        "name": "rolex-org"
+      },
+      "pageState": "normal",
+      "language": "en",
+      "wa": {
+        "contentTag": "film",
+        "pageType": "article page",
+        "pageSiteSection": "article page",
+        "pageSiteSubSection": "rolex-mentor-protege",
+        "environmentName": "production",
+        "pageName": "rolex-mentor-protege:cinema",
+        "statusCode": "200",
+        "environmentVersion": "1.6.18"
+      },
+      "domain": "https://www.rolex.org",
+      "coveo-api-key": "token",
+      "coveo-domain-analytics": "https://rolexsaproductionh21l80g7.analytics.org.coveo.com/rest/ua",
+      "coveo-domain-platform": "https://rolexsaproductionh21l80g7.org.coveo.com",
+      "coveo-pipeline-search": "coveo-prd-rolex-org-cd-web01-search",
+      "coveo-pipeline-searchhub": "RolexOrgCDXX",
+      "vtts": [],
+      "item": {
+        "datePublished": "2022-03-18T08:58:26Z",
+        "dateModified": "2024-09-09T15:10:57Z"
+      }
+    },
+    "route": {
+      "name": "cinema",
+      "displayName": "cinema",
+      "fields": {
+        "pageClass": {
+          "value": ""
+        },
+        "excludeFromSearch": {
+          "value": false
+        },
+        "pageSiteSubSection": {
+          "value": "rolex-mentor-protege"
+        },
+        "pageThumbnail_alt": {
+          "value": ""
+        },
+        "pageTitle": {
+          "value": "Rolex and cinema - Rolex mentoring programme"
+        },
+        "editorChoice": {
+          "value": true
+        },
+        "menuType": {
+          "value": false
+        },
+        "pageCaption": {
+          "value": "Rolex strongly believes that it is essential for excellence to be passed on, from one generation to the next."
+        },
+        "Video": {
+          "value": false
+        },
+        "displayInGrid": {
+          "value": true
+        },
+        "duration": {
+          "value": "0min 10s"
+        },
+        "isHub": {
+          "value": false
+        },
+        "pageThumbnail_src": {
+          "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover.jpg"
+        },
+        "pageVersion": {
+          "value": ""
+        },
+        "Slideshow": {
+          "value": false
+        },
+        "pageType": {
+          "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+          "url": "/Content/PageType/article-page",
+          "fields": {
+            "name": {
+              "value": ""
+            }
+          }
+        },
+        "WaPageTitle": {
+          "value": "Shaping future generations of film-makers"
+        },
+        "metadescription": {
+          "value": "The Rolex&nbsp;mentoring programme allows emerging talent to explore and create alongside some of the greatest in cinema. More on rolex.org."
+        },
+        "backgroundImage": {
+          "value": ""
+        },
+        "backgroundImageMobile": {
+          "value": ""
+        },
+        "backgroundColor": {
+          "value": ""
+        },
+        "pageSiteSection": {
+          "value": "article page"
+        },
+        "tag5": null,
+        "tag5_ranking": {
+          "value": ""
+        },
+        "hub": {
+          "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+          "url": "/Content/Hub/rolex-mentor-protege",
+          "fields": {
+            "name": {
+              "value": "rolex-mentor-protege"
+            },
+            "dictionaryKey": {
+              "value": "rolex-mentor-protege"
+            },
+            "url": {
+              "value": "rolex-mentor-protege"
+            }
+          }
+        },
+        "tag1": {
+          "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+          "url": "/Content/Category/Film",
+          "fields": {
+            "name": {
+              "value": "Film"
+            },
+            "dictionaryKey": {
+              "value": "film"
+            }
+          }
+        },
+        "tag1_ranking": {
+          "value": "10"
+        },
+        "tag2": null,
+        "tag2_ranking": {
+          "value": ""
+        },
+        "tag3": null,
+        "tag4_ranking": {
+          "value": ""
+        },
+        "tag3_ranking": {
+          "value": ""
+        },
+        "tag4": null,
+        "hub2": {
+          "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+          "url": "/Content/Hub/arts",
+          "fields": {
+            "name": {
+              "value": "arts"
+            },
+            "dictionaryKey": {
+              "value": "all-arts"
+            },
+            "url": {
+              "value": "arts"
+            }
+          }
+        },
+        "tag_video": null,
+        "hub_minisite": null,
+        "video_timeToWatch": {
+          "value": ""
+        },
+        "previewTitle": {
+          "value": "Shaping future generations of film-makers"
+        },
+        "previewImage_src": {
+          "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover.jpg"
+        },
+        "previewImageCustom_src": {
+          "value": ""
+        },
+        "previewCategory": {
+          "value": "Film"
+        },
+        "isLink": {
+          "value": true
+        },
+        "customLink": {
+          "value": ""
+        },
+        "isReplay": {
+          "value": false
+        },
+        "isYoutubeStreaming": {
+          "value": false
+        },
+        "gridExternalLinkLabel": {
+          "value": ""
+        },
+        "gridExternalLinkUrl": {
+          "value": ""
+        },
+        "gridExternalLinkWaName": {
+          "value": ""
+        }
+      },
+      "databaseName": "web01",
+      "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+      "itemId": "5905a29f-6c95-4ef1-918a-66706660615f",
+      "itemLanguage": "en",
+      "itemVersion": 12,
+      "layoutId": "de29a1c6-fd50-5ef3-87fc-9dc20cfd4b2e",
+      "templateId": "b694dda9-f716-56a8-9d1a-b1b2d74f7d82",
+      "templateName": "App Route",
+      "placeholders": {
+        "layout-placeholder": [
+          {
+            "uid": "2b1e11c8-7a11-5fb2-8a0f-067abe81e64a",
+            "componentName": "Layout",
+            "dataSource": "{E9FDCB71-E67B-5CD3-ADC7-634C726F9462}",
+            "params": {},
+            "fields": {},
+            "placeholders": {
+              "jss-main": [
+                {
+                  "uid": "fb8d32d2-096a-4ee6-9cf2-dfcf96071146",
+                  "componentName": "CoverVideo",
+                  "dataSource": "{10EC39BA-2F4A-4418-AECD-DC76A0F46C26}",
+                  "params": {},
+                  "fields": {
+                    "landscapeVideo_title": {
+                      "value": ""
+                    },
+                    "video_src": {
+                      "value": ""
+                    },
+                    "poster_alt": {
+                      "value": ""
+                    },
+                    "landscapeVideo_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover.mp4"
+                    },
+                    "landscapeVideo_description": {
+                      "value": ""
+                    },
+                    "portraitVideo_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover_portrait.mp4"
+                    },
+                    "linkLabel": {
+                      "value": ""
+                    },
+                    "link": {
+                      "value": ""
+                    },
+                    "height": {
+                      "value": "80vh"
+                    },
+                    "landscapePoster_alt": {
+                      "value": ""
+                    },
+                    "landscapePoster_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover.jpg"
+                    },
+                    "video_description": {
+                      "value": ""
+                    },
+                    "title": {
+                      "value": "Shaping future generations of film-makers"
+                    },
+                    "subtitle": {
+                      "value": "Rolex mentoring programme"
+                    },
+                    "sharing": {
+                      "value": false
+                    },
+                    "sharedLink": {
+                      "value": ""
+                    },
+                    "poster_src": {
+                      "value": ""
+                    },
+                    "portraitVideo_title": {
+                      "value": ""
+                    },
+                    "portraitVideo_description": {
+                      "value": ""
+                    },
+                    "video_title": {
+                      "value": ""
+                    },
+                    "portraitPoster_alt": {
+                      "value": ""
+                    },
+                    "portraitPoster_src": {
+                      "value": "/data/media/img/rolex-mentor-protege/cinema/rmp-cinema-cover_portrait.jpg"
+                    }
+                  }
+                },
+                {
+                  "uid": "a65be258-3fdd-4423-a9d0-b3ed273a7b1b",
+                  "componentName": "SimpleText",
+                  "dataSource": "{53E232DE-716C-4B14-B82C-EF48C2B1652A}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "<b>Rolex strongly believes that it is essential for excellence to be passed on, from one generation to the next.</b> So as to ensure the perpetuity of crafts and expertise, the brand has established a programme of artistic mentoring, in which promising young artists can benefit from the guidance and experience of great artists in their field. Over the span of two years, with Rolex’s support, they develop a creative collaboration that often outlasts the duration of the programme."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "90ebf3f7-5dbf-4326-a6c8-2b799a281333",
+                  "componentName": "Quote",
+                  "dataSource": "{D44D08CB-BA9F-4FE5-9BE0-E52BF3BE8A3D}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "Established in 2002 and opened to film in 2004, this artistic mentoring initiative fosters transmission of knowledge through a shared creative journey."
+                    },
+                    "author": {
+                      "value": ""
+                    },
+                    "isQuote": {
+                      "value": false
+                    },
+                    "rightDirection": {
+                      "value": true
+                    }
+                  }
+                },
+                {
+                  "uid": "978cee9d-05cc-44cd-8dbb-d14696b0219d",
+                  "componentName": "SimpleText",
+                  "dataSource": "{B8FD6466-8CF7-4592-BC75-C3FE66819716}",
+                  "params": {},
+                  "fields": {
+                    "noMargin": {
+                      "value": false
+                    },
+                    "borderTop": {
+                      "value": false
+                    },
+                    "isBold": {
+                      "value": false
+                    },
+                    "lettrine": {
+                      "value": false
+                    },
+                    "title": {
+                      "value": ""
+                    },
+                    "titleColor": {
+                      "value": ""
+                    },
+                    "text": {
+                      "value": "Since 2002, nine of the 63 mentor and protégé duos have been in film. Each protégé is a young talent whose work has been scouted widely, including at festivals or from the Oscars® shortlist. The mentors are all filmmaking greats and include the likes of Mira Nair, Stephen Frears, Martin Scorsese, Walter Murch, Zhang Yimou, Alfonso Cuarón, Alejandro G. Iñárritu, Spike Lee and Jia Zhang-Ke."
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "usText": {
+                      "value": ""
+                    },
+                    "blackText": {
+                      "value": false
+                    },
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "removeLine": {
+                      "value": false
+                    },
+                    "backgroundColor": {
+                      "value": ""
+                    }
+                  }
+                },
+                {
+                  "uid": "552605db-766f-412d-a4a8-b399ea163345",
+                  "componentName": "Paragraph",
+                  "dataSource": "{A0E2B65D-DE89-4090-ADF5-E747A2DAF28E}",
+                  "params": {},
+                  "fields": {
+                    "blackBackground": {
+                      "value": false
+                    },
+                    "text": {
+                      "value": "<br/>"
+                    }
+                  }
+                },
+                {
+                  "uid": "5e354d3d-8daf-4027-ade9-d721a45980da",
+                  "componentName": "VideoPlaylistRoller",
+                  "dataSource": "{C02440BF-1FCD-4A0B-BFF6-5100639D4C5C}",
+                  "params": {},
+                  "fields": {
+                    "mainTitle": {
+                      "value": "<b>THE RISING</b> TALENTS OF CINEMA"
+                    },
+                    "linkText": {
+                      "value": "Read the article"
+                    },
+                    "rollerTitle": {
+                      "value": "<b>More</b> projects"
+                    },
+                    "textColor": {
+                      "value": ""
+                    },
+                    "videos": [
+                      {
+                        "id": "da02cc88-e683-4904-8176-221b9fa6f572",
+                        "fields": {
+                          "date": {
+                            "value": "February 20, 2018"
+                          },
+                          "title": {
+                            "value": "Alfonso Cuarón and Chaitanya Tamhane\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/alfonso-cuaron_chaitanya-tamhane_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "For Indian protégé Chaitanya Tamhane, his mentoring year with Academy-award winning film director Alfonso Cuarón was a stroke of fortune. He describes his mentor’s image-based film-making as “like watching magic”. Tamhane says his approach to cinema will never be the same again.\n\n"
+                          },
+                          "duration": {
+                            "value": "04:00"
+                          },
+                          "link": {
+                            "id": "831f5a57-55c0-554e-a386-cc85be176b23",
+                            "url": "/rolex-mentor-protege/film/the-illusionists",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Alfonso Cuarón & Chaitanya Tamhane - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Mexican director Alfonso Cuarón’s latest film is shrouded in mystery, yet he is happy to share its secrets with protégé Chaitanya Tamhane."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "4min 47s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Alfonso Cuarón & Chaitanya Tamhane - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": "Mexican director Alfonso Cuarón’s latest film is shrouded in mystery, yet he is happy to share its secrets with protégé Chaitanya Tamhane."
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": "1600"
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "The illusionists - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2016-2017/alfonso-cuaron_chaitanya-tamhane/the-illusionists_video_0001.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "a62c0eb6-8016-4580-9aea-82a97ddf3e45",
+                        "fields": {
+                          "date": {
+                            "value": "December 7, 2015"
+                          },
+                          "title": {
+                            "value": "Alejandro G. Iñárritu and Tom Shoval\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2014-2015/alejandro-g-inarritu-and-tom-shoval/alejandro-g-inarritu-and-tom-shoval_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "Young Israeli director Tom Shoval’s year of mentoring evolved with the excitement worthy of a Hollywood film script. Shoval spent weeks on the set of Alejandro G. Iñárritu’s film <i>The Revenant</i> with the Oscar winner revealing all the “infinite possibilities” of film-making.\n\n"
+                          },
+                          "duration": {
+                            "value": "03:14"
+                          },
+                          "link": {
+                            "id": "768c6ba0-d8a9-5149-988d-170baa1fb557",
+                            "url": "/rolex-mentor-protege/film/like-a-hollywood-script",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Like a Hollywood script - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "In a highly eventful mentoring year, protégé Tom Shoval was invited to watch post-production work on Alejandro G. Iñárritu’s masterpiece, <i>Birdman</i>, and was present when his mentor received three Academy Awards for his film at the 2015 Oscars."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "5min 45s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2014-2015/like-a-hollywood-script/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Like a Hollywood script - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Like a Hollywood script - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2014-2015/like-a-hollywood-script/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2014-2015/alejandro-g-inarritu-and-tom-shoval/inarritu_tom_shoval_cover_desktop.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "d7a203d0-6325-4d33-ba3c-06d79a9dce51",
+                        "fields": {
+                          "date": {
+                            "value": "May 28, 2015"
+                          },
+                          "title": {
+                            "value": "Walter Murch and Sara Fgaier\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2012-2013/walter-murch-and-sara-fgaier/walter-murch-and-sara-fgaier_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "What does a film editor do? Walter Murch, editor of many iconic films, and his protégée, Italian film editor Sara Fgaier, provide succinct descriptions of the complex skill of constructing a feature film, the focus of their year-long mentorship.\n\n"
+                          },
+                          "duration": {
+                            "value": "02:59"
+                          },
+                          "link": {
+                            "id": "2fdf2d90-4514-5153-b513-84606fff8ce7",
+                            "url": "/rolex-mentor-protege/film/alchemy-in-the-editing-room",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Alchemy in the editing room - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "The mentoring year allowed Sara Fgaier, who teaches film editing, to observe and work with Walter Murch as he made the final edits of a new documentary, Particle Fever."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "6min 19s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2012-2013/alchemy-in-the-editing-room/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Alchemy in the editing room - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Alchemy in the editing room - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2012-2013/alchemy-in-the-editing-room/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2012-2013/walter-murch-and-sara-fgaier/walter_murch_sara_fgaier_cover_desktop.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "ca7bc942-f1d7-4cce-bbd3-26b2bb72465d",
+                        "fields": {
+                          "date": {
+                            "value": "May 28, 2015"
+                          },
+                          "title": {
+                            "value": "Zhang Yimou and Annemarie Jacir\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2010-2011/zhang-yimou-and-annemarie-jacir/zhang-yimou-and-annemarie-jacir_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "For Zhang Yimou, China’s creator of dazzling films, success is not about inspiration but the fruit “of hardships and efforts” as he meticulously masters every single scene. For his protégée Annemarie Jacir, working alongside him on set and in the editing room as he makes <i>The Flowers of War</i>, his supreme “visual sense” is the key to his rich and moving stories.\n\n"
+                          },
+                          "duration": {
+                            "value": "04:09"
+                          },
+                          "link": {
+                            "id": "1e440181-9458-58ee-a89c-b306fb9e87c3",
+                            "url": "/rolex-mentor-protege/film/the-art-and-the-heart-of-making-films",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "The art and heart of making films - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "The spectacular, exquisitely coloured scenes and riveting storylines created by Zhang Yimou in some of contemporary cinema’s most iconic works, including Raise the Red Lantern, To Live and Hero, have won the Chinese director an unparalleled global audience, going far beyond the normal fan base for “foreign films”."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "2min 9s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2010-2011/the-art-and-the-heart-of-making-films/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "The art and heart of making films - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "The art and heart of making films - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2010-2011/the-art-and-the-heart-of-making-films/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2010-2011/zhang-yimou-and-annemarie-jacir/zhang_yimou_annemarie_jacir_cover_desktop.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "cec50289-d80f-42c2-9b75-c63f739fad17",
+                        "fields": {
+                          "date": {
+                            "value": "May 28, 2015"
+                          },
+                          "title": {
+                            "value": "Martin Scorsese and Celina Murga\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2008-2009/martin-scorsese-and-celina-murga/martin-scorsese-and-celina-murga_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "For American master of cinema Martin Scorsese, to be a good film director, you need to become part of the world you are filming. His protégée, Argentinean director Celina Murga, does so with passion, he declares, describing her as a natural film-maker. The admiration is mutual. “Marty’s the perfect mentor,” says Murga.\n\n"
+                          },
+                          "duration": {
+                            "value": "04:50"
+                          },
+                          "link": {
+                            "id": "c7272d67-7515-5d21-9e66-38b35ef0ef87",
+                            "url": "/rolex-mentor-protege/film/shared-lenses",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "Shared lenses - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "On a mellow summer afternoon, Celina Murga sits under a vast, old tree on the grounds of a derelict 19th-century insane asylum outside Medfield, Massachusetts."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "3min 16s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "Shared lenses - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "Shared lenses - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/shared-lenses/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2008-2009/martin-scorsese-and-celina-murga/martin_scorsese_celina_murga_cover_desktop.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "caf218b1-aa92-4428-a533-aa8cc6b2f889",
+                        "fields": {
+                          "date": {
+                            "value": "May 28, 2015"
+                          },
+                          "title": {
+                            "value": "Stephen Frears and Josué Méndez\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2006-2007/stephen-frears-and-josue-mendez/stephen-frears-and-josue-mendez_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "“For a Peruvian to work with [Stephen] Frears, it’s just not possible”, says young Lima film-maker Josué Méndez of the respected British director. But that’s exactly what happens when Frears chooses Mendez as his protégé and they share the “very precise art” of film-making, with Mendez directing his second full-length feature.\n\n"
+                          },
+                          "duration": {
+                            "value": "04:38"
+                          },
+                          "link": {
+                            "id": "e3310a1b-bcac-57ef-9257-18e0679dafa7",
+                            "url": "/rolex-mentor-protege/film/a-year-of-mentoring",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "A year of mentoring - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "During the year of mentoring, Méndez shot his feature film <I>Dioses</I> with the guidance of Stephen Frears. While they initially met in Lima, the real discussions between mentor and protégé began on a trip to the long-lost, mountain-top, Inca city of Machu Picchu – an hour by plane plus four hours by bus from the capital."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "2min 35s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2006-2007/a-year-of-mentoring/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "A year of mentoring - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "A year of mentoring - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2006-2007/a-year-of-mentoring/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2006-2007/stephen-frears-and-josue-mendez/stephen_frears_josue_mendez_cover_desktop.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "8c30a091-7c82-4e36-a815-baf900051630",
+                        "fields": {
+                          "date": {
+                            "value": "May 28, 2015"
+                          },
+                          "title": {
+                            "value": "Mira Nair and Aditya Assarat\n"
+                          },
+                          "video": {
+                            "value": "/data/media/video/rolex-mentor-protege/film/2004-2005/mira-nair-and-aditya-assarat/mira-nair-and-aditya-assarat_video_0001.mp4"
+                          },
+                          "description": {
+                            "value": "When Thai film-maker Aditya Assarat shadows his mentor, Mira Nair, on set as she directs <i>The Namesake</i> in Kolkata, India, he discovers some of the secrets of her lavish cinematography. “She’s like the host of a party. That goes a lot towards holding the film crew together.” Nair describes it differently: “It’s about orchestrating chaos,” she says.\n\n"
+                          },
+                          "duration": {
+                            "value": "04:59"
+                          },
+                          "link": {
+                            "id": "ecb0f31b-99f5-5954-a6e5-80ca328311e2",
+                            "url": "/rolex-mentor-protege/film/on-location",
+                            "fields": {
+                              "pageClass": {
+                                "value": ""
+                              },
+                              "excludeFromSearch": {
+                                "value": false
+                              },
+                              "pageSiteSubSection": {
+                                "value": "film"
+                              },
+                              "pageThumbnail_alt": {
+                                "value": ""
+                              },
+                              "pageTitle": {
+                                "value": "On location - Rolex mentoring programme"
+                              },
+                              "editorChoice": {
+                                "value": false
+                              },
+                              "menuType": {
+                                "value": false
+                              },
+                              "pageCaption": {
+                                "value": "Signing on for the Rolex mentoring programme, Mira Nair let it be known just what sort of young partner she wanted: “Find me a girl from Karballah!” Yet Nair chose a boy, or rather, a young man, from Thailand: Aditya Assarat, 33."
+                              },
+                              "Video": {
+                                "value": false
+                              },
+                              "displayInGrid": {
+                                "value": true
+                              },
+                              "duration": {
+                                "value": "1min 53s"
+                              },
+                              "isHub": {
+                                "value": false
+                              },
+                              "pageThumbnail_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/thumbnail.jpg"
+                              },
+                              "pageVersion": {
+                                "value": ""
+                              },
+                              "Slideshow": {
+                                "value": false
+                              },
+                              "pageType": {
+                                "id": "829882cc-89b4-42ab-b62b-f2e3d577212a",
+                                "url": "/Content/PageType/article-page",
+                                "fields": {
+                                  "name": {
+                                    "value": ""
+                                  }
+                                }
+                              },
+                              "WaPageTitle": {
+                                "value": "On location - Rolex mentoring programme"
+                              },
+                              "metadescription": {
+                                "value": ""
+                              },
+                              "backgroundImage": {
+                                "value": ""
+                              },
+                              "backgroundImageMobile": {
+                                "value": ""
+                              },
+                              "backgroundColor": {
+                                "value": ""
+                              },
+                              "pageSiteSection": {
+                                "value": "rolex-mentor-protege"
+                              },
+                              "tag5": null,
+                              "tag5_ranking": {
+                                "value": ""
+                              },
+                              "hub": {
+                                "id": "394051ff-bb22-583b-b0a0-7caa7c32000e",
+                                "url": "/Content/Hub/rolex-mentor-protege",
+                                "fields": {
+                                  "name": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "rolex-mentor-protege"
+                                  },
+                                  "url": {
+                                    "value": "rolex-mentor-protege"
+                                  }
+                                }
+                              },
+                              "tag1": {
+                                "id": "ef8ad7b9-d89b-5d2f-b2c2-82b8500fbec5",
+                                "url": "/Content/Category/Film",
+                                "fields": {
+                                  "name": {
+                                    "value": "Film"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "film"
+                                  }
+                                }
+                              },
+                              "tag1_ranking": {
+                                "value": "1600"
+                              },
+                              "tag2": null,
+                              "tag2_ranking": {
+                                "value": ""
+                              },
+                              "tag3": null,
+                              "tag4_ranking": {
+                                "value": ""
+                              },
+                              "tag3_ranking": {
+                                "value": ""
+                              },
+                              "tag4": null,
+                              "hub2": {
+                                "id": "1b35edcd-f667-5a22-a621-8663f6b9dfa3",
+                                "url": "/Content/Hub/arts",
+                                "fields": {
+                                  "name": {
+                                    "value": "arts"
+                                  },
+                                  "dictionaryKey": {
+                                    "value": "all-arts"
+                                  },
+                                  "url": {
+                                    "value": "arts"
+                                  }
+                                }
+                              },
+                              "tag_video": null,
+                              "hub_minisite": null,
+                              "video_timeToWatch": {
+                                "value": ""
+                              },
+                              "previewTitle": {
+                                "value": "On location - Rolex mentoring programme"
+                              },
+                              "previewImage_src": {
+                                "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/on-location/thumbnail.jpg"
+                              },
+                              "previewImageCustom_src": {
+                                "value": ""
+                              },
+                              "previewCategory": {
+                                "value": "Film"
+                              },
+                              "isLink": {
+                                "value": true
+                              },
+                              "customLink": {
+                                "value": ""
+                              },
+                              "isReplay": {
+                                "value": false
+                              },
+                              "isYoutubeStreaming": {
+                                "value": false
+                              },
+                              "gridExternalLinkLabel": {
+                                "value": ""
+                              },
+                              "gridExternalLinkUrl": {
+                                "value": ""
+                              },
+                              "gridExternalLinkWaName": {
+                                "value": ""
+                              }
+                            }
+                          },
+                          "posterframe": {
+                            "value": "/data/media/img/rolex-mentor-protege/film/2004-2005/mira-nair-and-aditya-assarat/mira_nair_aditya_assarat_cover_desktop.jpg"
+                          }
+                        }
+                      }
+                    ],
+                    "backgroundColor": {
+                      "value": "black"
+                    }
+                  }
+                },
+                {
+                  "uid": "c44e8e1f-9f9f-41c9-9e21-491773d9bca5",
+                  "componentName": "VideoPushSlideshow",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "videoPushList": [
+                      {
+                        "uid": "e20dd755-d46c-40eb-bac4-874a7734e3c4",
+                        "componentName": "VideoPushSlide",
+                        "dataSource": "{6076F489-44F8-401F-8FEC-05954FEF177D}",
+                        "params": {},
+                        "fields": {
+                          "description": {
+                            "value": ""
+                          },
+                          "desktopVideoBackground": {
+                            "value": "/data/media/video/home/slideshow/cinema/rolex-cinema-2022-push-dotcom-cover.mp4"
+                          },
+                          "desktopVideoPoster": {
+                            "value": "/data/media/video/home/slideshow/cinema/rolex-cinema-2022-push-dotcom-cover-posterframe.jpg"
+                          },
+                          "mobileVideoBackground": {
+                            "value": "/data/media/video/home/slideshow/cinema/rolex-cinema-2022-push-dotcom-cover_portrait.mp4"
+                          },
+                          "ctaExternalUrl": {
+                            "value": "https://www.rolex.com/perpetual-initiatives/perpetual-arts/rolex-and-cinema"
+                          },
+                          "ctaLabel": {
+                            "value": "Rolex.com"
+                          },
+                          "ctaUrl": {
+                            "value": ""
+                          },
+                          "mobileVideoPoster": {
+                            "value": "/data/media/video/home/slideshow/cinema/rolex-cinema-2022-push-dotcom-cover-posterframe_portrait.jpg"
+                          },
+                          "suptitle": {
+                            "value": "ROLEX AND CINEMA"
+                          },
+                          "title": {
+                            "value": "A MOVEMENT PERPETUALLY REINVENTED"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "uid": "0da17ced-c0cb-43e8-9f1b-9fa12a0718fe",
+                  "componentName": "Sharing",
+                  "dataSource": "{CCE08866-0248-446C-B47A-CBF2AC79E281}",
+                  "params": {},
+                  "fields": {
+                    "version": {
+                      "value": ""
+                    },
+                    "context": {
+                      "value": "page-bottom"
+                    },
+                    "displayLabel": {
+                      "value": true
+                    },
+                    "url": {
+                      "value": ""
+                    }
+                  }
+                }
+              ],
+              "jss-header": [
+                {
+                  "uid": "53982495-516e-41e8-a4c3-65d754fc7ff2",
+                  "componentName": "RolexMenuV2",
+                  "dataSource": "",
+                  "params": {},
+                  "placeholders": {
+                    "jss-roller-cards": [
+                      {
+                        "uid": "2c05b752-7492-46b0-8a4f-2065671bd219",
+                        "componentName": "RollerGridLists",
+                        "dataSource": "{FD0A956F-6F9A-412A-A5EE-9E4458CB6027}",
+                        "params": {
+                          "rollerIsMainMenu": "true"
+                        },
+                        "fields": {
+                          "data": {
+                            "datasource": {
+                              "id": "FD0A956F6F9A412AA5EE9E4458CB6027",
+                              "name": "RollerGridLists-Menu",
+                              "url": "/en/Components/RollerGridLists/RollerGridLists-Menu",
+                              "rollerCardItem": {
+                                "value": "{8ACA0347-77BD-49FC-A352-813BB9DE63B5}|{067A57C0-2A11-4D63-AF34-81520A578D4F}|{FA683049-E158-4A5D-9973-CF5CE0D33AA7}|{4F637AC2-2EEF-52CC-A783-13698334026A}|{D9D05BE1-2BED-4148-9E5A-2D594AC08A5E}",
+                                "targetItems": [
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-great-spine-of-africa",
+                                    "id": "8ACA034777BD49FCA352813BB9DE63B5",
+                                    "name": "steve-boyes-great-spine-of-africa",
+                                    "category": {
+                                      "value": "Exploration"
+                                    },
+                                    "title": {
+                                      "value": "Protecting our water"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-great-spine-of-africa/rolex-org-perpetual-planet-steve-boyes-protecting-our-water-thumbnail-article-ppi_rolex_boyes_2507amu_0075_v2_rgb.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-cassai-river-expedition",
+                                    "id": "067A57C02A114D63AF3481520A578D4F",
+                                    "name": "steve-boyes-cassai-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The Cassai River"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-cassai-river-expedition/perpetual-planet-steve-boyes-cassai-river-expedition-thumbnail-article-jms7407.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition",
+                                    "id": "FA683049E1584A5D9973CF5CE0D33AA7",
+                                    "name": "steve-boyes-lungwevungu-river-expedition",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The mighty Zambezi River and its secrets"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/steve-boyes-lungwevungu-river-expedition/rolex-org-environment-steve-boyes-the-mighty-zambezi-river-and-its-secrets-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/okavango-explorer-of-the-year-2019",
+                                    "id": "4F637AC22EEF52CCA78313698334026A",
+                                    "name": "okavango-explorer-of-the-year-2019",
+                                    "category": {
+                                      "value": "Environment"
+                                    },
+                                    "title": {
+                                      "value": "The 2019 Rolex National Geographic Explorers of the Year - The Okavango Wilderness Project Team"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/perpetual-planet/okavango-explorer-of-the-year-2019/thumbnail.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  },
+                                  {
+                                    "url": "/en/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024",
+                                    "id": "D9D05BE12BED41489E5A2D594AC08A5E",
+                                    "name": "fernando-trujillo-explorer-of-the-year-2024",
+                                    "category": {
+                                      "value": "Environment "
+                                    },
+                                    "title": {
+                                      "value": "Fernando Trujillo: For the love of river dolphins"
+                                    },
+                                    "previewImage_src": {
+                                      "value": "/data/media/img/environment/perpetual-planet/fernando-trujillo-explorer-of-the-year-2024/rolex-org-environment-fernando-trujillo-explorer-of-the-year-2024-thumbnail-article.jpg"
+                                    },
+                                    "previewImageCustom_src": {
+                                      "value": ""
+                                    },
+                                    "isLink": {
+                                      "value": "1"
+                                    },
+                                    "customLink": {
+                                      "value": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "APOLLO_STATE": {},
+  "config": {
+    "sitecoreApiKey": "809331BB-4AAC-4B95-88AF-8D2F5B522D3C",
+    "sitecoreApiHost": "",
+    "jssAppName": "rolex-org",
+    "defaultLanguage": "en",
+    "sitecoreRolexApiHost": "",
+    "dbmScript": "//assets.adobedtm.com/7e3b3fa0902e/dd73f31fa358/launch-f98e51ffebe6.min.js",
+    "mediaHost": "https://images.rolex.org",
+    "subtitleHost": "/-/media/rolex-org/",
+    "publicURL": "/dist/rolex-org/",
+    "graphQLEndpoint": "/api/rolex-org?sc_apikey={809331BB-4AAC-4B95-88AF-8D2F5B522D3C}",
+    "graphQLEndpointPath": "/api/rolex-org",
+    "graphQLDatabaseEndpoint": "/sitecore/api/graph/items/master?"
+  }
+}
